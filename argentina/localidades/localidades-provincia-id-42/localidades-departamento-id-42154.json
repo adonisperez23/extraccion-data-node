@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.1218223497211,
+        "lon": -64.5151767302443
+      },
+      "departamento": {
+        "id": "42154",
+        "nombre": "Utracán"
+      },
+      "id": "42154050",
+      "localidad_censal": {
+        "id": "42154050",
+        "nombre": "Quehué"
+      },
+      "municipio": {
+        "id": "420294",
+        "nombre": "Quehué"
+      },
+      "nombre": "Quehué",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.0318092184739,
+        "lon": -64.2853395982042
+      },
+      "departamento": {
+        "id": "42154",
+        "nombre": "Utracán"
+      },
+      "id": "42154010",
+      "localidad_censal": {
+        "id": "42154010",
+        "nombre": "Ataliva Roca"
+      },
+      "municipio": {
+        "id": "420042",
+        "nombre": "Ataliva Roca"
+      },
+      "nombre": "Ataliva Roca",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.3320425414131,
+        "lon": -65.6516236582345
+      },
+      "departamento": {
+        "id": "42154",
+        "nombre": "Utracán"
+      },
+      "id": "42154020",
+      "localidad_censal": {
+        "id": "42154020",
+        "nombre": "Chacharramendi"
+      },
+      "municipio": {
+        "id": "425049",
+        "nombre": "Chacharramendi"
+      },
+      "nombre": "Chacharramendi",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.4947906576689,
+        "lon": -64.2241167586505
+      },
+      "departamento": {
+        "id": "42154",
+        "nombre": "Utracán"
+      },
+      "id": "42154030",
+      "localidad_censal": {
+        "id": "42154030",
+        "nombre": "Colonia Santa María"
+      },
+      "municipio": {
+        "id": "425028",
+        "nombre": "Colonia Santa María"
+      },
+      "nombre": "Colonia Santa María",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.3782127768943,
+        "lon": -64.6042187341506
+      },
+      "departamento": {
+        "id": "42154",
+        "nombre": "Utracán"
+      },
+      "id": "42154040",
+      "localidad_censal": {
+        "id": "42154040",
+        "nombre": "General Acha"
+      },
+      "municipio": {
+        "id": "420133",
+        "nombre": "General Acha"
+      },
+      "nombre": "General Acha",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.5441522761958,
+        "lon": -64.3512561221003
+      },
+      "departamento": {
+        "id": "42154",
+        "nombre": "Utracán"
+      },
+      "id": "42154060",
+      "localidad_censal": {
+        "id": "42154060",
+        "nombre": "Unanué"
+      },
+      "municipio": {
+        "id": "425154",
+        "nombre": "Unanué"
+      },
+      "nombre": "Unanué",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42154"
+    ]
+  },
+  "total": 6
+}

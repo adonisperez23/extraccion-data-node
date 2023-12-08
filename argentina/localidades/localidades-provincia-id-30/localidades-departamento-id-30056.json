@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6251747263965,
+        "lon": -58.7044236395354
+      },
+      "departamento": {
+        "id": "30056",
+        "nombre": "Gualeguaychú"
+      },
+      "id": "30056010",
+      "localidad_censal": {
+        "id": "30056010",
+        "nombre": "Aldea San Antonio"
+      },
+      "municipio": {
+        "id": "300182",
+        "nombre": "Aldea San Antonio"
+      },
+      "nombre": "Aldea San Antonio",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6959583134931,
+        "lon": -58.7717519658529
+      },
+      "departamento": {
+        "id": "30056",
+        "nombre": "Gualeguaychú"
+      },
+      "id": "30056020",
+      "localidad_censal": {
+        "id": "30056020",
+        "nombre": "Aldea San Juan"
+      },
+      "municipio": {
+        "id": "302453",
+        "nombre": "Aldea San Juan"
+      },
+      "nombre": "Aldea San Juan",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1454610724344,
+        "lon": -59.20805582252
+      },
+      "departamento": {
+        "id": "30056",
+        "nombre": "Gualeguaychú"
+      },
+      "id": "30056030",
+      "localidad_censal": {
+        "id": "30056030",
+        "nombre": "Enrique Carbó"
+      },
+      "municipio": {
+        "id": "300184",
+        "nombre": "Enrique Carbó"
+      },
+      "nombre": "Enrique Carbó",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.5921302043254,
+        "lon": -58.9059282838468
+      },
+      "departamento": {
+        "id": "30056",
+        "nombre": "Gualeguaychú"
+      },
+      "id": "30056035",
+      "localidad_censal": {
+        "id": "30056035",
+        "nombre": "Estación Escriña"
+      },
+      "municipio": {
+        "id": "309355",
+        "nombre": "Estación Escriña"
+      },
+      "nombre": "Estación Escriña",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.804430236216,
+        "lon": -58.8826336786977
+      },
+      "departamento": {
+        "id": "30056",
+        "nombre": "Gualeguaychú"
+      },
+      "id": "30056040",
+      "localidad_censal": {
+        "id": "30056040",
+        "nombre": "Estación Parera"
+      },
+      "municipio": {
+        "id": "302512",
+        "nombre": "Estación Parera"
+      },
+      "nombre": "Faustino M. Parera",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.8373889903269,
+        "lon": -58.8026489744221
+      },
+      "departamento": {
+        "id": "30056",
+        "nombre": "Gualeguaychú"
+      },
+      "id": "30056050",
+      "localidad_censal": {
+        "id": "30056050",
+        "nombre": "General Almada"
+      },
+      "municipio": {
+        "id": "309365",
+        "nombre": "General Almada"
+      },
+      "nombre": "General Almada",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.5358321663809,
+        "lon": -58.9340099890289
+      },
+      "departamento": {
+        "id": "30056",
+        "nombre": "Gualeguaychú"
+      },
+      "id": "30056060",
+      "localidad_censal": {
+        "id": "30056060",
+        "nombre": "Gilbert"
+      },
+      "municipio": {
+        "id": "300185",
+        "nombre": "Gilbert"
+      },
+      "nombre": "Gilbert",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -33.0077976973495,
+        "lon": -58.5107700863228
+      },
+      "departamento": {
+        "id": "30056",
+        "nombre": "Gualeguaychú"
+      },
+      "id": "30056070",
+      "localidad_censal": {
+        "id": "30056070",
+        "nombre": "Gualeguaychú"
+      },
+      "municipio": {
+        "id": "300189",
+        "nombre": "San José de Gualeguaychú"
+      },
+      "nombre": "Gualeguaychú",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.9258653202157,
+        "lon": -58.9496485138064
+      },
+      "departamento": {
+        "id": "30056",
+        "nombre": "Gualeguaychú"
+      },
+      "id": "30056080",
+      "localidad_censal": {
+        "id": "30056080",
+        "nombre": "Irazusta"
+      },
+      "municipio": {
+        "id": "302526",
+        "nombre": "Irazusta"
+      },
+      "nombre": "Irazusta",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0365215310336,
+        "lon": -58.9990862025396
+      },
+      "departamento": {
+        "id": "30056",
+        "nombre": "Gualeguaychú"
+      },
+      "id": "30056090",
+      "localidad_censal": {
+        "id": "30056090",
+        "nombre": "Larroque"
+      },
+      "municipio": {
+        "id": "300196",
+        "nombre": "Larroque"
+      },
+      "nombre": "Larroque",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "30056"
+    ]
+  },
+  "total": 13
+}

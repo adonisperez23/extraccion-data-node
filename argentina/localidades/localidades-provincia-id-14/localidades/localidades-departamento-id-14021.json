@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.3365282658298,
+        "lon": -64.3371664162772
+      },
+      "departamento": {
+        "id": "14021",
+        "nombre": "Colón"
+      },
+      "id": "1402115001",
+      "localidad_censal": {
+        "id": "14021150",
+        "nombre": "La Calera"
+      },
+      "municipio": {
+        "id": "140119",
+        "nombre": "La Calera"
+      },
+      "nombre": "Dumesnil",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.3503560189278,
+        "lon": -64.3379432970611
+      },
+      "departamento": {
+        "id": "14021",
+        "nombre": "Colón"
+      },
+      "id": "1402115002",
+      "localidad_censal": {
+        "id": "14021150",
+        "nombre": "La Calera"
+      },
+      "municipio": {
+        "id": "140119",
+        "nombre": "La Calera"
+      },
+      "nombre": "La Calera",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.351083671148,
+        "lon": -64.3653214047373
+      },
+      "departamento": {
+        "id": "14021",
+        "nombre": "Colón"
+      },
+      "id": "1402115003",
+      "localidad_censal": {
+        "id": "14021150",
+        "nombre": "La Calera"
+      },
+      "municipio": {
+        "id": "140119",
+        "nombre": "La Calera"
+      },
+      "nombre": "El Diquecito",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.1061995831956,
+        "lon": -64.292290098635
+      },
+      "departamento": {
+        "id": "14021",
+        "nombre": "Colón"
+      },
+      "id": "1402125001",
+      "localidad_censal": {
+        "id": "14021250",
+        "nombre": "Salsipuedes"
+      },
+      "municipio": {
+        "id": "140161",
+        "nombre": "Salsipuedes"
+      },
+      "nombre": "El Pueblito",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.13788084948,
+        "lon": -64.2927724360505
+      },
+      "departamento": {
+        "id": "14021",
+        "nombre": "Colón"
+      },
+      "id": "1402125002",
+      "localidad_censal": {
+        "id": "14021250",
+        "nombre": "Salsipuedes"
+      },
+      "municipio": {
+        "id": "140161",
+        "nombre": "Salsipuedes"
+      },
+      "nombre": "Salsipuedes",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.3077339671772,
+        "lon": -64.1754423747112
+      },
+      "departamento": {
+        "id": "14021",
+        "nombre": "Colón"
+      },
+      "id": "1402131001",
+      "localidad_censal": {
+        "id": "14021310",
+        "nombre": "Parque Norte - Guinazu Norte"
+      },
+      "municipio": {
+        "id": "140105",
+        "nombre": "Estación Juárez Celman"
+      },
+      "nombre": "Guiñazú Norte",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.3004990166318,
+        "lon": -64.1769624238092
+      },
+      "departamento": {
+        "id": "14021",
+        "nombre": "Colón"
+      },
+      "id": "1402131002",
+      "localidad_censal": {
+        "id": "14021310",
+        "nombre": "Parque Norte - Guinazu Norte"
+      },
+      "municipio": {
+        "id": "140105",
+        "nombre": "Estación Juárez Celman"
+      },
+      "nombre": "Parque Norte",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.307806181231,
+        "lon": -64.1781444460259
+      },
+      "departamento": {
+        "id": "14021",
+        "nombre": "Colón"
+      },
+      "id": "1402131004",
+      "localidad_censal": {
+        "id": "14021310",
+        "nombre": "Parque Norte - Guinazu Norte"
+      },
+      "municipio": {
+        "id": "140105",
+        "nombre": "Estación Juárez Celman"
+      },
+      "nombre": "1° de Agosto",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.3074897144828,
+        "lon": -64.182727841378
+      },
+      "departamento": {
+        "id": "14021",
+        "nombre": "Colón"
+      },
+      "id": "1402131005",
+      "localidad_censal": {
+        "id": "14021310",
+        "nombre": "Parque Norte - Guinazu Norte"
+      },
+      "municipio": {
+        "id": "140105",
+        "nombre": "Estación Juárez Celman"
+      },
+      "nombre": "Allmirante Brown",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.2957499892587,
+        "lon": -64.1773285131189
+      },
+      "departamento": {
+        "id": "14021",
+        "nombre": "Colón"
+      },
+      "id": "1402131006",
+      "localidad_censal": {
+        "id": "14021310",
+        "nombre": "Parque Norte - Guinazu Norte"
+      },
+      "municipio": {
+        "id": "140105",
+        "nombre": "Estación Juárez Celman"
+      },
+      "nombre": "Ciudad de los Niños",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14021"
+    ]
+  },
+  "total": 37
+}

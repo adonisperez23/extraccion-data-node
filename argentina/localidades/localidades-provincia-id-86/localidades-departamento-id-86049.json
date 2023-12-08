@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9093179145407,
+        "lon": -64.230309872918
+      },
+      "departamento": {
+        "id": "86049",
+        "nombre": "Capital"
+      },
+      "id": "86049130",
+      "localidad_censal": {
+        "id": "86049130",
+        "nombre": "Yanda"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Yanda",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.6761491649298,
+        "lon": -64.3653850950791
+      },
+      "departamento": {
+        "id": "86049",
+        "nombre": "Capital"
+      },
+      "id": "86049070",
+      "localidad_censal": {
+        "id": "86049070",
+        "nombre": "Morales"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Morales",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.6630844208093,
+        "lon": -64.3785938772565
+      },
+      "departamento": {
+        "id": "86049",
+        "nombre": "Capital"
+      },
+      "id": "86049080",
+      "localidad_censal": {
+        "id": "86049080",
+        "nombre": "Puesto de San Antonio"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Puesto de San Antonio",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9490887999991,
+        "lon": -64.2189999999978
+      },
+      "departamento": {
+        "id": "86049",
+        "nombre": "Capital"
+      },
+      "id": "86049100",
+      "localidad_censal": {
+        "id": "86049100",
+        "nombre": "Santa Marí­a"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Santa María",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.7146470173219,
+        "lon": -64.3312874582585
+      },
+      "departamento": {
+        "id": "86049",
+        "nombre": "Capital"
+      },
+      "id": "86049010",
+      "localidad_censal": {
+        "id": "86049010",
+        "nombre": "El Deán"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Deán",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9936232941296,
+        "lon": -64.2081007218688
+      },
+      "departamento": {
+        "id": "86049",
+        "nombre": "Capital"
+      },
+      "id": "86049020",
+      "localidad_censal": {
+        "id": "86049020",
+        "nombre": "El Mojón"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Mojón",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.8828596530832,
+        "lon": -64.2088186978092
+      },
+      "departamento": {
+        "id": "86049",
+        "nombre": "Capital"
+      },
+      "id": "86049060",
+      "localidad_censal": {
+        "id": "86049060",
+        "nombre": "Maquito"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Maquito",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.912416629768,
+        "lon": -64.1981267807556
+      },
+      "departamento": {
+        "id": "86049",
+        "nombre": "Capital"
+      },
+      "id": "86049040",
+      "localidad_censal": {
+        "id": "86049040",
+        "nombre": "Los Cardozos"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Los Cardozos",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9462150522154,
+        "lon": -64.1640054573006
+      },
+      "departamento": {
+        "id": "86049",
+        "nombre": "Capital"
+      },
+      "id": "86049090",
+      "localidad_censal": {
+        "id": "86049090",
+        "nombre": "San Pedro"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "San Pedro",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.8702632502969,
+        "lon": -64.216593203346
+      },
+      "departamento": {
+        "id": "86049",
+        "nombre": "Capital"
+      },
+      "id": "86049050",
+      "localidad_censal": {
+        "id": "86049050",
+        "nombre": "Maco"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Maco",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86049"
+    ]
+  },
+  "total": 13
+}

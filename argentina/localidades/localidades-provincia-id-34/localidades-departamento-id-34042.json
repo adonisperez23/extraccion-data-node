@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.0715004091766,
+        "lon": -58.3855286020002
+      },
+      "departamento": {
+        "id": "34042",
+        "nombre": "Pilagás"
+      },
+      "id": "34042010",
+      "localidad_censal": {
+        "id": "34042010",
+        "nombre": "Buena Vista"
+      },
+      "municipio": {
+        "id": "345056",
+        "nombre": "Buena Vista"
+      },
+      "nombre": "Buena Vista",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.9814828527301,
+        "lon": -58.5525615910834
+      },
+      "departamento": {
+        "id": "34042",
+        "nombre": "Pilagás"
+      },
+      "id": "34042020",
+      "localidad_censal": {
+        "id": "34042020",
+        "nombre": "El Espinillo"
+      },
+      "municipio": {
+        "id": "340168",
+        "nombre": "El Espinillo"
+      },
+      "nombre": "El Espinillo",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.2690857147191,
+        "lon": -58.7423200868337
+      },
+      "departamento": {
+        "id": "34042",
+        "nombre": "Pilagás"
+      },
+      "id": "34042030",
+      "localidad_censal": {
+        "id": "34042030",
+        "nombre": "Laguna Gallo"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Laguna Gallo",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.9809999913067,
+        "lon": -58.8199343893714
+      },
+      "departamento": {
+        "id": "34042",
+        "nombre": "Pilagás"
+      },
+      "id": "34042040",
+      "localidad_censal": {
+        "id": "34042040",
+        "nombre": "Misión Tacaaglé"
+      },
+      "municipio": {
+        "id": "340175",
+        "nombre": "Misión Tacaaglé"
+      },
+      "nombre": "Misión Tacaaglé",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.9660914654583,
+        "lon": -58.74254618393
+      },
+      "departamento": {
+        "id": "34042",
+        "nombre": "Pilagás"
+      },
+      "id": "34042050",
+      "localidad_censal": {
+        "id": "34042050",
+        "nombre": "Portón Negro"
+      },
+      "municipio": {
+        "id": "349105",
+        "nombre": "Portón Negro"
+      },
+      "nombre": "Portón Negro",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.2161240368421,
+        "lon": -58.513078609131
+      },
+      "departamento": {
+        "id": "34042",
+        "nombre": "Pilagás"
+      },
+      "id": "34042060",
+      "localidad_censal": {
+        "id": "34042060",
+        "nombre": "Tres Lagunas"
+      },
+      "municipio": {
+        "id": "345063",
+        "nombre": "Tres Lagunas"
+      },
+      "nombre": "Tres Lagunas",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "34042"
+    ]
+  },
+  "total": 6
+}

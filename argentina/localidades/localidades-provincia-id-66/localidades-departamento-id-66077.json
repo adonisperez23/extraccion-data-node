@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -24.6964753845552,
+        "lon": -65.4106198661674
+      },
+      "departamento": {
+        "id": "66077",
+        "nombre": "La Caldera"
+      },
+      "id": "66077020",
+      "localidad_censal": {
+        "id": "66077020",
+        "nombre": "Vaqueros"
+      },
+      "municipio": {
+        "id": "660196",
+        "nombre": "Vaqueros"
+      },
+      "nombre": "Vaqueros",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.602693751737,
+        "lon": -65.3806351689508
+      },
+      "departamento": {
+        "id": "66077",
+        "nombre": "La Caldera"
+      },
+      "id": "66077010",
+      "localidad_censal": {
+        "id": "66077010",
+        "nombre": "La Caldera"
+      },
+      "municipio": {
+        "id": "660189",
+        "nombre": "La Caldera"
+      },
+      "nombre": "La Caldera",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66077"
+    ]
+  },
+  "total": 2
+}

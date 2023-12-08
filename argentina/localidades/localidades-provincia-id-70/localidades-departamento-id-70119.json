@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.5670735131846,
+        "lon": -67.542055731577
+      },
+      "departamento": {
+        "id": "70119",
+        "nombre": "Valle Fértil"
+      },
+      "id": "70119050",
+      "localidad_censal": {
+        "id": "70119050",
+        "nombre": "Usno"
+      },
+      "municipio": {
+        "id": "700119",
+        "nombre": "Valle Fértil"
+      },
+      "nombre": "Usno",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.0694161366037,
+        "lon": -67.2821112425696
+      },
+      "departamento": {
+        "id": "70119",
+        "nombre": "Valle Fértil"
+      },
+      "id": "70119030",
+      "localidad_censal": {
+        "id": "70119030",
+        "nombre": "Chucuma"
+      },
+      "municipio": {
+        "id": "700119",
+        "nombre": "Valle Fértil"
+      },
+      "nombre": "Chucuma",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.2215429692094,
+        "lon": -67.6953933621521
+      },
+      "departamento": {
+        "id": "70119",
+        "nombre": "Valle Fértil"
+      },
+      "id": "70119040",
+      "localidad_censal": {
+        "id": "70119040",
+        "nombre": "Los Baldecitos"
+      },
+      "municipio": {
+        "id": "700119",
+        "nombre": "Valle Fértil"
+      },
+      "nombre": "Los Baldecitos",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.6346405612632,
+        "lon": -67.4678212880051
+      },
+      "departamento": {
+        "id": "70119",
+        "nombre": "Valle Fértil"
+      },
+      "id": "70119060",
+      "localidad_censal": {
+        "id": "70119060",
+        "nombre": "Villa San Agustín"
+      },
+      "municipio": {
+        "id": "700119",
+        "nombre": "Valle Fértil"
+      },
+      "nombre": "Villa San Agustín",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.3209383675251,
+        "lon": -67.6968352320147
+      },
+      "departamento": {
+        "id": "70119",
+        "nombre": "Valle Fértil"
+      },
+      "id": "70119020",
+      "localidad_censal": {
+        "id": "70119020",
+        "nombre": "Balde del Rosario"
+      },
+      "municipio": {
+        "id": "700119",
+        "nombre": "Valle Fértil"
+      },
+      "nombre": "Balde del Rosario",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.9550561925081,
+        "lon": -67.3044747814814
+      },
+      "departamento": {
+        "id": "70119",
+        "nombre": "Valle Fértil"
+      },
+      "id": "70119010",
+      "localidad_censal": {
+        "id": "70119010",
+        "nombre": "Astica"
+      },
+      "municipio": {
+        "id": "700119",
+        "nombre": "Valle Fértil"
+      },
+      "nombre": "Astica",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "70119"
+    ]
+  },
+  "total": 6
+}

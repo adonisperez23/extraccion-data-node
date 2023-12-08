@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.416282596243,
+        "lon": -61.929234590371
+      },
+      "departamento": {
+        "id": "06351",
+        "nombre": "General Pinto"
+      },
+      "id": "06351010",
+      "localidad_censal": {
+        "id": "06351010",
+        "nombre": "Iriarte"
+      },
+      "municipio": {
+        "id": "060351",
+        "nombre": "General Pinto"
+      },
+      "nombre": "Colonia San Ricardo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.7643315774965,
+        "lon": -61.8916280748092
+      },
+      "departamento": {
+        "id": "06351",
+        "nombre": "General Pinto"
+      },
+      "id": "06351020",
+      "localidad_censal": {
+        "id": "06351020",
+        "nombre": "General Pinto"
+      },
+      "municipio": {
+        "id": "060351",
+        "nombre": "General Pinto"
+      },
+      "nombre": "General Pinto",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.5770429359056,
+        "lon": -62.0478372059771
+      },
+      "departamento": {
+        "id": "06351",
+        "nombre": "General Pinto"
+      },
+      "id": "06351030",
+      "localidad_censal": {
+        "id": "06351030",
+        "nombre": "Germania"
+      },
+      "municipio": {
+        "id": "060351",
+        "nombre": "General Pinto"
+      },
+      "nombre": "Germania",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.790121517586,
+        "lon": -62.2010232032348
+      },
+      "departamento": {
+        "id": "06351",
+        "nombre": "General Pinto"
+      },
+      "id": "06351040",
+      "localidad_censal": {
+        "id": "06351040",
+        "nombre": "Günther"
+      },
+      "municipio": {
+        "id": "060351",
+        "nombre": "General Pinto"
+      },
+      "nombre": "Villa Francia",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.5795848193084,
+        "lon": -62.1713374178959
+      },
+      "departamento": {
+        "id": "06351",
+        "nombre": "General Pinto"
+      },
+      "id": "06351050",
+      "localidad_censal": {
+        "id": "06351050",
+        "nombre": "Coronel Granada"
+      },
+      "municipio": {
+        "id": "060351",
+        "nombre": "General Pinto"
+      },
+      "nombre": "Villa Roth",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06351"
+    ]
+  },
+  "total": 5
+}

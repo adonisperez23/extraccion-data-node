@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.5052575308593,
+        "lon": -64.9921531587797
+      },
+      "departamento": {
+        "id": "74028",
+        "nombre": "Chacabuco"
+      },
+      "id": "74028020",
+      "localidad_censal": {
+        "id": "74028020",
+        "nombre": "Cortaderas"
+      },
+      "municipio": {
+        "id": "746070",
+        "nombre": "Cortaderas"
+      },
+      "nombre": "Cortaderas",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.5608764035456,
+        "lon": -65.2445473307738
+      },
+      "departamento": {
+        "id": "74028",
+        "nombre": "Chacabuco"
+      },
+      "id": "74028010",
+      "localidad_censal": {
+        "id": "74028010",
+        "nombre": "Concarán"
+      },
+      "municipio": {
+        "id": "740049",
+        "nombre": "Concarán"
+      },
+      "nombre": "Concarán",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.9152230325695,
+        "lon": -65.3759277135525
+      },
+      "departamento": {
+        "id": "74028",
+        "nombre": "Chacabuco"
+      },
+      "id": "74028030",
+      "localidad_censal": {
+        "id": "74028030",
+        "nombre": "Naschel"
+      },
+      "municipio": {
+        "id": "740056",
+        "nombre": "Naschel"
+      },
+      "nombre": "Naschel",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.731249917627,
+        "lon": -65.2913406894861
+      },
+      "departamento": {
+        "id": "74028",
+        "nombre": "Chacabuco"
+      },
+      "id": "74028070",
+      "localidad_censal": {
+        "id": "74028070",
+        "nombre": "Tilisarao"
+      },
+      "municipio": {
+        "id": "740063",
+        "nombre": "Tilisarao"
+      },
+      "nombre": "Tilisarao",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.9399546611855,
+        "lon": -65.0388803352142
+      },
+      "departamento": {
+        "id": "74028",
+        "nombre": "Chacabuco"
+      },
+      "id": "74028080",
+      "localidad_censal": {
+        "id": "74028080",
+        "nombre": "Villa del Carmen"
+      },
+      "municipio": {
+        "id": "746098",
+        "nombre": "Villa del Carmen"
+      },
+      "nombre": "Villa del Carmen",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6174440906146,
+        "lon": -64.9814612265761
+      },
+      "departamento": {
+        "id": "74028",
+        "nombre": "Chacabuco"
+      },
+      "id": "74028090",
+      "localidad_censal": {
+        "id": "74028090",
+        "nombre": "Villa Larca"
+      },
+      "municipio": {
+        "id": "746105",
+        "nombre": "Villa Larca"
+      },
+      "nombre": "Villa Larca",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6611959365656,
+        "lon": -65.3055836910467
+      },
+      "departamento": {
+        "id": "74028",
+        "nombre": "Chacabuco"
+      },
+      "id": "74028060",
+      "localidad_censal": {
+        "id": "74028060",
+        "nombre": "San Pablo"
+      },
+      "municipio": {
+        "id": "746091",
+        "nombre": "San Pablo"
+      },
+      "nombre": "San Pablo",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.7715913314716,
+        "lon": -65.3644688346809
+      },
+      "departamento": {
+        "id": "74028",
+        "nombre": "Chacabuco"
+      },
+      "id": "74028050",
+      "localidad_censal": {
+        "id": "74028050",
+        "nombre": "Renca"
+      },
+      "municipio": {
+        "id": "746084",
+        "nombre": "Renca"
+      },
+      "nombre": "Renca",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6751032105002,
+        "lon": -64.9889496777423
+      },
+      "departamento": {
+        "id": "74028",
+        "nombre": "Chacabuco"
+      },
+      "id": "74028040",
+      "localidad_censal": {
+        "id": "74028040",
+        "nombre": "Papagayos"
+      },
+      "municipio": {
+        "id": "746077",
+        "nombre": "Papagayos"
+      },
+      "nombre": "Papagayos",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "74028"
+    ]
+  },
+  "total": 9
+}

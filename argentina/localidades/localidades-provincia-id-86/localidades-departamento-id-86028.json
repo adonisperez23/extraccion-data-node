@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.3363516116472,
+        "lon": -63.339329710605
+      },
+      "departamento": {
+        "id": "86028",
+        "nombre": "Avellaneda"
+      },
+      "id": "86028040",
+      "localidad_censal": {
+        "id": "86028040",
+        "nombre": "Lugones"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Lugones",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.4829143821031,
+        "lon": -63.0662378189146
+      },
+      "departamento": {
+        "id": "86028",
+        "nombre": "Avellaneda"
+      },
+      "id": "86028020",
+      "localidad_censal": {
+        "id": "86028020",
+        "nombre": "Herrera"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Herrera",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.4826006843391,
+        "lon": -63.2760508183223
+      },
+      "departamento": {
+        "id": "86028",
+        "nombre": "Avellaneda"
+      },
+      "id": "86028060",
+      "localidad_censal": {
+        "id": "86028060",
+        "nombre": "Villa Mailín"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Villa Mailín",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.8146898753285,
+        "lon": -62.8430627391276
+      },
+      "departamento": {
+        "id": "86028",
+        "nombre": "Avellaneda"
+      },
+      "id": "86028050",
+      "localidad_censal": {
+        "id": "86028050",
+        "nombre": "Real Sayana"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Real Sayana",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6040232228037,
+        "lon": -62.9504181401517
+      },
+      "departamento": {
+        "id": "86028",
+        "nombre": "Avellaneda"
+      },
+      "id": "86028010",
+      "localidad_censal": {
+        "id": "86028010",
+        "nombre": "Colonia Dora"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Colonia Dora",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6814772838937,
+        "lon": -62.8811801112625
+      },
+      "departamento": {
+        "id": "86028",
+        "nombre": "Avellaneda"
+      },
+      "id": "86028030",
+      "localidad_censal": {
+        "id": "86028030",
+        "nombre": "Icaño"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Icaño",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86028"
+    ]
+  },
+  "total": 6
+}

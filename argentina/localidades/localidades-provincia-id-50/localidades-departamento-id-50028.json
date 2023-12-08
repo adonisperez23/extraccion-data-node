@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.8673131267475,
+        "lon": -68.779539700913
+      },
+      "departamento": {
+        "id": "50028",
+        "nombre": "Guaymallén"
+      },
+      "id": "5002802001",
+      "localidad_censal": {
+        "id": "50028020",
+        "nombre": "Guaymallén"
+      },
+      "municipio": {
+        "id": "500028",
+        "nombre": "Guaymallén"
+      },
+      "nombre": "Bermejo",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.897054054351,
+        "lon": -68.7604654025916
+      },
+      "departamento": {
+        "id": "50028",
+        "nombre": "Guaymallén"
+      },
+      "id": "5002802002",
+      "localidad_censal": {
+        "id": "50028020",
+        "nombre": "Guaymallén"
+      },
+      "municipio": {
+        "id": "500028",
+        "nombre": "Guaymallén"
+      },
+      "nombre": "Buena Nueva",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.9067890546551,
+        "lon": -68.7668004049907
+      },
+      "departamento": {
+        "id": "50028",
+        "nombre": "Guaymallén"
+      },
+      "id": "5002802003",
+      "localidad_censal": {
+        "id": "50028020",
+        "nombre": "Guaymallén"
+      },
+      "municipio": {
+        "id": "500028",
+        "nombre": "Guaymallén"
+      },
+      "nombre": "Capilla del Rosario",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.918910717642,
+        "lon": -68.8330630594375
+      },
+      "departamento": {
+        "id": "50028",
+        "nombre": "Guaymallén"
+      },
+      "id": "5002802004",
+      "localidad_censal": {
+        "id": "50028020",
+        "nombre": "Guaymallén"
+      },
+      "municipio": {
+        "id": "500028",
+        "nombre": "Guaymallén"
+      },
+      "nombre": "Dorrego",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.8728636856882,
+        "lon": -68.7537561885036
+      },
+      "departamento": {
+        "id": "50028",
+        "nombre": "Guaymallén"
+      },
+      "id": "5002802005",
+      "localidad_censal": {
+        "id": "50028020",
+        "nombre": "Guaymallén"
+      },
+      "municipio": {
+        "id": "500028",
+        "nombre": "Guaymallén"
+      },
+      "nombre": "El Sauce",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.9237921742848,
+        "lon": -68.7823137373042
+      },
+      "departamento": {
+        "id": "50028",
+        "nombre": "Guaymallén"
+      },
+      "id": "5002802007",
+      "localidad_censal": {
+        "id": "50028020",
+        "nombre": "Guaymallén"
+      },
+      "municipio": {
+        "id": "500028",
+        "nombre": "Guaymallén"
+      },
+      "nombre": "Jesús Nazareno",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.9116366013682,
+        "lon": -68.8173779760814
+      },
+      "departamento": {
+        "id": "50028",
+        "nombre": "Guaymallén"
+      },
+      "id": "5002802008",
+      "localidad_censal": {
+        "id": "50028020",
+        "nombre": "Guaymallén"
+      },
+      "municipio": {
+        "id": "500028",
+        "nombre": "Guaymallén"
+      },
+      "nombre": "Las Cañas",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.8937192468439,
+        "lon": -68.8089338793612
+      },
+      "departamento": {
+        "id": "50028",
+        "nombre": "Guaymallén"
+      },
+      "id": "5002802009",
+      "localidad_censal": {
+        "id": "50028020",
+        "nombre": "Guaymallén"
+      },
+      "municipio": {
+        "id": "500028",
+        "nombre": "Guaymallén"
+      },
+      "nombre": "Nueva Ciudad",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.9210463916055,
+        "lon": -68.7389029800416
+      },
+      "departamento": {
+        "id": "50028",
+        "nombre": "Guaymallén"
+      },
+      "id": "5002802011",
+      "localidad_censal": {
+        "id": "50028020",
+        "nombre": "Guaymallén"
+      },
+      "municipio": {
+        "id": "500028",
+        "nombre": "Guaymallén"
+      },
+      "nombre": "Rodeo de la Cruz",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.9227362551365,
+        "lon": -68.793296207186
+      },
+      "departamento": {
+        "id": "50028",
+        "nombre": "Guaymallén"
+      },
+      "id": "5002802012",
+      "localidad_censal": {
+        "id": "50028020",
+        "nombre": "Guaymallén"
+      },
+      "municipio": {
+        "id": "500028",
+        "nombre": "Guaymallén"
+      },
+      "nombre": "San Francisco del Monte",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "50028"
+    ]
+  },
+  "total": 19
+}

@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.1795681044772,
+        "lon": -58.213321598791
+      },
+      "departamento": {
+        "id": "30008",
+        "nombre": "Colón"
+      },
+      "id": "3000809001",
+      "localidad_censal": {
+        "id": "30008090",
+        "nombre": "San José"
+      },
+      "municipio": {
+        "id": "300014",
+        "nombre": "San José"
+      },
+      "nombre": "El Brillante",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.1819731193292,
+        "lon": -58.1946826986345
+      },
+      "departamento": {
+        "id": "30008",
+        "nombre": "Colón"
+      },
+      "id": "3000809002",
+      "localidad_censal": {
+        "id": "30008090",
+        "nombre": "San José"
+      },
+      "municipio": {
+        "id": "300014",
+        "nombre": "San José"
+      },
+      "nombre": "El Colorado",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.2084950261875,
+        "lon": -58.2186724884732
+      },
+      "departamento": {
+        "id": "30008",
+        "nombre": "Colón"
+      },
+      "id": "3000809003",
+      "localidad_censal": {
+        "id": "30008090",
+        "nombre": "San José"
+      },
+      "municipio": {
+        "id": "300014",
+        "nombre": "San José"
+      },
+      "nombre": "San José",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.8672898395356,
+        "lon": -58.4483085815981
+      },
+      "departamento": {
+        "id": "30008",
+        "nombre": "Colón"
+      },
+      "id": "30008010",
+      "localidad_censal": {
+        "id": "30008010",
+        "nombre": "Arroyo Barú"
+      },
+      "municipio": {
+        "id": "302007",
+        "nombre": "Arroyo Barú"
+      },
+      "nombre": "Arroyo Barú",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.2250500793422,
+        "lon": -58.1422695022137
+      },
+      "departamento": {
+        "id": "30008",
+        "nombre": "Colón"
+      },
+      "id": "30008020",
+      "localidad_censal": {
+        "id": "30008020",
+        "nombre": "Colón"
+      },
+      "municipio": {
+        "id": "300007",
+        "nombre": "Colón"
+      },
+      "nombre": "Colón",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.2956986917188,
+        "lon": -58.2337080676846
+      },
+      "departamento": {
+        "id": "30008",
+        "nombre": "Colón"
+      },
+      "id": "30008030",
+      "localidad_censal": {
+        "id": "30008030",
+        "nombre": "Colonia Hugues"
+      },
+      "municipio": {
+        "id": "300007",
+        "nombre": "Colón"
+      },
+      "nombre": "Colonia Hugues",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.9636306181098,
+        "lon": -58.5077297627347
+      },
+      "departamento": {
+        "id": "30008",
+        "nombre": "Colón"
+      },
+      "id": "30008040",
+      "localidad_censal": {
+        "id": "30008040",
+        "nombre": "Hambis"
+      },
+      "municipio": {
+        "id": "309010",
+        "nombre": "Hambis"
+      },
+      "nombre": "Hambis",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0883131178827,
+        "lon": -58.3394885068103
+      },
+      "departamento": {
+        "id": "30008",
+        "nombre": "Colón"
+      },
+      "id": "30008050",
+      "localidad_censal": {
+        "id": "30008050",
+        "nombre": "Hocker"
+      },
+      "municipio": {
+        "id": "309015",
+        "nombre": "Hocker"
+      },
+      "nombre": "Hocker",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.9757522344996,
+        "lon": -58.3924313333867
+      },
+      "departamento": {
+        "id": "30008",
+        "nombre": "Colón"
+      },
+      "id": "30008060",
+      "localidad_censal": {
+        "id": "30008060",
+        "nombre": "La Clarita"
+      },
+      "municipio": {
+        "id": "302035",
+        "nombre": "La Clarita"
+      },
+      "nombre": "La Clarita",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0031495857066,
+        "lon": -58.4907942685898
+      },
+      "departamento": {
+        "id": "30008",
+        "nombre": "Colón"
+      },
+      "id": "30008070",
+      "localidad_censal": {
+        "id": "30008070",
+        "nombre": "Pueblo Cazes"
+      },
+      "municipio": {
+        "id": "302042",
+        "nombre": "Pueblo Cazes"
+      },
+      "nombre": "Pueblo Cazes",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "30008"
+    ]
+  },
+  "total": 14
+}

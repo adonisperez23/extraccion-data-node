@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.8369063708544,
+        "lon": -66.7018026732352
+      },
+      "departamento": {
+        "id": "46070",
+        "nombre": "General Juan Facundo Quiroga"
+      },
+      "id": "46070030",
+      "localidad_censal": {
+        "id": "46070030",
+        "nombre": "Portezuelo"
+      },
+      "municipio": {
+        "id": "460070",
+        "nombre": "General Juan Facundo Quiroga"
+      },
+      "nombre": "Portezuelo",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.80467054749,
+        "lon": -66.6042342522778
+      },
+      "departamento": {
+        "id": "46070",
+        "nombre": "General Juan Facundo Quiroga"
+      },
+      "id": "46070010",
+      "localidad_censal": {
+        "id": "46070010",
+        "nombre": "Malanzán"
+      },
+      "municipio": {
+        "id": "460070",
+        "nombre": "General Juan Facundo Quiroga"
+      },
+      "nombre": "Malanzán",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.8529073499437,
+        "lon": -66.4249512958568
+      },
+      "departamento": {
+        "id": "46070",
+        "nombre": "General Juan Facundo Quiroga"
+      },
+      "id": "46070020",
+      "localidad_censal": {
+        "id": "46070020",
+        "nombre": "Nácate"
+      },
+      "municipio": {
+        "id": "460070",
+        "nombre": "General Juan Facundo Quiroga"
+      },
+      "nombre": "Nácate",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.0853456166373,
+        "lon": -66.7315920815709
+      },
+      "departamento": {
+        "id": "46070",
+        "nombre": "General Juan Facundo Quiroga"
+      },
+      "id": "46070040",
+      "localidad_censal": {
+        "id": "46070040",
+        "nombre": "San Antonio"
+      },
+      "municipio": {
+        "id": "460070",
+        "nombre": "General Juan Facundo Quiroga"
+      },
+      "nombre": "San Antonio",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "46070"
+    ]
+  },
+  "total": 4
+}

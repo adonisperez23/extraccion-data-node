@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8947877637158,
+        "lon": -57.934267255707
+      },
+      "departamento": {
+        "id": "06245",
+        "nombre": "Ensenada"
+      },
+      "id": "0624501001",
+      "localidad_censal": {
+        "id": "06245010",
+        "nombre": "Ensenada"
+      },
+      "municipio": {
+        "id": "060245",
+        "nombre": "Ensenada"
+      },
+      "nombre": "Dique N° 1",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8624180059336,
+        "lon": -57.9089420661935
+      },
+      "departamento": {
+        "id": "06245",
+        "nombre": "Ensenada"
+      },
+      "id": "0624501002",
+      "localidad_censal": {
+        "id": "06245010",
+        "nombre": "Ensenada"
+      },
+      "municipio": {
+        "id": "060245",
+        "nombre": "Ensenada"
+      },
+      "nombre": "Ensenada",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.845519765725,
+        "lon": -57.8947826129536
+      },
+      "departamento": {
+        "id": "06245",
+        "nombre": "Ensenada"
+      },
+      "id": "0624501003",
+      "localidad_censal": {
+        "id": "06245010",
+        "nombre": "Ensenada"
+      },
+      "municipio": {
+        "id": "060245",
+        "nombre": "Ensenada"
+      },
+      "nombre": "Isla Santiago",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8098160029732,
+        "lon": -57.9837987384422
+      },
+      "departamento": {
+        "id": "06245",
+        "nombre": "Ensenada"
+      },
+      "id": "0624501004",
+      "localidad_censal": {
+        "id": "06245010",
+        "nombre": "Ensenada"
+      },
+      "municipio": {
+        "id": "060245",
+        "nombre": "Ensenada"
+      },
+      "nombre": "Punta Lara",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8871864189301,
+        "lon": -57.9484238171254
+      },
+      "departamento": {
+        "id": "06245",
+        "nombre": "Ensenada"
+      },
+      "id": "0624501005",
+      "localidad_censal": {
+        "id": "06245010",
+        "nombre": "Ensenada"
+      },
+      "municipio": {
+        "id": "060245",
+        "nombre": "Ensenada"
+      },
+      "nombre": "Villa Catela",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.8575070908626,
+        "lon": -57.9076795213036
+      },
+      "departamento": {
+        "id": "06245",
+        "nombre": "Ensenada"
+      },
+      "id": "06245010",
+      "localidad_censal": {
+        "id": "06245010",
+        "nombre": "Ensenada"
+      },
+      "municipio": {
+        "id": "060245",
+        "nombre": "Ensenada"
+      },
+      "nombre": "Ensenada",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06245"
+    ]
+  },
+  "total": 6
+}

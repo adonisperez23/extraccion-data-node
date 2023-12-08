@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.7326498192715,
+        "lon": -59.1098080633516
+      },
+      "departamento": {
+        "id": "34056",
+        "nombre": "Pirané"
+      },
+      "id": "34056040",
+      "localidad_censal": {
+        "id": "34056040",
+        "nombre": "Pirané"
+      },
+      "municipio": {
+        "id": "340245",
+        "nombre": "Pirané"
+      },
+      "nombre": "Pirané",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.2046868834935,
+        "lon": -59.0800251843289
+      },
+      "departamento": {
+        "id": "34056",
+        "nombre": "Pirané"
+      },
+      "id": "34056010",
+      "localidad_censal": {
+        "id": "34056010",
+        "nombre": "Mayor Villafañe"
+      },
+      "municipio": {
+        "id": "340231",
+        "nombre": "Mayor Villafañe"
+      },
+      "nombre": "Colonia Campo Villafañe",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.3090610214685,
+        "lon": -59.3723080458399
+      },
+      "departamento": {
+        "id": "34056",
+        "nombre": "Pirané"
+      },
+      "id": "34056020",
+      "localidad_censal": {
+        "id": "34056020",
+        "nombre": "El Colorado"
+      },
+      "municipio": {
+        "id": "340224",
+        "nombre": "El Colorado"
+      },
+      "nombre": "El Colorado",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.5645938779503,
+        "lon": -59.3377190950807
+      },
+      "departamento": {
+        "id": "34056",
+        "nombre": "Pirané"
+      },
+      "id": "34056030",
+      "localidad_censal": {
+        "id": "34056030",
+        "nombre": "Palo Santo"
+      },
+      "municipio": {
+        "id": "340238",
+        "nombre": "Palo Santo"
+      },
+      "nombre": "Palo Santo",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.1871656945378,
+        "lon": -59.3671554792234
+      },
+      "departamento": {
+        "id": "34056",
+        "nombre": "Pirané"
+      },
+      "id": "34056050",
+      "localidad_censal": {
+        "id": "34056050",
+        "nombre": "Villa Kilómetro 213"
+      },
+      "municipio": {
+        "id": "340252",
+        "nombre": "Villa Dos Trece"
+      },
+      "nombre": "Villa Kilómetro 213",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "34056"
+    ]
+  },
+  "total": 5
+}

@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.5450724677553,
+        "lon": -58.5573544699775
+      },
+      "departamento": {
+        "id": "06476",
+        "nombre": "Lobería"
+      },
+      "id": "06476010",
+      "localidad_censal": {
+        "id": "06476010",
+        "nombre": "Arenas Verdes"
+      },
+      "municipio": {
+        "id": "060476",
+        "nombre": "Lobería"
+      },
+      "nombre": "Arenas Verdes",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.9085106220076,
+        "lon": -58.9125542109716
+      },
+      "departamento": {
+        "id": "06476",
+        "nombre": "Lobería"
+      },
+      "id": "06476020",
+      "localidad_censal": {
+        "id": "06476020",
+        "nombre": "Licenciado Matienzo"
+      },
+      "municipio": {
+        "id": "060476",
+        "nombre": "Lobería"
+      },
+      "nombre": "Licenciado Matienzo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.1633849286114,
+        "lon": -58.7818467987101
+      },
+      "departamento": {
+        "id": "06476",
+        "nombre": "Lobería"
+      },
+      "id": "06476030",
+      "localidad_censal": {
+        "id": "06476030",
+        "nombre": "Loberí­a"
+      },
+      "municipio": {
+        "id": "060476",
+        "nombre": "Lobería"
+      },
+      "nombre": "Lobería",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.3941169343993,
+        "lon": -58.6723766249153
+      },
+      "departamento": {
+        "id": "06476",
+        "nombre": "Lobería"
+      },
+      "id": "06476040",
+      "localidad_censal": {
+        "id": "06476040",
+        "nombre": "Pieres"
+      },
+      "municipio": {
+        "id": "060476",
+        "nombre": "Lobería"
+      },
+      "nombre": "Pieres",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.7864858749992,
+        "lon": -58.8484867159827
+      },
+      "departamento": {
+        "id": "06476",
+        "nombre": "Lobería"
+      },
+      "id": "06476050",
+      "localidad_censal": {
+        "id": "06476050",
+        "nombre": "San Manuel"
+      },
+      "municipio": {
+        "id": "060476",
+        "nombre": "Lobería"
+      },
+      "nombre": "San Manuel",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.2019905359123,
+        "lon": -58.739146939682
+      },
+      "departamento": {
+        "id": "06476",
+        "nombre": "Lobería"
+      },
+      "id": "06476060",
+      "localidad_censal": {
+        "id": "06476060",
+        "nombre": "Tamangueyú"
+      },
+      "municipio": {
+        "id": "060476",
+        "nombre": "Lobería"
+      },
+      "nombre": "Tamangueyú",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06476"
+    ]
+  },
+  "total": 6
+}

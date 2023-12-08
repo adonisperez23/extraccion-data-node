@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.1157068581505,
+        "lon": -63.8429027103488
+      },
+      "departamento": {
+        "id": "14112",
+        "nombre": "Río Seco"
+      },
+      "id": "14112100",
+      "localidad_censal": {
+        "id": "14112100",
+        "nombre": "Santa Elena"
+      },
+      "municipio": {
+        "id": "142791",
+        "nombre": "Santa Elena"
+      },
+      "nombre": "Santa Elena",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.0955838474018,
+        "lon": -63.9321618756654
+      },
+      "departamento": {
+        "id": "14112",
+        "nombre": "Río Seco"
+      },
+      "id": "14112010",
+      "localidad_censal": {
+        "id": "14112010",
+        "nombre": "Cerro Colorado"
+      },
+      "municipio": {
+        "id": "142735",
+        "nombre": "Cerro Colorado"
+      },
+      "nombre": "Cerro Colorado",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.9984049797927,
+        "lon": -63.852734229904
+      },
+      "departamento": {
+        "id": "14112",
+        "nombre": "Río Seco"
+      },
+      "id": "14112020",
+      "localidad_censal": {
+        "id": "14112020",
+        "nombre": "Chañar Viejo"
+      },
+      "municipio": {
+        "id": "142742",
+        "nombre": "Chañar Viejo"
+      },
+      "nombre": "Chañar Viejo",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.9247382174977,
+        "lon": -63.5908148033366
+      },
+      "departamento": {
+        "id": "14112",
+        "nombre": "Río Seco"
+      },
+      "id": "14112030",
+      "localidad_censal": {
+        "id": "14112030",
+        "nombre": "Eufrasio Loza"
+      },
+      "municipio": {
+        "id": "142749",
+        "nombre": "Eufrasio Loza"
+      },
+      "nombre": "Eufrasio Loza",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.7208999948053,
+        "lon": -63.5151526051883
+      },
+      "departamento": {
+        "id": "14112",
+        "nombre": "Río Seco"
+      },
+      "id": "14112040",
+      "localidad_censal": {
+        "id": "14112040",
+        "nombre": "Gutemberg"
+      },
+      "municipio": {
+        "id": "142756",
+        "nombre": "Gutemberg"
+      },
+      "nombre": "Gutemberg",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.1840040500828,
+        "lon": -62.9456689848744
+      },
+      "departamento": {
+        "id": "14112",
+        "nombre": "Río Seco"
+      },
+      "id": "14112050",
+      "localidad_censal": {
+        "id": "14112050",
+        "nombre": "La Rinconada"
+      },
+      "municipio": {
+        "id": "142763",
+        "nombre": "La Rinconada"
+      },
+      "nombre": "La Rinconada",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.8024626093423,
+        "lon": -63.6282467011945
+      },
+      "departamento": {
+        "id": "14112",
+        "nombre": "Río Seco"
+      },
+      "id": "14112060",
+      "localidad_censal": {
+        "id": "14112060",
+        "nombre": "Los Hoyos"
+      },
+      "municipio": {
+        "id": "142770",
+        "nombre": "Los Hoyos"
+      },
+      "nombre": "Los Hoyos",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.270528696975,
+        "lon": -63.4263595745392
+      },
+      "departamento": {
+        "id": "14112",
+        "nombre": "Río Seco"
+      },
+      "id": "14112070",
+      "localidad_censal": {
+        "id": "14112070",
+        "nombre": "Puesto de Castro"
+      },
+      "municipio": {
+        "id": "142777",
+        "nombre": "Puesto de Castro"
+      },
+      "nombre": "Puesto de Castro",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.0729914011542,
+        "lon": -63.8236025574958
+      },
+      "departamento": {
+        "id": "14112",
+        "nombre": "Río Seco"
+      },
+      "id": "14112080",
+      "localidad_censal": {
+        "id": "14112080",
+        "nombre": "Rayo Cortado"
+      },
+      "municipio": {
+        "id": "142784",
+        "nombre": "Rayo Cortado"
+      },
+      "nombre": "Rayo Cortado",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.6983650219047,
+        "lon": -63.5606880209918
+      },
+      "departamento": {
+        "id": "14112",
+        "nombre": "Río Seco"
+      },
+      "id": "14112090",
+      "localidad_censal": {
+        "id": "14112090",
+        "nombre": "San Pedro de Gutemberg"
+      },
+      "municipio": {
+        "id": "142756",
+        "nombre": "Gutemberg"
+      },
+      "nombre": "San Pedro de Gütemberg",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14112"
+    ]
+  },
+  "total": 13
+}

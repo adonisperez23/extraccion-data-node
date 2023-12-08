@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -31.4932663022506,
+        "lon": -68.5325651897321
+      },
+      "departamento": {
+        "id": "70042",
+        "nombre": "Chimbas"
+      },
+      "id": "70042010",
+      "localidad_censal": {
+        "id": "70042010",
+        "nombre": "Chimbas"
+      },
+      "municipio": {
+        "id": "700042",
+        "nombre": "Chimbas"
+      },
+      "nombre": "Chimbas",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "70042"
+    ]
+  },
+  "total": 1
+}

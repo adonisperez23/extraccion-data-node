@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.2439453276399,
+        "lon": -68.1735579571758
+      },
+      "departamento": {
+        "id": "50112",
+        "nombre": "Santa Rosa"
+      },
+      "id": "50112020",
+      "localidad_censal": {
+        "id": "50112020",
+        "nombre": "Barrio María Auxiliadora"
+      },
+      "municipio": {
+        "id": "500112",
+        "nombre": "Santa Rosa"
+      },
+      "nombre": "Barrio María Auxiliadora",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1090475452996,
+        "lon": -68.1875184997736
+      },
+      "departamento": {
+        "id": "50112",
+        "nombre": "Santa Rosa"
+      },
+      "id": "50112030",
+      "localidad_censal": {
+        "id": "50112030",
+        "nombre": "Barrio Molina Cabrera"
+      },
+      "municipio": {
+        "id": "500112",
+        "nombre": "Santa Rosa"
+      },
+      "nombre": "Barrio Molina Cabrera",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.3467169029102,
+        "lon": -67.9171317609661
+      },
+      "departamento": {
+        "id": "50112",
+        "nombre": "Santa Rosa"
+      },
+      "id": "50112040",
+      "localidad_censal": {
+        "id": "50112040",
+        "nombre": "La Dormida"
+      },
+      "municipio": {
+        "id": "500112",
+        "nombre": "Santa Rosa"
+      },
+      "nombre": "La Dormida",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.2938425582224,
+        "lon": -68.0485181749545
+      },
+      "departamento": {
+        "id": "50112",
+        "nombre": "Santa Rosa"
+      },
+      "id": "50112050",
+      "localidad_censal": {
+        "id": "50112050",
+        "nombre": "Las Catitas"
+      },
+      "municipio": {
+        "id": "500112",
+        "nombre": "Santa Rosa"
+      },
+      "nombre": "Las Catitas",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.2540738388994,
+        "lon": -68.1506620411735
+      },
+      "departamento": {
+        "id": "50112",
+        "nombre": "Santa Rosa"
+      },
+      "id": "50112060",
+      "localidad_censal": {
+        "id": "50112060",
+        "nombre": "Santa Rosa"
+      },
+      "municipio": {
+        "id": "500112",
+        "nombre": "Santa Rosa"
+      },
+      "nombre": "Santa Rosa",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1970420438086,
+        "lon": -68.255138753812
+      },
+      "departamento": {
+        "id": "50112",
+        "nombre": "Santa Rosa"
+      },
+      "id": "50112010",
+      "localidad_censal": {
+        "id": "50112010",
+        "nombre": "Barrio 12 de Octubre"
+      },
+      "municipio": {
+        "id": "500112",
+        "nombre": "Santa Rosa"
+      },
+      "nombre": "Barrio 12 de Octubre",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "50112"
+    ]
+  },
+  "total": 6
+}

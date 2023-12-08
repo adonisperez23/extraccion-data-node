@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.0146070645803,
+        "lon": -59.5295187353223
+      },
+      "departamento": {
+        "id": "18049",
+        "nombre": "Esquina"
+      },
+      "id": "18049010",
+      "localidad_censal": {
+        "id": "18049010",
+        "nombre": "Esquina"
+      },
+      "municipio": {
+        "id": "180084",
+        "nombre": "Esquina"
+      },
+      "nombre": "Esquina",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.2201057337039,
+        "lon": -59.3897582084609
+      },
+      "departamento": {
+        "id": "18049",
+        "nombre": "Esquina"
+      },
+      "id": "18049020",
+      "localidad_censal": {
+        "id": "18049020",
+        "nombre": "Pueblo Libertador"
+      },
+      "municipio": {
+        "id": "180091",
+        "nombre": "Pueblo Libertador"
+      },
+      "nombre": "Pueblo Libertador",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18049"
+    ]
+  },
+  "total": 2
+}

@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5898383931687,
+        "lon": -58.6374166101562
+      },
+      "departamento": {
+        "id": "06408",
+        "nombre": "Hurlingham"
+      },
+      "id": "0640801001",
+      "localidad_censal": {
+        "id": "06408010",
+        "nombre": "Hurlingham"
+      },
+      "municipio": {
+        "id": "060408",
+        "nombre": "Hurlingham"
+      },
+      "nombre": "Hurlingham",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6199585078419,
+        "lon": -58.6401617933723
+      },
+      "departamento": {
+        "id": "06408",
+        "nombre": "Hurlingham"
+      },
+      "id": "0640801002",
+      "localidad_censal": {
+        "id": "06408010",
+        "nombre": "Hurlingham"
+      },
+      "municipio": {
+        "id": "060408",
+        "nombre": "Hurlingham"
+      },
+      "nombre": "Villa Santos Tesei",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5796982785245,
+        "lon": -58.6570781965219
+      },
+      "departamento": {
+        "id": "06408",
+        "nombre": "Hurlingham"
+      },
+      "id": "0640801003",
+      "localidad_censal": {
+        "id": "06408010",
+        "nombre": "Hurlingham"
+      },
+      "municipio": {
+        "id": "060408",
+        "nombre": "Hurlingham"
+      },
+      "nombre": "William C. Morris",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.5898718839379,
+        "lon": -58.637441025941
+      },
+      "departamento": {
+        "id": "06408",
+        "nombre": "Hurlingham"
+      },
+      "id": "06408010",
+      "localidad_censal": {
+        "id": "06408010",
+        "nombre": "Hurlingham"
+      },
+      "municipio": {
+        "id": "060408",
+        "nombre": "Hurlingham"
+      },
+      "nombre": "Hurlingham",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06408"
+    ]
+  },
+  "total": 4
+}

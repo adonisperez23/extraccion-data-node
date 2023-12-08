@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.6940389294991,
+        "lon": -58.4486418217353
+      },
+      "departamento": {
+        "id": "06343",
+        "nombre": "General Paz"
+      },
+      "id": "06343010",
+      "localidad_censal": {
+        "id": "06343010",
+        "nombre": "Loma Verde"
+      },
+      "municipio": {
+        "id": "060343",
+        "nombre": "General Paz"
+      },
+      "nombre": "Barrio Río Salado",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.2740091575246,
+        "lon": -58.403828253423
+      },
+      "departamento": {
+        "id": "06343",
+        "nombre": "General Paz"
+      },
+      "id": "06343020",
+      "localidad_censal": {
+        "id": "06343020",
+        "nombre": "Ranchos"
+      },
+      "municipio": {
+        "id": "060343",
+        "nombre": "General Paz"
+      },
+      "nombre": "Loma Verde",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.5164055720187,
+        "lon": -58.3188155184514
+      },
+      "departamento": {
+        "id": "06343",
+        "nombre": "General Paz"
+      },
+      "id": "06343030",
+      "localidad_censal": {
+        "id": "06343030",
+        "nombre": "Villanueva (Ap. Río Salado)"
+      },
+      "municipio": {
+        "id": "060343",
+        "nombre": "General Paz"
+      },
+      "nombre": "Ranchos",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.6753060984282,
+        "lon": -58.4338790521827
+      },
+      "departamento": {
+        "id": "06343",
+        "nombre": "General Paz"
+      },
+      "id": "06343040",
+      "localidad_censal": {
+        "id": "06343040",
+        "nombre": "Barrio Rí­o Salado"
+      },
+      "municipio": {
+        "id": "060343",
+        "nombre": "General Paz"
+      },
+      "nombre": "Villanueva",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06343"
+    ]
+  },
+  "total": 4
+}

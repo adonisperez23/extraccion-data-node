@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.0406925861747,
+        "lon": -60.645191800097
+      },
+      "departamento": {
+        "id": "82112",
+        "nombre": "San Justo"
+      },
+      "id": "82112040",
+      "localidad_censal": {
+        "id": "82112040",
+        "nombre": "Esther"
+      },
+      "municipio": {
+        "id": "823883",
+        "nombre": "Esther"
+      },
+      "nombre": "Esther",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.038474096133,
+        "lon": -60.3152433947699
+      },
+      "departamento": {
+        "id": "82112",
+        "nombre": "San Justo"
+      },
+      "id": "82112100",
+      "localidad_censal": {
+        "id": "82112100",
+        "nombre": "Pedro Gómez Cello"
+      },
+      "municipio": {
+        "id": "823932",
+        "nombre": "Pedro Gómez Cello"
+      },
+      "nombre": "Pedro Gómez Cello",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.6719500341159,
+        "lon": -60.5059519981729
+      },
+      "departamento": {
+        "id": "82112",
+        "nombre": "San Justo"
+      },
+      "id": "82112110",
+      "localidad_censal": {
+        "id": "82112110",
+        "nombre": "Ramayón"
+      },
+      "municipio": {
+        "id": "823939",
+        "nombre": "Ramayón"
+      },
+      "nombre": "Ramayón",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.4473008902458,
+        "lon": -60.4305625615632
+      },
+      "departamento": {
+        "id": "82112",
+        "nombre": "San Justo"
+      },
+      "id": "82112150",
+      "localidad_censal": {
+        "id": "82112150",
+        "nombre": "Silva"
+      },
+      "municipio": {
+        "id": "823960",
+        "nombre": "Silva"
+      },
+      "nombre": "Silva",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.7891711509703,
+        "lon": -60.5933005911998
+      },
+      "departamento": {
+        "id": "82112",
+        "nombre": "San Justo"
+      },
+      "id": "82112130",
+      "localidad_censal": {
+        "id": "82112130",
+        "nombre": "San Justo"
+      },
+      "municipio": {
+        "id": "820259",
+        "nombre": "San Justo"
+      },
+      "nombre": "San Justo",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.3457142621827,
+        "lon": -60.3035143476299
+      },
+      "departamento": {
+        "id": "82112",
+        "nombre": "San Justo"
+      },
+      "id": "82112140",
+      "localidad_censal": {
+        "id": "82112140",
+        "nombre": "San Martín Norte"
+      },
+      "municipio": {
+        "id": "823953",
+        "nombre": "San Martín Norte"
+      },
+      "nombre": "San Martín Norte",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.3629535491006,
+        "lon": -60.4002397836296
+      },
+      "departamento": {
+        "id": "82112",
+        "nombre": "San Justo"
+      },
+      "id": "82112050",
+      "localidad_censal": {
+        "id": "82112050",
+        "nombre": "Gobernador Crespo"
+      },
+      "municipio": {
+        "id": "823890",
+        "nombre": "Gobernador Crespo"
+      },
+      "nombre": "Gobernador Crespo",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.5809351404083,
+        "lon": -60.4683075561457
+      },
+      "departamento": {
+        "id": "82112",
+        "nombre": "San Justo"
+      },
+      "id": "82112080",
+      "localidad_censal": {
+        "id": "82112080",
+        "nombre": "Marcelino Escalada"
+      },
+      "municipio": {
+        "id": "823918",
+        "nombre": "Marcelino Escalada"
+      },
+      "nombre": "Marcelino Escalada",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.8556658864188,
+        "lon": -60.6501755316761
+      },
+      "departamento": {
+        "id": "82112",
+        "nombre": "San Justo"
+      },
+      "id": "82112010",
+      "localidad_censal": {
+        "id": "82112010",
+        "nombre": "Angeloni"
+      },
+      "municipio": {
+        "id": "823862",
+        "nombre": "Angeloni"
+      },
+      "nombre": "Angeloni",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.9487761732862,
+        "lon": -60.4670361251567
+      },
+      "departamento": {
+        "id": "82112",
+        "nombre": "San Justo"
+      },
+      "id": "82112090",
+      "localidad_censal": {
+        "id": "82112090",
+        "nombre": "Naré"
+      },
+      "municipio": {
+        "id": "823925",
+        "nombre": "Naré"
+      },
+      "nombre": "Naré",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "82112"
+    ]
+  },
+  "total": 17
+}

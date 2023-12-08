@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.3491784387008,
+        "lon": -62.4417695532694
+      },
+      "departamento": {
+        "id": "86007",
+        "nombre": "Aguirre"
+      },
+      "id": "86007030",
+      "localidad_censal": {
+        "id": "86007030",
+        "nombre": "Malbrán"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Malbrán",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.5347106971472,
+        "lon": -62.2671396779978
+      },
+      "departamento": {
+        "id": "86007",
+        "nombre": "Aguirre"
+      },
+      "id": "86007010",
+      "localidad_censal": {
+        "id": "86007010",
+        "nombre": "Argentina"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Argentina",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.9481388447586,
+        "lon": -62.8001028061063
+      },
+      "departamento": {
+        "id": "86007",
+        "nombre": "Aguirre"
+      },
+      "id": "86007020",
+      "localidad_censal": {
+        "id": "86007020",
+        "nombre": "Casares"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Casares",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.1417538071605,
+        "lon": -62.6545484671784
+      },
+      "departamento": {
+        "id": "86007",
+        "nombre": "Aguirre"
+      },
+      "id": "86007040",
+      "localidad_censal": {
+        "id": "86007040",
+        "nombre": "Pinto"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Villa General Mitre",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86007"
+    ]
+  },
+  "total": 4
+}

@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.5076832122621,
+        "lon": -59.0452172890593
+      },
+      "departamento": {
+        "id": "18007",
+        "nombre": "Bella Vista"
+      },
+      "id": "18007010",
+      "localidad_censal": {
+        "id": "18007010",
+        "nombre": "Bella Vista"
+      },
+      "municipio": {
+        "id": "180007",
+        "nombre": "Bella Vista"
+      },
+      "nombre": "Bella Vista",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18007"
+    ]
+  },
+  "total": 1
+}

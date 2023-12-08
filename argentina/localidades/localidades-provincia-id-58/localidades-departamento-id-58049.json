@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.9508849432704,
+        "lon": -71.0708635804128
+      },
+      "departamento": {
+        "id": "58049",
+        "nombre": "Huiliches"
+      },
+      "id": "58049010",
+      "localidad_censal": {
+        "id": "58049010",
+        "nombre": "Junín de los Andes"
+      },
+      "municipio": {
+        "id": "580112",
+        "nombre": "Junín de los Andes"
+      },
+      "nombre": "Junín de los Andes",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "58049"
+    ]
+  },
+  "total": 1
+}

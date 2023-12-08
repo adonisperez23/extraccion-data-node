@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.9828636014962,
+        "lon": -66.7390636195755
+      },
+      "departamento": {
+        "id": "10035",
+        "nombre": "Belén"
+      },
+      "id": "10035010",
+      "localidad_censal": {
+        "id": "10035010",
+        "nombre": "Barranca Larga"
+      },
+      "municipio": {
+        "id": "100119",
+        "nombre": "Villa Vil"
+      },
+      "nombre": "Barranca Larga",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.649529254029,
+        "lon": -67.0263166064703
+      },
+      "departamento": {
+        "id": "10035",
+        "nombre": "Belén"
+      },
+      "id": "10035020",
+      "localidad_censal": {
+        "id": "10035020",
+        "nombre": "Belén"
+      },
+      "municipio": {
+        "id": "100063",
+        "nombre": "Belén"
+      },
+      "nombre": "Belén",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4932508055993,
+        "lon": -67.1020885628446
+      },
+      "departamento": {
+        "id": "10035",
+        "nombre": "Belén"
+      },
+      "id": "10035030",
+      "localidad_censal": {
+        "id": "10035030",
+        "nombre": "Cóndor Huasi"
+      },
+      "municipio": {
+        "id": "100091",
+        "nombre": "Pozo de Piedra"
+      },
+      "nombre": "Cóndor Huasi",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.1448010677264,
+        "lon": -66.9447586037509
+      },
+      "departamento": {
+        "id": "10035",
+        "nombre": "Belén"
+      },
+      "id": "10035040",
+      "localidad_censal": {
+        "id": "10035040",
+        "nombre": "Corral Quemado"
+      },
+      "municipio": {
+        "id": "100070",
+        "nombre": "Corral Quemado"
+      },
+      "nombre": "Corral Quemado",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2472332720167,
+        "lon": -67.0322188935562
+      },
+      "departamento": {
+        "id": "10035",
+        "nombre": "Belén"
+      },
+      "id": "10035050",
+      "localidad_censal": {
+        "id": "10035050",
+        "nombre": "El Durazno"
+      },
+      "municipio": {
+        "id": "100098",
+        "nombre": "Puerta de Corral Quemado"
+      },
+      "nombre": "El Durazno",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3041623736755,
+        "lon": -66.6822430627839
+      },
+      "departamento": {
+        "id": "10035",
+        "nombre": "Belén"
+      },
+      "id": "10035060",
+      "localidad_censal": {
+        "id": "10035060",
+        "nombre": "Farallón Negro"
+      },
+      "municipio": {
+        "id": "100077",
+        "nombre": "Hualfin"
+      },
+      "nombre": "Farallón Negro",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2247667925684,
+        "lon": -66.8339992772836
+      },
+      "departamento": {
+        "id": "10035",
+        "nombre": "Belén"
+      },
+      "id": "10035070",
+      "localidad_censal": {
+        "id": "10035070",
+        "nombre": "Hualfín"
+      },
+      "municipio": {
+        "id": "100077",
+        "nombre": "Hualfin"
+      },
+      "nombre": "Hualfín",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2424350684305,
+        "lon": -67.0083508704177
+      },
+      "departamento": {
+        "id": "10035",
+        "nombre": "Belén"
+      },
+      "id": "10035080",
+      "localidad_censal": {
+        "id": "10035080",
+        "nombre": "Jacipunco"
+      },
+      "municipio": {
+        "id": "100098",
+        "nombre": "Puerta de Corral Quemado"
+      },
+      "nombre": "Jacipunco",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.6850168444643,
+        "lon": -66.9936621115587
+      },
+      "departamento": {
+        "id": "10035",
+        "nombre": "Belén"
+      },
+      "id": "10035090",
+      "localidad_censal": {
+        "id": "10035090",
+        "nombre": "La Puntilla"
+      },
+      "municipio": {
+        "id": "100063",
+        "nombre": "Belén"
+      },
+      "nombre": "La Puntilla",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5359586328191,
+        "lon": -67.117313312317
+      },
+      "departamento": {
+        "id": "10035",
+        "nombre": "Belén"
+      },
+      "id": "10035100",
+      "localidad_censal": {
+        "id": "10035100",
+        "nombre": "Las Juntas"
+      },
+      "municipio": {
+        "id": "100091",
+        "nombre": "Pozo de Piedra"
+      },
+      "nombre": "Las Juntas",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "10035"
+    ]
+  },
+  "total": 15
+}

@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.0607079301754,
+        "lon": -55.6770709044893
+      },
+      "departamento": {
+        "id": "54007",
+        "nombre": "Apóstoles"
+      },
+      "id": "54007020",
+      "localidad_censal": {
+        "id": "54007020",
+        "nombre": "Azara"
+      },
+      "municipio": {
+        "id": "540014",
+        "nombre": "Azara"
+      },
+      "nombre": "Azara",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.8811249994632,
+        "lon": -55.7872757699423
+      },
+      "departamento": {
+        "id": "54007",
+        "nombre": "Apóstoles"
+      },
+      "id": "54007025",
+      "localidad_censal": {
+        "id": "54007025",
+        "nombre": "Barrio Rural"
+      },
+      "municipio": {
+        "id": "540007",
+        "nombre": "Apóstoles"
+      },
+      "nombre": "Barrio Rural",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.911529115791,
+        "lon": -55.8092186405509
+      },
+      "departamento": {
+        "id": "54007",
+        "nombre": "Apóstoles"
+      },
+      "id": "54007030",
+      "localidad_censal": {
+        "id": "54007030",
+        "nombre": "Estación Apóstoles"
+      },
+      "municipio": {
+        "id": "540007",
+        "nombre": "Apóstoles"
+      },
+      "nombre": "Estación Apóstoles",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.749423151438,
+        "lon": -55.7947789586155
+      },
+      "departamento": {
+        "id": "54007",
+        "nombre": "Apóstoles"
+      },
+      "id": "54007040",
+      "localidad_censal": {
+        "id": "54007040",
+        "nombre": "Pindapoy"
+      },
+      "municipio": {
+        "id": "540021",
+        "nombre": "San José"
+      },
+      "nombre": "Pindapoy",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.1136188920138,
+        "lon": -55.6295324099074
+      },
+      "departamento": {
+        "id": "54007",
+        "nombre": "Apóstoles"
+      },
+      "id": "54007050",
+      "localidad_censal": {
+        "id": "54007050",
+        "nombre": "Rincón de Azara"
+      },
+      "municipio": {
+        "id": "540014",
+        "nombre": "Azara"
+      },
+      "nombre": "Rincón de Azara",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.7699944020142,
+        "lon": -55.7803037098363
+      },
+      "departamento": {
+        "id": "54007",
+        "nombre": "Apóstoles"
+      },
+      "id": "54007060",
+      "localidad_censal": {
+        "id": "54007060",
+        "nombre": "San José"
+      },
+      "municipio": {
+        "id": "540021",
+        "nombre": "San José"
+      },
+      "nombre": "San José",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.0042531114421,
+        "lon": -55.6094041493467
+      },
+      "departamento": {
+        "id": "54007",
+        "nombre": "Apóstoles"
+      },
+      "id": "54007070",
+      "localidad_censal": {
+        "id": "54007070",
+        "nombre": "Tres Capones"
+      },
+      "municipio": {
+        "id": "540028",
+        "nombre": "Tres Capones"
+      },
+      "nombre": "Tres Capones",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9141359337054,
+        "lon": -55.7548578406666
+      },
+      "departamento": {
+        "id": "54007",
+        "nombre": "Apóstoles"
+      },
+      "id": "54007010",
+      "localidad_censal": {
+        "id": "54007010",
+        "nombre": "Apóstoles"
+      },
+      "municipio": {
+        "id": "540007",
+        "nombre": "Apóstoles"
+      },
+      "nombre": "Apóstoles",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "54007"
+    ]
+  },
+  "total": 8
+}

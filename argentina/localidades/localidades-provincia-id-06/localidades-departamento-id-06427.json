@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7069837345392,
+        "lon": -58.5191686234805
+      },
+      "departamento": {
+        "id": "06427",
+        "nombre": "La Matanza"
+      },
+      "id": "0642701001",
+      "localidad_censal": {
+        "id": "06427010",
+        "nombre": "La Matanza"
+      },
+      "municipio": {
+        "id": "060427",
+        "nombre": "La Matanza"
+      },
+      "nombre": "Aldo Bonzi",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7157731493272,
+        "lon": -58.5349456166451
+      },
+      "departamento": {
+        "id": "06427",
+        "nombre": "La Matanza"
+      },
+      "id": "0642701002",
+      "localidad_censal": {
+        "id": "06427010",
+        "nombre": "La Matanza"
+      },
+      "municipio": {
+        "id": "060427",
+        "nombre": "La Matanza"
+      },
+      "nombre": "Ciudad Evita",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.773025312187,
+        "lon": -58.6440393936429
+      },
+      "departamento": {
+        "id": "06427",
+        "nombre": "La Matanza"
+      },
+      "id": "0642701003",
+      "localidad_censal": {
+        "id": "06427010",
+        "nombre": "La Matanza"
+      },
+      "municipio": {
+        "id": "060427",
+        "nombre": "La Matanza"
+      },
+      "nombre": "González Catán",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7469935775157,
+        "lon": -58.5892567981998
+      },
+      "departamento": {
+        "id": "06427",
+        "nombre": "La Matanza"
+      },
+      "id": "0642701004",
+      "localidad_censal": {
+        "id": "06427010",
+        "nombre": "La Matanza"
+      },
+      "municipio": {
+        "id": "060427",
+        "nombre": "La Matanza"
+      },
+      "nombre": "Gregorio de Laferrere",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7109702658698,
+        "lon": -58.5858084188647
+      },
+      "departamento": {
+        "id": "06427",
+        "nombre": "La Matanza"
+      },
+      "id": "0642701005",
+      "localidad_censal": {
+        "id": "06427010",
+        "nombre": "La Matanza"
+      },
+      "municipio": {
+        "id": "060427",
+        "nombre": "La Matanza"
+      },
+      "nombre": "Isidro Casanova",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.686462325254,
+        "lon": -58.5256461385691
+      },
+      "departamento": {
+        "id": "06427",
+        "nombre": "La Matanza"
+      },
+      "id": "0642701006",
+      "localidad_censal": {
+        "id": "06427010",
+        "nombre": "La Matanza"
+      },
+      "municipio": {
+        "id": "060427",
+        "nombre": "La Matanza"
+      },
+      "nombre": "La Tablada",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6652765210767,
+        "lon": -58.5317739283029
+      },
+      "departamento": {
+        "id": "06427",
+        "nombre": "La Matanza"
+      },
+      "id": "0642701007",
+      "localidad_censal": {
+        "id": "06427010",
+        "nombre": "La Matanza"
+      },
+      "municipio": {
+        "id": "060427",
+        "nombre": "La Matanza"
+      },
+      "nombre": "Lomas del Mirador",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7090985315633,
+        "lon": -58.6256335195148
+      },
+      "departamento": {
+        "id": "06427",
+        "nombre": "La Matanza"
+      },
+      "id": "0642701008",
+      "localidad_censal": {
+        "id": "06427010",
+        "nombre": "La Matanza"
+      },
+      "municipio": {
+        "id": "060427",
+        "nombre": "La Matanza"
+      },
+      "nombre": "Rafael Castillo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6454993387505,
+        "lon": -58.5596657431949
+      },
+      "departamento": {
+        "id": "06427",
+        "nombre": "La Matanza"
+      },
+      "id": "0642701009",
+      "localidad_censal": {
+        "id": "06427010",
+        "nombre": "La Matanza"
+      },
+      "municipio": {
+        "id": "060427",
+        "nombre": "La Matanza"
+      },
+      "nombre": "Ramos Mejía",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6811417496029,
+        "lon": -58.563738604389
+      },
+      "departamento": {
+        "id": "06427",
+        "nombre": "La Matanza"
+      },
+      "id": "0642701010",
+      "localidad_censal": {
+        "id": "06427010",
+        "nombre": "La Matanza"
+      },
+      "municipio": {
+        "id": "060427",
+        "nombre": "La Matanza"
+      },
+      "nombre": "San Justo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06427"
+    ]
+  },
+  "total": 16
+}

@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.1502771335216,
+        "lon": -59.1817933807415
+      },
+      "departamento": {
+        "id": "18070",
+        "nombre": "Goya"
+      },
+      "id": "18070010",
+      "localidad_censal": {
+        "id": "18070010",
+        "nombre": "Carolina"
+      },
+      "municipio": {
+        "id": "180140",
+        "nombre": "Goya"
+      },
+      "nombre": "Carolina",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.1400763814368,
+        "lon": -59.2598912571001
+      },
+      "departamento": {
+        "id": "18070",
+        "nombre": "Goya"
+      },
+      "id": "18070020",
+      "localidad_censal": {
+        "id": "18070020",
+        "nombre": "Goya"
+      },
+      "municipio": {
+        "id": "180140",
+        "nombre": "Goya"
+      },
+      "nombre": "Goya",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18070"
+    ]
+  },
+  "total": 2
+}

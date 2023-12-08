@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.7262745016586,
+        "lon": -68.4915046626026
+      },
+      "departamento": {
+        "id": "62035",
+        "nombre": "El Cuy"
+      },
+      "id": "62035020",
+      "localidad_censal": {
+        "id": "62035020",
+        "nombre": "Cerro Policía"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Cerro Policía",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.4236413174781,
+        "lon": -69.6145274110286
+      },
+      "departamento": {
+        "id": "62035",
+        "nombre": "El Cuy"
+      },
+      "id": "62035050",
+      "localidad_censal": {
+        "id": "62035050",
+        "nombre": "Mencué"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Mencué",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.8302247442401,
+        "lon": -69.5091240710262
+      },
+      "departamento": {
+        "id": "62035",
+        "nombre": "El Cuy"
+      },
+      "id": "62035060",
+      "localidad_censal": {
+        "id": "62035060",
+        "nombre": "Naupa Huen"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Naupa Huen",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.9822524329298,
+        "lon": -68.1497547494469
+      },
+      "departamento": {
+        "id": "62035",
+        "nombre": "El Cuy"
+      },
+      "id": "62035040",
+      "localidad_censal": {
+        "id": "62035040",
+        "nombre": "Las Perlas"
+      },
+      "municipio": {
+        "id": "620133",
+        "nombre": "Cipolletti"
+      },
+      "nombre": "Las Perlas",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.15631230322,
+        "lon": -66.7875534586849
+      },
+      "departamento": {
+        "id": "62035",
+        "nombre": "El Cuy"
+      },
+      "id": "62035080",
+      "localidad_censal": {
+        "id": "62035080",
+        "nombre": "Valle Azul"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Valle Azul",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.9818557602581,
+        "lon": -68.8738678875398
+      },
+      "departamento": {
+        "id": "62035",
+        "nombre": "El Cuy"
+      },
+      "id": "62035010",
+      "localidad_censal": {
+        "id": "62035010",
+        "nombre": "Aguada Guzmán"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Aguada Guzmán",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -39.1138585167736,
+        "lon": -67.6266340989681
+      },
+      "departamento": {
+        "id": "62035",
+        "nombre": "El Cuy"
+      },
+      "id": "62035070",
+      "localidad_censal": {
+        "id": "62035070",
+        "nombre": "Paso Córdova"
+      },
+      "municipio": {
+        "id": "620161",
+        "nombre": "General Roca"
+      },
+      "nombre": "Paso Córdova",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.9260942582871,
+        "lon": -68.3427538524034
+      },
+      "departamento": {
+        "id": "62035",
+        "nombre": "El Cuy"
+      },
+      "id": "62035030",
+      "localidad_censal": {
+        "id": "62035030",
+        "nombre": "El Cuy"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Cuy",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "62035"
+    ]
+  },
+  "total": 8
+}

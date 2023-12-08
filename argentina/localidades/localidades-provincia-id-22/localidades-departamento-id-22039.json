@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.6100163822701,
+        "lon": -61.3442358577896
+      },
+      "departamento": {
+        "id": "22039",
+        "nombre": "2 de Abril"
+      },
+      "id": "22039010",
+      "localidad_censal": {
+        "id": "22039010",
+        "nombre": "Hermoso Campo"
+      },
+      "municipio": {
+        "id": "220112",
+        "nombre": "Hermoso Campo"
+      },
+      "nombre": "Hermoso Campo",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4874319308341,
+        "lon": -61.3244820037252
+      },
+      "departamento": {
+        "id": "22039",
+        "nombre": "2 de Abril"
+      },
+      "id": "22039020",
+      "localidad_censal": {
+        "id": "22039020",
+        "nombre": "Itín"
+      },
+      "municipio": {
+        "id": "220112",
+        "nombre": "Hermoso Campo"
+      },
+      "nombre": "Itín",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22039"
+    ]
+  },
+  "total": 2
+}

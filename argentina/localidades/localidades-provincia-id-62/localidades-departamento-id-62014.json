@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.4870461345692,
+        "lon": -65.6107963481982
+      },
+      "departamento": {
+        "id": "62014",
+        "nombre": "Avellaneda"
+      },
+      "id": "62014090",
+      "localidad_censal": {
+        "id": "62014090",
+        "nombre": "Pomona"
+      },
+      "municipio": {
+        "id": "620063",
+        "nombre": "Pomona"
+      },
+      "nombre": "Pomona",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.1654073093272,
+        "lon": -66.1464170355283
+      },
+      "departamento": {
+        "id": "62014",
+        "nombre": "Avellaneda"
+      },
+      "id": "62014010",
+      "localidad_censal": {
+        "id": "62014010",
+        "nombre": "Barrio Unión"
+      },
+      "municipio": {
+        "id": "620021",
+        "nombre": "Chimpay"
+      },
+      "nombre": "Barrio Unión",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.0877181475492,
+        "lon": -66.5207520123842
+      },
+      "departamento": {
+        "id": "62014",
+        "nombre": "Avellaneda"
+      },
+      "id": "62014020",
+      "localidad_censal": {
+        "id": "62014020",
+        "nombre": "Chelforó"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Chelforó",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.1653983018603,
+        "lon": -66.1464170168538
+      },
+      "departamento": {
+        "id": "62014",
+        "nombre": "Avellaneda"
+      },
+      "id": "62014030",
+      "localidad_censal": {
+        "id": "62014030",
+        "nombre": "Chimpay"
+      },
+      "municipio": {
+        "id": "620021",
+        "nombre": "Chimpay"
+      },
+      "nombre": "Chimpay",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.1867661859205,
+        "lon": -65.9547936228308
+      },
+      "departamento": {
+        "id": "62014",
+        "nombre": "Avellaneda"
+      },
+      "id": "62014050",
+      "localidad_censal": {
+        "id": "62014050",
+        "nombre": "Coronel Belisle"
+      },
+      "municipio": {
+        "id": "620035",
+        "nombre": "Coronel Belisle"
+      },
+      "nombre": "Coronel Belisle",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.2029544202193,
+        "lon": -65.7397556742309
+      },
+      "departamento": {
+        "id": "62014",
+        "nombre": "Avellaneda"
+      },
+      "id": "62014060",
+      "localidad_censal": {
+        "id": "62014060",
+        "nombre": "Darwin"
+      },
+      "municipio": {
+        "id": "620042",
+        "nombre": "Darwin"
+      },
+      "nombre": "Darwin",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.4251540539646,
+        "lon": -65.7021450626275
+      },
+      "departamento": {
+        "id": "62014",
+        "nombre": "Avellaneda"
+      },
+      "id": "62014070",
+      "localidad_censal": {
+        "id": "62014070",
+        "nombre": "Lamarque"
+      },
+      "municipio": {
+        "id": "620049",
+        "nombre": "Lamarque"
+      },
+      "nombre": "Lamarque",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.3107059233852,
+        "lon": -65.7635638055831
+      },
+      "departamento": {
+        "id": "62014",
+        "nombre": "Avellaneda"
+      },
+      "id": "62014080",
+      "localidad_censal": {
+        "id": "62014080",
+        "nombre": "Luis Beltrán"
+      },
+      "municipio": {
+        "id": "620056",
+        "nombre": "Luis Beltrán"
+      },
+      "nombre": "Luis Beltrán",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.2963553874707,
+        "lon": -65.6576786757775
+      },
+      "departamento": {
+        "id": "62014",
+        "nombre": "Avellaneda"
+      },
+      "id": "62014040",
+      "localidad_censal": {
+        "id": "62014040",
+        "nombre": "Choele Choel"
+      },
+      "municipio": {
+        "id": "620028",
+        "nombre": "Choele Choel"
+      },
+      "nombre": "Choele Choel",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "62014"
+    ]
+  },
+  "total": 9
+}

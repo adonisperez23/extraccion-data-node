@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.9728290317255,
+        "lon": -59.8488371729784
+      },
+      "departamento": {
+        "id": "82049",
+        "nombre": "General Obligado"
+      },
+      "id": "82049100",
+      "localidad_censal": {
+        "id": "82049100",
+        "nombre": "La Sarita"
+      },
+      "municipio": {
+        "id": "822819",
+        "nombre": "La Sarita"
+      },
+      "nombre": "La Sarita",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.0406318158628,
+        "lon": -59.2180147556736
+      },
+      "departamento": {
+        "id": "82049",
+        "nombre": "General Obligado"
+      },
+      "id": "82049060",
+      "localidad_censal": {
+        "id": "82049060",
+        "nombre": "Florencia"
+      },
+      "municipio": {
+        "id": "820095",
+        "nombre": "Florencia"
+      },
+      "nombre": "Florencia",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.3686478129094,
+        "lon": -59.7361917149176
+      },
+      "departamento": {
+        "id": "82049",
+        "nombre": "General Obligado"
+      },
+      "id": "82049140",
+      "localidad_censal": {
+        "id": "82049140",
+        "nombre": "Los Laureles"
+      },
+      "municipio": {
+        "id": "822840",
+        "nombre": "Los Laureles"
+      },
+      "nombre": "Los Laureles",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -29.1175214810381,
+        "lon": -59.6584720787821
+      },
+      "departamento": {
+        "id": "82049",
+        "nombre": "General Obligado"
+      },
+      "id": "82049020",
+      "localidad_censal": {
+        "id": "82049020",
+        "nombre": "Avellaneda"
+      },
+      "municipio": {
+        "id": "820091",
+        "nombre": "Avellaneda"
+      },
+      "nombre": "Avellaneda",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.1329996980097,
+        "lon": -59.9475820089713
+      },
+      "departamento": {
+        "id": "82049",
+        "nombre": "General Obligado"
+      },
+      "id": "82049040",
+      "localidad_censal": {
+        "id": "82049040",
+        "nombre": "El Araza"
+      },
+      "municipio": {
+        "id": "822777",
+        "nombre": "El Araza"
+      },
+      "nombre": "El Araza",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -29.1445173299237,
+        "lon": -59.6435478986104
+      },
+      "departamento": {
+        "id": "82049",
+        "nombre": "General Obligado"
+      },
+      "id": "82049180",
+      "localidad_censal": {
+        "id": "82049180",
+        "nombre": "Reconquista"
+      },
+      "municipio": {
+        "id": "820112",
+        "nombre": "Reconquista"
+      },
+      "nombre": "Reconquista",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.3842534518135,
+        "lon": -59.2643877245439
+      },
+      "departamento": {
+        "id": "82049",
+        "nombre": "General Obligado"
+      },
+      "id": "82049190",
+      "localidad_censal": {
+        "id": "82049190",
+        "nombre": "San Antonio de Obligado"
+      },
+      "municipio": {
+        "id": "822854",
+        "nombre": "San Antonio de Obligado"
+      },
+      "nombre": "San Antonio de Obligado",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.7230812436559,
+        "lon": -59.4776976866332
+      },
+      "departamento": {
+        "id": "82049",
+        "nombre": "General Obligado"
+      },
+      "id": "82049010",
+      "localidad_censal": {
+        "id": "82049010",
+        "nombre": "Arroyo Ceibal"
+      },
+      "municipio": {
+        "id": "822763",
+        "nombre": "Arroyo Ceibal"
+      },
+      "nombre": "Arroyo Ceibal",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.9450535978396,
+        "lon": -59.5636259310249
+      },
+      "departamento": {
+        "id": "82049",
+        "nombre": "General Obligado"
+      },
+      "id": "82049070",
+      "localidad_censal": {
+        "id": "82049070",
+        "nombre": "Guadalupe Norte"
+      },
+      "municipio": {
+        "id": "822805",
+        "nombre": "Guadalupe Norte"
+      },
+      "nombre": "Guadalupe Norte",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.7598125278448,
+        "lon": -59.5772332721616
+      },
+      "departamento": {
+        "id": "82049",
+        "nombre": "General Obligado"
+      },
+      "id": "82049080",
+      "localidad_censal": {
+        "id": "82049080",
+        "nombre": "Ingeniero Chanourdie"
+      },
+      "municipio": {
+        "id": "822812",
+        "nombre": "Ingeniero Chanourdie"
+      },
+      "nombre": "Ingeniero Chanourdie",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "82049"
+    ]
+  },
+  "total": 23
+}

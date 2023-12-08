@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.6541422585061,
+        "lon": -59.3547599003132
+      },
+      "departamento": {
+        "id": "06532",
+        "nombre": "Mercedes"
+      },
+      "id": "06532010",
+      "localidad_censal": {
+        "id": "06532010",
+        "nombre": "Goldney"
+      },
+      "municipio": {
+        "id": "060532",
+        "nombre": "Mercedes"
+      },
+      "nombre": "Gowland",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.6507332109012,
+        "lon": -59.43138744045
+      },
+      "departamento": {
+        "id": "06532",
+        "nombre": "Mercedes"
+      },
+      "id": "06532020",
+      "localidad_censal": {
+        "id": "06532020",
+        "nombre": "Gowland"
+      },
+      "municipio": {
+        "id": "060532",
+        "nombre": "Mercedes"
+      },
+      "nombre": "Mercedes",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.6976769838622,
+        "lon": -59.3185257826541
+      },
+      "departamento": {
+        "id": "06532",
+        "nombre": "Mercedes"
+      },
+      "id": "06532030",
+      "localidad_censal": {
+        "id": "06532030",
+        "nombre": "Jorge Born"
+      },
+      "municipio": {
+        "id": "060532",
+        "nombre": "Mercedes"
+      },
+      "nombre": "Jorge Born",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06532"
+    ]
+  },
+  "total": 3
+}

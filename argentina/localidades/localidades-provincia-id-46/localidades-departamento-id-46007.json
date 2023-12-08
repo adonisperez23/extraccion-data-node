@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.5435379588255,
+        "lon": -66.7911093070646
+      },
+      "departamento": {
+        "id": "46007",
+        "nombre": "Arauco"
+      },
+      "id": "4600701002",
+      "localidad_censal": {
+        "id": "46007010",
+        "nombre": "Aimogasta"
+      },
+      "municipio": {
+        "id": "460007",
+        "nombre": "Arauco"
+      },
+      "nombre": "Machigasta",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.5598321349466,
+        "lon": -66.8061775305027
+      },
+      "departamento": {
+        "id": "46007",
+        "nombre": "Arauco"
+      },
+      "id": "4600701001",
+      "localidad_censal": {
+        "id": "46007010",
+        "nombre": "Aimogasta"
+      },
+      "municipio": {
+        "id": "460007",
+        "nombre": "Arauco"
+      },
+      "nombre": "Aimogasta",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.5578576011964,
+        "lon": -66.7923388597247
+      },
+      "departamento": {
+        "id": "46007",
+        "nombre": "Arauco"
+      },
+      "id": "4600701003",
+      "localidad_censal": {
+        "id": "46007010",
+        "nombre": "Aimogasta"
+      },
+      "municipio": {
+        "id": "460007",
+        "nombre": "Arauco"
+      },
+      "nombre": "San Antonio",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6777024185527,
+        "lon": -66.4909260590382
+      },
+      "departamento": {
+        "id": "46007",
+        "nombre": "Arauco"
+      },
+      "id": "46007040",
+      "localidad_censal": {
+        "id": "46007040",
+        "nombre": "Estación Mazán"
+      },
+      "municipio": {
+        "id": "460007",
+        "nombre": "Arauco"
+      },
+      "nombre": "Estación Mazán",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.5537602551131,
+        "lon": -66.8134329709874
+      },
+      "departamento": {
+        "id": "46007",
+        "nombre": "Arauco"
+      },
+      "id": "46007010",
+      "localidad_censal": {
+        "id": "46007010",
+        "nombre": "Aimogasta"
+      },
+      "municipio": {
+        "id": "460007",
+        "nombre": "Arauco"
+      },
+      "nombre": "Aimogasta",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.3785558073253,
+        "lon": -66.8305780622108
+      },
+      "departamento": {
+        "id": "46007",
+        "nombre": "Arauco"
+      },
+      "id": "46007030",
+      "localidad_censal": {
+        "id": "46007030",
+        "nombre": "Bañado de los Pantanos"
+      },
+      "municipio": {
+        "id": "460007",
+        "nombre": "Arauco"
+      },
+      "nombre": "Bañado de los Pantanos",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.590538439286,
+        "lon": -66.5553904949284
+      },
+      "departamento": {
+        "id": "46007",
+        "nombre": "Arauco"
+      },
+      "id": "46007045",
+      "localidad_censal": {
+        "id": "46007045",
+        "nombre": "Termas de Santa Teresita"
+      },
+      "municipio": {
+        "id": "460007",
+        "nombre": "Arauco"
+      },
+      "nombre": "Termas de Santa Teresita",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6641036370684,
+        "lon": -66.5444740613413
+      },
+      "departamento": {
+        "id": "46007",
+        "nombre": "Arauco"
+      },
+      "id": "46007050",
+      "localidad_censal": {
+        "id": "46007050",
+        "nombre": "Villa Mazán"
+      },
+      "municipio": {
+        "id": "460007",
+        "nombre": "Arauco"
+      },
+      "nombre": "Villa Mazán",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "46007"
+    ]
+  },
+  "total": 8
+}

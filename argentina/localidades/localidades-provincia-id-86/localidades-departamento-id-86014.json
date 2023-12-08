@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.3857413100398,
+        "lon": -61.8122844844299
+      },
+      "departamento": {
+        "id": "86014",
+        "nombre": "Alberdi"
+      },
+      "id": "86014020",
+      "localidad_censal": {
+        "id": "86014020",
+        "nombre": "Coronel Manuel L. Rico"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Coronel Manuel L. Rico",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.6754072538903,
+        "lon": -61.8150443653887
+      },
+      "departamento": {
+        "id": "86014",
+        "nombre": "Alberdi"
+      },
+      "id": "86014040",
+      "localidad_censal": {
+        "id": "86014040",
+        "nombre": "Sachayoj"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Sachayoj",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.7252649468065,
+        "lon": -62.7207302293428
+      },
+      "departamento": {
+        "id": "86014",
+        "nombre": "Alberdi"
+      },
+      "id": "86014030",
+      "localidad_censal": {
+        "id": "86014030",
+        "nombre": "Donadeu"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Donadeu",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.5839525416973,
+        "lon": -62.8470501510851
+      },
+      "departamento": {
+        "id": "86014",
+        "nombre": "Alberdi"
+      },
+      "id": "86014010",
+      "localidad_censal": {
+        "id": "86014010",
+        "nombre": "Campo Gallo"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Campo Gallo",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.6905981377104,
+        "lon": -63.559210449885
+      },
+      "departamento": {
+        "id": "86014",
+        "nombre": "Alberdi"
+      },
+      "id": "86014050",
+      "localidad_censal": {
+        "id": "86014050",
+        "nombre": "Santos Lugares"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Santos Lugares",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86014"
+    ]
+  },
+  "total": 5
+}

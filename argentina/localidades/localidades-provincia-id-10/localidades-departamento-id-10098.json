@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.1793924720551,
+        "lon": -65.4953879475228
+      },
+      "departamento": {
+        "id": "10098",
+        "nombre": "Santa Rosa"
+      },
+      "id": "10098010",
+      "localidad_censal": {
+        "id": "10098010",
+        "nombre": "Alijilán"
+      },
+      "municipio": {
+        "id": "100213",
+        "nombre": "Los Altos"
+      },
+      "nombre": "Alijilán",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.1062870281431,
+        "lon": -65.3192566899895
+      },
+      "departamento": {
+        "id": "10098",
+        "nombre": "Santa Rosa"
+      },
+      "id": "10098020",
+      "localidad_censal": {
+        "id": "10098020",
+        "nombre": "Bañado de Ovanta"
+      },
+      "municipio": {
+        "id": "100217",
+        "nombre": "Santa Rosa"
+      },
+      "nombre": "Bañado de Ovanta",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.2047223578394,
+        "lon": -65.2143862351425
+      },
+      "departamento": {
+        "id": "10098",
+        "nombre": "Santa Rosa"
+      },
+      "id": "10098030",
+      "localidad_censal": {
+        "id": "10098030",
+        "nombre": "Las Cañas"
+      },
+      "municipio": {
+        "id": "100217",
+        "nombre": "Santa Rosa"
+      },
+      "nombre": "Las Cañas",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -28.1950298939033,
+        "lon": -65.1143349474296
+      },
+      "departamento": {
+        "id": "10098",
+        "nombre": "Santa Rosa"
+      },
+      "id": "10098040",
+      "localidad_censal": {
+        "id": "10098040",
+        "nombre": "Lavalle"
+      },
+      "municipio": {
+        "id": "100217",
+        "nombre": "Santa Rosa"
+      },
+      "nombre": "Lavalle",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.0450070405238,
+        "lon": -65.4976362162721
+      },
+      "departamento": {
+        "id": "10098",
+        "nombre": "Santa Rosa"
+      },
+      "id": "10098050",
+      "localidad_censal": {
+        "id": "10098050",
+        "nombre": "Los Altos"
+      },
+      "municipio": {
+        "id": "100213",
+        "nombre": "Los Altos"
+      },
+      "nombre": "Los Altos",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.1432052440113,
+        "lon": -65.4967868581846
+      },
+      "departamento": {
+        "id": "10098",
+        "nombre": "Santa Rosa"
+      },
+      "id": "10098060",
+      "localidad_censal": {
+        "id": "10098060",
+        "nombre": "Manantiales"
+      },
+      "municipio": {
+        "id": "100213",
+        "nombre": "Los Altos"
+      },
+      "nombre": "Manantiales",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.956622281426,
+        "lon": -65.1711750391747
+      },
+      "departamento": {
+        "id": "10098",
+        "nombre": "Santa Rosa"
+      },
+      "id": "10098070",
+      "localidad_censal": {
+        "id": "10098070",
+        "nombre": "San Pedro"
+      },
+      "municipio": {
+        "id": "100217",
+        "nombre": "Santa Rosa"
+      },
+      "nombre": "San Pedro",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "10098"
+    ]
+  },
+  "total": 7
+}

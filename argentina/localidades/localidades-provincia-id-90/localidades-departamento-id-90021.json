@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3357762348,
+        "lon": -65.6544317317101
+      },
+      "departamento": {
+        "id": "90021",
+        "nombre": "Chicligasta"
+      },
+      "id": "90021060",
+      "localidad_censal": {
+        "id": "90021060",
+        "nombre": "Iltico"
+      },
+      "municipio": {
+        "id": "900035",
+        "nombre": "Concepción"
+      },
+      "nombre": "Iltico",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.305917552868,
+        "lon": -65.5768492892713
+      },
+      "departamento": {
+        "id": "90021",
+        "nombre": "Chicligasta"
+      },
+      "id": "90021030",
+      "localidad_censal": {
+        "id": "90021030",
+        "nombre": "Arcadia"
+      },
+      "municipio": {
+        "id": "908175",
+        "nombre": "Arcadia"
+      },
+      "nombre": "Arcadia",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3357898299167,
+        "lon": -65.7573453723611
+      },
+      "departamento": {
+        "id": "90021",
+        "nombre": "Chicligasta"
+      },
+      "id": "90021010",
+      "localidad_censal": {
+        "id": "90021010",
+        "nombre": "Alpachiri"
+      },
+      "municipio": {
+        "id": "908161",
+        "nombre": "Alpachiri y El Molino"
+      },
+      "nombre": "Alpachiri",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.4142855671272,
+        "lon": -65.5167750952965
+      },
+      "departamento": {
+        "id": "90021",
+        "nombre": "Chicligasta"
+      },
+      "id": "90021070",
+      "localidad_censal": {
+        "id": "90021070",
+        "nombre": "La Trinidad"
+      },
+      "municipio": {
+        "id": "908189",
+        "nombre": "La Trinidad"
+      },
+      "nombre": "La Trinidad",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3776265089749,
+        "lon": -65.6081216579867
+      },
+      "departamento": {
+        "id": "90021",
+        "nombre": "Chicligasta"
+      },
+      "id": "90021020",
+      "localidad_censal": {
+        "id": "90021020",
+        "nombre": "Alto Verde"
+      },
+      "municipio": {
+        "id": "908168",
+        "nombre": "Alto Verde y Los Guchea"
+      },
+      "nombre": "Alto Verde",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.3459204394834,
+        "lon": -65.5927483028015
+      },
+      "departamento": {
+        "id": "90021",
+        "nombre": "Chicligasta"
+      },
+      "id": "90021050",
+      "localidad_censal": {
+        "id": "90021050",
+        "nombre": "Concepción"
+      },
+      "municipio": {
+        "id": "900035",
+        "nombre": "Concepción"
+      },
+      "nombre": "Concepción",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.4218982652989,
+        "lon": -65.5328770686608
+      },
+      "departamento": {
+        "id": "90021",
+        "nombre": "Chicligasta"
+      },
+      "id": "90021080",
+      "localidad_censal": {
+        "id": "90021080",
+        "nombre": "Medina"
+      },
+      "municipio": {
+        "id": "908196",
+        "nombre": "Medina"
+      },
+      "nombre": "Medina",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "90021"
+    ]
+  },
+  "total": 7
+}

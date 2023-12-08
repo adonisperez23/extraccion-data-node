@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.6866516745676,
+        "lon": -60.7280308347642
+      },
+      "departamento": {
+        "id": "22070",
+        "nombre": "Independencia"
+      },
+      "id": "22070010",
+      "localidad_censal": {
+        "id": "22070010",
+        "nombre": "Avia Terai"
+      },
+      "municipio": {
+        "id": "220210",
+        "nombre": "Avia Terai"
+      },
+      "nombre": "Avia Terai",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.800310492313,
+        "lon": -60.8390178666289
+      },
+      "departamento": {
+        "id": "22070",
+        "nombre": "Independencia"
+      },
+      "id": "22070020",
+      "localidad_censal": {
+        "id": "22070020",
+        "nombre": "Campo Largo"
+      },
+      "municipio": {
+        "id": "220217",
+        "nombre": "Campo Largo"
+      },
+      "nombre": "Campo Largo",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.8843533265014,
+        "lon": -60.9095629682866
+      },
+      "departamento": {
+        "id": "22070",
+        "nombre": "Independencia"
+      },
+      "id": "22070030",
+      "localidad_censal": {
+        "id": "22070030",
+        "nombre": "Fortín Las Chuñas"
+      },
+      "municipio": {
+        "id": "220217",
+        "nombre": "Campo Largo"
+      },
+      "nombre": "Fortín Las Chuñas",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.7295871127198,
+        "lon": -60.6167760570049
+      },
+      "departamento": {
+        "id": "22070",
+        "nombre": "Independencia"
+      },
+      "id": "22070040",
+      "localidad_censal": {
+        "id": "22070040",
+        "nombre": "Napenay"
+      },
+      "municipio": {
+        "id": "220224",
+        "nombre": "Napenay"
+      },
+      "nombre": "Napenay",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22070"
+    ]
+  },
+  "total": 4
+}

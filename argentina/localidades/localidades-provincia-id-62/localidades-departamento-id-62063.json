@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -38.990834299905,
+        "lon": -64.095825075091
+      },
+      "departamento": {
+        "id": "62063",
+        "nombre": "Pichi Mahuida"
+      },
+      "id": "62063020",
+      "localidad_censal": {
+        "id": "62063020",
+        "nombre": "Río Colorado"
+      },
+      "municipio": {
+        "id": "620210",
+        "nombre": "Río Colorado"
+      },
+      "nombre": "Río Colorado",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.0453834557247,
+        "lon": -63.9971952923328
+      },
+      "departamento": {
+        "id": "62063",
+        "nombre": "Pichi Mahuida"
+      },
+      "id": "62063005",
+      "localidad_censal": {
+        "id": "62063005",
+        "nombre": "Barrio Esperanza"
+      },
+      "municipio": {
+        "id": "620210",
+        "nombre": "Río Colorado"
+      },
+      "nombre": "Barrio Esperanza",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.0345591542259,
+        "lon": -64.0284669321478
+      },
+      "departamento": {
+        "id": "62063",
+        "nombre": "Pichi Mahuida"
+      },
+      "id": "62063010",
+      "localidad_censal": {
+        "id": "62063010",
+        "nombre": "Colonia Juliá y Echarren"
+      },
+      "municipio": {
+        "id": "620210",
+        "nombre": "Río Colorado"
+      },
+      "nombre": "Colonia Juliá y Echarren",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.0177205754275,
+        "lon": -64.0658018261817
+      },
+      "departamento": {
+        "id": "62063",
+        "nombre": "Pichi Mahuida"
+      },
+      "id": "62063013",
+      "localidad_censal": {
+        "id": "62063013",
+        "nombre": "Juventud Unida"
+      },
+      "municipio": {
+        "id": "620210",
+        "nombre": "Río Colorado"
+      },
+      "nombre": "Juventud Unida",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.8319697473405,
+        "lon": -64.934027800074
+      },
+      "departamento": {
+        "id": "62063",
+        "nombre": "Pichi Mahuida"
+      },
+      "id": "62063017",
+      "localidad_censal": {
+        "id": "62063017",
+        "nombre": "Pichi Mahuida"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Pichi Mahuida",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.8239990547776,
+        "lon": -64.8207309356755
+      },
+      "departamento": {
+        "id": "62063",
+        "nombre": "Pichi Mahuida"
+      },
+      "id": "62063060",
+      "localidad_censal": {
+        "id": "62063060",
+        "nombre": "Salto Andersen"
+      },
+      "municipio": {
+        "id": "620210",
+        "nombre": "Río Colorado"
+      },
+      "nombre": "Salto Andersen",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "62063"
+    ]
+  },
+  "total": 6
+}

@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.0505033699186,
+        "lon": -68.5609120309006
+      },
+      "departamento": {
+        "id": "50098",
+        "nombre": "San Martín"
+      },
+      "id": "5009810001",
+      "localidad_censal": {
+        "id": "50098100",
+        "nombre": "San Martín - La Colonia"
+      },
+      "municipio": {
+        "id": "500098",
+        "nombre": "San Martín"
+      },
+      "nombre": "Palmira",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.080687120099,
+        "lon": -68.470450704339
+      },
+      "departamento": {
+        "id": "50098",
+        "nombre": "San Martín"
+      },
+      "id": "5009810002",
+      "localidad_censal": {
+        "id": "50098100",
+        "nombre": "San Martín - La Colonia"
+      },
+      "municipio": {
+        "id": "500098",
+        "nombre": "San Martín"
+      },
+      "nombre": "San Martín",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1195708553263,
+        "lon": -68.406751269802
+      },
+      "departamento": {
+        "id": "50098",
+        "nombre": "San Martín"
+      },
+      "id": "50098020",
+      "localidad_censal": {
+        "id": "50098020",
+        "nombre": "Alto Verde"
+      },
+      "municipio": {
+        "id": "500035",
+        "nombre": "Junín"
+      },
+      "nombre": "Alto Verde",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0419589980266,
+        "lon": -68.3527068774072
+      },
+      "departamento": {
+        "id": "50098",
+        "nombre": "San Martín"
+      },
+      "id": "50098030",
+      "localidad_censal": {
+        "id": "50098030",
+        "nombre": "Barrio Chivilcoy"
+      },
+      "municipio": {
+        "id": "500098",
+        "nombre": "San Martín"
+      },
+      "nombre": "Barrio Chivilcoy",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1548859827217,
+        "lon": -68.3555391557339
+      },
+      "departamento": {
+        "id": "50098",
+        "nombre": "San Martín"
+      },
+      "id": "50098045",
+      "localidad_censal": {
+        "id": "50098045",
+        "nombre": "Alto Verde"
+      },
+      "municipio": {
+        "id": "500035",
+        "nombre": "Junín"
+      },
+      "nombre": "Barrio La Estación",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.9961930922983,
+        "lon": -68.278228450411
+      },
+      "departamento": {
+        "id": "50098",
+        "nombre": "San Martín"
+      },
+      "id": "50098050",
+      "localidad_censal": {
+        "id": "50098050",
+        "nombre": "Barrio Los Charabones"
+      },
+      "municipio": {
+        "id": "500098",
+        "nombre": "San Martín"
+      },
+      "nombre": "Barrio Los Charabones",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.125358284827,
+        "lon": -68.347895174128
+      },
+      "departamento": {
+        "id": "50098",
+        "nombre": "San Martín"
+      },
+      "id": "50098055",
+      "localidad_censal": {
+        "id": "50098055",
+        "nombre": "Barrio Nuestra Señora de Fátima"
+      },
+      "municipio": {
+        "id": "500098",
+        "nombre": "San Martín"
+      },
+      "nombre": "Barrio Ntra. Sra. De Fátima",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0426645917974,
+        "lon": -68.447913373425
+      },
+      "departamento": {
+        "id": "50098",
+        "nombre": "San Martín"
+      },
+      "id": "50098070",
+      "localidad_censal": {
+        "id": "50098070",
+        "nombre": "Chivilcoy"
+      },
+      "municipio": {
+        "id": "500098",
+        "nombre": "San Martín"
+      },
+      "nombre": "Chivilcoy",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0748874189334,
+        "lon": -68.3968319496423
+      },
+      "departamento": {
+        "id": "50098",
+        "nombre": "San Martín"
+      },
+      "id": "50098073",
+      "localidad_censal": {
+        "id": "50098073",
+        "nombre": "El Espino"
+      },
+      "municipio": {
+        "id": "500098",
+        "nombre": "San Martín"
+      },
+      "nombre": "El Espino",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1573516150859,
+        "lon": -68.2955439092712
+      },
+      "departamento": {
+        "id": "50098",
+        "nombre": "San Martín"
+      },
+      "id": "50098077",
+      "localidad_censal": {
+        "id": "50098077",
+        "nombre": "El Ramblón"
+      },
+      "municipio": {
+        "id": "500098",
+        "nombre": "San Martín"
+      },
+      "nombre": "El Ramblón",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "50098"
+    ]
+  },
+  "total": 16
+}

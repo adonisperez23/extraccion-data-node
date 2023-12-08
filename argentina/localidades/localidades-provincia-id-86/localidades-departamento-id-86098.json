@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9328457136607,
+        "lon": -63.4301522032626
+      },
+      "departamento": {
+        "id": "86098",
+        "nombre": "Juan Felipe Ibarra"
+      },
+      "id": "86098040",
+      "localidad_censal": {
+        "id": "86098040",
+        "nombre": "Suncho Corral"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Suncho Corral",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9612197852104,
+        "lon": -62.6089381971909
+      },
+      "departamento": {
+        "id": "86098",
+        "nombre": "Juan Felipe Ibarra"
+      },
+      "id": "86098050",
+      "localidad_censal": {
+        "id": "86098050",
+        "nombre": "Vilelas"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Vilelas",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.7808539046501,
+        "lon": -62.9752638344764
+      },
+      "departamento": {
+        "id": "86098",
+        "nombre": "Juan Felipe Ibarra"
+      },
+      "id": "86098060",
+      "localidad_censal": {
+        "id": "86098060",
+        "nombre": "Yuchán"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Yuchán",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.2283768708794,
+        "lon": -61.8020755659887
+      },
+      "departamento": {
+        "id": "86098",
+        "nombre": "Juan Felipe Ibarra"
+      },
+      "id": "86098020",
+      "localidad_censal": {
+        "id": "86098020",
+        "nombre": "El Cuadrado"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Cuadrado",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9145343508582,
+        "lon": -62.177357286496
+      },
+      "departamento": {
+        "id": "86098",
+        "nombre": "Juan Felipe Ibarra"
+      },
+      "id": "86098010",
+      "localidad_censal": {
+        "id": "86098010",
+        "nombre": "El Colorado"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Colorado",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.110413912625,
+        "lon": -63.1950712509572
+      },
+      "departamento": {
+        "id": "86098",
+        "nombre": "Juan Felipe Ibarra"
+      },
+      "id": "86098030",
+      "localidad_censal": {
+        "id": "86098030",
+        "nombre": "Villa Matará"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Matará",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86098"
+    ]
+  },
+  "total": 6
+}

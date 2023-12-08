@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -23.2260147116547,
+        "lon": -64.0919626744667
+      },
+      "departamento": {
+        "id": "66056",
+        "nombre": "General José de San Martín"
+      },
+      "id": "6605609002",
+      "localidad_censal": {
+        "id": "66056090",
+        "nombre": "Embarcación"
+      },
+      "municipio": {
+        "id": "660133",
+        "nombre": "Embarcación"
+      },
+      "nombre": "Misión Tierras Fiscales",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -22.5995511048695,
+        "lon": -63.8113270912528
+      },
+      "departamento": {
+        "id": "66056",
+        "nombre": "General José de San Martín"
+      },
+      "id": "6605611001",
+      "localidad_censal": {
+        "id": "66056110",
+        "nombre": "General Mosconi"
+      },
+      "municipio": {
+        "id": "660147",
+        "nombre": "General Mosconi"
+      },
+      "nombre": "General Mosconi",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -23.2077625709462,
+        "lon": -64.0949438566909
+      },
+      "departamento": {
+        "id": "66056",
+        "nombre": "General José de San Martín"
+      },
+      "id": "6605609001",
+      "localidad_censal": {
+        "id": "66056090",
+        "nombre": "Embarcación"
+      },
+      "municipio": {
+        "id": "660133",
+        "nombre": "Embarcación"
+      },
+      "nombre": "Embarcación",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -22.5770577021568,
+        "lon": -63.8063168009714
+      },
+      "departamento": {
+        "id": "66056",
+        "nombre": "General José de San Martín"
+      },
+      "id": "6605611002",
+      "localidad_censal": {
+        "id": "66056110",
+        "nombre": "General Mosconi"
+      },
+      "municipio": {
+        "id": "660147",
+        "nombre": "General Mosconi"
+      },
+      "nombre": "Recaredo",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.5961686078928,
+        "lon": -63.8109993827198
+      },
+      "departamento": {
+        "id": "66056",
+        "nombre": "General José de San Martín"
+      },
+      "id": "66056110",
+      "localidad_censal": {
+        "id": "66056110",
+        "nombre": "General Mosconi"
+      },
+      "municipio": {
+        "id": "660147",
+        "nombre": "General Mosconi"
+      },
+      "nombre": "General Mosconi",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.2184391133373,
+        "lon": -63.844126508787
+      },
+      "departamento": {
+        "id": "66056",
+        "nombre": "General José de San Martín"
+      },
+      "id": "66056180",
+      "localidad_censal": {
+        "id": "66056180",
+        "nombre": "Padre Lozano"
+      },
+      "municipio": {
+        "id": "660133",
+        "nombre": "Embarcación"
+      },
+      "nombre": "Padre Lozano",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.1480802777509,
+        "lon": -63.712941162492
+      },
+      "departamento": {
+        "id": "66056",
+        "nombre": "General José de San Martín"
+      },
+      "id": "66056230",
+      "localidad_censal": {
+        "id": "66056230",
+        "nombre": "Tobantirenda"
+      },
+      "municipio": {
+        "id": "660126",
+        "nombre": "Aguaray"
+      },
+      "nombre": "Tobantirenda",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.7369036928268,
+        "lon": -63.8188965074591
+      },
+      "departamento": {
+        "id": "66056",
+        "nombre": "General José de San Martín"
+      },
+      "id": "66056070",
+      "localidad_censal": {
+        "id": "66056070",
+        "nombre": "Coronel Cornejo"
+      },
+      "municipio": {
+        "id": "660147",
+        "nombre": "General Mosconi"
+      },
+      "nombre": "Coronel Cornejo",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.1108543212477,
+        "lon": -63.9996510539197
+      },
+      "departamento": {
+        "id": "66056",
+        "nombre": "General José de San Martín"
+      },
+      "id": "66056030",
+      "localidad_censal": {
+        "id": "66056030",
+        "nombre": "Campichuelo"
+      },
+      "municipio": {
+        "id": "660133",
+        "nombre": "Embarcación"
+      },
+      "nombre": "Campichuelo",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -22.5168183262948,
+        "lon": -63.8056049178567
+      },
+      "departamento": {
+        "id": "66056",
+        "nombre": "General José de San Martín"
+      },
+      "id": "66056220",
+      "localidad_censal": {
+        "id": "66056220",
+        "nombre": "Tartagal"
+      },
+      "municipio": {
+        "id": "660161",
+        "nombre": "Tartagal"
+      },
+      "nombre": "Tartagal",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66056"
+    ]
+  },
+  "total": 25
+}

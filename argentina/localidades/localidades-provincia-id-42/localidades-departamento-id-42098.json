@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.2642784211513,
+        "lon": -65.5111739287674
+      },
+      "departamento": {
+        "id": "42098",
+        "nombre": "Loventué"
+      },
+      "id": "42098040",
+      "localidad_censal": {
+        "id": "42098040",
+        "nombre": "Telén"
+      },
+      "municipio": {
+        "id": "420350",
+        "nombre": "Telén"
+      },
+      "nombre": "Telén",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.4749257307713,
+        "lon": -65.3446564920527
+      },
+      "departamento": {
+        "id": "42098",
+        "nombre": "Loventué"
+      },
+      "id": "42098010",
+      "localidad_censal": {
+        "id": "42098010",
+        "nombre": "Carro Quemado"
+      },
+      "municipio": {
+        "id": "420070",
+        "nombre": "Carro Quemado"
+      },
+      "nombre": "Carro Quemado",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.1888953927316,
+        "lon": -65.289332461436
+      },
+      "departamento": {
+        "id": "42098",
+        "nombre": "Loventué"
+      },
+      "id": "42098020",
+      "localidad_censal": {
+        "id": "42098020",
+        "nombre": "Loventué"
+      },
+      "municipio": {
+        "id": "425091",
+        "nombre": "Loventué"
+      },
+      "nombre": "Loventué",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.2039526749804,
+        "lon": -65.0996511363574
+      },
+      "departamento": {
+        "id": "42098",
+        "nombre": "Loventué"
+      },
+      "id": "42098030",
+      "localidad_censal": {
+        "id": "42098030",
+        "nombre": "Luan Toro"
+      },
+      "municipio": {
+        "id": "420224",
+        "nombre": "Luan Toro"
+      },
+      "nombre": "Luan Toro",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.2165368686585,
+        "lon": -65.4370864153489
+      },
+      "departamento": {
+        "id": "42098",
+        "nombre": "Loventué"
+      },
+      "id": "42098050",
+      "localidad_censal": {
+        "id": "42098050",
+        "nombre": "Victorica"
+      },
+      "municipio": {
+        "id": "420399",
+        "nombre": "Victorica"
+      },
+      "nombre": "Victorica",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42098"
+    ]
+  },
+  "total": 5
+}

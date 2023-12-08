@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.3914863100084,
+        "lon": -62.4199534605415
+      },
+      "departamento": {
+        "id": "06154",
+        "nombre": "Carlos Tejedor"
+      },
+      "id": "06154010",
+      "localidad_censal": {
+        "id": "06154010",
+        "nombre": "Carlos Tejedor"
+      },
+      "municipio": {
+        "id": "060154",
+        "nombre": "Carlos Tejedor"
+      },
+      "nombre": "Carlos Tejedor",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.4364703945579,
+        "lon": -62.7279291284189
+      },
+      "departamento": {
+        "id": "06154",
+        "nombre": "Carlos Tejedor"
+      },
+      "id": "06154020",
+      "localidad_censal": {
+        "id": "06154020",
+        "nombre": "Colonia Seré"
+      },
+      "municipio": {
+        "id": "060154",
+        "nombre": "Carlos Tejedor"
+      },
+      "nombre": "Colonia Seré",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.6409140591985,
+        "lon": -62.1947037330345
+      },
+      "departamento": {
+        "id": "06154",
+        "nombre": "Carlos Tejedor"
+      },
+      "id": "06154030",
+      "localidad_censal": {
+        "id": "06154030",
+        "nombre": "Curarú"
+      },
+      "municipio": {
+        "id": "060154",
+        "nombre": "Carlos Tejedor"
+      },
+      "nombre": "Curarú",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.3475472201356,
+        "lon": -62.222942582609
+      },
+      "departamento": {
+        "id": "06154",
+        "nombre": "Carlos Tejedor"
+      },
+      "id": "06154040",
+      "localidad_censal": {
+        "id": "06154040",
+        "nombre": "Timote"
+      },
+      "municipio": {
+        "id": "060154",
+        "nombre": "Carlos Tejedor"
+      },
+      "nombre": "Timote",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.1955958207681,
+        "lon": -62.7744093028291
+      },
+      "departamento": {
+        "id": "06154",
+        "nombre": "Carlos Tejedor"
+      },
+      "id": "06154050",
+      "localidad_censal": {
+        "id": "06154050",
+        "nombre": "Tres Algarrobos"
+      },
+      "municipio": {
+        "id": "060154",
+        "nombre": "Carlos Tejedor"
+      },
+      "nombre": "Tres Algarrobos",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06154"
+    ]
+  },
+  "total": 5
+}

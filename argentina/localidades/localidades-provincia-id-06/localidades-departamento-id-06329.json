@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.892315571683,
+        "lon": -58.9184657429897
+      },
+      "departamento": {
+        "id": "06329",
+        "nombre": "General Las Heras"
+      },
+      "id": "06329010",
+      "localidad_censal": {
+        "id": "06329010",
+        "nombre": "General Las Heras"
+      },
+      "municipio": {
+        "id": "060329",
+        "nombre": "General Las Heras"
+      },
+      "nombre": "General Hornos",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.9269092899569,
+        "lon": -58.9467069527568
+      },
+      "departamento": {
+        "id": "06329",
+        "nombre": "General Las Heras"
+      },
+      "id": "06329020",
+      "localidad_censal": {
+        "id": "06329020",
+        "nombre": "La Choza"
+      },
+      "municipio": {
+        "id": "060329",
+        "nombre": "General Las Heras"
+      },
+      "nombre": "General Las Heras",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.7828492176329,
+        "lon": -59.1096523555174
+      },
+      "departamento": {
+        "id": "06329",
+        "nombre": "General Las Heras"
+      },
+      "id": "06329030",
+      "localidad_censal": {
+        "id": "06329030",
+        "nombre": "Plomer"
+      },
+      "municipio": {
+        "id": "060329",
+        "nombre": "General Las Heras"
+      },
+      "nombre": "La Choza",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.7945715031134,
+        "lon": -59.0311609495442
+      },
+      "departamento": {
+        "id": "06329",
+        "nombre": "General Las Heras"
+      },
+      "id": "06329050",
+      "localidad_censal": {
+        "id": "06329050",
+        "nombre": "General Hornos"
+      },
+      "municipio": {
+        "id": "060329",
+        "nombre": "General Las Heras"
+      },
+      "nombre": "Plomer",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06329"
+    ]
+  },
+  "total": 4
+}

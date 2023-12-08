@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.981412227885,
+        "lon": -58.3767263751922
+      },
+      "departamento": {
+        "id": "06778",
+        "nombre": "San Vicente"
+      },
+      "id": "0677802001",
+      "localidad_censal": {
+        "id": "06778020",
+        "nombre": "San Vicente"
+      },
+      "municipio": {
+        "id": "060778",
+        "nombre": "San Vicente"
+      },
+      "nombre": "Alejandro Korn",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -35.0259018058616,
+        "lon": -58.4224036148088
+      },
+      "departamento": {
+        "id": "06778",
+        "nombre": "San Vicente"
+      },
+      "id": "0677802002",
+      "localidad_censal": {
+        "id": "06778020",
+        "nombre": "San Vicente"
+      },
+      "municipio": {
+        "id": "060778",
+        "nombre": "San Vicente"
+      },
+      "nombre": "San Vicente",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -35.0738937822194,
+        "lon": -58.2904583823958
+      },
+      "departamento": {
+        "id": "06778",
+        "nombre": "San Vicente"
+      },
+      "id": "0677802003",
+      "localidad_censal": {
+        "id": "06778020",
+        "nombre": "San Vicente"
+      },
+      "municipio": {
+        "id": "060778",
+        "nombre": "San Vicente"
+      },
+      "nombre": "Domselaar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -35.0249088741064,
+        "lon": -58.4240579101395
+      },
+      "departamento": {
+        "id": "06778",
+        "nombre": "San Vicente"
+      },
+      "id": "06778020",
+      "localidad_censal": {
+        "id": "06778020",
+        "nombre": "San Vicente"
+      },
+      "municipio": {
+        "id": "060778",
+        "nombre": "San Vicente"
+      },
+      "nombre": "San Vicente",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06778"
+    ]
+  },
+  "total": 4
+}

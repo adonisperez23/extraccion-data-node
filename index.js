@@ -6,9 +6,13 @@ import {
 import {
   obtenerProvinciasArgentina,
   obtenerDepartamentosPorProvincia,
-  iteradorProvinciasJsonFile
+  obtenerDepartamentosPorProvinciaIndividual,
+  obtenerLocalidadesPorDepartamento,
+  iteradorProvinciasJsonFile,
 } from './argentina/funcionesArgentina.js'
 
 // obtenerProvinciasArgentina(provinciasArgentina)
-obtenerDepartamentosPorProvincia(departamentosPorProvinciaArgentina)
-iteradorProvinciasJsonFile(localidadesPorDepartamentoArgentina)
+// obtenerDepartamentosPorProvincia(departamentosPorProvinciaArgentina)
+// obtenerDepartamentosPorProvinciaIndividual(departamentosPorProvinciaArgentina,{id: "02"})
+// iteradorProvinciasJsonFile(localidadesPorDepartamentoArgentina,'./argentina/departamentos/departamentos-provincia-id-94.json')
+// obtenerLocalidadesPorDepartamento(localidadesPorDepartamentoArgentina,{id:'10077'},1)

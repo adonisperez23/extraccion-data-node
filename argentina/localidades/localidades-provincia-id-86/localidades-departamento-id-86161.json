@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.7854252378707,
+        "lon": -64.1514887620748
+      },
+      "departamento": {
+        "id": "86161",
+        "nombre": "Robles"
+      },
+      "id": "86161050",
+      "localidad_censal": {
+        "id": "86161050",
+        "nombre": "Vilmer"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Vilmer",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.8268338006003,
+        "lon": -64.0587601014225
+      },
+      "departamento": {
+        "id": "86161",
+        "nombre": "Robles"
+      },
+      "id": "86161010",
+      "localidad_censal": {
+        "id": "86161010",
+        "nombre": "Beltrán"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Beltrán",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9253152933844,
+        "lon": -63.8945883785409
+      },
+      "departamento": {
+        "id": "86161",
+        "nombre": "Robles"
+      },
+      "id": "86161030",
+      "localidad_censal": {
+        "id": "86161030",
+        "nombre": "Fernández"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Fernández",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.7275668035483,
+        "lon": -63.8587596656037
+      },
+      "departamento": {
+        "id": "86161",
+        "nombre": "Robles"
+      },
+      "id": "86161020",
+      "localidad_censal": {
+        "id": "86161020",
+        "nombre": "Colonia El Simbolar"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Colonia El Simbolar",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.8745663641349,
+        "lon": -63.9773732942677
+      },
+      "departamento": {
+        "id": "86161",
+        "nombre": "Robles"
+      },
+      "id": "86161040",
+      "localidad_censal": {
+        "id": "86161040",
+        "nombre": "Forres (Est. Chaguar Punco)"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Ingeniero Forres",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86161"
+    ]
+  },
+  "total": 5
+}

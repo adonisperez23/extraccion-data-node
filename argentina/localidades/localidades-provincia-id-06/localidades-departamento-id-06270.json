@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7925035356355,
+        "lon": -58.5246396303008
+      },
+      "departamento": {
+        "id": "06270",
+        "nombre": "Ezeiza"
+      },
+      "id": "0627001001",
+      "localidad_censal": {
+        "id": "06270010",
+        "nombre": "Ezeiza"
+      },
+      "municipio": {
+        "id": "060270",
+        "nombre": "Ezeiza"
+      },
+      "nombre": "Aeropuerto Internacional Ezeiza",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8773939810943,
+        "lon": -58.5075326703501
+      },
+      "departamento": {
+        "id": "06270",
+        "nombre": "Ezeiza"
+      },
+      "id": "0627001002",
+      "localidad_censal": {
+        "id": "06270010",
+        "nombre": "Ezeiza"
+      },
+      "municipio": {
+        "id": "060270",
+        "nombre": "Ezeiza"
+      },
+      "nombre": "Canning",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.9117467019627,
+        "lon": -58.5921665202679
+      },
+      "departamento": {
+        "id": "06270",
+        "nombre": "Ezeiza"
+      },
+      "id": "0627001003",
+      "localidad_censal": {
+        "id": "06270010",
+        "nombre": "Ezeiza"
+      },
+      "municipio": {
+        "id": "060270",
+        "nombre": "Ezeiza"
+      },
+      "nombre": "Carlos Spegazzini",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.852762171254,
+        "lon": -58.5232011263057
+      },
+      "departamento": {
+        "id": "06270",
+        "nombre": "Ezeiza"
+      },
+      "id": "0627001004",
+      "localidad_censal": {
+        "id": "06270010",
+        "nombre": "Ezeiza"
+      },
+      "municipio": {
+        "id": "060270",
+        "nombre": "Ezeiza"
+      },
+      "nombre": "José María Ezeiza",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8755663651384,
+        "lon": -58.5419814148017
+      },
+      "departamento": {
+        "id": "06270",
+        "nombre": "Ezeiza"
+      },
+      "id": "0627001005",
+      "localidad_censal": {
+        "id": "06270010",
+        "nombre": "Ezeiza"
+      },
+      "municipio": {
+        "id": "060270",
+        "nombre": "Ezeiza"
+      },
+      "nombre": "La Unión",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8909591657384,
+        "lon": -58.5665543633085
+      },
+      "departamento": {
+        "id": "06270",
+        "nombre": "Ezeiza"
+      },
+      "id": "0627001006",
+      "localidad_censal": {
+        "id": "06270010",
+        "nombre": "Ezeiza"
+      },
+      "municipio": {
+        "id": "060270",
+        "nombre": "Ezeiza"
+      },
+      "nombre": "Tristán Suárez",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.8543939582115,
+        "lon": -58.524757807358
+      },
+      "departamento": {
+        "id": "06270",
+        "nombre": "Ezeiza"
+      },
+      "id": "06270010",
+      "localidad_censal": {
+        "id": "06270010",
+        "nombre": "Ezeiza"
+      },
+      "municipio": {
+        "id": "060270",
+        "nombre": "Ezeiza"
+      },
+      "nombre": "Ezeiza",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06270"
+    ]
+  },
+  "total": 7
+}

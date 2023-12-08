@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.98199339199,
+        "lon": -55.3182255547661
+      },
+      "departamento": {
+        "id": "54098",
+        "nombre": "San Ignacio"
+      },
+      "id": "54098010",
+      "localidad_censal": {
+        "id": "54098010",
+        "nombre": "Colonia Polana"
+      },
+      "municipio": {
+        "id": "540420",
+        "nombre": "Colonia Polana"
+      },
+      "nombre": "Colonia Polana",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.1294685196132,
+        "lon": -55.5108314506366
+      },
+      "departamento": {
+        "id": "54098",
+        "nombre": "San Ignacio"
+      },
+      "id": "54098020",
+      "localidad_censal": {
+        "id": "54098020",
+        "nombre": "Corpus"
+      },
+      "municipio": {
+        "id": "540427",
+        "nombre": "Corpus Christi"
+      },
+      "nombre": "Corpus",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3554312415588,
+        "lon": -55.3384703486921
+      },
+      "departamento": {
+        "id": "54098",
+        "nombre": "San Ignacio"
+      },
+      "id": "54098030",
+      "localidad_censal": {
+        "id": "54098030",
+        "nombre": "Domingo Savio"
+      },
+      "municipio": {
+        "id": "540462",
+        "nombre": "San Ignacio"
+      },
+      "nombre": "Domingo Savio",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.1078663191089,
+        "lon": -55.3766161319568
+      },
+      "departamento": {
+        "id": "54098",
+        "nombre": "San Ignacio"
+      },
+      "id": "54098040",
+      "localidad_censal": {
+        "id": "54098040",
+        "nombre": "General Urquiza"
+      },
+      "municipio": {
+        "id": "540434",
+        "nombre": "General Urquiza"
+      },
+      "nombre": "General Urquiza",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.1900611618491,
+        "lon": -55.4693193128167
+      },
+      "departamento": {
+        "id": "54098",
+        "nombre": "San Ignacio"
+      },
+      "id": "54098050",
+      "localidad_censal": {
+        "id": "54098050",
+        "nombre": "Gobernador Roca"
+      },
+      "municipio": {
+        "id": "540441",
+        "nombre": "Gobernador Roca"
+      },
+      "nombre": "Gobernador Roca",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.1097342966114,
+        "lon": -55.3444584490473
+      },
+      "departamento": {
+        "id": "54098",
+        "nombre": "San Ignacio"
+      },
+      "id": "54098060",
+      "localidad_censal": {
+        "id": "54098060",
+        "nombre": "Helvecia"
+      },
+      "municipio": {
+        "id": "540448",
+        "nombre": "Hipólito Yrigoyen"
+      },
+      "nombre": "Helvecia",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.0857111252786,
+        "lon": -55.287419647088
+      },
+      "departamento": {
+        "id": "54098",
+        "nombre": "San Ignacio"
+      },
+      "id": "54098070",
+      "localidad_censal": {
+        "id": "54098070",
+        "nombre": "Hipólito Yrigoyen"
+      },
+      "municipio": {
+        "id": "540448",
+        "nombre": "Hipólito Yrigoyen"
+      },
+      "nombre": "Hipólito Yrigoyen",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.9717258466938,
+        "lon": -55.2497234913103
+      },
+      "departamento": {
+        "id": "54098",
+        "nombre": "San Ignacio"
+      },
+      "id": "54098090",
+      "localidad_censal": {
+        "id": "54098090",
+        "nombre": "Oasis"
+      },
+      "municipio": {
+        "id": "540455",
+        "nombre": "Jardín América"
+      },
+      "nombre": "Oasis",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2142458424807,
+        "lon": -55.4200172653031
+      },
+      "departamento": {
+        "id": "54098",
+        "nombre": "San Ignacio"
+      },
+      "id": "54098100",
+      "localidad_censal": {
+        "id": "54098100",
+        "nombre": "Roca Chica"
+      },
+      "municipio": {
+        "id": "540441",
+        "nombre": "Gobernador Roca"
+      },
+      "nombre": "Roca Chica",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2586133303264,
+        "lon": -55.5389747941103
+      },
+      "departamento": {
+        "id": "54098",
+        "nombre": "San Ignacio"
+      },
+      "id": "54098110",
+      "localidad_censal": {
+        "id": "54098110",
+        "nombre": "San Ignacio"
+      },
+      "municipio": {
+        "id": "540462",
+        "nombre": "San Ignacio"
+      },
+      "nombre": "San Ignacio",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "54098"
+    ]
+  },
+  "total": 13
+}

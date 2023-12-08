@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.2083919072983,
+        "lon": -61.3552420947011
+      },
+      "departamento": {
+        "id": "06294",
+        "nombre": "General Arenales"
+      },
+      "id": "06294010",
+      "localidad_censal": {
+        "id": "06294010",
+        "nombre": "Arribeños"
+      },
+      "municipio": {
+        "id": "060294",
+        "nombre": "General Arenales"
+      },
+      "nombre": "Arribeños",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.2309522616024,
+        "lon": -61.1032209784133
+      },
+      "departamento": {
+        "id": "06294",
+        "nombre": "General Arenales"
+      },
+      "id": "06294020",
+      "localidad_censal": {
+        "id": "06294020",
+        "nombre": "Ascensión"
+      },
+      "municipio": {
+        "id": "060294",
+        "nombre": "General Arenales"
+      },
+      "nombre": "Ascensión",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.2708851260597,
+        "lon": -61.2936216739099
+      },
+      "departamento": {
+        "id": "06294",
+        "nombre": "General Arenales"
+      },
+      "id": "06294030",
+      "localidad_censal": {
+        "id": "06294030",
+        "nombre": "Estación Arenales"
+      },
+      "municipio": {
+        "id": "060294",
+        "nombre": "General Arenales"
+      },
+      "nombre": "Estación Arenales",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.1225764933129,
+        "lon": -61.1333856353918
+      },
+      "departamento": {
+        "id": "06294",
+        "nombre": "General Arenales"
+      },
+      "id": "06294040",
+      "localidad_censal": {
+        "id": "06294040",
+        "nombre": "Ferré"
+      },
+      "municipio": {
+        "id": "060294",
+        "nombre": "General Arenales"
+      },
+      "nombre": "Ferré",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.3033240029118,
+        "lon": -61.3070338888986
+      },
+      "departamento": {
+        "id": "06294",
+        "nombre": "General Arenales"
+      },
+      "id": "06294050",
+      "localidad_censal": {
+        "id": "06294050",
+        "nombre": "General Arenales"
+      },
+      "municipio": {
+        "id": "060294",
+        "nombre": "General Arenales"
+      },
+      "nombre": "General Arenales",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.2617939398441,
+        "lon": -60.9661080082445
+      },
+      "departamento": {
+        "id": "06294",
+        "nombre": "General Arenales"
+      },
+      "id": "06294060",
+      "localidad_censal": {
+        "id": "06294060",
+        "nombre": "La Angelita"
+      },
+      "municipio": {
+        "id": "060294",
+        "nombre": "General Arenales"
+      },
+      "nombre": "La Angelita",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.1070008226694,
+        "lon": -61.1327498008198
+      },
+      "departamento": {
+        "id": "06294",
+        "nombre": "General Arenales"
+      },
+      "id": "06294070",
+      "localidad_censal": {
+        "id": "06294070",
+        "nombre": "La Trinidad"
+      },
+      "municipio": {
+        "id": "060294",
+        "nombre": "General Arenales"
+      },
+      "nombre": "La Trinidad",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06294"
+    ]
+  },
+  "total": 7
+}

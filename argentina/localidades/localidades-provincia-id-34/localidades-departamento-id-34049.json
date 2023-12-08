@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.2860808806453,
+        "lon": -57.7224081997743
+      },
+      "departamento": {
+        "id": "34049",
+        "nombre": "Pilcomayo"
+      },
+      "id": "34049010",
+      "localidad_censal": {
+        "id": "34049010",
+        "nombre": "Clorinda"
+      },
+      "municipio": {
+        "id": "340189",
+        "nombre": "Clorinda"
+      },
+      "nombre": "Clorinda",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.12626429608,
+        "lon": -58.2404572822145
+      },
+      "departamento": {
+        "id": "34049",
+        "nombre": "Pilcomayo"
+      },
+      "id": "34049020",
+      "localidad_censal": {
+        "id": "34049020",
+        "nombre": "Laguna Blanca"
+      },
+      "municipio": {
+        "id": "340196",
+        "nombre": "Laguna Blanca"
+      },
+      "nombre": "Laguna Blanca",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.2227368896608,
+        "lon": -58.121015820204
+      },
+      "departamento": {
+        "id": "34049",
+        "nombre": "Pilcomayo"
+      },
+      "id": "34049030",
+      "localidad_censal": {
+        "id": "34049030",
+        "nombre": "Laguna Naick-Neck"
+      },
+      "municipio": {
+        "id": "340203",
+        "nombre": "Laguna Naick Neck"
+      },
+      "nombre": "Laguna Naick-Neck",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.2479727159914,
+        "lon": -57.9762694815241
+      },
+      "departamento": {
+        "id": "34049",
+        "nombre": "Pilcomayo"
+      },
+      "id": "34049040",
+      "localidad_censal": {
+        "id": "34049040",
+        "nombre": "Palma Sola"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Palma Sola",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.37222440699,
+        "lon": -57.6516064848139
+      },
+      "departamento": {
+        "id": "34049",
+        "nombre": "Pilcomayo"
+      },
+      "id": "34049050",
+      "localidad_censal": {
+        "id": "34049050",
+        "nombre": "Puerto Pilcomayo"
+      },
+      "municipio": {
+        "id": "340189",
+        "nombre": "Clorinda"
+      },
+      "nombre": "Puerto Pilcomayo",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.3606567808655,
+        "lon": -58.2797959108852
+      },
+      "departamento": {
+        "id": "34049",
+        "nombre": "Pilcomayo"
+      },
+      "id": "34049060",
+      "localidad_censal": {
+        "id": "34049060",
+        "nombre": "Riacho He-he"
+      },
+      "municipio": {
+        "id": "340210",
+        "nombre": "Riacho He He"
+      },
+      "nombre": "Riacho He-He",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.4239708655673,
+        "lon": -57.793279659056
+      },
+      "departamento": {
+        "id": "34049",
+        "nombre": "Pilcomayo"
+      },
+      "id": "34049070",
+      "localidad_censal": {
+        "id": "34049070",
+        "nombre": "Riacho Negro"
+      },
+      "municipio": {
+        "id": "340189",
+        "nombre": "Clorinda"
+      },
+      "nombre": "Riacho Negro",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.2036911425663,
+        "lon": -58.3320032247207
+      },
+      "departamento": {
+        "id": "34049",
+        "nombre": "Pilcomayo"
+      },
+      "id": "34049080",
+      "localidad_censal": {
+        "id": "34049080",
+        "nombre": "Siete Palmas"
+      },
+      "municipio": {
+        "id": "345070",
+        "nombre": "Siete Palmas"
+      },
+      "nombre": "Siete Palmas",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "34049"
+    ]
+  },
+  "total": 8
+}

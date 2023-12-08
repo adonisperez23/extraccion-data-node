@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.6223678234584,
+        "lon": -64.3705874466933
+      },
+      "departamento": {
+        "id": "86035",
+        "nombre": "Banda"
+      },
+      "id": "86035120",
+      "localidad_censal": {
+        "id": "86035120",
+        "nombre": "Los Soria"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Los Soria",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.7084972196997,
+        "lon": -64.0231547511015
+      },
+      "departamento": {
+        "id": "86035",
+        "nombre": "Banda"
+      },
+      "id": "86035040",
+      "localidad_censal": {
+        "id": "86035040",
+        "nombre": "Cañada Escobar"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Cañada Escobar",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.6526031284249,
+        "lon": -64.3549548145901
+      },
+      "departamento": {
+        "id": "86035",
+        "nombre": "Banda"
+      },
+      "id": "86035110",
+      "localidad_censal": {
+        "id": "86035110",
+        "nombre": "Los Quiroga"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Los Quiroga",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2901647703583,
+        "lon": -64.3781755909206
+      },
+      "departamento": {
+        "id": "86035",
+        "nombre": "Banda"
+      },
+      "id": "86035010",
+      "localidad_censal": {
+        "id": "86035010",
+        "nombre": "Abra Grande"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Abra Grande",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4959402813048,
+        "lon": -64.2306649546912
+      },
+      "departamento": {
+        "id": "86035",
+        "nombre": "Banda"
+      },
+      "id": "86035080",
+      "localidad_censal": {
+        "id": "86035080",
+        "nombre": "La Aurora"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "La Aurora",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5805642853857,
+        "lon": -64.1352255769305
+      },
+      "departamento": {
+        "id": "86035",
+        "nombre": "Banda"
+      },
+      "id": "86035060",
+      "localidad_censal": {
+        "id": "86035060",
+        "nombre": "Clodomira"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Clodomira",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4120561654814,
+        "lon": -64.4993209001353
+      },
+      "departamento": {
+        "id": "86035",
+        "nombre": "Banda"
+      },
+      "id": "86035030",
+      "localidad_censal": {
+        "id": "86035030",
+        "nombre": "Ardiles"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Ardiles",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.6229194663803,
+        "lon": -64.2546011500411
+      },
+      "departamento": {
+        "id": "86035",
+        "nombre": "Banda"
+      },
+      "id": "86035020",
+      "localidad_censal": {
+        "id": "86035020",
+        "nombre": "Antajé"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Antajé",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5069327538884,
+        "lon": -64.4198407399146
+      },
+      "departamento": {
+        "id": "86035",
+        "nombre": "Banda"
+      },
+      "id": "86035050",
+      "localidad_censal": {
+        "id": "86035050",
+        "nombre": "Chaupi Pozo"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Chaupi Pozo",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.698419950162,
+        "lon": -64.2883429926439
+      },
+      "departamento": {
+        "id": "86035",
+        "nombre": "Banda"
+      },
+      "id": "86035100",
+      "localidad_censal": {
+        "id": "86035100",
+        "nombre": "San Ramón - La Dársena"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "La Dársena",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86035"
+    ]
+  },
+  "total": 15
+}

@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.0202869812865,
+        "lon": -57.1033880422358
+      },
+      "departamento": {
+        "id": "06315",
+        "nombre": "General Juan Madariaga"
+      },
+      "id": "0631501001",
+      "localidad_censal": {
+        "id": "06315010",
+        "nombre": "General Juan Madariaga"
+      },
+      "municipio": {
+        "id": "060315",
+        "nombre": "General Juan Madariaga"
+      },
+      "nombre": "Barrio Kennedy",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.0019581688764,
+        "lon": -57.1358378165266
+      },
+      "departamento": {
+        "id": "06315",
+        "nombre": "General Juan Madariaga"
+      },
+      "id": "0631501002",
+      "localidad_censal": {
+        "id": "06315010",
+        "nombre": "General Juan Madariaga"
+      },
+      "municipio": {
+        "id": "060315",
+        "nombre": "General Juan Madariaga"
+      },
+      "nombre": "General Juan Madariaga",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.9952919453552,
+        "lon": -57.1368612559837
+      },
+      "departamento": {
+        "id": "06315",
+        "nombre": "General Juan Madariaga"
+      },
+      "id": "06315010",
+      "localidad_censal": {
+        "id": "06315010",
+        "nombre": "General Juan Madariaga"
+      },
+      "municipio": {
+        "id": "060315",
+        "nombre": "General Juan Madariaga"
+      },
+      "nombre": "General Juan Madariaga",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06315"
+    ]
+  },
+  "total": 3
+}

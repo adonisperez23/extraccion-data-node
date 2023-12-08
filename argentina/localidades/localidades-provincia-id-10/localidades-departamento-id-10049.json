@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -28.4690132409229,
+        "lon": -65.7789173519908
+      },
+      "departamento": {
+        "id": "10049",
+        "nombre": "Capital"
+      },
+      "id": "10049030",
+      "localidad_censal": {
+        "id": "10049030",
+        "nombre": "San Fernando del Valle de Catamarca"
+      },
+      "municipio": {
+        "id": "100140",
+        "nombre": "San Fernando del Valle de Catamarca"
+      },
+      "nombre": "San Fernando del Valle de Catamarca",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "10049"
+    ]
+  },
+  "total": 1
+}

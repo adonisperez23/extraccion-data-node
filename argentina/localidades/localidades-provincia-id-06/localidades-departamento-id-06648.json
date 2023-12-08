@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8832340736186,
+        "lon": -58.417777592315
+      },
+      "departamento": {
+        "id": "06648",
+        "nombre": "Presidente Perón"
+      },
+      "id": "0664801001",
+      "localidad_censal": {
+        "id": "06648010",
+        "nombre": "Presidente Perón"
+      },
+      "municipio": {
+        "id": "060648",
+        "nombre": "Presidente Perón"
+      },
+      "nombre": "Barrio América Unida",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.9179865232138,
+        "lon": -58.3821570439019
+      },
+      "departamento": {
+        "id": "06648",
+        "nombre": "Presidente Perón"
+      },
+      "id": "0664801002",
+      "localidad_censal": {
+        "id": "06648010",
+        "nombre": "Presidente Perón"
+      },
+      "municipio": {
+        "id": "060648",
+        "nombre": "Presidente Perón"
+      },
+      "nombre": "Guernica",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.9177719255835,
+        "lon": -58.3792995365501
+      },
+      "departamento": {
+        "id": "06648",
+        "nombre": "Presidente Perón"
+      },
+      "id": "06648010",
+      "localidad_censal": {
+        "id": "06648010",
+        "nombre": "Presidente Perón"
+      },
+      "municipio": {
+        "id": "060648",
+        "nombre": "Presidente Perón"
+      },
+      "nombre": "Presidente Perón",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06648"
+    ]
+  },
+  "total": 3
+}

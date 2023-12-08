@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -27.0576478657862,
+        "lon": -65.4030561102547
+      },
+      "departamento": {
+        "id": "90028",
+        "nombre": "Famaillá"
+      },
+      "id": "9002803002",
+      "localidad_censal": {
+        "id": "90028030",
+        "nombre": "Famaillá"
+      },
+      "municipio": {
+        "id": "900042",
+        "nombre": "Famaillá"
+      },
+      "nombre": "Famaillá",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -27.0705646218945,
+        "lon": -65.399674305559
+      },
+      "departamento": {
+        "id": "90028",
+        "nombre": "Famaillá"
+      },
+      "id": "9002803001",
+      "localidad_censal": {
+        "id": "90028030",
+        "nombre": "Famaillá"
+      },
+      "municipio": {
+        "id": "900042",
+        "nombre": "Famaillá"
+      },
+      "nombre": "Ex Ingenio Nueva Baviera",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.0545157767945,
+        "lon": -65.4018907516219
+      },
+      "departamento": {
+        "id": "90028",
+        "nombre": "Famaillá"
+      },
+      "id": "90028030",
+      "localidad_censal": {
+        "id": "90028030",
+        "nombre": "Famaillá"
+      },
+      "municipio": {
+        "id": "900042",
+        "nombre": "Famaillá"
+      },
+      "nombre": "Famaillá",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.0263974129574,
+        "lon": -65.345625814105
+      },
+      "departamento": {
+        "id": "90028",
+        "nombre": "Famaillá"
+      },
+      "id": "90028020",
+      "localidad_censal": {
+        "id": "90028020",
+        "nombre": "Campo de Herrera"
+      },
+      "municipio": {
+        "id": "900042",
+        "nombre": "Famaillá"
+      },
+      "nombre": "Campo de Herrera",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.0309271299206,
+        "lon": -65.4603924128984
+      },
+      "departamento": {
+        "id": "90028",
+        "nombre": "Famaillá"
+      },
+      "id": "90028040",
+      "localidad_censal": {
+        "id": "90028040",
+        "nombre": "Ingenio Fronterita"
+      },
+      "municipio": {
+        "id": "900042",
+        "nombre": "Famaillá"
+      },
+      "nombre": "Ingenio Fronterita",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "90028"
+    ]
+  },
+  "total": 5
+}

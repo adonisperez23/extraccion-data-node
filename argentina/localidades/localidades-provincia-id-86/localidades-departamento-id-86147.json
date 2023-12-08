@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5193593877444,
+        "lon": -64.5594338275309
+      },
+      "departamento": {
+        "id": "86147",
+        "nombre": "Río Hondo"
+      },
+      "id": "86147020",
+      "localidad_censal": {
+        "id": "86147020",
+        "nombre": "Chauchillas"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Chauchillas",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4883950430594,
+        "lon": -64.5820256729195
+      },
+      "departamento": {
+        "id": "86147",
+        "nombre": "Río Hondo"
+      },
+      "id": "86147120",
+      "localidad_censal": {
+        "id": "86147120",
+        "nombre": "El Sauzal"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Sauzal",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.234888152151,
+        "lon": -64.6978220260635
+      },
+      "departamento": {
+        "id": "86147",
+        "nombre": "Río Hondo"
+      },
+      "id": "86147040",
+      "localidad_censal": {
+        "id": "86147040",
+        "nombre": "El Charco"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Charco",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3056394982777,
+        "lon": -64.7549367106732
+      },
+      "departamento": {
+        "id": "86147",
+        "nombre": "Río Hondo"
+      },
+      "id": "86147100",
+      "localidad_censal": {
+        "id": "86147100",
+        "nombre": "Pozuelos"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Pozuelos",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4584023184144,
+        "lon": -64.9077717529445
+      },
+      "departamento": {
+        "id": "86147",
+        "nombre": "Río Hondo"
+      },
+      "id": "86147090",
+      "localidad_censal": {
+        "id": "86147090",
+        "nombre": "Mansupa"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Mansupa",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5501934072337,
+        "lon": -64.512494905801
+      },
+      "departamento": {
+        "id": "86147",
+        "nombre": "Río Hondo"
+      },
+      "id": "86147110",
+      "localidad_censal": {
+        "id": "86147110",
+        "nombre": "Rodeo de Valdez"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Rodeo de Valdez",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3788994514735,
+        "lon": -64.7946018412599
+      },
+      "departamento": {
+        "id": "86147",
+        "nombre": "Río Hondo"
+      },
+      "id": "86147170",
+      "localidad_censal": {
+        "id": "86147170",
+        "nombre": "Vinara"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Vinará",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5342208180851,
+        "lon": -64.5288345722073
+      },
+      "departamento": {
+        "id": "86147",
+        "nombre": "Río Hondo"
+      },
+      "id": "86147080",
+      "localidad_censal": {
+        "id": "86147080",
+        "nombre": "Los Nuñez"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Los Núñez",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4148013252756,
+        "lon": -64.9407712301092
+      },
+      "departamento": {
+        "id": "86147",
+        "nombre": "Río Hondo"
+      },
+      "id": "86147030",
+      "localidad_censal": {
+        "id": "86147030",
+        "nombre": "Colonia Tinco"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Colonia Tinco",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4421790702051,
+        "lon": -64.9461088227126
+      },
+      "departamento": {
+        "id": "86147",
+        "nombre": "Río Hondo"
+      },
+      "id": "86147060",
+      "localidad_censal": {
+        "id": "86147060",
+        "nombre": "La Nueva Donosa"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "La Nueva Donosa",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86147"
+    ]
+  },
+  "total": 15
+}

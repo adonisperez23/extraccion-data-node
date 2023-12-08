@@ -1,0 +1,119 @@
+{
+  "cantidad": 9,
+  "departamentos": [
+    {
+      "centroide": {
+        "lat": -25.1053773069172,
+        "lon": -58.6616277481182
+      },
+      "id": "34042",
+      "nombre": "Pilagás",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.4675822193402,
+        "lon": -58.5654632415076
+      },
+      "id": "34021",
+      "nombre": "Laishi",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -25.7672913544641,
+        "lon": -59.1592563969217
+      },
+      "id": "34056",
+      "nombre": "Pirané",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -24.8750081858591,
+        "lon": -59.9584280130313
+      },
+      "id": "34035",
+      "nombre": "Patiño",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -24.0254990220968,
+        "lon": -61.2828611773469
+      },
+      "id": "34007",
+      "nombre": "Bermejo",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -23.8544865427827,
+        "lon": -62.0770650055764
+      },
+      "id": "34028",
+      "nombre": "Matacos",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -23.120377014683,
+        "lon": -62.1378892144612
+      },
+      "id": "34063",
+      "nombre": "Ramón Lista",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -25.9396352320143,
+        "lon": -58.3773174492375
+      },
+      "id": "34014",
+      "nombre": "Formosa",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -25.3700377166163,
+        "lon": -58.0626062654551
+      },
+      "id": "34049",
+      "nombre": "Pilcomayo",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    }
+  ],
+  "inicio": 0,
+  "parametros": {
+    "max": 200,
+    "provincia": "Formosa"
+  },
+  "total": 9
+}

@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.2102719965409,
+        "lon": -64.9270459009988
+      },
+      "departamento": {
+        "id": "66112",
+        "nombre": "Metán"
+      },
+      "id": "66112030",
+      "localidad_censal": {
+        "id": "66112030",
+        "nombre": "Lumbreras"
+      },
+      "municipio": {
+        "id": "660280",
+        "nombre": "Río Piedras"
+      },
+      "nombre": "Lumbreras",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.26615673023,
+        "lon": -64.0758857979017
+      },
+      "departamento": {
+        "id": "66112",
+        "nombre": "Metán"
+      },
+      "id": "66112080",
+      "localidad_censal": {
+        "id": "66112080",
+        "nombre": "San José de Orquera"
+      },
+      "municipio": {
+        "id": "660259",
+        "nombre": "El Galpón"
+      },
+      "nombre": "San José de Orquera",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.253500783235,
+        "lon": -64.3977848116487
+      },
+      "departamento": {
+        "id": "66112",
+        "nombre": "Metán"
+      },
+      "id": "66112020",
+      "localidad_censal": {
+        "id": "66112020",
+        "nombre": "El Tunal"
+      },
+      "municipio": {
+        "id": "660259",
+        "nombre": "El Galpón"
+      },
+      "nombre": "El Tunal",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.3806251856124,
+        "lon": -64.6516192543826
+      },
+      "departamento": {
+        "id": "66112",
+        "nombre": "Metán"
+      },
+      "id": "66112010",
+      "localidad_censal": {
+        "id": "66112010",
+        "nombre": "El Galpón"
+      },
+      "municipio": {
+        "id": "660259",
+        "nombre": "El Galpón"
+      },
+      "nombre": "El Galpón",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.497105506489,
+        "lon": -64.9710598936614
+      },
+      "departamento": {
+        "id": "66112",
+        "nombre": "Metán"
+      },
+      "id": "66112040",
+      "localidad_censal": {
+        "id": "66112040",
+        "nombre": "San José de Metán"
+      },
+      "municipio": {
+        "id": "660266",
+        "nombre": "San José de Metán"
+      },
+      "nombre": "San José de Metán (Est. Metán)",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.3143250298143,
+        "lon": -64.9103816832585
+      },
+      "departamento": {
+        "id": "66112",
+        "nombre": "Metán"
+      },
+      "id": "66112070",
+      "localidad_censal": {
+        "id": "66112070",
+        "nombre": "Rí­o Piedras"
+      },
+      "municipio": {
+        "id": "660280",
+        "nombre": "Río Piedras"
+      },
+      "nombre": "Río Piedras",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66112"
+    ]
+  },
+  "total": 6
+}

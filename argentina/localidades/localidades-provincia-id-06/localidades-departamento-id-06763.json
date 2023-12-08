@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.3490410442337,
+        "lon": -60.3156761852842
+      },
+      "departamento": {
+        "id": "06763",
+        "nombre": "San Nicolás"
+      },
+      "id": "0676304001",
+      "localidad_censal": {
+        "id": "06763040",
+        "nombre": "Erézcano"
+      },
+      "municipio": {
+        "id": "060763",
+        "nombre": "San Nicolás"
+      },
+      "nombre": "La Emilia",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.360724726341,
+        "lon": -60.300046996968
+      },
+      "departamento": {
+        "id": "06763",
+        "nombre": "San Nicolás"
+      },
+      "id": "0676304002",
+      "localidad_censal": {
+        "id": "06763040",
+        "nombre": "Erézcano"
+      },
+      "municipio": {
+        "id": "060763",
+        "nombre": "San Nicolás"
+      },
+      "nombre": "Villa Campi",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.3697926155654,
+        "lon": -60.2952727229451
+      },
+      "departamento": {
+        "id": "06763",
+        "nombre": "San Nicolás"
+      },
+      "id": "0676304003",
+      "localidad_censal": {
+        "id": "06763040",
+        "nombre": "Erézcano"
+      },
+      "municipio": {
+        "id": "060763",
+        "nombre": "San Nicolás"
+      },
+      "nombre": "Villa Canto",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.3643570702242,
+        "lon": -60.2947075669285
+      },
+      "departamento": {
+        "id": "06763",
+        "nombre": "San Nicolás"
+      },
+      "id": "0676304004",
+      "localidad_censal": {
+        "id": "06763040",
+        "nombre": "Erézcano"
+      },
+      "municipio": {
+        "id": "060763",
+        "nombre": "San Nicolás"
+      },
+      "nombre": "Villa Riccio",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.401672448024,
+        "lon": -60.2374682244366
+      },
+      "departamento": {
+        "id": "06763",
+        "nombre": "San Nicolás"
+      },
+      "id": "0676305001",
+      "localidad_censal": {
+        "id": "06763050",
+        "nombre": "San Nicolás de los Arroyos"
+      },
+      "municipio": {
+        "id": "060763",
+        "nombre": "San Nicolás"
+      },
+      "nombre": "Campos Salles",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.3384039563383,
+        "lon": -60.2214955044967
+      },
+      "departamento": {
+        "id": "06763",
+        "nombre": "San Nicolás"
+      },
+      "id": "0676305002",
+      "localidad_censal": {
+        "id": "06763050",
+        "nombre": "San Nicolás de los Arroyos"
+      },
+      "municipio": {
+        "id": "060763",
+        "nombre": "San Nicolás"
+      },
+      "nombre": "San Nicolás de los Arroyos",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.5958037996128,
+        "lon": -60.3557411992853
+      },
+      "departamento": {
+        "id": "06763",
+        "nombre": "San Nicolás"
+      },
+      "id": "06763010",
+      "localidad_censal": {
+        "id": "06763010",
+        "nombre": "General Rojo"
+      },
+      "municipio": {
+        "id": "060763",
+        "nombre": "San Nicolás"
+      },
+      "nombre": "Conesa",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.52346278207,
+        "lon": -60.3166280184361
+      },
+      "departamento": {
+        "id": "06763",
+        "nombre": "San Nicolás"
+      },
+      "id": "06763020",
+      "localidad_censal": {
+        "id": "06763020",
+        "nombre": "Conesa"
+      },
+      "municipio": {
+        "id": "060763",
+        "nombre": "San Nicolás"
+      },
+      "nombre": "Erezcano",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.4747261090956,
+        "lon": -60.2873220904722
+      },
+      "departamento": {
+        "id": "06763",
+        "nombre": "San Nicolás"
+      },
+      "id": "06763030",
+      "localidad_censal": {
+        "id": "06763030",
+        "nombre": "La Emilia"
+      },
+      "municipio": {
+        "id": "060763",
+        "nombre": "San Nicolás"
+      },
+      "nombre": "General Rojo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.3511365748959,
+        "lon": -60.3138057533936
+      },
+      "departamento": {
+        "id": "06763",
+        "nombre": "San Nicolás"
+      },
+      "id": "06763040",
+      "localidad_censal": {
+        "id": "06763040",
+        "nombre": "Erézcano"
+      },
+      "municipio": {
+        "id": "060763",
+        "nombre": "San Nicolás"
+      },
+      "nombre": "La Emilia",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06763"
+    ]
+  },
+  "total": 12
+}

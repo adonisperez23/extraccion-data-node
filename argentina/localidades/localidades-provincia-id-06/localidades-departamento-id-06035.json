@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6837730568077,
+        "lon": -58.3744414837129
+      },
+      "departamento": {
+        "id": "06035",
+        "nombre": "Avellaneda"
+      },
+      "id": "0603501005",
+      "localidad_censal": {
+        "id": "06035010",
+        "nombre": "Avellaneda"
+      },
+      "municipio": {
+        "id": "060035",
+        "nombre": "Avellaneda"
+      },
+      "nombre": "Gerli",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6680837299877,
+        "lon": -58.3877465009579
+      },
+      "departamento": {
+        "id": "06035",
+        "nombre": "Avellaneda"
+      },
+      "id": "0603501006",
+      "localidad_censal": {
+        "id": "06035010",
+        "nombre": "Avellaneda"
+      },
+      "municipio": {
+        "id": "060035",
+        "nombre": "Avellaneda"
+      },
+      "nombre": "Piñeyro",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6817960638597,
+        "lon": -58.3463107872911
+      },
+      "departamento": {
+        "id": "06035",
+        "nombre": "Avellaneda"
+      },
+      "id": "0603501007",
+      "localidad_censal": {
+        "id": "06035010",
+        "nombre": "Avellaneda"
+      },
+      "municipio": {
+        "id": "060035",
+        "nombre": "Avellaneda"
+      },
+      "nombre": "Sarandí",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6945766428955,
+        "lon": -58.3304564528104
+      },
+      "departamento": {
+        "id": "06035",
+        "nombre": "Avellaneda"
+      },
+      "id": "0603501008",
+      "localidad_censal": {
+        "id": "06035010",
+        "nombre": "Avellaneda"
+      },
+      "municipio": {
+        "id": "060035",
+        "nombre": "Avellaneda"
+      },
+      "nombre": "Villa Domínico",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7040788191542,
+        "lon": -58.3172095095929
+      },
+      "departamento": {
+        "id": "06035",
+        "nombre": "Avellaneda"
+      },
+      "id": "0603501009",
+      "localidad_censal": {
+        "id": "06035010",
+        "nombre": "Avellaneda"
+      },
+      "municipio": {
+        "id": "060035",
+        "nombre": "Avellaneda"
+      },
+      "nombre": "Wilde",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6844598100355,
+        "lon": -58.3077371090541
+      },
+      "departamento": {
+        "id": "06035",
+        "nombre": "Avellaneda"
+      },
+      "id": "0603501001",
+      "localidad_censal": {
+        "id": "06035010",
+        "nombre": "Avellaneda"
+      },
+      "municipio": {
+        "id": "060035",
+        "nombre": "Avellaneda"
+      },
+      "nombre": "Área Reserva Cinturón Ecológico",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6638295089907,
+        "lon": -58.3627373569237
+      },
+      "departamento": {
+        "id": "06035",
+        "nombre": "Avellaneda"
+      },
+      "id": "0603501002",
+      "localidad_censal": {
+        "id": "06035010",
+        "nombre": "Avellaneda"
+      },
+      "municipio": {
+        "id": "060035",
+        "nombre": "Avellaneda"
+      },
+      "nombre": "Avellaneda",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6679918825796,
+        "lon": -58.3571256035498
+      },
+      "departamento": {
+        "id": "06035",
+        "nombre": "Avellaneda"
+      },
+      "id": "0603501003",
+      "localidad_censal": {
+        "id": "06035010",
+        "nombre": "Avellaneda"
+      },
+      "municipio": {
+        "id": "060035",
+        "nombre": "Avellaneda"
+      },
+      "nombre": "Crucesita",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6501342165535,
+        "lon": -58.3449022624786
+      },
+      "departamento": {
+        "id": "06035",
+        "nombre": "Avellaneda"
+      },
+      "id": "0603501004",
+      "localidad_censal": {
+        "id": "06035010",
+        "nombre": "Avellaneda"
+      },
+      "municipio": {
+        "id": "060035",
+        "nombre": "Avellaneda"
+      },
+      "nombre": "Dock Sud",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.6626945099355,
+        "lon": -58.3651668560089
+      },
+      "departamento": {
+        "id": "06035",
+        "nombre": "Avellaneda"
+      },
+      "id": "06035010",
+      "localidad_censal": {
+        "id": "06035010",
+        "nombre": "Avellaneda"
+      },
+      "municipio": {
+        "id": "060035",
+        "nombre": "Avellaneda"
+      },
+      "nombre": "Avellaneda",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06035"
+    ]
+  },
+  "total": 10
+}

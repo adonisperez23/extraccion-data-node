@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.8968958265909,
+        "lon": -60.019091373661
+      },
+      "departamento": {
+        "id": "06224",
+        "nombre": "Chivilcoy"
+      },
+      "id": "06224010",
+      "localidad_censal": {
+        "id": "06224010",
+        "nombre": "Chivilcoy"
+      },
+      "municipio": {
+        "id": "060224",
+        "nombre": "Chivilcoy"
+      },
+      "nombre": "Chivilcoy",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.7437279405372,
+        "lon": -60.0391004326896
+      },
+      "departamento": {
+        "id": "06224",
+        "nombre": "Chivilcoy"
+      },
+      "id": "06224020",
+      "localidad_censal": {
+        "id": "06224020",
+        "nombre": "Emilio Ayarza"
+      },
+      "municipio": {
+        "id": "060224",
+        "nombre": "Chivilcoy"
+      },
+      "nombre": "Emilio Ayarza",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.838800215557,
+        "lon": -59.8660115870908
+      },
+      "departamento": {
+        "id": "06224",
+        "nombre": "Chivilcoy"
+      },
+      "id": "06224030",
+      "localidad_censal": {
+        "id": "06224030",
+        "nombre": "Gorostiaga"
+      },
+      "municipio": {
+        "id": "060224",
+        "nombre": "Chivilcoy"
+      },
+      "nombre": "Gorostiaga",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.9730896262373,
+        "lon": -59.8614129802492
+      },
+      "departamento": {
+        "id": "06224",
+        "nombre": "Chivilcoy"
+      },
+      "id": "06224040",
+      "localidad_censal": {
+        "id": "06224040",
+        "nombre": "La Rica"
+      },
+      "municipio": {
+        "id": "060224",
+        "nombre": "Chivilcoy"
+      },
+      "nombre": "La Rica",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.092209149403,
+        "lon": -59.7757105008045
+      },
+      "departamento": {
+        "id": "06224",
+        "nombre": "Chivilcoy"
+      },
+      "id": "06224050",
+      "localidad_censal": {
+        "id": "06224050",
+        "nombre": "Moquehuá"
+      },
+      "municipio": {
+        "id": "060224",
+        "nombre": "Chivilcoy"
+      },
+      "nombre": "Moquehuá",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0872056184083,
+        "lon": -59.9243732016552
+      },
+      "departamento": {
+        "id": "06224",
+        "nombre": "Chivilcoy"
+      },
+      "id": "06224060",
+      "localidad_censal": {
+        "id": "06224060",
+        "nombre": "Ramón Biaus"
+      },
+      "municipio": {
+        "id": "060224",
+        "nombre": "Chivilcoy"
+      },
+      "nombre": "Ramón Biaus",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.942976618687,
+        "lon": -59.702161747242
+      },
+      "departamento": {
+        "id": "06224",
+        "nombre": "Chivilcoy"
+      },
+      "id": "06224070",
+      "localidad_censal": {
+        "id": "06224070",
+        "nombre": "San Sebastián"
+      },
+      "municipio": {
+        "id": "060224",
+        "nombre": "Chivilcoy"
+      },
+      "nombre": "San Sebastián",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06224"
+    ]
+  },
+  "total": 7
+}

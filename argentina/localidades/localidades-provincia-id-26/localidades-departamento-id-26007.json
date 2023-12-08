@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.996304359528,
+        "lon": -65.2931723873599
+      },
+      "departamento": {
+        "id": "26007",
+        "nombre": "Biedma"
+      },
+      "id": "26007010",
+      "localidad_censal": {
+        "id": "26007010",
+        "nombre": "Arroyo Verde"
+      },
+      "municipio": {
+        "id": "620238",
+        "nombre": "Sierra Grande"
+      },
+      "nombre": "Arroyo Verde",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.7672814961937,
+        "lon": -65.0366755877063
+      },
+      "departamento": {
+        "id": "26007",
+        "nombre": "Biedma"
+      },
+      "id": "26007020",
+      "localidad_censal": {
+        "id": "26007020",
+        "nombre": "Puerto Madryn"
+      },
+      "municipio": {
+        "id": "260007",
+        "nombre": "Puerto Madryn"
+      },
+      "nombre": "Puerto Madryn",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.5720910610866,
+        "lon": -64.2841628775217
+      },
+      "departamento": {
+        "id": "26007",
+        "nombre": "Biedma"
+      },
+      "id": "26007030",
+      "localidad_censal": {
+        "id": "26007030",
+        "nombre": "Puerto Pirámides"
+      },
+      "municipio": {
+        "id": "265028",
+        "nombre": "Puerto Pirámides"
+      },
+      "nombre": "Puerto Pirámides",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.8139694814765,
+        "lon": -65.0395251053117
+      },
+      "departamento": {
+        "id": "26007",
+        "nombre": "Biedma"
+      },
+      "id": "26007040",
+      "localidad_censal": {
+        "id": "26007040",
+        "nombre": "Quintas El Mirador"
+      },
+      "municipio": {
+        "id": "260007",
+        "nombre": "Puerto Madryn"
+      },
+      "nombre": "Quintas El Mirador",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.6445045471263,
+        "lon": -65.0400377129512
+      },
+      "departamento": {
+        "id": "26007",
+        "nombre": "Biedma"
+      },
+      "id": "26007050",
+      "localidad_censal": {
+        "id": "26007050",
+        "nombre": "Reserva Area Protegida El Doradillo"
+      },
+      "municipio": {
+        "id": "260007",
+        "nombre": "Puerto Madryn"
+      },
+      "nombre": "Reserva Area Protegida El Doradillo",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "26007"
+    ]
+  },
+  "total": 5
+}

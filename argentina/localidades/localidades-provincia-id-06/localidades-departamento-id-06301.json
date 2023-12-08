@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.7656761988762,
+        "lon": -58.4971632732759
+      },
+      "departamento": {
+        "id": "06301",
+        "nombre": "General Belgrano"
+      },
+      "id": "06301010",
+      "localidad_censal": {
+        "id": "06301010",
+        "nombre": "General Belgrano"
+      },
+      "municipio": {
+        "id": "060301",
+        "nombre": "General Belgrano"
+      },
+      "nombre": "General Belgrano",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.672069646017,
+        "lon": -58.958410415197
+      },
+      "departamento": {
+        "id": "06301",
+        "nombre": "General Belgrano"
+      },
+      "id": "06301020",
+      "localidad_censal": {
+        "id": "06301020",
+        "nombre": "Gorchs"
+      },
+      "municipio": {
+        "id": "060301",
+        "nombre": "General Belgrano"
+      },
+      "nombre": "Gorchs",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06301"
+    ]
+  },
+  "total": 2
+}

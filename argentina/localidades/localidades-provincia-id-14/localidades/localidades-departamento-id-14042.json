@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.2011870055989,
+        "lon": -63.1651247599125
+      },
+      "departamento": {
+        "id": "14042",
+        "nombre": "General San Martín"
+      },
+      "id": "14042010",
+      "localidad_censal": {
+        "id": "14042010",
+        "nombre": "Arroyo Algodon"
+      },
+      "municipio": {
+        "id": "140266",
+        "nombre": "Arroyo Algodón"
+      },
+      "nombre": "Arroyo Algodón",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.489493401271,
+        "lon": -63.4023757740179
+      },
+      "departamento": {
+        "id": "14042",
+        "nombre": "General San Martín"
+      },
+      "id": "14042020",
+      "localidad_censal": {
+        "id": "14042020",
+        "nombre": "Arroyo Cabral"
+      },
+      "municipio": {
+        "id": "140273",
+        "nombre": "Arroyo Cabral"
+      },
+      "nombre": "Arroyo Cabral",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6617950020705,
+        "lon": -63.2431129540741
+      },
+      "departamento": {
+        "id": "14042",
+        "nombre": "General San Martín"
+      },
+      "id": "14042030",
+      "localidad_censal": {
+        "id": "14042030",
+        "nombre": "Ausonia"
+      },
+      "municipio": {
+        "id": "140280",
+        "nombre": "Ausonia"
+      },
+      "nombre": "Ausonia",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0778686830531,
+        "lon": -63.2750688076142
+      },
+      "departamento": {
+        "id": "14042",
+        "nombre": "General San Martín"
+      },
+      "id": "14042040",
+      "localidad_censal": {
+        "id": "14042040",
+        "nombre": "Chazón"
+      },
+      "municipio": {
+        "id": "140287",
+        "nombre": "Chazón"
+      },
+      "nombre": "Chazón",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.9392316160202,
+        "lon": -63.2450080292635
+      },
+      "departamento": {
+        "id": "14042",
+        "nombre": "General San Martín"
+      },
+      "id": "14042050",
+      "localidad_censal": {
+        "id": "14042050",
+        "nombre": "Etruria"
+      },
+      "municipio": {
+        "id": "140294",
+        "nombre": "Etruria"
+      },
+      "nombre": "Etruria",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.8025264638807,
+        "lon": -63.2470933409626
+      },
+      "departamento": {
+        "id": "14042",
+        "nombre": "General San Martín"
+      },
+      "id": "14042060",
+      "localidad_censal": {
+        "id": "14042060",
+        "nombre": "La Laguna"
+      },
+      "municipio": {
+        "id": "140301",
+        "nombre": "La Laguna"
+      },
+      "nombre": "La Laguna",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6164345716079,
+        "lon": -63.4093992321595
+      },
+      "departamento": {
+        "id": "14042",
+        "nombre": "General San Martín"
+      },
+      "id": "14042070",
+      "localidad_censal": {
+        "id": "14042070",
+        "nombre": "La Palestina"
+      },
+      "municipio": {
+        "id": "140308",
+        "nombre": "La Palestina"
+      },
+      "nombre": "La Palestina",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.097001584398,
+        "lon": -63.0343508725098
+      },
+      "departamento": {
+        "id": "14042",
+        "nombre": "General San Martín"
+      },
+      "id": "14042080",
+      "localidad_censal": {
+        "id": "14042080",
+        "nombre": "La Playosa"
+      },
+      "municipio": {
+        "id": "140315",
+        "nombre": "La Playosa"
+      },
+      "nombre": "La Playosa",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.3043333011971,
+        "lon": -63.2334364556727
+      },
+      "departamento": {
+        "id": "14042",
+        "nombre": "General San Martín"
+      },
+      "id": "14042090",
+      "localidad_censal": {
+        "id": "14042090",
+        "nombre": "Las Mojarras"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Las Mojarras",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.5405056698749,
+        "lon": -63.4768932211512
+      },
+      "departamento": {
+        "id": "14042",
+        "nombre": "General San Martín"
+      },
+      "id": "14042100",
+      "localidad_censal": {
+        "id": "14042100",
+        "nombre": "Luca"
+      },
+      "municipio": {
+        "id": "140322",
+        "nombre": "Luca"
+      },
+      "nombre": "Luca",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14042"
+    ]
+  },
+  "total": 18
+}

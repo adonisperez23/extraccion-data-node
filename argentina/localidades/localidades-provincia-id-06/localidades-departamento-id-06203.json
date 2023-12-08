@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.292500093337,
+        "lon": -62.2971962042407
+      },
+      "departamento": {
+        "id": "06203",
+        "nombre": "Coronel Suárez"
+      },
+      "id": "06203010",
+      "localidad_censal": {
+        "id": "06203010",
+        "nombre": "Cascada"
+      },
+      "municipio": {
+        "id": "060203",
+        "nombre": "Coronel Suárez"
+      },
+      "nombre": "Cascada",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.4585289177802,
+        "lon": -61.9328938312418
+      },
+      "departamento": {
+        "id": "06203",
+        "nombre": "Coronel Suárez"
+      },
+      "id": "06203020",
+      "localidad_censal": {
+        "id": "06203020",
+        "nombre": "Coronel Suárez"
+      },
+      "municipio": {
+        "id": "060203",
+        "nombre": "Coronel Suárez"
+      },
+      "nombre": "Coronel Suárez",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.4842469381512,
+        "lon": -62.1045577159859
+      },
+      "departamento": {
+        "id": "06203",
+        "nombre": "Coronel Suárez"
+      },
+      "id": "06203030",
+      "localidad_censal": {
+        "id": "06203030",
+        "nombre": "Curamalal"
+      },
+      "municipio": {
+        "id": "060203",
+        "nombre": "Coronel Suárez"
+      },
+      "nombre": "Curamalal",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.6765455742887,
+        "lon": -61.707744337486
+      },
+      "departamento": {
+        "id": "06203",
+        "nombre": "Coronel Suárez"
+      },
+      "id": "06203040",
+      "localidad_censal": {
+        "id": "06203040",
+        "nombre": "D'Orbigny"
+      },
+      "municipio": {
+        "id": "060203",
+        "nombre": "Coronel Suárez"
+      },
+      "nombre": "D'Orbigny",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.0588752626612,
+        "lon": -61.9325411165077
+      },
+      "departamento": {
+        "id": "06203",
+        "nombre": "Coronel Suárez"
+      },
+      "id": "06203050",
+      "localidad_censal": {
+        "id": "06203050",
+        "nombre": "Huanguelén"
+      },
+      "municipio": {
+        "id": "060203",
+        "nombre": "Coronel Suárez"
+      },
+      "nombre": "Huanguelén",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.2236398494077,
+        "lon": -62.1647546339893
+      },
+      "departamento": {
+        "id": "06203",
+        "nombre": "Coronel Suárez"
+      },
+      "id": "06203060",
+      "localidad_censal": {
+        "id": "06203060",
+        "nombre": "Pasman"
+      },
+      "municipio": {
+        "id": "060203",
+        "nombre": "Coronel Suárez"
+      },
+      "nombre": "Pasman",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.5083317146316,
+        "lon": -61.9175485050706
+      },
+      "departamento": {
+        "id": "06203",
+        "nombre": "Coronel Suárez"
+      },
+      "id": "06203070",
+      "localidad_censal": {
+        "id": "06203070",
+        "nombre": "San José"
+      },
+      "municipio": {
+        "id": "060203",
+        "nombre": "Coronel Suárez"
+      },
+      "nombre": "San José",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.5584052464645,
+        "lon": -61.8744494107033
+      },
+      "departamento": {
+        "id": "06203",
+        "nombre": "Coronel Suárez"
+      },
+      "id": "06203080",
+      "localidad_censal": {
+        "id": "06203080",
+        "nombre": "Santa María"
+      },
+      "municipio": {
+        "id": "060203",
+        "nombre": "Coronel Suárez"
+      },
+      "nombre": "Santa María",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.4876926359872,
+        "lon": -61.9258558367656
+      },
+      "departamento": {
+        "id": "06203",
+        "nombre": "Coronel Suárez"
+      },
+      "id": "06203090",
+      "localidad_censal": {
+        "id": "06203090",
+        "nombre": "Santa Trinidad"
+      },
+      "municipio": {
+        "id": "060203",
+        "nombre": "Coronel Suárez"
+      },
+      "nombre": "Santa Trinidad",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -38.1370301308605,
+        "lon": -61.787362810254
+      },
+      "departamento": {
+        "id": "06203",
+        "nombre": "Coronel Suárez"
+      },
+      "id": "06203100",
+      "localidad_censal": {
+        "id": "06203100",
+        "nombre": "Villa La Arcadia"
+      },
+      "municipio": {
+        "id": "060203",
+        "nombre": "Coronel Suárez"
+      },
+      "nombre": "Villa La Arcadia",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06203"
+    ]
+  },
+  "total": 10
+}

@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.5312640960211,
+        "lon": -68.4998317454752
+      },
+      "departamento": {
+        "id": "70098",
+        "nombre": "Santa Lucía"
+      },
+      "id": "7009801002",
+      "localidad_censal": {
+        "id": "70098010",
+        "nombre": "Santa Lucía"
+      },
+      "municipio": {
+        "id": "700098",
+        "nombre": "Santa Lucía"
+      },
+      "nombre": "Santa Lucía",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.5272868342593,
+        "lon": -68.4722227287585
+      },
+      "departamento": {
+        "id": "70098",
+        "nombre": "Santa Lucía"
+      },
+      "id": "7009801001",
+      "localidad_censal": {
+        "id": "70098010",
+        "nombre": "Santa Lucía"
+      },
+      "municipio": {
+        "id": "700098",
+        "nombre": "Santa Lucía"
+      },
+      "nombre": "Colonia Gutiérrez",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -31.5405418521848,
+        "lon": -68.4978689301454
+      },
+      "departamento": {
+        "id": "70098",
+        "nombre": "Santa Lucía"
+      },
+      "id": "70098010",
+      "localidad_censal": {
+        "id": "70098010",
+        "nombre": "Santa Lucía"
+      },
+      "municipio": {
+        "id": "700098",
+        "nombre": "Santa Lucía"
+      },
+      "nombre": "Santa Lucía",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "70098"
+    ]
+  },
+  "total": 3
+}

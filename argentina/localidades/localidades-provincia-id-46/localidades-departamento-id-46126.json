@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.2822814686443,
+        "lon": -67.0209471680024
+      },
+      "departamento": {
+        "id": "46126",
+        "nombre": "Sanagasta"
+      },
+      "id": "46126010",
+      "localidad_censal": {
+        "id": "46126010",
+        "nombre": "Villa Sanagasta"
+      },
+      "municipio": {
+        "id": "460126",
+        "nombre": "Sanagasta"
+      },
+      "nombre": "Villa Sanagasta",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "46126"
+    ]
+  },
+  "total": 1
+}

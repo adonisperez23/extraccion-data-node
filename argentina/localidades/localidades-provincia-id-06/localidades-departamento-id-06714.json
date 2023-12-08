@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.1013884863046,
+        "lon": -60.4087773379244
+      },
+      "departamento": {
+        "id": "06714",
+        "nombre": "Salto"
+      },
+      "id": "06714010",
+      "localidad_censal": {
+        "id": "06714010",
+        "nombre": "Arroyo Dulce"
+      },
+      "municipio": {
+        "id": "060714",
+        "nombre": "Salto"
+      },
+      "nombre": "Arroyo Dulce",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.3979341962246,
+        "lon": -60.2595705520168
+      },
+      "departamento": {
+        "id": "06714",
+        "nombre": "Salto"
+      },
+      "id": "06714020",
+      "localidad_censal": {
+        "id": "06714020",
+        "nombre": "Berdier"
+      },
+      "municipio": {
+        "id": "060714",
+        "nombre": "Salto"
+      },
+      "nombre": "Berdier",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.3382330038569,
+        "lon": -60.1012149576705
+      },
+      "departamento": {
+        "id": "06714",
+        "nombre": "Salto"
+      },
+      "id": "06714030",
+      "localidad_censal": {
+        "id": "06714030",
+        "nombre": "Gahan"
+      },
+      "municipio": {
+        "id": "060714",
+        "nombre": "Salto"
+      },
+      "nombre": "Gahan",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.3962925470533,
+        "lon": -60.5368496522854
+      },
+      "departamento": {
+        "id": "06714",
+        "nombre": "Salto"
+      },
+      "id": "06714040",
+      "localidad_censal": {
+        "id": "06714040",
+        "nombre": "Inés Indart"
+      },
+      "municipio": {
+        "id": "060714",
+        "nombre": "Salto"
+      },
+      "nombre": "Inés Indart",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.2670181288751,
+        "lon": -60.3858028206226
+      },
+      "departamento": {
+        "id": "06714",
+        "nombre": "Salto"
+      },
+      "id": "06714050",
+      "localidad_censal": {
+        "id": "06714050",
+        "nombre": "La Invencible"
+      },
+      "municipio": {
+        "id": "060714",
+        "nombre": "Salto"
+      },
+      "nombre": "La Invencible",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.2917463137732,
+        "lon": -60.254502487545
+      },
+      "departamento": {
+        "id": "06714",
+        "nombre": "Salto"
+      },
+      "id": "06714060",
+      "localidad_censal": {
+        "id": "06714060",
+        "nombre": "Salto"
+      },
+      "municipio": {
+        "id": "060714",
+        "nombre": "Salto"
+      },
+      "nombre": "Salto",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06714"
+    ]
+  },
+  "total": 6
+}

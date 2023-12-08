@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.6688571350915,
+        "lon": -63.1990430194773
+      },
+      "departamento": {
+        "id": "14119",
+        "nombre": "Río Segundo"
+      },
+      "id": "14119010",
+      "localidad_censal": {
+        "id": "14119010",
+        "nombre": "Calchín"
+      },
+      "municipio": {
+        "id": "140973",
+        "nombre": "Calchín"
+      },
+      "nombre": "Calchín",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.8625489348075,
+        "lon": -63.2777859929812
+      },
+      "departamento": {
+        "id": "14119",
+        "nombre": "Río Segundo"
+      },
+      "id": "14119020",
+      "localidad_censal": {
+        "id": "14119020",
+        "nombre": "Calchín Oeste"
+      },
+      "municipio": {
+        "id": "140980",
+        "nombre": "Calchín Oeste"
+      },
+      "nombre": "Calchín Oeste",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.5076796457479,
+        "lon": -63.3431450430554
+      },
+      "departamento": {
+        "id": "14119",
+        "nombre": "Río Segundo"
+      },
+      "id": "14119030",
+      "localidad_censal": {
+        "id": "14119030",
+        "nombre": "Capilla del Carmen"
+      },
+      "municipio": {
+        "id": "140987",
+        "nombre": "Capilla del Carmen"
+      },
+      "nombre": "Capilla del Carmen",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.8737148813053,
+        "lon": -63.1173981360837
+      },
+      "departamento": {
+        "id": "14119",
+        "nombre": "Río Segundo"
+      },
+      "id": "14119040",
+      "localidad_censal": {
+        "id": "14119040",
+        "nombre": "Carrilobo"
+      },
+      "municipio": {
+        "id": "140994",
+        "nombre": "Carrilobo"
+      },
+      "nombre": "Carrilobo",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.9645614307766,
+        "lon": -63.382678347758
+      },
+      "departamento": {
+        "id": "14119",
+        "nombre": "Río Segundo"
+      },
+      "id": "14119050",
+      "localidad_censal": {
+        "id": "14119050",
+        "nombre": "Colazo"
+      },
+      "municipio": {
+        "id": "141001",
+        "nombre": "Colazo"
+      },
+      "nombre": "Colazo",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.917276973402,
+        "lon": -63.5035080788882
+      },
+      "departamento": {
+        "id": "14119",
+        "nombre": "Río Segundo"
+      },
+      "id": "14119060",
+      "localidad_censal": {
+        "id": "14119060",
+        "nombre": "Colonia Videla"
+      },
+      "municipio": {
+        "id": "142805",
+        "nombre": "Colonia Videla"
+      },
+      "nombre": "Colonia Videla",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.6453192327198,
+        "lon": -63.7588686595111
+      },
+      "departamento": {
+        "id": "14119",
+        "nombre": "Río Segundo"
+      },
+      "id": "14119070",
+      "localidad_censal": {
+        "id": "14119070",
+        "nombre": "Costa Sacate"
+      },
+      "municipio": {
+        "id": "141008",
+        "nombre": "Costa Sacate"
+      },
+      "nombre": "Costasacate",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.7984738110307,
+        "lon": -63.6500834674981
+      },
+      "departamento": {
+        "id": "14119",
+        "nombre": "Río Segundo"
+      },
+      "id": "14119080",
+      "localidad_censal": {
+        "id": "14119080",
+        "nombre": "Impira"
+      },
+      "municipio": {
+        "id": "142812",
+        "nombre": "Impira"
+      },
+      "nombre": "Impira",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.7756994528712,
+        "lon": -63.8003265395626
+      },
+      "departamento": {
+        "id": "14119",
+        "nombre": "Río Segundo"
+      },
+      "id": "14119090",
+      "localidad_censal": {
+        "id": "14119090",
+        "nombre": "Laguna Larga"
+      },
+      "municipio": {
+        "id": "141015",
+        "nombre": "Laguna Larga"
+      },
+      "nombre": "Laguna Larga",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.8313962124571,
+        "lon": -63.4506365754631
+      },
+      "departamento": {
+        "id": "14119",
+        "nombre": "Río Segundo"
+      },
+      "id": "14119100",
+      "localidad_censal": {
+        "id": "14119100",
+        "nombre": "Las Junturas"
+      },
+      "municipio": {
+        "id": "141022",
+        "nombre": "Las Junturas"
+      },
+      "nombre": "Las Junturas",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14119"
+    ]
+  },
+  "total": 21
+}

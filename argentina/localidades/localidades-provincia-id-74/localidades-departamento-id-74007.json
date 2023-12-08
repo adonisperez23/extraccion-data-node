@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.4862569541599,
+        "lon": -66.053015683134
+      },
+      "departamento": {
+        "id": "74007",
+        "nombre": "Ayacucho"
+      },
+      "id": "74007030",
+      "localidad_censal": {
+        "id": "74007030",
+        "nombre": "Leandro N. Alem"
+      },
+      "municipio": {
+        "id": "746007",
+        "nombre": "Leandro N. Alem"
+      },
+      "nombre": "Leandro N. Alem",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6003464475718,
+        "lon": -66.1270875511005
+      },
+      "departamento": {
+        "id": "74007",
+        "nombre": "Ayacucho"
+      },
+      "id": "74007070",
+      "localidad_censal": {
+        "id": "74007070",
+        "nombre": "San Francisco del Monte de Oro"
+      },
+      "municipio": {
+        "id": "740028",
+        "nombre": "San Francisco"
+      },
+      "nombre": "San Francisco del Monte de Oro",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.061268220701,
+        "lon": -65.8248152663859
+      },
+      "departamento": {
+        "id": "74007",
+        "nombre": "Ayacucho"
+      },
+      "id": "74007010",
+      "localidad_censal": {
+        "id": "74007010",
+        "nombre": "Candelaria"
+      },
+      "municipio": {
+        "id": "740007",
+        "nombre": "Candelaria"
+      },
+      "nombre": "Candelaria",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.2328558717756,
+        "lon": -65.8050366858062
+      },
+      "departamento": {
+        "id": "74007",
+        "nombre": "Ayacucho"
+      },
+      "id": "74007050",
+      "localidad_censal": {
+        "id": "74007050",
+        "nombre": "Quines"
+      },
+      "municipio": {
+        "id": "740021",
+        "nombre": "Quines"
+      },
+      "nombre": "Quines",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.3645714536967,
+        "lon": -65.9331579098075
+      },
+      "departamento": {
+        "id": "74007",
+        "nombre": "Ayacucho"
+      },
+      "id": "74007040",
+      "localidad_censal": {
+        "id": "74007040",
+        "nombre": "Luján"
+      },
+      "municipio": {
+        "id": "740014",
+        "nombre": "Luján"
+      },
+      "nombre": "Luján",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "74007"
+    ]
+  },
+  "total": 5
+}

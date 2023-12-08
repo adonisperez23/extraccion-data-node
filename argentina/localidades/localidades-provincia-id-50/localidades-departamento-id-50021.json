@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.9296479324612,
+        "lon": -68.8449315082795
+      },
+      "departamento": {
+        "id": "50021",
+        "nombre": "Godoy Cruz"
+      },
+      "id": "5002101001",
+      "localidad_censal": {
+        "id": "50021010",
+        "nombre": "Godoy Cruz"
+      },
+      "municipio": {
+        "id": "500021",
+        "nombre": "Godoy Cruz"
+      },
+      "nombre": "Ciudad de Godoy Cruz",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.9451939945605,
+        "lon": -68.8231022796565
+      },
+      "departamento": {
+        "id": "50021",
+        "nombre": "Godoy Cruz"
+      },
+      "id": "5002101003",
+      "localidad_censal": {
+        "id": "50021010",
+        "nombre": "Godoy Cruz"
+      },
+      "municipio": {
+        "id": "500021",
+        "nombre": "Godoy Cruz"
+      },
+      "nombre": "Las Tortugas",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.9442974383425,
+        "lon": -68.8668893529037
+      },
+      "departamento": {
+        "id": "50021",
+        "nombre": "Godoy Cruz"
+      },
+      "id": "5002101004",
+      "localidad_censal": {
+        "id": "50021010",
+        "nombre": "Godoy Cruz"
+      },
+      "municipio": {
+        "id": "500021",
+        "nombre": "Godoy Cruz"
+      },
+      "nombre": "Presidente Sarmiento",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.9317347848468,
+        "lon": -68.8326622049277
+      },
+      "departamento": {
+        "id": "50021",
+        "nombre": "Godoy Cruz"
+      },
+      "id": "5002101005",
+      "localidad_censal": {
+        "id": "50021010",
+        "nombre": "Godoy Cruz"
+      },
+      "municipio": {
+        "id": "500021",
+        "nombre": "Godoy Cruz"
+      },
+      "nombre": "San Francisco del Monte",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.9430626494947,
+        "lon": -68.8466356635163
+      },
+      "departamento": {
+        "id": "50021",
+        "nombre": "Godoy Cruz"
+      },
+      "id": "5002101002",
+      "localidad_censal": {
+        "id": "50021010",
+        "nombre": "Godoy Cruz"
+      },
+      "municipio": {
+        "id": "500021",
+        "nombre": "Godoy Cruz"
+      },
+      "nombre": "Gobernador Benegas",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -32.925334570321,
+        "lon": -68.8442814633876
+      },
+      "departamento": {
+        "id": "50021",
+        "nombre": "Godoy Cruz"
+      },
+      "id": "50021010",
+      "localidad_censal": {
+        "id": "50021010",
+        "nombre": "Godoy Cruz"
+      },
+      "municipio": {
+        "id": "500021",
+        "nombre": "Godoy Cruz"
+      },
+      "nombre": "Godoy Cruz",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "50021"
+    ]
+  },
+  "total": 6
+}

@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.8290111947623,
+        "lon": -68.2468353167345
+      },
+      "departamento": {
+        "id": "70126",
+        "nombre": "25 de Mayo"
+      },
+      "id": "7012603001",
+      "localidad_censal": {
+        "id": "70126030",
+        "nombre": "Villa Borjas - La Chimbera"
+      },
+      "municipio": {
+        "id": "700126",
+        "nombre": "25 de Mayo"
+      },
+      "nombre": "La Chimbera",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.8140732015297,
+        "lon": -68.3287888125891
+      },
+      "departamento": {
+        "id": "70126",
+        "nombre": "25 de Mayo"
+      },
+      "id": "7012603002",
+      "localidad_censal": {
+        "id": "70126030",
+        "nombre": "Villa Borjas - La Chimbera"
+      },
+      "municipio": {
+        "id": "700126",
+        "nombre": "25 de Mayo"
+      },
+      "nombre": "Villa Borjas",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.2170572092493,
+        "lon": -67.795767069124
+      },
+      "departamento": {
+        "id": "70126",
+        "nombre": "25 de Mayo"
+      },
+      "id": "70126010",
+      "localidad_censal": {
+        "id": "70126010",
+        "nombre": "El Encón"
+      },
+      "municipio": {
+        "id": "700126",
+        "nombre": "25 de Mayo"
+      },
+      "nombre": "El Encón",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.810153687785,
+        "lon": -68.3284492002488
+      },
+      "departamento": {
+        "id": "70126",
+        "nombre": "25 de Mayo"
+      },
+      "id": "70126030",
+      "localidad_censal": {
+        "id": "70126030",
+        "nombre": "Villa Borjas - La Chimbera"
+      },
+      "municipio": {
+        "id": "700126",
+        "nombre": "25 de Mayo"
+      },
+      "nombre": "Villa Borjas - La Chimbera",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.7448177711736,
+        "lon": -68.3142910795148
+      },
+      "departamento": {
+        "id": "70126",
+        "nombre": "25 de Mayo"
+      },
+      "id": "70126050",
+      "localidad_censal": {
+        "id": "70126050",
+        "nombre": "Villa Santa Rosa"
+      },
+      "municipio": {
+        "id": "700126",
+        "nombre": "25 de Mayo"
+      },
+      "nombre": "Villa Santa Rosa",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.7492563033392,
+        "lon": -68.2360865403218
+      },
+      "departamento": {
+        "id": "70126",
+        "nombre": "25 de Mayo"
+      },
+      "id": "70126040",
+      "localidad_censal": {
+        "id": "70126040",
+        "nombre": "Villa El Tango"
+      },
+      "municipio": {
+        "id": "700126",
+        "nombre": "25 de Mayo"
+      },
+      "nombre": "Villa El Tango",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.8361143552242,
+        "lon": -68.3585157462202
+      },
+      "departamento": {
+        "id": "70126",
+        "nombre": "25 de Mayo"
+      },
+      "id": "70126020",
+      "localidad_censal": {
+        "id": "70126020",
+        "nombre": "Tupelí"
+      },
+      "municipio": {
+        "id": "700126",
+        "nombre": "25 de Mayo"
+      },
+      "nombre": "Tupelí",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "70126"
+    ]
+  },
+  "total": 7
+}

@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.6422977767819,
+        "lon": -61.8583359216397
+      },
+      "departamento": {
+        "id": "82042",
+        "nombre": "General López"
+      },
+      "id": "82042210",
+      "localidad_censal": {
+        "id": "82042210",
+        "nombre": "Murphy"
+      },
+      "municipio": {
+        "id": "822707",
+        "nombre": "Murphy"
+      },
+      "nombre": "Murphy",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.7210982111063,
+        "lon": -62.2462478280245
+      },
+      "departamento": {
+        "id": "82042",
+        "nombre": "General López"
+      },
+      "id": "82042170",
+      "localidad_censal": {
+        "id": "82042170",
+        "nombre": "Maggiolo"
+      },
+      "municipio": {
+        "id": "822679",
+        "nombre": "Maggiolo"
+      },
+      "nombre": "Maggiolo",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.5264616524828,
+        "lon": -61.4658726912491
+      },
+      "departamento": {
+        "id": "82042",
+        "nombre": "General López"
+      },
+      "id": "82042200",
+      "localidad_censal": {
+        "id": "82042200",
+        "nombre": "Miguel Torres"
+      },
+      "municipio": {
+        "id": "822700",
+        "nombre": "Miguel Torres"
+      },
+      "nombre": "Miguel Torres",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.5884953061257,
+        "lon": -62.1239022373484
+      },
+      "departamento": {
+        "id": "82042",
+        "nombre": "General López"
+      },
+      "id": "82042240",
+      "localidad_censal": {
+        "id": "82042240",
+        "nombre": "San Francisco de Santa Fe"
+      },
+      "municipio": {
+        "id": "822721",
+        "nombre": "San Francisco de Santa Fe"
+      },
+      "nombre": "San Francisco de Santa Fe",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -33.4581435162634,
+        "lon": -61.4862103569169
+      },
+      "departamento": {
+        "id": "82042",
+        "nombre": "General López"
+      },
+      "id": "82042120",
+      "localidad_censal": {
+        "id": "82042120",
+        "nombre": "Firmat"
+      },
+      "municipio": {
+        "id": "820063",
+        "nombre": "Firmat"
+      },
+      "nombre": "Firmat",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.4094669300853,
+        "lon": -61.605596605818
+      },
+      "departamento": {
+        "id": "82042",
+        "nombre": "General López"
+      },
+      "id": "82042040",
+      "localidad_censal": {
+        "id": "82042040",
+        "nombre": "Cañada del Ucle"
+      },
+      "municipio": {
+        "id": "822595",
+        "nombre": "Cañada del Ucle"
+      },
+      "nombre": "Cañada del Ucle",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.1335779750064,
+        "lon": -62.4233878729623
+      },
+      "departamento": {
+        "id": "82042",
+        "nombre": "General López"
+      },
+      "id": "82042020",
+      "localidad_censal": {
+        "id": "82042020",
+        "nombre": "Amenábar"
+      },
+      "municipio": {
+        "id": "822581",
+        "nombre": "Amenábar"
+      },
+      "nombre": "Amenábar",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.5989940510529,
+        "lon": -61.6039571058646
+      },
+      "departamento": {
+        "id": "82042",
+        "nombre": "General López"
+      },
+      "id": "82042080",
+      "localidad_censal": {
+        "id": "82042080",
+        "nombre": "Chovet"
+      },
+      "municipio": {
+        "id": "822623",
+        "nombre": "Chovet"
+      },
+      "nombre": "Chovet",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.1654637732041,
+        "lon": -62.4281209086302
+      },
+      "departamento": {
+        "id": "82042",
+        "nombre": "General López"
+      },
+      "id": "82042160",
+      "localidad_censal": {
+        "id": "82042160",
+        "nombre": "Lazzarino"
+      },
+      "municipio": {
+        "id": "822672",
+        "nombre": "Lazzarino"
+      },
+      "nombre": "Lazzarino",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.3327855490831,
+        "lon": -62.3740821248797
+      },
+      "departamento": {
+        "id": "82042",
+        "nombre": "General López"
+      },
+      "id": "82042010",
+      "localidad_censal": {
+        "id": "82042010",
+        "nombre": "Aarón Castellanos"
+      },
+      "municipio": {
+        "id": "822574",
+        "nombre": "Aarón Castellanos"
+      },
+      "nombre": "Aarón Castellanos",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "82042"
+    ]
+  },
+  "total": 31
+}

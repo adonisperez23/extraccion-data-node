@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.6053920200864,
+        "lon": -62.625880987744
+      },
+      "departamento": {
+        "id": "14063",
+        "nombre": "Marcos Juárez"
+      },
+      "id": "14063010",
+      "localidad_censal": {
+        "id": "14063010",
+        "nombre": "Alejo Ledesma"
+      },
+      "municipio": {
+        "id": "140476",
+        "nombre": "Alejo Ledesma"
+      },
+      "nombre": "Alejo Ledesma",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.6420729225189,
+        "lon": -62.4041194655182
+      },
+      "departamento": {
+        "id": "14063",
+        "nombre": "Marcos Juárez"
+      },
+      "id": "14063020",
+      "localidad_censal": {
+        "id": "14063020",
+        "nombre": "Arias"
+      },
+      "municipio": {
+        "id": "140483",
+        "nombre": "Arias"
+      },
+      "nombre": "Arias",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1275862241272,
+        "lon": -62.094840853455
+      },
+      "departamento": {
+        "id": "14063",
+        "nombre": "Marcos Juárez"
+      },
+      "id": "14063030",
+      "localidad_censal": {
+        "id": "14063030",
+        "nombre": "Camilo Aldao"
+      },
+      "municipio": {
+        "id": "140490",
+        "nombre": "Camilo Aldao"
+      },
+      "nombre": "Camilo Aldao",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.2482565790199,
+        "lon": -62.2688345888296
+      },
+      "departamento": {
+        "id": "14063",
+        "nombre": "Marcos Juárez"
+      },
+      "id": "14063040",
+      "localidad_censal": {
+        "id": "14063040",
+        "nombre": "Capitán General Bernardo O Higgins"
+      },
+      "municipio": {
+        "id": "140497",
+        "nombre": "Capitán General Bernardo O'Higgins"
+      },
+      "nombre": "Capitán General Bernardo O'Higgins",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.4737649768214,
+        "lon": -62.338907063379
+      },
+      "departamento": {
+        "id": "14063",
+        "nombre": "Marcos Juárez"
+      },
+      "id": "14063050",
+      "localidad_censal": {
+        "id": "14063050",
+        "nombre": "Cavanagh"
+      },
+      "municipio": {
+        "id": "140504",
+        "nombre": "Cavanagh"
+      },
+      "nombre": "Cavanagh",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.2582393924,
+        "lon": -62.6075243980859
+      },
+      "departamento": {
+        "id": "14063",
+        "nombre": "Marcos Juárez"
+      },
+      "id": "14063060",
+      "localidad_censal": {
+        "id": "14063060",
+        "nombre": "Colonia Barge"
+      },
+      "municipio": {
+        "id": "142336",
+        "nombre": "Colonia Barge"
+      },
+      "nombre": "Colonia Barge",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.3117017575472,
+        "lon": -62.176462774246
+      },
+      "departamento": {
+        "id": "14063",
+        "nombre": "Marcos Juárez"
+      },
+      "id": "14063070",
+      "localidad_censal": {
+        "id": "14063070",
+        "nombre": "Colonia Italiana"
+      },
+      "municipio": {
+        "id": "140511",
+        "nombre": "Colonia Italiana"
+      },
+      "nombre": "Colonia Italiana",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.8876809419638,
+        "lon": -61.9517449836933
+      },
+      "departamento": {
+        "id": "14063",
+        "nombre": "Marcos Juárez"
+      },
+      "id": "14063080",
+      "localidad_censal": {
+        "id": "14063080",
+        "nombre": "Colonia Veinticinco"
+      },
+      "municipio": {
+        "id": "140574",
+        "nombre": "Los Surgentes"
+      },
+      "nombre": "Colonia Veinticinco",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.2830928544683,
+        "lon": -62.1865429174032
+      },
+      "departamento": {
+        "id": "14063",
+        "nombre": "Marcos Juárez"
+      },
+      "id": "14063090",
+      "localidad_censal": {
+        "id": "14063090",
+        "nombre": "Corral de Bustos Ifflinger"
+      },
+      "municipio": {
+        "id": "140518",
+        "nombre": "Corral de Bustos Ifflinger"
+      },
+      "nombre": "Corral de Bustos",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0083997293961,
+        "lon": -61.8057792803375
+      },
+      "departamento": {
+        "id": "14063",
+        "nombre": "Marcos Juárez"
+      },
+      "id": "14063100",
+      "localidad_censal": {
+        "id": "14063100",
+        "nombre": "Cruz Alta"
+      },
+      "municipio": {
+        "id": "140525",
+        "nombre": "Cruz Alta"
+      },
+      "nombre": "Cruz Alta",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14063"
+    ]
+  },
+  "total": 22
+}

@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.1911799991789,
+        "lon": -64.8476231145512
+      },
+      "departamento": {
+        "id": "38063",
+        "nombre": "San Pedro"
+      },
+      "id": "38063080",
+      "localidad_censal": {
+        "id": "38063080",
+        "nombre": "La Manga"
+      },
+      "municipio": {
+        "id": "380224",
+        "nombre": "San Pedro de Jujuy"
+      },
+      "nombre": "La Manga",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.4031552236359,
+        "lon": -64.8006341939824
+      },
+      "departamento": {
+        "id": "38063",
+        "nombre": "San Pedro"
+      },
+      "id": "38063040",
+      "localidad_censal": {
+        "id": "38063040",
+        "nombre": "El Acheral"
+      },
+      "municipio": {
+        "id": "380224",
+        "nombre": "San Pedro de Jujuy"
+      },
+      "nombre": "El Acheral",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.1785670659415,
+        "lon": -64.8402313537955
+      },
+      "departamento": {
+        "id": "38063",
+        "nombre": "San Pedro"
+      },
+      "id": "38063010",
+      "localidad_censal": {
+        "id": "38063010",
+        "nombre": "Arrayanal"
+      },
+      "municipio": {
+        "id": "386091",
+        "nombre": "Arrayanal"
+      },
+      "nombre": "Arrayanal",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.3370113948988,
+        "lon": -64.6630560505065
+      },
+      "departamento": {
+        "id": "38063",
+        "nombre": "San Pedro"
+      },
+      "id": "38063020",
+      "localidad_censal": {
+        "id": "38063020",
+        "nombre": "Arroyo Colorado"
+      },
+      "municipio": {
+        "id": "380224",
+        "nombre": "San Pedro de Jujuy"
+      },
+      "nombre": "Arroyo Colorado",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.3172077154244,
+        "lon": -64.9067642277904
+      },
+      "departamento": {
+        "id": "38063",
+        "nombre": "San Pedro"
+      },
+      "id": "38063030",
+      "localidad_censal": {
+        "id": "38063030",
+        "nombre": "Don Emilio"
+      },
+      "municipio": {
+        "id": "386112",
+        "nombre": "Rosario de Río Grande"
+      },
+      "nombre": "Don Emilio",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.198110088207,
+        "lon": -64.7896264819769
+      },
+      "departamento": {
+        "id": "38063",
+        "nombre": "San Pedro"
+      },
+      "id": "38063050",
+      "localidad_censal": {
+        "id": "38063050",
+        "nombre": "El Puesto"
+      },
+      "municipio": {
+        "id": "380196",
+        "nombre": "La Esperanza"
+      },
+      "nombre": "El Puesto",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.1045911212204,
+        "lon": -64.8240247135758
+      },
+      "departamento": {
+        "id": "38063",
+        "nombre": "San Pedro"
+      },
+      "id": "38063060",
+      "localidad_censal": {
+        "id": "38063060",
+        "nombre": "El Quemado"
+      },
+      "municipio": {
+        "id": "386091",
+        "nombre": "Arrayanal"
+      },
+      "nombre": "El Quemado",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -24.2246560829457,
+        "lon": -64.8385395014329
+      },
+      "departamento": {
+        "id": "38063",
+        "nombre": "San Pedro"
+      },
+      "id": "38063070",
+      "localidad_censal": {
+        "id": "38063070",
+        "nombre": "La Esperanza"
+      },
+      "municipio": {
+        "id": "380196",
+        "nombre": "La Esperanza"
+      },
+      "nombre": "La Esperanza",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.3144458904251,
+        "lon": -64.9667792525391
+      },
+      "departamento": {
+        "id": "38063",
+        "nombre": "San Pedro"
+      },
+      "id": "38063090",
+      "localidad_censal": {
+        "id": "38063090",
+        "nombre": "La Mendieta"
+      },
+      "municipio": {
+        "id": "380203",
+        "nombre": "La Mendieta"
+      },
+      "nombre": "La Mendieta",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.3269890492978,
+        "lon": -64.945732637077
+      },
+      "departamento": {
+        "id": "38063",
+        "nombre": "San Pedro"
+      },
+      "id": "38063110",
+      "localidad_censal": {
+        "id": "38063110",
+        "nombre": "Palos Blancos"
+      },
+      "municipio": {
+        "id": "386112",
+        "nombre": "Rosario de Río Grande"
+      },
+      "nombre": "Palos Blancos",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "38063"
+    ]
+  },
+  "total": 16
+}

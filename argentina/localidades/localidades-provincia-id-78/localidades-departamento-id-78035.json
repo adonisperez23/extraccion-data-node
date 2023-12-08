@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -46.5510756582751,
+        "lon": -71.6312708108782
+      },
+      "departamento": {
+        "id": "78035",
+        "nombre": "Lago Buenos Aires"
+      },
+      "id": "78035010",
+      "localidad_censal": {
+        "id": "78035010",
+        "nombre": "Los Antiguos"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Los Antiguos",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -46.5938169680365,
+        "lon": -70.9299116754894
+      },
+      "departamento": {
+        "id": "78035",
+        "nombre": "Lago Buenos Aires"
+      },
+      "id": "78035020",
+      "localidad_censal": {
+        "id": "78035020",
+        "nombre": "Perito Moreno"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Perito Moreno",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "78035"
+    ]
+  },
+  "total": 2
+}

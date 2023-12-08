@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -35.5742063770635,
+        "lon": -58.011281450951
+      },
+      "departamento": {
+        "id": "06218",
+        "nombre": "Chascomús"
+      },
+      "id": "0621801001",
+      "localidad_censal": {
+        "id": "06218010",
+        "nombre": "Chascomús"
+      },
+      "municipio": {
+        "id": "060218",
+        "nombre": "Chascomús"
+      },
+      "nombre": "Chascomús",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -35.5353900516083,
+        "lon": -58.0139947303222
+      },
+      "departamento": {
+        "id": "06218",
+        "nombre": "Chascomús"
+      },
+      "id": "0621801003",
+      "localidad_censal": {
+        "id": "06218010",
+        "nombre": "Chascomús"
+      },
+      "municipio": {
+        "id": "060218",
+        "nombre": "Chascomús"
+      },
+      "nombre": "Barrio San Cayetano",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.5791426682401,
+        "lon": -58.0136734791609
+      },
+      "departamento": {
+        "id": "06218",
+        "nombre": "Chascomús"
+      },
+      "id": "06218010",
+      "localidad_censal": {
+        "id": "06218010",
+        "nombre": "Chascomús"
+      },
+      "municipio": {
+        "id": "060218",
+        "nombre": "Chascomús"
+      },
+      "nombre": "Chascomús",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.6268500726765,
+        "lon": -58.0146293485063
+      },
+      "departamento": {
+        "id": "06218",
+        "nombre": "Chascomús"
+      },
+      "id": "06218030",
+      "localidad_censal": {
+        "id": "06218030",
+        "nombre": "Barrio Lomas Altas"
+      },
+      "municipio": {
+        "id": "060218",
+        "nombre": "Chascomús"
+      },
+      "nombre": "Villa Parque Girado",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06218"
+    ]
+  },
+  "total": 4
+}

@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7630163121184,
+        "lon": -58.2121691523322
+      },
+      "departamento": {
+        "id": "06091",
+        "nombre": "Berazategui"
+      },
+      "id": "0609101001",
+      "localidad_censal": {
+        "id": "06091010",
+        "nombre": "Berazategui"
+      },
+      "municipio": {
+        "id": "060091",
+        "nombre": "Berazategui"
+      },
+      "nombre": "Berazategui",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7770033567074,
+        "lon": -58.2388864838825
+      },
+      "departamento": {
+        "id": "06091",
+        "nombre": "Berazategui"
+      },
+      "id": "0609101002",
+      "localidad_censal": {
+        "id": "06091010",
+        "nombre": "Berazategui"
+      },
+      "municipio": {
+        "id": "060091",
+        "nombre": "Berazategui"
+      },
+      "nombre": "Berazategui Oeste",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8062523505149,
+        "lon": -58.2153884798708
+      },
+      "departamento": {
+        "id": "06091",
+        "nombre": "Berazategui"
+      },
+      "id": "0609101003",
+      "localidad_censal": {
+        "id": "06091010",
+        "nombre": "Berazategui"
+      },
+      "municipio": {
+        "id": "060091",
+        "nombre": "Berazategui"
+      },
+      "nombre": "Carlos Tomás Sourigues",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8848301020853,
+        "lon": -58.1738517384337
+      },
+      "departamento": {
+        "id": "06091",
+        "nombre": "Berazategui"
+      },
+      "id": "0609101004",
+      "localidad_censal": {
+        "id": "06091010",
+        "nombre": "Berazategui"
+      },
+      "municipio": {
+        "id": "060091",
+        "nombre": "Berazategui"
+      },
+      "nombre": "El Pato",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7918465006493,
+        "lon": -58.1516189728872
+      },
+      "departamento": {
+        "id": "06091",
+        "nombre": "Berazategui"
+      },
+      "id": "0609101005",
+      "localidad_censal": {
+        "id": "06091010",
+        "nombre": "Berazategui"
+      },
+      "municipio": {
+        "id": "060091",
+        "nombre": "Berazategui"
+      },
+      "nombre": "Guillermo Enrique Hudson",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8339094499703,
+        "lon": -58.1838076894883
+      },
+      "departamento": {
+        "id": "06091",
+        "nombre": "Berazategui"
+      },
+      "id": "0609101006",
+      "localidad_censal": {
+        "id": "06091010",
+        "nombre": "Berazategui"
+      },
+      "municipio": {
+        "id": "060091",
+        "nombre": "Berazategui"
+      },
+      "nombre": "Juan María Gutiérrez",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8361790912767,
+        "lon": -58.0942893323644
+      },
+      "departamento": {
+        "id": "06091",
+        "nombre": "Berazategui"
+      },
+      "id": "0609101007",
+      "localidad_censal": {
+        "id": "06091010",
+        "nombre": "Berazategui"
+      },
+      "municipio": {
+        "id": "060091",
+        "nombre": "Berazategui"
+      },
+      "nombre": "Pereyra",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7818075686994,
+        "lon": -58.1701856172611
+      },
+      "departamento": {
+        "id": "06091",
+        "nombre": "Berazategui"
+      },
+      "id": "0609101008",
+      "localidad_censal": {
+        "id": "06091010",
+        "nombre": "Berazategui"
+      },
+      "municipio": {
+        "id": "060091",
+        "nombre": "Berazategui"
+      },
+      "nombre": "Plátanos",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7877872381146,
+        "lon": -58.203185368401
+      },
+      "departamento": {
+        "id": "06091",
+        "nombre": "Berazategui"
+      },
+      "id": "0609101009",
+      "localidad_censal": {
+        "id": "06091010",
+        "nombre": "Berazategui"
+      },
+      "municipio": {
+        "id": "060091",
+        "nombre": "Berazategui"
+      },
+      "nombre": "Ranelagh",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7754718758991,
+        "lon": -58.1994415833972
+      },
+      "departamento": {
+        "id": "06091",
+        "nombre": "Berazategui"
+      },
+      "id": "0609101010",
+      "localidad_censal": {
+        "id": "06091010",
+        "nombre": "Berazategui"
+      },
+      "municipio": {
+        "id": "060091",
+        "nombre": "Berazategui"
+      },
+      "nombre": "Villa España",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06091"
+    ]
+  },
+  "total": 11
+}

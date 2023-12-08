@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.6612081792483,
+        "lon": -64.1392460132253
+      },
+      "departamento": {
+        "id": "42070",
+        "nombre": "Guatraché"
+      },
+      "id": "42070040",
+      "localidad_censal": {
+        "id": "42070040",
+        "nombre": "Perú"
+      },
+      "municipio": {
+        "id": "425105",
+        "nombre": "Perú"
+      },
+      "nombre": "Perú",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.3768330319597,
+        "lon": -63.7732330615973
+      },
+      "departamento": {
+        "id": "42070",
+        "nombre": "Guatraché"
+      },
+      "id": "42070010",
+      "localidad_censal": {
+        "id": "42070010",
+        "nombre": "Alpachiri"
+      },
+      "municipio": {
+        "id": "420014",
+        "nombre": "Alpachiri"
+      },
+      "nombre": "Alpachiri",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.4614543432233,
+        "lon": -63.5857575194871
+      },
+      "departamento": {
+        "id": "42070",
+        "nombre": "Guatraché"
+      },
+      "id": "42070020",
+      "localidad_censal": {
+        "id": "42070020",
+        "nombre": "General Manuel J. Campos"
+      },
+      "municipio": {
+        "id": "420140",
+        "nombre": "General Campos"
+      },
+      "nombre": "General Manuel J. Campos",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.6707269295659,
+        "lon": -63.5357606533356
+      },
+      "departamento": {
+        "id": "42070",
+        "nombre": "Guatraché"
+      },
+      "id": "42070030",
+      "localidad_censal": {
+        "id": "42070030",
+        "nombre": "Guatraché"
+      },
+      "municipio": {
+        "id": "420161",
+        "nombre": "Guatraché"
+      },
+      "nombre": "Guatraché",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.5747871786212,
+        "lon": -63.4313184018927
+      },
+      "departamento": {
+        "id": "42070",
+        "nombre": "Guatraché"
+      },
+      "id": "42070050",
+      "localidad_censal": {
+        "id": "42070050",
+        "nombre": "Santa Teresa"
+      },
+      "municipio": {
+        "id": "420343",
+        "nombre": "Colonia Santa Teresa"
+      },
+      "nombre": "Santa Teresa",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42070"
+    ]
+  },
+  "total": 5
+}

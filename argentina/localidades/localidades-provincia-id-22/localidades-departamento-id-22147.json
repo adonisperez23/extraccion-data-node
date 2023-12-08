@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5191076765673,
+        "lon": -60.3940259705373
+      },
+      "departamento": {
+        "id": "22147",
+        "nombre": "San Lorenzo"
+      },
+      "id": "22147010",
+      "localidad_censal": {
+        "id": "22147010",
+        "nombre": "Samuhú"
+      },
+      "municipio": {
+        "id": "220420",
+        "nombre": "Samuhú"
+      },
+      "nombre": "Samuhú",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2853226966707,
+        "lon": -60.4159744929923
+      },
+      "departamento": {
+        "id": "22147",
+        "nombre": "San Lorenzo"
+      },
+      "id": "22147020",
+      "localidad_censal": {
+        "id": "22147020",
+        "nombre": "Villa Berthet"
+      },
+      "municipio": {
+        "id": "220427",
+        "nombre": "Villa Berthet"
+      },
+      "nombre": "Villa Berthet",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22147"
+    ]
+  },
+  "total": 2
+}

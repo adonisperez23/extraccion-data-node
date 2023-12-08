@@ -26,13 +26,11 @@ export async function obtenerDepartamentosPorProvincia(endpoint){
   try {
     let provincias = fs.readFileSync('./argentina/provincias.json')
     let provinciasJson = JSON.parse(provincias)
-    // let maxDepartamentosPorProvincia = []
-
     provinciasJson.provincias.forEach((item, i) => {
       let stringData = null
       let jsonData = null
 
-      axios.get(`${endpoint}${item.nombre}&max=${item.totalDepartamentos}`)
+      axios.get(`${endpoint}${item.nombre}&max=200`)
         .then((res)=>{
           // stringData = JSON.stringify(res.data)
           // jsonData = JSON.parse(stringData)
@@ -46,7 +44,27 @@ export async function obtenerDepartamentosPorProvincia(endpoint){
         })
 
     });
+  } catch (e) {
+    console.log("error",e)
+  }
+}
+export async function obtenerDepartamentosPorProvinciaIndividual(endpoint,objeto){
+  try {
+    // let provincias = fs.readFileSync('./argentina/provincias.json')
+    // let provinciasJson = JSON.parse(provincias)
 
+    axios.get(`${endpoint}${objeto.id}&max=200`)
+        .then((res)=>{
+          // stringData = JSON.stringify(res.data)
+          // jsonData = JSON.parse(stringData)
+          fs.writeFile(`departamentos-provincia-id-${objeto.id}.json`, JSON.stringify(res.data, null, 2), (err) => {
+            if (err) throw err;
+             console.log(`Data written to file`);
+           });
+        })
+        .catch((err)=>{
+          console.log('error al llamar departamentos',err)
+        })
 
   } catch (e) {
     console.log("error",e)
@@ -75,29 +93,20 @@ export async function obtenerLocalidadesPorDepartamento(endpoint,departamento,i)
   }
 }
 
-export async function iteradorProvinciasJsonFile(endpoint){
+export async function iteradorProvinciasJsonFile(endpoint,jsonUrl){
   try {
-    let provincias = fs.readFileSync('./argentina/provincias.json')
-    let provinciasJson = JSON.parse(provincias)
-    // let maxDepartamentosPorProvincia = []
-    provinciasJson.provincias.forEach((item, i) => {
-      setTimeout(()=>{
-        let departamentosData = null
+    let departamentos = fs.readFileSync(jsonUrl)
+    let departamentosJson = JSON.parse(departamentos)
 
-        fs.readFile(`./argentina/departamentos/departamentos-provincia-id-${item.id}.json`, 'utf8',(error, data) => {
-          if (error) {
-            console.log("error al leer departamento json",error);
-            return;
-          }
-          departamentosData = JSON.parse(data)
-          departamentosData.departamentos.forEach((departamento, i) => {
-            setTimeout(()=>{
-              obtenerLocalidadesPorDepartamento(endpoint,departamento,i)
-            },7000)
-          });
-        });
-      },10000)
-     })
+    departamentosJson.departamentos.forEach((departamento, i) => {
+      setTimeout(()=>{
+        obtenerLocalidadesPorDepartamento(endpoint,departamento,i)
+      },3000)
+    });
+
+
+
+
   } catch (e) {
     console.log("error",e)
   }

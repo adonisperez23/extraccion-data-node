@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.3968471082745,
+        "lon": -64.0598690981123
+      },
+      "departamento": {
+        "id": "14014",
+        "nombre": "Capital"
+      },
+      "id": "1401401002",
+      "localidad_censal": {
+        "id": "14014010",
+        "nombre": "Córdoba"
+      },
+      "municipio": {
+        "id": "140077",
+        "nombre": "Córdoba"
+      },
+      "nombre": "La Floresta",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.3685851015486,
+        "lon": -64.0605223114939
+      },
+      "departamento": {
+        "id": "14014",
+        "nombre": "Capital"
+      },
+      "id": "1401401001",
+      "localidad_censal": {
+        "id": "14014010",
+        "nombre": "Córdoba"
+      },
+      "municipio": {
+        "id": "140077",
+        "nombre": "Córdoba"
+      },
+      "nombre": "Jardín Arenales",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.4150461523809,
+        "lon": -64.1791140755104
+      },
+      "departamento": {
+        "id": "14014",
+        "nombre": "Capital"
+      },
+      "id": "1401401003",
+      "localidad_censal": {
+        "id": "14014010",
+        "nombre": "Córdoba"
+      },
+      "municipio": {
+        "id": "140077",
+        "nombre": "Córdoba"
+      },
+      "nombre": "Córdoba",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -31.416804474519,
+        "lon": -64.1836065316143
+      },
+      "departamento": {
+        "id": "14014",
+        "nombre": "Capital"
+      },
+      "id": "14014010",
+      "localidad_censal": {
+        "id": "14014010",
+        "nombre": "Córdoba"
+      },
+      "municipio": {
+        "id": "140077",
+        "nombre": "Córdoba"
+      },
+      "nombre": "Córdoba",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14014"
+    ]
+  },
+  "total": 4
+}

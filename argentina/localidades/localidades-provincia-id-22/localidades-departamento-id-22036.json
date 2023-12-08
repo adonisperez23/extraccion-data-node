@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.487414446204,
+        "lon": -61.6766967146157
+      },
+      "departamento": {
+        "id": "22036",
+        "nombre": "12 de Octubre"
+      },
+      "id": "22036010",
+      "localidad_censal": {
+        "id": "22036010",
+        "nombre": "Gancedo"
+      },
+      "municipio": {
+        "id": "220091",
+        "nombre": "Gancedo"
+      },
+      "nombre": "Gancedo",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.422571352861,
+        "lon": -61.4761415092562
+      },
+      "departamento": {
+        "id": "22036",
+        "nombre": "12 de Octubre"
+      },
+      "id": "22036020",
+      "localidad_censal": {
+        "id": "22036020",
+        "nombre": "General Capdevila"
+      },
+      "municipio": {
+        "id": "220098",
+        "nombre": "General Capdevila"
+      },
+      "nombre": "General Capdevila",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3253861556851,
+        "lon": -61.2809982820843
+      },
+      "departamento": {
+        "id": "22036",
+        "nombre": "12 de Octubre"
+      },
+      "id": "22036030",
+      "localidad_censal": {
+        "id": "22036030",
+        "nombre": "General Pinedo"
+      },
+      "municipio": {
+        "id": "220105",
+        "nombre": "General Pinedo"
+      },
+      "nombre": "General Pinedo",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4298125750248,
+        "lon": -61.0170993552243
+      },
+      "departamento": {
+        "id": "22036",
+        "nombre": "12 de Octubre"
+      },
+      "id": "22036040",
+      "localidad_censal": {
+        "id": "22036040",
+        "nombre": "Mesón de Fierro"
+      },
+      "municipio": {
+        "id": "220105",
+        "nombre": "General Pinedo"
+      },
+      "nombre": "Mesón de Fierro",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3946839706567,
+        "lon": -61.1025627085806
+      },
+      "departamento": {
+        "id": "22036",
+        "nombre": "12 de Octubre"
+      },
+      "id": "22036050",
+      "localidad_censal": {
+        "id": "22036050",
+        "nombre": "Pampa Landriel"
+      },
+      "municipio": {
+        "id": "220105",
+        "nombre": "General Pinedo"
+      },
+      "nombre": "Pampa Landriel",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22036"
+    ]
+  },
+  "total": 5
+}

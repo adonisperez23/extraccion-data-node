@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.4372272755286,
+        "lon": -66.2945118021659
+      },
+      "departamento": {
+        "id": "66119",
+        "nombre": "Molinos"
+      },
+      "id": "66119020",
+      "localidad_censal": {
+        "id": "66119020",
+        "nombre": "Molinos"
+      },
+      "municipio": {
+        "id": "660273",
+        "nombre": "Molinos"
+      },
+      "nombre": "Molinos",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.2800549545131,
+        "lon": -66.449909388902
+      },
+      "departamento": {
+        "id": "66119",
+        "nombre": "Molinos"
+      },
+      "id": "66119010",
+      "localidad_censal": {
+        "id": "66119010",
+        "nombre": "La Puerta"
+      },
+      "municipio": {
+        "id": "660287",
+        "nombre": "Seclantás"
+      },
+      "nombre": "La Puerta",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.3317582680715,
+        "lon": -66.2442024607425
+      },
+      "departamento": {
+        "id": "66119",
+        "nombre": "Molinos"
+      },
+      "id": "66119030",
+      "localidad_censal": {
+        "id": "66119030",
+        "nombre": "Seclantás"
+      },
+      "municipio": {
+        "id": "660287",
+        "nombre": "Seclantás"
+      },
+      "nombre": "Seclantás",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66119"
+    ]
+  },
+  "total": 3
+}

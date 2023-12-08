@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -30.2151857966318,
+        "lon": -68.6879878663543
+      },
+      "departamento": {
+        "id": "70056",
+        "nombre": "Jáchal"
+      },
+      "id": "7005606003",
+      "localidad_censal": {
+        "id": "70056060",
+        "nombre": "Pampa Vieja"
+      },
+      "municipio": {
+        "id": "700056",
+        "nombre": "Jáchal"
+      },
+      "nombre": "Pampa Vieja",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -30.1814817563673,
+        "lon": -68.6798009591543
+      },
+      "departamento": {
+        "id": "70056",
+        "nombre": "Jáchal"
+      },
+      "id": "7005606002",
+      "localidad_censal": {
+        "id": "70056060",
+        "nombre": "Pampa Vieja"
+      },
+      "municipio": {
+        "id": "700056",
+        "nombre": "Jáchal"
+      },
+      "nombre": "La Falda",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.2181396339054,
+        "lon": -68.6881634525189
+      },
+      "departamento": {
+        "id": "70056",
+        "nombre": "Jáchal"
+      },
+      "id": "70056060",
+      "localidad_censal": {
+        "id": "70056060",
+        "nombre": "Pampa Vieja"
+      },
+      "municipio": {
+        "id": "700056",
+        "nombre": "Jáchal"
+      },
+      "nombre": "Pampa Vieja",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.6953846370268,
+        "lon": -68.3603076169169
+      },
+      "departamento": {
+        "id": "70056",
+        "nombre": "Jáchal"
+      },
+      "id": "70056040",
+      "localidad_censal": {
+        "id": "70056040",
+        "nombre": "Mogna"
+      },
+      "municipio": {
+        "id": "700056",
+        "nombre": "Jáchal"
+      },
+      "nombre": "Mogna",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.4089037874511,
+        "lon": -68.6913470184304
+      },
+      "departamento": {
+        "id": "70056",
+        "nombre": "Jáchal"
+      },
+      "id": "70056050",
+      "localidad_censal": {
+        "id": "70056050",
+        "nombre": "Niquivil"
+      },
+      "municipio": {
+        "id": "700056",
+        "nombre": "Jáchal"
+      },
+      "nombre": "Niquivil",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.2220742538966,
+        "lon": -68.73390920848
+      },
+      "departamento": {
+        "id": "70056",
+        "nombre": "Jáchal"
+      },
+      "id": "70056100",
+      "localidad_censal": {
+        "id": "70056100",
+        "nombre": "Villa Malvinas Argentinas"
+      },
+      "municipio": {
+        "id": "700056",
+        "nombre": "Jáchal"
+      },
+      "nombre": "Villa Malvinas Argentinas",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.2417460758843,
+        "lon": -68.7464564792971
+      },
+      "departamento": {
+        "id": "70056",
+        "nombre": "Jáchal"
+      },
+      "id": "70056080",
+      "localidad_censal": {
+        "id": "70056080",
+        "nombre": "San José de Jáchal"
+      },
+      "municipio": {
+        "id": "700056",
+        "nombre": "Jáchal"
+      },
+      "nombre": "San José de Jáchal",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.1203584601818,
+        "lon": -68.7281877169244
+      },
+      "departamento": {
+        "id": "70056",
+        "nombre": "Jáchal"
+      },
+      "id": "70056020",
+      "localidad_censal": {
+        "id": "70056020",
+        "nombre": "Gran China"
+      },
+      "municipio": {
+        "id": "700056",
+        "nombre": "Jáchal"
+      },
+      "nombre": "Gran China",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.1270144537509,
+        "lon": -68.6814403274428
+      },
+      "departamento": {
+        "id": "70056",
+        "nombre": "Jáchal"
+      },
+      "id": "70056010",
+      "localidad_censal": {
+        "id": "70056010",
+        "nombre": "El Médano"
+      },
+      "municipio": {
+        "id": "700056",
+        "nombre": "Jáchal"
+      },
+      "nombre": "El Médano",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.1412160266656,
+        "lon": -68.7058856208801
+      },
+      "departamento": {
+        "id": "70056",
+        "nombre": "Jáchal"
+      },
+      "id": "70056070",
+      "localidad_censal": {
+        "id": "70056070",
+        "nombre": "San Isidro"
+      },
+      "municipio": {
+        "id": "700056",
+        "nombre": "Jáchal"
+      },
+      "nombre": "San Isidro",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "70056"
+    ]
+  },
+  "total": 13
+}

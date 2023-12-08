@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -45.8396707826001,
+        "lon": -67.4738955704894
+      },
+      "departamento": {
+        "id": "26021",
+        "nombre": "Escalante"
+      },
+      "id": "2602103022",
+      "localidad_censal": {
+        "id": "26021030",
+        "nombre": "Comodoro Rivadavia"
+      },
+      "municipio": {
+        "id": "260049",
+        "nombre": "Comodoro Rivadavia"
+      },
+      "nombre": "Kilómetro 3 - General Mosconi",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -45.7837934066429,
+        "lon": -67.4960737067253
+      },
+      "departamento": {
+        "id": "26021",
+        "nombre": "Escalante"
+      },
+      "id": "2602103001",
+      "localidad_censal": {
+        "id": "26021030",
+        "nombre": "Comodoro Rivadavia"
+      },
+      "municipio": {
+        "id": "260049",
+        "nombre": "Comodoro Rivadavia"
+      },
+      "nombre": "Acceso Norte",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -45.7488001218466,
+        "lon": -67.378767782759
+      },
+      "departamento": {
+        "id": "26021",
+        "nombre": "Escalante"
+      },
+      "id": "2602103002",
+      "localidad_censal": {
+        "id": "26021030",
+        "nombre": "Comodoro Rivadavia"
+      },
+      "municipio": {
+        "id": "260049",
+        "nombre": "Comodoro Rivadavia"
+      },
+      "nombre": "Barrio Caleta Córdova",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -45.7751581811535,
+        "lon": -67.3888489022003
+      },
+      "departamento": {
+        "id": "26021",
+        "nombre": "Escalante"
+      },
+      "id": "2602103003",
+      "localidad_censal": {
+        "id": "26021030",
+        "nombre": "Comodoro Rivadavia"
+      },
+      "municipio": {
+        "id": "260049",
+        "nombre": "Comodoro Rivadavia"
+      },
+      "nombre": "Caleta Olivares",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -45.8163897245992,
+        "lon": -67.4764194977592
+      },
+      "departamento": {
+        "id": "26021",
+        "nombre": "Escalante"
+      },
+      "id": "2602103004",
+      "localidad_censal": {
+        "id": "26021030",
+        "nombre": "Comodoro Rivadavia"
+      },
+      "municipio": {
+        "id": "260049",
+        "nombre": "Comodoro Rivadavia"
+      },
+      "nombre": "Barrio Castelli",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -45.7966537301578,
+        "lon": -67.4968830233563
+      },
+      "departamento": {
+        "id": "26021",
+        "nombre": "Escalante"
+      },
+      "id": "2602103005",
+      "localidad_censal": {
+        "id": "26021030",
+        "nombre": "Comodoro Rivadavia"
+      },
+      "municipio": {
+        "id": "260049",
+        "nombre": "Comodoro Rivadavia"
+      },
+      "nombre": "Barrio Ciudadela",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -45.7942341647363,
+        "lon": -67.5049449984858
+      },
+      "departamento": {
+        "id": "26021",
+        "nombre": "Escalante"
+      },
+      "id": "2602103006",
+      "localidad_censal": {
+        "id": "26021030",
+        "nombre": "Comodoro Rivadavia"
+      },
+      "municipio": {
+        "id": "260049",
+        "nombre": "Comodoro Rivadavia"
+      },
+      "nombre": "Barrio Gasoducto",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -45.8222376650658,
+        "lon": -67.4920745853454
+      },
+      "departamento": {
+        "id": "26021",
+        "nombre": "Escalante"
+      },
+      "id": "2602103007",
+      "localidad_censal": {
+        "id": "26021030",
+        "nombre": "Comodoro Rivadavia"
+      },
+      "municipio": {
+        "id": "260049",
+        "nombre": "Comodoro Rivadavia"
+      },
+      "nombre": "Barrio Güemes",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -45.8283932353205,
+        "lon": -67.5426438874095
+      },
+      "departamento": {
+        "id": "26021",
+        "nombre": "Escalante"
+      },
+      "id": "2602103008",
+      "localidad_censal": {
+        "id": "26021030",
+        "nombre": "Comodoro Rivadavia"
+      },
+      "municipio": {
+        "id": "260049",
+        "nombre": "Comodoro Rivadavia"
+      },
+      "nombre": "Barrio Laprida",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -45.8184020010556,
+        "lon": -67.5256775019651
+      },
+      "departamento": {
+        "id": "26021",
+        "nombre": "Escalante"
+      },
+      "id": "2602103009",
+      "localidad_censal": {
+        "id": "26021030",
+        "nombre": "Comodoro Rivadavia"
+      },
+      "municipio": {
+        "id": "260049",
+        "nombre": "Comodoro Rivadavia"
+      },
+      "nombre": "Barrio Manantial Rosales",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "26021"
+    ]
+  },
+  "total": 27
+}

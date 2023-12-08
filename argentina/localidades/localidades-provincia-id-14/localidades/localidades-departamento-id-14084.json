@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.0070747945052,
+        "lon": -63.9234765017096
+      },
+      "departamento": {
+        "id": "14084",
+        "nombre": "Presidente Roque Sáenz Peña"
+      },
+      "id": "14084010",
+      "localidad_censal": {
+        "id": "14084010",
+        "nombre": "General Levalle"
+      },
+      "municipio": {
+        "id": "140616",
+        "nombre": "General Levalle"
+      },
+      "nombre": "General Levalle",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.9536480908797,
+        "lon": -62.9773029539306
+      },
+      "departamento": {
+        "id": "14084",
+        "nombre": "Presidente Roque Sáenz Peña"
+      },
+      "id": "14084020",
+      "localidad_censal": {
+        "id": "14084020",
+        "nombre": "La Cesira"
+      },
+      "municipio": {
+        "id": "140623",
+        "nombre": "La Cesira"
+      },
+      "nombre": "La Cesira",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.1286322353031,
+        "lon": -63.3907017059902
+      },
+      "departamento": {
+        "id": "14084",
+        "nombre": "Presidente Roque Sáenz Peña"
+      },
+      "id": "14084030",
+      "localidad_censal": {
+        "id": "14084030",
+        "nombre": "Laboulaye"
+      },
+      "municipio": {
+        "id": "140630",
+        "nombre": "Laboulaye"
+      },
+      "nombre": "Laboulaye",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.2041801239358,
+        "lon": -62.9758471821582
+      },
+      "departamento": {
+        "id": "14084",
+        "nombre": "Presidente Roque Sáenz Peña"
+      },
+      "id": "14084040",
+      "localidad_censal": {
+        "id": "14084040",
+        "nombre": "Leguizamón"
+      },
+      "municipio": {
+        "id": "142448",
+        "nombre": "Leguizamón"
+      },
+      "nombre": "Leguizamón",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.3486754803918,
+        "lon": -63.4451505752925
+      },
+      "departamento": {
+        "id": "14084",
+        "nombre": "Presidente Roque Sáenz Peña"
+      },
+      "id": "14084050",
+      "localidad_censal": {
+        "id": "14084050",
+        "nombre": "Melo"
+      },
+      "municipio": {
+        "id": "140637",
+        "nombre": "Melo"
+      },
+      "nombre": "Melo",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.0513720434127,
+        "lon": -63.7330655229357
+      },
+      "departamento": {
+        "id": "14084",
+        "nombre": "Presidente Roque Sáenz Peña"
+      },
+      "id": "14084060",
+      "localidad_censal": {
+        "id": "14084060",
+        "nombre": "Río Bamba"
+      },
+      "municipio": {
+        "id": "142455",
+        "nombre": "Río Bamba"
+      },
+      "nombre": "Río Bamba",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.171775958063,
+        "lon": -63.1540264482231
+      },
+      "departamento": {
+        "id": "14084",
+        "nombre": "Presidente Roque Sáenz Peña"
+      },
+      "id": "14084070",
+      "localidad_censal": {
+        "id": "14084070",
+        "nombre": "Rosales"
+      },
+      "municipio": {
+        "id": "140644",
+        "nombre": "Rosales"
+      },
+      "nombre": "Rosales",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.5117297210437,
+        "lon": -63.7088418221183
+      },
+      "departamento": {
+        "id": "14084",
+        "nombre": "Presidente Roque Sáenz Peña"
+      },
+      "id": "14084080",
+      "localidad_censal": {
+        "id": "14084080",
+        "nombre": "San Joaquin"
+      },
+      "municipio": {
+        "id": "142462",
+        "nombre": "San Joaquín"
+      },
+      "nombre": "San Joaquín",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.4706743272088,
+        "lon": -63.5402860917135
+      },
+      "departamento": {
+        "id": "14084",
+        "nombre": "Presidente Roque Sáenz Peña"
+      },
+      "id": "14084090",
+      "localidad_censal": {
+        "id": "14084090",
+        "nombre": "Serrano"
+      },
+      "municipio": {
+        "id": "140651",
+        "nombre": "Serrano"
+      },
+      "nombre": "Serrano",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.2979365972573,
+        "lon": -63.2685389833266
+      },
+      "departamento": {
+        "id": "14084",
+        "nombre": "Presidente Roque Sáenz Peña"
+      },
+      "id": "14084100",
+      "localidad_censal": {
+        "id": "14084100",
+        "nombre": "Villa Rossi"
+      },
+      "municipio": {
+        "id": "140658",
+        "nombre": "Villa Rossi"
+      },
+      "nombre": "Villa Rossi",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14084"
+    ]
+  },
+  "total": 10
+}

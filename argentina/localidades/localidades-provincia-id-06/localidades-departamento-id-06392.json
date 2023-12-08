@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0148684045152,
+        "lon": -63.3759618191184
+      },
+      "departamento": {
+        "id": "06392",
+        "nombre": "General Villegas"
+      },
+      "id": "06392010",
+      "localidad_censal": {
+        "id": "06392010",
+        "nombre": "Banderaó"
+      },
+      "municipio": {
+        "id": "060392",
+        "nombre": "General Villegas"
+      },
+      "nombre": "Banderaló",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.4168172583702,
+        "lon": -62.9608357613973
+      },
+      "departamento": {
+        "id": "06392",
+        "nombre": "General Villegas"
+      },
+      "id": "06392020",
+      "localidad_censal": {
+        "id": "06392020",
+        "nombre": "Santa Eleodora"
+      },
+      "municipio": {
+        "id": "060392",
+        "nombre": "General Villegas"
+      },
+      "nombre": "Cañada Seca",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.6740160429651,
+        "lon": -63.3694055384796
+      },
+      "departamento": {
+        "id": "06392",
+        "nombre": "General Villegas"
+      },
+      "id": "06392030",
+      "localidad_censal": {
+        "id": "06392030",
+        "nombre": "Cañada Seca"
+      },
+      "municipio": {
+        "id": "060392",
+        "nombre": "General Villegas"
+      },
+      "nombre": "Coronel Charlone",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.7835139287208,
+        "lon": -63.1956538141881
+      },
+      "departamento": {
+        "id": "06392",
+        "nombre": "General Villegas"
+      },
+      "id": "06392040",
+      "localidad_censal": {
+        "id": "06392040",
+        "nombre": "Emilio V. Bunge"
+      },
+      "municipio": {
+        "id": "060392",
+        "nombre": "General Villegas"
+      },
+      "nombre": "Emilio V. Bunge",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0326342651802,
+        "lon": -63.0150256475539
+      },
+      "departamento": {
+        "id": "06392",
+        "nombre": "General Villegas"
+      },
+      "id": "06392050",
+      "localidad_censal": {
+        "id": "06392050",
+        "nombre": "Coronel Charlone"
+      },
+      "municipio": {
+        "id": "060392",
+        "nombre": "General Villegas"
+      },
+      "nombre": "General Villegas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0489665819641,
+        "lon": -63.1222119649592
+      },
+      "departamento": {
+        "id": "06392",
+        "nombre": "General Villegas"
+      },
+      "id": "06392060",
+      "localidad_censal": {
+        "id": "06392060",
+        "nombre": "General Villegas"
+      },
+      "municipio": {
+        "id": "060392",
+        "nombre": "General Villegas"
+      },
+      "nombre": "Massey",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.5791984775085,
+        "lon": -62.3516306573346
+      },
+      "departamento": {
+        "id": "06392",
+        "nombre": "General Villegas"
+      },
+      "id": "06392070",
+      "localidad_censal": {
+        "id": "06392070",
+        "nombre": "Massey"
+      },
+      "municipio": {
+        "id": "060392",
+        "nombre": "General Villegas"
+      },
+      "nombre": "Pichincha",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.7672163204812,
+        "lon": -62.9859202104131
+      },
+      "departamento": {
+        "id": "06392",
+        "nombre": "General Villegas"
+      },
+      "id": "06392080",
+      "localidad_censal": {
+        "id": "06392080",
+        "nombre": "Pichincha"
+      },
+      "municipio": {
+        "id": "060392",
+        "nombre": "General Villegas"
+      },
+      "nombre": "Piedritas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.6945082719613,
+        "lon": -62.6955805417506
+      },
+      "departamento": {
+        "id": "06392",
+        "nombre": "General Villegas"
+      },
+      "id": "06392090",
+      "localidad_censal": {
+        "id": "06392090",
+        "nombre": "Piedritas"
+      },
+      "municipio": {
+        "id": "060392",
+        "nombre": "General Villegas"
+      },
+      "nombre": "Santa Eleodora",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.5495606455266,
+        "lon": -63.1733404556288
+      },
+      "departamento": {
+        "id": "06392",
+        "nombre": "General Villegas"
+      },
+      "id": "06392100",
+      "localidad_censal": {
+        "id": "06392100",
+        "nombre": "Santa Regina"
+      },
+      "municipio": {
+        "id": "060392",
+        "nombre": "General Villegas"
+      },
+      "nombre": "Santa Regina",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06392"
+    ]
+  },
+  "total": 12
+}

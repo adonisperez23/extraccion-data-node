@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.1529411135625,
+        "lon": -63.5388733473862
+      },
+      "departamento": {
+        "id": "86182",
+        "nombre": "Sarmiento"
+      },
+      "id": "86182010",
+      "localidad_censal": {
+        "id": "86182010",
+        "nombre": "Garza"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Garza",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86182"
+    ]
+  },
+  "total": 1
+}

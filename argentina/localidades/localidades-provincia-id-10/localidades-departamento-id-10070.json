@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.6045481364721,
+        "lon": -65.5197363815238
+      },
+      "departamento": {
+        "id": "10070",
+        "nombre": "La Paz"
+      },
+      "id": "10070010",
+      "localidad_censal": {
+        "id": "10070010",
+        "nombre": "Casa de Piedra"
+      },
+      "municipio": {
+        "id": "100035",
+        "nombre": "Ancasti"
+      },
+      "nombre": "Casa de Piedra",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.1093301379728,
+        "lon": -65.3612210197212
+      },
+      "departamento": {
+        "id": "10070",
+        "nombre": "La Paz"
+      },
+      "id": "10070020",
+      "localidad_censal": {
+        "id": "10070020",
+        "nombre": "El Aybal"
+      },
+      "municipio": {
+        "id": "100175",
+        "nombre": "Recreo"
+      },
+      "nombre": "El Aybal",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.1949686063432,
+        "lon": -65.4372756503072
+      },
+      "departamento": {
+        "id": "10070",
+        "nombre": "La Paz"
+      },
+      "id": "10070030",
+      "localidad_censal": {
+        "id": "10070030",
+        "nombre": "El Bañado"
+      },
+      "municipio": {
+        "id": "100175",
+        "nombre": "Recreo"
+      },
+      "nombre": "El Bañado",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.2015274227698,
+        "lon": -65.4524837802877
+      },
+      "departamento": {
+        "id": "10070",
+        "nombre": "La Paz"
+      },
+      "id": "10070040",
+      "localidad_censal": {
+        "id": "10070040",
+        "nombre": "El Divisadero"
+      },
+      "municipio": {
+        "id": "100175",
+        "nombre": "Recreo"
+      },
+      "nombre": "El Divisadero",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.8993520757253,
+        "lon": -65.3979048133024
+      },
+      "departamento": {
+        "id": "10070",
+        "nombre": "La Paz"
+      },
+      "id": "10070050",
+      "localidad_censal": {
+        "id": "10070050",
+        "nombre": "El Quimilo"
+      },
+      "municipio": {
+        "id": "100175",
+        "nombre": "Recreo"
+      },
+      "nombre": "El Quimilo",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.3788610113225,
+        "lon": -65.2902628195316
+      },
+      "departamento": {
+        "id": "10070",
+        "nombre": "La Paz"
+      },
+      "id": "10070060",
+      "localidad_censal": {
+        "id": "10070060",
+        "nombre": "Esquiú"
+      },
+      "municipio": {
+        "id": "100175",
+        "nombre": "Recreo"
+      },
+      "nombre": "Esquiú",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.9195404731786,
+        "lon": -65.330165196142
+      },
+      "departamento": {
+        "id": "10070",
+        "nombre": "La Paz"
+      },
+      "id": "10070070",
+      "localidad_censal": {
+        "id": "10070070",
+        "nombre": "Icaño"
+      },
+      "municipio": {
+        "id": "100168",
+        "nombre": "Icaño"
+      },
+      "nombre": "Icaño",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.2448211616141,
+        "lon": -65.482548511642
+      },
+      "departamento": {
+        "id": "10070",
+        "nombre": "La Paz"
+      },
+      "id": "10070080",
+      "localidad_censal": {
+        "id": "10070080",
+        "nombre": "La Dorada"
+      },
+      "municipio": {
+        "id": "100175",
+        "nombre": "Recreo"
+      },
+      "nombre": "La Dorada",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.5565259468291,
+        "lon": -65.45292512565
+      },
+      "departamento": {
+        "id": "10070",
+        "nombre": "La Paz"
+      },
+      "id": "10070090",
+      "localidad_censal": {
+        "id": "10070090",
+        "nombre": "La Guardia"
+      },
+      "municipio": {
+        "id": "100175",
+        "nombre": "Recreo"
+      },
+      "nombre": "La Guardia",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.7370287924951,
+        "lon": -65.1089288090212
+      },
+      "departamento": {
+        "id": "10070",
+        "nombre": "La Paz"
+      },
+      "id": "10070100",
+      "localidad_censal": {
+        "id": "10070100",
+        "nombre": "Las Esquinas"
+      },
+      "municipio": {
+        "id": "100168",
+        "nombre": "Icaño"
+      },
+      "nombre": "Las Esquinas",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "10070"
+    ]
+  },
+  "total": 15
+}

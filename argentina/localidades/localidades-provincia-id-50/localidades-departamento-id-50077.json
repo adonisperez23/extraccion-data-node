@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.1549253655662,
+        "lon": -68.3008488180603
+      },
+      "departamento": {
+        "id": "50077",
+        "nombre": "Malargüe"
+      },
+      "id": "50077010",
+      "localidad_censal": {
+        "id": "50077010",
+        "nombre": "Agua Escondida"
+      },
+      "municipio": {
+        "id": "500077",
+        "nombre": "Malargüe"
+      },
+      "nombre": "Agua Escondida",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.4683739980962,
+        "lon": -69.5847075525399
+      },
+      "departamento": {
+        "id": "50077",
+        "nombre": "Malargüe"
+      },
+      "id": "50077040",
+      "localidad_censal": {
+        "id": "50077040",
+        "nombre": "Malargüe"
+      },
+      "municipio": {
+        "id": "500077",
+        "nombre": "Malargüe"
+      },
+      "nombre": "Malargüe",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.1476106139429,
+        "lon": -70.0821307486407
+      },
+      "departamento": {
+        "id": "50077",
+        "nombre": "Malargüe"
+      },
+      "id": "50077030",
+      "localidad_censal": {
+        "id": "50077030",
+        "nombre": "Las Leñas"
+      },
+      "municipio": {
+        "id": "500077",
+        "nombre": "Malargüe"
+      },
+      "nombre": "Las Leñas",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "50077"
+    ]
+  },
+  "total": 3
+}

@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -41.1358081611304,
+        "lon": -71.3043392567773
+      },
+      "departamento": {
+        "id": "62021",
+        "nombre": "Bariloche"
+      },
+      "id": "6202106001",
+      "localidad_censal": {
+        "id": "62021060",
+        "nombre": "San Carlos de Bariloche"
+      },
+      "municipio": {
+        "id": "620077",
+        "nombre": "San Carlos de Bariloche"
+      },
+      "nombre": "San Carlos de Bariloche",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -41.0464476944193,
+        "lon": -71.5147156577085
+      },
+      "departamento": {
+        "id": "62021",
+        "nombre": "Bariloche"
+      },
+      "id": "6202106003",
+      "localidad_censal": {
+        "id": "62021060",
+        "nombre": "San Carlos de Bariloche"
+      },
+      "municipio": {
+        "id": "620077",
+        "nombre": "San Carlos de Bariloche"
+      },
+      "nombre": "Villa Llao Llao",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -41.060686298268,
+        "lon": -71.4938899793639
+      },
+      "departamento": {
+        "id": "62021",
+        "nombre": "Bariloche"
+      },
+      "id": "6202106002",
+      "localidad_censal": {
+        "id": "62021060",
+        "nombre": "San Carlos de Bariloche"
+      },
+      "municipio": {
+        "id": "620077",
+        "nombre": "San Carlos de Bariloche"
+      },
+      "nombre": "Villa Campanario",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.09453426104,
+        "lon": -71.5086139742413
+      },
+      "departamento": {
+        "id": "62021",
+        "nombre": "Bariloche"
+      },
+      "id": "62021020",
+      "localidad_censal": {
+        "id": "62021020",
+        "nombre": "Colonia Suiza"
+      },
+      "municipio": {
+        "id": "620077",
+        "nombre": "San Carlos de Bariloche"
+      },
+      "nombre": "Colonia Suiza",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.6539003705609,
+        "lon": -71.4600848199919
+      },
+      "departamento": {
+        "id": "62021",
+        "nombre": "Bariloche"
+      },
+      "id": "62021040",
+      "localidad_censal": {
+        "id": "62021040",
+        "nombre": "El Foyel"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Foyel",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.8396332751023,
+        "lon": -71.504412388147
+      },
+      "departamento": {
+        "id": "62021",
+        "nombre": "Bariloche"
+      },
+      "id": "62021047",
+      "localidad_censal": {
+        "id": "62021047",
+        "nombre": "Mallín Ahogado"
+      },
+      "municipio": {
+        "id": "620070",
+        "nombre": "El Bolsón"
+      },
+      "nombre": "Mallín Ahogado",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.5778559460433,
+        "lon": -71.5025131748524
+      },
+      "departamento": {
+        "id": "62021",
+        "nombre": "Bariloche"
+      },
+      "id": "62021050",
+      "localidad_censal": {
+        "id": "62021050",
+        "nombre": "Río Villegas"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Río Villegas",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.1341966851001,
+        "lon": -71.3109583115248
+      },
+      "departamento": {
+        "id": "62021",
+        "nombre": "Bariloche"
+      },
+      "id": "62021060",
+      "localidad_censal": {
+        "id": "62021060",
+        "nombre": "San Carlos de Bariloche"
+      },
+      "municipio": {
+        "id": "620077",
+        "nombre": "San Carlos de Bariloche"
+      },
+      "nombre": "San Carlos de Bariloche",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.349553642129,
+        "lon": -71.5090416296635
+      },
+      "departamento": {
+        "id": "62021",
+        "nombre": "Bariloche"
+      },
+      "id": "62021110",
+      "localidad_censal": {
+        "id": "62021110",
+        "nombre": "Villa Mascardi"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Villa Mascardi",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.1676214987138,
+        "lon": -71.4402137272645
+      },
+      "departamento": {
+        "id": "62021",
+        "nombre": "Bariloche"
+      },
+      "id": "62021080",
+      "localidad_censal": {
+        "id": "62021080",
+        "nombre": "Villa Catedral"
+      },
+      "municipio": {
+        "id": "620077",
+        "nombre": "San Carlos de Bariloche"
+      },
+      "nombre": "Villa Catedral",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "62021"
+    ]
+  },
+  "total": 11
+}

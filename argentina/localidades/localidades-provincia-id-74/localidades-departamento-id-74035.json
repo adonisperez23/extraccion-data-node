@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.7220140985886,
+        "lon": -65.3807098179268
+      },
+      "departamento": {
+        "id": "74035",
+        "nombre": "General Pedernera"
+      },
+      "id": "7403508002",
+      "localidad_censal": {
+        "id": "74035080",
+        "nombre": "Villa Reynolds"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "5ta Brigada",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.6919305278304,
+        "lon": -65.5022500728767
+      },
+      "departamento": {
+        "id": "74035",
+        "nombre": "General Pedernera"
+      },
+      "id": "7403507001",
+      "localidad_censal": {
+        "id": "74035070",
+        "nombre": "Villa Mercedes"
+      },
+      "municipio": {
+        "id": "740077",
+        "nombre": "Villa Mercedes"
+      },
+      "nombre": "La Ribera",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.6803646800407,
+        "lon": -65.4697478338235
+      },
+      "departamento": {
+        "id": "74035",
+        "nombre": "General Pedernera"
+      },
+      "id": "7403507002",
+      "localidad_censal": {
+        "id": "74035070",
+        "nombre": "Villa Mercedes"
+      },
+      "municipio": {
+        "id": "740077",
+        "nombre": "Villa Mercedes"
+      },
+      "nombre": "Villa Mercedes",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.7073372784002,
+        "lon": -65.3835104526824
+      },
+      "departamento": {
+        "id": "74035",
+        "nombre": "General Pedernera"
+      },
+      "id": "7403508001",
+      "localidad_censal": {
+        "id": "74035080",
+        "nombre": "Villa Reynolds"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Country Club Los Caldenes",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.6131704931711,
+        "lon": -65.2721849305877
+      },
+      "departamento": {
+        "id": "74035",
+        "nombre": "General Pedernera"
+      },
+      "id": "74035010",
+      "localidad_censal": {
+        "id": "74035010",
+        "nombre": "Juan Jorba"
+      },
+      "municipio": {
+        "id": "746119",
+        "nombre": "Juan Jorba"
+      },
+      "nombre": "Juan Jorba",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.8633740330397,
+        "lon": -65.1780584141074
+      },
+      "departamento": {
+        "id": "74035",
+        "nombre": "General Pedernera"
+      },
+      "id": "74035030",
+      "localidad_censal": {
+        "id": "74035030",
+        "nombre": "Justo Daract"
+      },
+      "municipio": {
+        "id": "740070",
+        "nombre": "Justo Daract"
+      },
+      "nombre": "Justo Daract",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.2123441386321,
+        "lon": -65.491184132694
+      },
+      "departamento": {
+        "id": "74035",
+        "nombre": "General Pedernera"
+      },
+      "id": "74035060",
+      "localidad_censal": {
+        "id": "74035060",
+        "nombre": "San José del Morro"
+      },
+      "municipio": {
+        "id": "746112",
+        "nombre": "San José del Morro"
+      },
+      "nombre": "San José del Morro",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.6744709836311,
+        "lon": -65.4621977799621
+      },
+      "departamento": {
+        "id": "74035",
+        "nombre": "General Pedernera"
+      },
+      "id": "74035070",
+      "localidad_censal": {
+        "id": "74035070",
+        "nombre": "Villa Mercedes"
+      },
+      "municipio": {
+        "id": "740077",
+        "nombre": "Villa Mercedes"
+      },
+      "nombre": "Villa Mercedes",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.72096243853,
+        "lon": -65.3836262490669
+      },
+      "departamento": {
+        "id": "74035",
+        "nombre": "General Pedernera"
+      },
+      "id": "74035080",
+      "localidad_censal": {
+        "id": "74035080",
+        "nombre": "Villa Reynolds"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Villa Reynolds",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.8400399215258,
+        "lon": -65.2135585919752
+      },
+      "departamento": {
+        "id": "74035",
+        "nombre": "General Pedernera"
+      },
+      "id": "74035090",
+      "localidad_censal": {
+        "id": "74035090",
+        "nombre": "Villa Salles"
+      },
+      "municipio": {
+        "id": "740070",
+        "nombre": "Justo Daract"
+      },
+      "nombre": "Villa Salles",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "74035"
+    ]
+  },
+  "total": 14
+}

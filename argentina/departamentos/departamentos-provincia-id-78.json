@@ -1,0 +1,95 @@
+{
+  "cantidad": 7,
+  "departamentos": [
+    {
+      "centroide": {
+        "lat": -48.2873290195571,
+        "lon": -71.113837498627
+      },
+      "id": "78049",
+      "nombre": "Río Chico",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -49.8364881436802,
+        "lon": -72.06547133431
+      },
+      "id": "78028",
+      "nombre": "Lago Argentino",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -48.8383418227095,
+        "lon": -68.4681621290535
+      },
+      "id": "78042",
+      "nombre": "Magallanes",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -49.9474837008291,
+        "lon": -69.4469507226845
+      },
+      "id": "78007",
+      "nombre": "Corpen Aike",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -51.4134125039336,
+        "lon": -70.5618155469082
+      },
+      "id": "78021",
+      "nombre": "Güer Aike",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -46.8342043710739,
+        "lon": -70.6313995743965
+      },
+      "id": "78035",
+      "nombre": "Lago Buenos Aires",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -47.3305629962178,
+        "lon": -68.0290548030539
+      },
+      "id": "78014",
+      "nombre": "Deseado",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    }
+  ],
+  "inicio": 0,
+  "parametros": {
+    "max": 200,
+    "provincia": "Santa Cruz"
+  },
+  "total": 7
+}

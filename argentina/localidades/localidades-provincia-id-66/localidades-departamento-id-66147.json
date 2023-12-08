@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.8728089227878,
+        "lon": -65.5632223954963
+      },
+      "departamento": {
+        "id": "66147",
+        "nombre": "Rosario de Lerma"
+      },
+      "id": "66147015",
+      "localidad_censal": {
+        "id": "66147015",
+        "nombre": "La Merced del Encón"
+      },
+      "municipio": {
+        "id": "660364",
+        "nombre": "Campo Quijano"
+      },
+      "nombre": "La Merced del Encón",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.9858260222697,
+        "lon": -65.5783969114127
+      },
+      "departamento": {
+        "id": "66147",
+        "nombre": "Rosario de Lerma"
+      },
+      "id": "66147030",
+      "localidad_censal": {
+        "id": "66147030",
+        "nombre": "Rosario de Lerma"
+      },
+      "municipio": {
+        "id": "660371",
+        "nombre": "Rosario de Lerma"
+      },
+      "nombre": "Rosario de Lerma",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.8749760307874,
+        "lon": -65.5904804532058
+      },
+      "departamento": {
+        "id": "66147",
+        "nombre": "Rosario de Lerma"
+      },
+      "id": "66147020",
+      "localidad_censal": {
+        "id": "66147020",
+        "nombre": "La Silleta"
+      },
+      "municipio": {
+        "id": "660364",
+        "nombre": "Campo Quijano"
+      },
+      "nombre": "La Silleta",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.9081333868159,
+        "lon": -65.6429830198209
+      },
+      "departamento": {
+        "id": "66147",
+        "nombre": "Rosario de Lerma"
+      },
+      "id": "66147010",
+      "localidad_censal": {
+        "id": "66147010",
+        "nombre": "Campo Quijano"
+      },
+      "municipio": {
+        "id": "660364",
+        "nombre": "Campo Quijano"
+      },
+      "nombre": "Campo Quijano",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66147"
+    ]
+  },
+  "total": 4
+}

@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6056583507014,
+        "lon": -58.4925855263183
+      },
+      "departamento": {
+        "id": "02077",
+        "nombre": "Comuna 11"
+      },
+      "id": "0207701001",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022077",
+        "nombre": "Comuna 11"
+      },
+      "nombre": "Villa del Parque",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5993315619562,
+        "lon": -58.512222701013
+      },
+      "departamento": {
+        "id": "02077",
+        "nombre": "Comuna 11"
+      },
+      "id": "0207701002",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022077",
+        "nombre": "Comuna 11"
+      },
+      "nombre": "Villa Devoto",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6104793064723,
+        "lon": -58.4676090860073
+      },
+      "departamento": {
+        "id": "02077",
+        "nombre": "Comuna 11"
+      },
+      "id": "0207701003",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022077",
+        "nombre": "Comuna 11"
+      },
+      "nombre": "Villa General Mitre",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6154081865065,
+        "lon": -58.4836631739706
+      },
+      "departamento": {
+        "id": "02077",
+        "nombre": "Comuna 11"
+      },
+      "id": "0207701004",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022077",
+        "nombre": "Comuna 11"
+      },
+      "nombre": "Villa Santa Rita",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "02077"
+    ]
+  },
+  "total": 4
+}

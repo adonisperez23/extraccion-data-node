@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2732906811549,
+        "lon": -63.5131819104367
+      },
+      "departamento": {
+        "id": "86070",
+        "nombre": "Figueroa"
+      },
+      "id": "86070010",
+      "localidad_censal": {
+        "id": "86070010",
+        "nombre": "Bandera Bajada"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Bandera Bajada",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.382678901274,
+        "lon": -63.488154774308
+      },
+      "departamento": {
+        "id": "86070",
+        "nombre": "Figueroa"
+      },
+      "id": "86070070",
+      "localidad_censal": {
+        "id": "86070070",
+        "nombre": "La Invernada"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "La Invernada",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.7095088988264,
+        "lon": -63.7725542121093
+      },
+      "departamento": {
+        "id": "86070",
+        "nombre": "Figueroa"
+      },
+      "id": "86070060",
+      "localidad_censal": {
+        "id": "86070060",
+        "nombre": "La Cañada"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "La Cañada",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.574184310469,
+        "lon": -63.3290357182559
+      },
+      "departamento": {
+        "id": "86070",
+        "nombre": "Figueroa"
+      },
+      "id": "86070040",
+      "localidad_censal": {
+        "id": "86070040",
+        "nombre": "El Cruce"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Crucero",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.6179076144941,
+        "lon": -63.300576777963
+      },
+      "departamento": {
+        "id": "86070",
+        "nombre": "Figueroa"
+      },
+      "id": "86070030",
+      "localidad_censal": {
+        "id": "86070030",
+        "nombre": "Colonia San Juan"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Colonia San Juan",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.7212279278424,
+        "lon": -63.5065630634756
+      },
+      "departamento": {
+        "id": "86070",
+        "nombre": "Figueroa"
+      },
+      "id": "86070100",
+      "localidad_censal": {
+        "id": "86070100",
+        "nombre": "Villa Figueroa"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Villa Figueroa",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4636942107519,
+        "lon": -63.472420567237
+      },
+      "departamento": {
+        "id": "86070",
+        "nombre": "Figueroa"
+      },
+      "id": "86070090",
+      "localidad_censal": {
+        "id": "86070090",
+        "nombre": "Vaca Huañuna"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Vaca Huañuna",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5330350278594,
+        "lon": -63.3832540295221
+      },
+      "departamento": {
+        "id": "86070",
+        "nombre": "Figueroa"
+      },
+      "id": "86070080",
+      "localidad_censal": {
+        "id": "86070080",
+        "nombre": "Minerva"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Minerva",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3884169545639,
+        "lon": -63.5469229483022
+      },
+      "departamento": {
+        "id": "86070",
+        "nombre": "Figueroa"
+      },
+      "id": "86070020",
+      "localidad_censal": {
+        "id": "86070020",
+        "nombre": "Caspi Corral"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Caspi Corral",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86070"
+    ]
+  },
+  "total": 9
+}

@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.2923551925373,
+        "lon": -61.4058045162937
+      },
+      "departamento": {
+        "id": "06588",
+        "nombre": "9 de Julio"
+      },
+      "id": "06588010",
+      "localidad_censal": {
+        "id": "06588010",
+        "nombre": "Facundo Quiroga"
+      },
+      "municipio": {
+        "id": "060588",
+        "nombre": "9 de Julio"
+      },
+      "nombre": "Alfredo Demarchi",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.2371509729554,
+        "lon": -60.8232787547967
+      },
+      "departamento": {
+        "id": "06588",
+        "nombre": "9 de Julio"
+      },
+      "id": "06588020",
+      "localidad_censal": {
+        "id": "06588020",
+        "nombre": "Carlos María Naón"
+      },
+      "municipio": {
+        "id": "060588",
+        "nombre": "9 de Julio"
+      },
+      "nombre": "Carlos María Naón",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.6051664542091,
+        "lon": -60.9191473234903
+      },
+      "departamento": {
+        "id": "06588",
+        "nombre": "9 de Julio"
+      },
+      "id": "06588030",
+      "localidad_censal": {
+        "id": "06588030",
+        "nombre": "12 de Octubre"
+      },
+      "municipio": {
+        "id": "060588",
+        "nombre": "9 de Julio"
+      },
+      "nombre": "12 de Octubre",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.6502676871895,
+        "lon": -60.7095008306529
+      },
+      "departamento": {
+        "id": "06588",
+        "nombre": "9 de Julio"
+      },
+      "id": "06588040",
+      "localidad_censal": {
+        "id": "06588040",
+        "nombre": "Dudignac"
+      },
+      "municipio": {
+        "id": "060588",
+        "nombre": "9 de Julio"
+      },
+      "nombre": "Dudignac",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.4087074583601,
+        "lon": -61.2078054655041
+      },
+      "departamento": {
+        "id": "06588",
+        "nombre": "9 de Julio"
+      },
+      "id": "06588050",
+      "localidad_censal": {
+        "id": "06588050",
+        "nombre": "La Niña"
+      },
+      "municipio": {
+        "id": "060588",
+        "nombre": "9 de Julio"
+      },
+      "nombre": "La Aurora",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.5179958813353,
+        "lon": -61.0012935115833
+      },
+      "departamento": {
+        "id": "06588",
+        "nombre": "9 de Julio"
+      },
+      "id": "06588060",
+      "localidad_censal": {
+        "id": "06588060",
+        "nombre": "French"
+      },
+      "municipio": {
+        "id": "060588",
+        "nombre": "9 de Julio"
+      },
+      "nombre": "Manuel B. Gonnet",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.3516198354707,
+        "lon": -60.745070287461
+      },
+      "departamento": {
+        "id": "06588",
+        "nombre": "9 de Julio"
+      },
+      "id": "06588070",
+      "localidad_censal": {
+        "id": "06588070",
+        "nombre": "Dennehy"
+      },
+      "municipio": {
+        "id": "060588",
+        "nombre": "9 de Julio"
+      },
+      "nombre": "Marcelino Ugarte",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.554541699943,
+        "lon": -60.5620254403177
+      },
+      "departamento": {
+        "id": "06588",
+        "nombre": "9 de Julio"
+      },
+      "id": "06588080",
+      "localidad_censal": {
+        "id": "06588080",
+        "nombre": "Morea"
+      },
+      "municipio": {
+        "id": "060588",
+        "nombre": "9 de Julio"
+      },
+      "nombre": "Morea",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.5351190598706,
+        "lon": -60.7943911921044
+      },
+      "departamento": {
+        "id": "06588",
+        "nombre": "9 de Julio"
+      },
+      "id": "06588090",
+      "localidad_censal": {
+        "id": "06588090",
+        "nombre": "Norumbega"
+      },
+      "municipio": {
+        "id": "060588",
+        "nombre": "9 de Julio"
+      },
+      "nombre": "Norumbega",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.4439352795847,
+        "lon": -60.8846274846021
+      },
+      "departamento": {
+        "id": "06588",
+        "nombre": "9 de Julio"
+      },
+      "id": "06588100",
+      "localidad_censal": {
+        "id": "06588100",
+        "nombre": "9 de Julio"
+      },
+      "municipio": {
+        "id": "060588",
+        "nombre": "9 de Julio"
+      },
+      "nombre": "9 de Julio",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06588"
+    ]
+  },
+  "total": 12
+}

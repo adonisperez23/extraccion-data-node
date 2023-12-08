@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6079360429362,
+        "lon": -58.5639388527613
+      },
+      "departamento": {
+        "id": "06840",
+        "nombre": "Tres de Febrero"
+      },
+      "id": "0684001001",
+      "localidad_censal": {
+        "id": "06840010",
+        "nombre": "Tres de Febrero"
+      },
+      "municipio": {
+        "id": "060840",
+        "nombre": "Tres de Febrero"
+      },
+      "nombre": "Caseros",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5590894223482,
+        "lon": -58.6210861683629
+      },
+      "departamento": {
+        "id": "06840",
+        "nombre": "Tres de Febrero"
+      },
+      "id": "0684001002",
+      "localidad_censal": {
+        "id": "06840010",
+        "nombre": "Tres de Febrero"
+      },
+      "municipio": {
+        "id": "060840",
+        "nombre": "Tres de Febrero"
+      },
+      "nombre": "Churruca",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6020571077223,
+        "lon": -58.5918129323397
+      },
+      "departamento": {
+        "id": "06840",
+        "nombre": "Tres de Febrero"
+      },
+      "id": "0684001003",
+      "localidad_censal": {
+        "id": "06840010",
+        "nombre": "Tres de Febrero"
+      },
+      "municipio": {
+        "id": "060840",
+        "nombre": "Tres de Febrero"
+      },
+      "nombre": "Ciudad Jardín Lomas del Palomar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6379153169712,
+        "lon": -58.5393433409443
+      },
+      "departamento": {
+        "id": "06840",
+        "nombre": "Tres de Febrero"
+      },
+      "id": "0684001004",
+      "localidad_censal": {
+        "id": "06840010",
+        "nombre": "Tres de Febrero"
+      },
+      "municipio": {
+        "id": "060840",
+        "nombre": "Tres de Febrero"
+      },
+      "nombre": "Ciudadela",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5554270234588,
+        "lon": -58.6128107904756
+      },
+      "departamento": {
+        "id": "06840",
+        "nombre": "Tres de Febrero"
+      },
+      "id": "0684001005",
+      "localidad_censal": {
+        "id": "06840010",
+        "nombre": "Tres de Febrero"
+      },
+      "municipio": {
+        "id": "060840",
+        "nombre": "Tres de Febrero"
+      },
+      "nombre": "El Libertador",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6171682617636,
+        "lon": -58.5359477552874
+      },
+      "departamento": {
+        "id": "06840",
+        "nombre": "Tres de Febrero"
+      },
+      "id": "0684001006",
+      "localidad_censal": {
+        "id": "06840010",
+        "nombre": "Tres de Febrero"
+      },
+      "municipio": {
+        "id": "060840",
+        "nombre": "Tres de Febrero"
+      },
+      "nombre": "José Ingenieros",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5686752520983,
+        "lon": -58.6021422654243
+      },
+      "departamento": {
+        "id": "06840",
+        "nombre": "Tres de Febrero"
+      },
+      "id": "0684001007",
+      "localidad_censal": {
+        "id": "06840010",
+        "nombre": "Tres de Febrero"
+      },
+      "municipio": {
+        "id": "060840",
+        "nombre": "Tres de Febrero"
+      },
+      "nombre": "Loma Hermosa",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5837676634747,
+        "lon": -58.5967036958912
+      },
+      "departamento": {
+        "id": "06840",
+        "nombre": "Tres de Febrero"
+      },
+      "id": "0684001008",
+      "localidad_censal": {
+        "id": "06840010",
+        "nombre": "Tres de Febrero"
+      },
+      "municipio": {
+        "id": "060840",
+        "nombre": "Tres de Febrero"
+      },
+      "nombre": "Martín Coronado",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5659942534011,
+        "lon": -58.6185962577357
+      },
+      "departamento": {
+        "id": "06840",
+        "nombre": "Tres de Febrero"
+      },
+      "id": "0684001009",
+      "localidad_censal": {
+        "id": "06840010",
+        "nombre": "Tres de Febrero"
+      },
+      "municipio": {
+        "id": "060840",
+        "nombre": "Tres de Febrero"
+      },
+      "nombre": "11 de Septiembre",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5849488101072,
+        "lon": -58.6116379762528
+      },
+      "departamento": {
+        "id": "06840",
+        "nombre": "Tres de Febrero"
+      },
+      "id": "0684001010",
+      "localidad_censal": {
+        "id": "06840010",
+        "nombre": "Tres de Febrero"
+      },
+      "municipio": {
+        "id": "060840",
+        "nombre": "Tres de Febrero"
+      },
+      "nombre": "Pablo Podestá",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06840"
+    ]
+  },
+  "total": 16
+}

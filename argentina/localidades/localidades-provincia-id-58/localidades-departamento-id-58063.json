@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.9368409561466,
+        "lon": -70.1003671239064
+      },
+      "departamento": {
+        "id": "58063",
+        "nombre": "Loncopué"
+      },
+      "id": "58063010",
+      "localidad_censal": {
+        "id": "58063010",
+        "nombre": "Chorriaca"
+      },
+      "municipio": {
+        "id": "585063",
+        "nombre": "Chorriaca"
+      },
+      "nombre": "Chorriaca",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.0730896222648,
+        "lon": -70.6144465904644
+      },
+      "departamento": {
+        "id": "58063",
+        "nombre": "Loncopué"
+      },
+      "id": "58063020",
+      "localidad_censal": {
+        "id": "58063020",
+        "nombre": "Loncopué"
+      },
+      "municipio": {
+        "id": "580126",
+        "nombre": "Loncopué"
+      },
+      "nombre": "Loncopué",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "58063"
+    ]
+  },
+  "total": 2
+}

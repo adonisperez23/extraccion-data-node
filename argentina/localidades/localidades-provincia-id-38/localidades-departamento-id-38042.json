@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -24.259944722703,
+        "lon": -65.2061799541843
+      },
+      "departamento": {
+        "id": "38042",
+        "nombre": "Palpalá"
+      },
+      "id": "3804204001",
+      "localidad_censal": {
+        "id": "38042040",
+        "nombre": "Palpalá"
+      },
+      "municipio": {
+        "id": "380154",
+        "nombre": "Palpalá"
+      },
+      "nombre": "Palpalá",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -24.2299800132012,
+        "lon": -65.2346020968813
+      },
+      "departamento": {
+        "id": "38042",
+        "nombre": "Palpalá"
+      },
+      "id": "3804204002",
+      "localidad_censal": {
+        "id": "38042040",
+        "nombre": "Palpalá"
+      },
+      "municipio": {
+        "id": "380154",
+        "nombre": "Palpalá"
+      },
+      "nombre": "Río Blanco",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.3077483981977,
+        "lon": -65.0821380212023
+      },
+      "departamento": {
+        "id": "38042",
+        "nombre": "Palpalá"
+      },
+      "id": "38042010",
+      "localidad_censal": {
+        "id": "38042010",
+        "nombre": "Carahunco"
+      },
+      "municipio": {
+        "id": "380154",
+        "nombre": "Palpalá"
+      },
+      "nombre": "Carahunco",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.2290271935064,
+        "lon": -65.1784152844712
+      },
+      "departamento": {
+        "id": "38042",
+        "nombre": "Palpalá"
+      },
+      "id": "38042020",
+      "localidad_censal": {
+        "id": "38042020",
+        "nombre": "Centro Forestal"
+      },
+      "municipio": {
+        "id": "380154",
+        "nombre": "Palpalá"
+      },
+      "nombre": "Centro Forestal",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -24.2578938089322,
+        "lon": -65.2134867643577
+      },
+      "departamento": {
+        "id": "38042",
+        "nombre": "Palpalá"
+      },
+      "id": "38042040",
+      "localidad_censal": {
+        "id": "38042040",
+        "nombre": "Palpalá"
+      },
+      "municipio": {
+        "id": "380154",
+        "nombre": "Palpalá"
+      },
+      "nombre": "Palpalá",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "38042"
+    ]
+  },
+  "total": 5
+}

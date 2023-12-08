@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.3936701449168,
+        "lon": -66.8030922078707
+      },
+      "departamento": {
+        "id": "38084",
+        "nombre": "Susques"
+      },
+      "id": "38084060",
+      "localidad_censal": {
+        "id": "38084060",
+        "nombre": "Olaroz Chico"
+      },
+      "municipio": {
+        "id": "386161",
+        "nombre": "Coranzuli"
+      },
+      "nombre": "Olaroz Chico",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.3975405828868,
+        "lon": -66.3673506130949
+      },
+      "departamento": {
+        "id": "38084",
+        "nombre": "Susques"
+      },
+      "id": "38084100",
+      "localidad_censal": {
+        "id": "38084100",
+        "nombre": "Susques"
+      },
+      "municipio": {
+        "id": "386168",
+        "nombre": "Susques"
+      },
+      "nombre": "Susques",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.564098730782,
+        "lon": -66.409950175363
+      },
+      "departamento": {
+        "id": "38084",
+        "nombre": "Susques"
+      },
+      "id": "38084040",
+      "localidad_censal": {
+        "id": "38084040",
+        "nombre": "Huáncar"
+      },
+      "municipio": {
+        "id": "386168",
+        "nombre": "Susques"
+      },
+      "nombre": "Huáncar",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.8701269414943,
+        "lon": -67.0044968691321
+      },
+      "departamento": {
+        "id": "38084",
+        "nombre": "Susques"
+      },
+      "id": "38084010",
+      "localidad_censal": {
+        "id": "38084010",
+        "nombre": "Catua"
+      },
+      "municipio": {
+        "id": "386154",
+        "nombre": "Catua"
+      },
+      "nombre": "Catua",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.0137852408843,
+        "lon": -66.3666475724254
+      },
+      "departamento": {
+        "id": "38084",
+        "nombre": "Susques"
+      },
+      "id": "38084020",
+      "localidad_censal": {
+        "id": "38084020",
+        "nombre": "Coranzuli"
+      },
+      "municipio": {
+        "id": "386161",
+        "nombre": "Coranzuli"
+      },
+      "nombre": "Coranzuli",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.0834196666067,
+        "lon": -66.7022169258129
+      },
+      "departamento": {
+        "id": "38084",
+        "nombre": "Susques"
+      },
+      "id": "38084030",
+      "localidad_censal": {
+        "id": "38084030",
+        "nombre": "El Toro"
+      },
+      "municipio": {
+        "id": "386161",
+        "nombre": "Coranzuli"
+      },
+      "nombre": "El Toro",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.2398634422607,
+        "lon": -67.0181004422145
+      },
+      "departamento": {
+        "id": "38084",
+        "nombre": "Susques"
+      },
+      "id": "38084045",
+      "localidad_censal": {
+        "id": "38084045",
+        "nombre": "Jama"
+      },
+      "municipio": {
+        "id": "386161",
+        "nombre": "Coranzuli"
+      },
+      "nombre": "Jama",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.2629239197221,
+        "lon": -66.7985177888674
+      },
+      "departamento": {
+        "id": "38084",
+        "nombre": "Susques"
+      },
+      "id": "38084050",
+      "localidad_censal": {
+        "id": "38084050",
+        "nombre": "Mina Providencia"
+      },
+      "municipio": {
+        "id": "386161",
+        "nombre": "Coranzuli"
+      },
+      "nombre": "Mina Providencia",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.1141486610386,
+        "lon": -66.7193694638104
+      },
+      "departamento": {
+        "id": "38084",
+        "nombre": "Susques"
+      },
+      "id": "38084055",
+      "localidad_censal": {
+        "id": "38084055",
+        "nombre": "Olacapato"
+      },
+      "municipio": {
+        "id": "386168",
+        "nombre": "Susques"
+      },
+      "nombre": "Olacapato",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.7659911832814,
+        "lon": -66.4373791211366
+      },
+      "departamento": {
+        "id": "38084",
+        "nombre": "Susques"
+      },
+      "id": "38084070",
+      "localidad_censal": {
+        "id": "38084070",
+        "nombre": "Pastos Chicos"
+      },
+      "municipio": {
+        "id": "386168",
+        "nombre": "Susques"
+      },
+      "nombre": "Pastos Chicos",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "38084"
+    ]
+  },
+  "total": 12
+}

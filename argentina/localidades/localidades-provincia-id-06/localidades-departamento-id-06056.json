@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -38.7227702772442,
+        "lon": -62.2727419998288
+      },
+      "departamento": {
+        "id": "06056",
+        "nombre": "Bahía Blanca"
+      },
+      "id": "0605601001",
+      "localidad_censal": {
+        "id": "06056010",
+        "nombre": "Bahía Blanca"
+      },
+      "municipio": {
+        "id": "060056",
+        "nombre": "Bahía Blanca"
+      },
+      "nombre": "Bahía Blanca",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -38.7492722104635,
+        "lon": -62.1908892770901
+      },
+      "departamento": {
+        "id": "06056",
+        "nombre": "Bahía Blanca"
+      },
+      "id": "0605601002",
+      "localidad_censal": {
+        "id": "06056010",
+        "nombre": "Bahía Blanca"
+      },
+      "municipio": {
+        "id": "060056",
+        "nombre": "Bahía Blanca"
+      },
+      "nombre": "Grünbein",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -38.7794923647948,
+        "lon": -62.2655806941397
+      },
+      "departamento": {
+        "id": "06056",
+        "nombre": "Bahía Blanca"
+      },
+      "id": "0605601003",
+      "localidad_censal": {
+        "id": "06056010",
+        "nombre": "Bahía Blanca"
+      },
+      "municipio": {
+        "id": "060056",
+        "nombre": "Bahía Blanca"
+      },
+      "nombre": "Ingeniero White",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -38.693558630756,
+        "lon": -62.3350174250385
+      },
+      "departamento": {
+        "id": "06056",
+        "nombre": "Bahía Blanca"
+      },
+      "id": "0605601004",
+      "localidad_censal": {
+        "id": "06056010",
+        "nombre": "Bahía Blanca"
+      },
+      "municipio": {
+        "id": "060056",
+        "nombre": "Bahía Blanca"
+      },
+      "nombre": "Villa Bordeau",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -38.7414156242007,
+        "lon": -62.1713754950049
+      },
+      "departamento": {
+        "id": "06056",
+        "nombre": "Bahía Blanca"
+      },
+      "id": "0605601005",
+      "localidad_censal": {
+        "id": "06056010",
+        "nombre": "Bahía Blanca"
+      },
+      "municipio": {
+        "id": "060056",
+        "nombre": "Bahía Blanca"
+      },
+      "nombre": "Villa Espora",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.7176050908517,
+        "lon": -62.2654469343276
+      },
+      "departamento": {
+        "id": "06056",
+        "nombre": "Bahía Blanca"
+      },
+      "id": "06056010",
+      "localidad_censal": {
+        "id": "06056010",
+        "nombre": "Bahía Blanca"
+      },
+      "municipio": {
+        "id": "060056",
+        "nombre": "Bahía Blanca"
+      },
+      "nombre": "Bahía Blanca",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.4851528833332,
+        "lon": -61.8937521627044
+      },
+      "departamento": {
+        "id": "06056",
+        "nombre": "Bahía Blanca"
+      },
+      "id": "06056020",
+      "localidad_censal": {
+        "id": "06056020",
+        "nombre": "Cabildo"
+      },
+      "municipio": {
+        "id": "060056",
+        "nombre": "Bahía Blanca"
+      },
+      "nombre": "Cabildo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.7193655455279,
+        "lon": -62.3953089757156
+      },
+      "departamento": {
+        "id": "06056",
+        "nombre": "Bahía Blanca"
+      },
+      "id": "06056030",
+      "localidad_censal": {
+        "id": "06056030",
+        "nombre": "General Daniel Cerri"
+      },
+      "municipio": {
+        "id": "060056",
+        "nombre": "Bahía Blanca"
+      },
+      "nombre": "General Daniel Cerri",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06056"
+    ]
+  },
+  "total": 8
+}

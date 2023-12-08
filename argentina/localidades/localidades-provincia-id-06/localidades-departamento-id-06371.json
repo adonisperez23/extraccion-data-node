@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5715031294949,
+        "lon": -58.54862547602
+      },
+      "departamento": {
+        "id": "06371",
+        "nombre": "General San Martín"
+      },
+      "id": "0637101027",
+      "localidad_censal": {
+        "id": "06371010",
+        "nombre": "General San Martín"
+      },
+      "municipio": {
+        "id": "060371",
+        "nombre": "General San Martín"
+      },
+      "nombre": "Villa Yapeyú",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5656365391558,
+        "lon": -58.5861315584461
+      },
+      "departamento": {
+        "id": "06371",
+        "nombre": "General San Martín"
+      },
+      "id": "0637101001",
+      "localidad_censal": {
+        "id": "06371010",
+        "nombre": "General San Martín"
+      },
+      "municipio": {
+        "id": "060371",
+        "nombre": "General San Martín"
+      },
+      "nombre": "Barrio Parque General San Martín",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5752076863993,
+        "lon": -58.5747385273168
+      },
+      "departamento": {
+        "id": "06371",
+        "nombre": "General San Martín"
+      },
+      "id": "0637101002",
+      "localidad_censal": {
+        "id": "06371010",
+        "nombre": "General San Martín"
+      },
+      "municipio": {
+        "id": "060371",
+        "nombre": "General San Martín"
+      },
+      "nombre": "Billinghurst",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5792515400387,
+        "lon": -58.5391722889903
+      },
+      "departamento": {
+        "id": "06371",
+        "nombre": "General San Martín"
+      },
+      "id": "0637101003",
+      "localidad_censal": {
+        "id": "06371010",
+        "nombre": "General San Martín"
+      },
+      "municipio": {
+        "id": "060371",
+        "nombre": "General San Martín"
+      },
+      "nombre": "Ciudad del Libertador General San Martín",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5419681326262,
+        "lon": -58.5948396946441
+      },
+      "departamento": {
+        "id": "06371",
+        "nombre": "General San Martín"
+      },
+      "id": "0637101004",
+      "localidad_censal": {
+        "id": "06371010",
+        "nombre": "General San Martín"
+      },
+      "municipio": {
+        "id": "060371",
+        "nombre": "General San Martín"
+      },
+      "nombre": "Ciudad Jardín El Libertador",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5895518422474,
+        "lon": -58.5533940644005
+      },
+      "departamento": {
+        "id": "06371",
+        "nombre": "General San Martín"
+      },
+      "id": "0637101005",
+      "localidad_censal": {
+        "id": "06371010",
+        "nombre": "General San Martín"
+      },
+      "municipio": {
+        "id": "060371",
+        "nombre": "General San Martín"
+      },
+      "nombre": "Villa Ayacucho",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5480834920372,
+        "lon": -58.5570844833764
+      },
+      "departamento": {
+        "id": "06371",
+        "nombre": "General San Martín"
+      },
+      "id": "0637101006",
+      "localidad_censal": {
+        "id": "06371010",
+        "nombre": "General San Martín"
+      },
+      "municipio": {
+        "id": "060371",
+        "nombre": "General San Martín"
+      },
+      "nombre": "Villa Ballester",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.589532906584,
+        "lon": -58.5408713062038
+      },
+      "departamento": {
+        "id": "06371",
+        "nombre": "General San Martín"
+      },
+      "id": "0637101007",
+      "localidad_censal": {
+        "id": "06371010",
+        "nombre": "General San Martín"
+      },
+      "municipio": {
+        "id": "060371",
+        "nombre": "General San Martín"
+      },
+      "nombre": "Villa Bernardo Monteagudo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5820147085382,
+        "lon": -58.5271718625982
+      },
+      "departamento": {
+        "id": "06371",
+        "nombre": "General San Martín"
+      },
+      "id": "0637101008",
+      "localidad_censal": {
+        "id": "06371010",
+        "nombre": "General San Martín"
+      },
+      "municipio": {
+        "id": "060371",
+        "nombre": "General San Martín"
+      },
+      "nombre": "Villa Chacabuco",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5588681651042,
+        "lon": -58.5766495984483
+      },
+      "departamento": {
+        "id": "06371",
+        "nombre": "General San Martín"
+      },
+      "id": "0637101009",
+      "localidad_censal": {
+        "id": "06371010",
+        "nombre": "General San Martín"
+      },
+      "municipio": {
+        "id": "060371",
+        "nombre": "General San Martín"
+      },
+      "nombre": "Villa Coronel José M. Zapiola",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06371"
+    ]
+  },
+  "total": 28
+}

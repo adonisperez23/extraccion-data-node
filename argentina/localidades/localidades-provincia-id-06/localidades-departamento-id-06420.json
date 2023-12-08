@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -36.6368892772513,
+        "lon": -56.6900593491458
+      },
+      "departamento": {
+        "id": "06420",
+        "nombre": "La Costa"
+      },
+      "id": "0642002001",
+      "localidad_censal": {
+        "id": "06420020",
+        "nombre": "Mar de Ajó - San Bernardo"
+      },
+      "municipio": {
+        "id": "060420",
+        "nombre": "La Costa"
+      },
+      "nombre": "Aguas Verdes",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -36.6601549623962,
+        "lon": -56.6824598231567
+      },
+      "departamento": {
+        "id": "06420",
+        "nombre": "La Costa"
+      },
+      "id": "0642002002",
+      "localidad_censal": {
+        "id": "06420020",
+        "nombre": "Mar de Ajó - San Bernardo"
+      },
+      "municipio": {
+        "id": "060420",
+        "nombre": "La Costa"
+      },
+      "nombre": "Lucila del Mar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -36.7295552936745,
+        "lon": -56.6772956263397
+      },
+      "departamento": {
+        "id": "06420",
+        "nombre": "La Costa"
+      },
+      "id": "0642002003",
+      "localidad_censal": {
+        "id": "06420020",
+        "nombre": "Mar de Ajó - San Bernardo"
+      },
+      "municipio": {
+        "id": "060420",
+        "nombre": "La Costa"
+      },
+      "nombre": "Mar de Ajó",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -36.717111900525,
+        "lon": -56.6770670772511
+      },
+      "departamento": {
+        "id": "06420",
+        "nombre": "La Costa"
+      },
+      "id": "0642002004",
+      "localidad_censal": {
+        "id": "06420020",
+        "nombre": "Mar de Ajó - San Bernardo"
+      },
+      "municipio": {
+        "id": "060420",
+        "nombre": "La Costa"
+      },
+      "nombre": "Mar de Ajó Norte",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -36.6867920285586,
+        "lon": -56.6790608712811
+      },
+      "departamento": {
+        "id": "06420",
+        "nombre": "La Costa"
+      },
+      "id": "0642002005",
+      "localidad_censal": {
+        "id": "06420020",
+        "nombre": "Mar de Ajó - San Bernardo"
+      },
+      "municipio": {
+        "id": "060420",
+        "nombre": "La Costa"
+      },
+      "nombre": "San Bernardo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -36.5738769791921,
+        "lon": -56.6908899030479
+      },
+      "departamento": {
+        "id": "06420",
+        "nombre": "La Costa"
+      },
+      "id": "0642004001",
+      "localidad_censal": {
+        "id": "06420040",
+        "nombre": "Santa Teresita - Mar del Tuyú"
+      },
+      "municipio": {
+        "id": "060420",
+        "nombre": "La Costa"
+      },
+      "nombre": "Mar del Tuyú",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -36.5405925007164,
+        "lon": -56.6929407422398
+      },
+      "departamento": {
+        "id": "06420",
+        "nombre": "La Costa"
+      },
+      "id": "0642004002",
+      "localidad_censal": {
+        "id": "06420040",
+        "nombre": "Santa Teresita - Mar del Tuyú"
+      },
+      "municipio": {
+        "id": "060420",
+        "nombre": "La Costa"
+      },
+      "nombre": "Santa Teresita",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.4883405821009,
+        "lon": -56.7049719429497
+      },
+      "departamento": {
+        "id": "06420",
+        "nombre": "La Costa"
+      },
+      "id": "06420010",
+      "localidad_censal": {
+        "id": "06420010",
+        "nombre": "Las Toninas"
+      },
+      "municipio": {
+        "id": "060420",
+        "nombre": "La Costa"
+      },
+      "nombre": "Las Toninas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.6971329328637,
+        "lon": -56.6811192522763
+      },
+      "departamento": {
+        "id": "06420",
+        "nombre": "La Costa"
+      },
+      "id": "06420020",
+      "localidad_censal": {
+        "id": "06420020",
+        "nombre": "Mar de Ajó - San Bernardo"
+      },
+      "municipio": {
+        "id": "060420",
+        "nombre": "La Costa"
+      },
+      "nombre": "Mar de Ajó - San Bernardo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.3541931252553,
+        "lon": -56.7256793076295
+      },
+      "departamento": {
+        "id": "06420",
+        "nombre": "La Costa"
+      },
+      "id": "06420030",
+      "localidad_censal": {
+        "id": "06420030",
+        "nombre": "San Clemente del Tuyú"
+      },
+      "municipio": {
+        "id": "060420",
+        "nombre": "La Costa"
+      },
+      "nombre": "San Clemente del Tuyú",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06420"
+    ]
+  },
+  "total": 11
+}

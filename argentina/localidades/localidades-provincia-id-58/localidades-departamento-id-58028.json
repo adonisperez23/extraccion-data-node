@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.0484794749522,
+        "lon": -70.0750160264635
+      },
+      "departamento": {
+        "id": "58028",
+        "nombre": "Collón Curá"
+      },
+      "id": "58028010",
+      "localidad_censal": {
+        "id": "58028010",
+        "nombre": "Piedra del Águila"
+      },
+      "municipio": {
+        "id": "580035",
+        "nombre": "Piedra del Águila"
+      },
+      "nombre": "Piedra del Águila",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.8207438462323,
+        "lon": -70.1005173149527
+      },
+      "departamento": {
+        "id": "58028",
+        "nombre": "Collón Curá"
+      },
+      "id": "58028020",
+      "localidad_censal": {
+        "id": "58028020",
+        "nombre": "Santo Tomás"
+      },
+      "municipio": {
+        "id": "585035",
+        "nombre": "Santo Tomás"
+      },
+      "nombre": "Santo Tomás",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "58028"
+    ]
+  },
+  "total": 2
+}

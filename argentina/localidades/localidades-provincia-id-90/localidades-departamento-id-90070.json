@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.0503375501781,
+        "lon": -65.4877027185185
+      },
+      "departamento": {
+        "id": "90070",
+        "nombre": "Monteros"
+      },
+      "id": "90070090",
+      "localidad_censal": {
+        "id": "90070090",
+        "nombre": "Teniente Berdina"
+      },
+      "municipio": {
+        "id": "908448",
+        "nombre": "Teniente Berdina"
+      },
+      "nombre": "Teniente Berdina",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2195211043044,
+        "lon": -65.5273292701279
+      },
+      "departamento": {
+        "id": "90070",
+        "nombre": "Monteros"
+      },
+      "id": "90070040",
+      "localidad_censal": {
+        "id": "90070040",
+        "nombre": "Pueblo Independencia"
+      },
+      "municipio": {
+        "id": "908406",
+        "nombre": "León Rouges y Santa Rosa"
+      },
+      "nombre": "Pueblo Independencia",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.1900699263193,
+        "lon": -65.6047323872902
+      },
+      "departamento": {
+        "id": "90070",
+        "nombre": "Monteros"
+      },
+      "id": "90070020",
+      "localidad_censal": {
+        "id": "90070020",
+        "nombre": "Capitán Cáceres"
+      },
+      "municipio": {
+        "id": "908392",
+        "nombre": "Capitán Cáceres"
+      },
+      "nombre": "Capitán Cáceres",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.1441040762941,
+        "lon": -65.5654357816848
+      },
+      "departamento": {
+        "id": "90070",
+        "nombre": "Monteros"
+      },
+      "id": "90070080",
+      "localidad_censal": {
+        "id": "90070080",
+        "nombre": "Soldado Maldonado"
+      },
+      "municipio": {
+        "id": "908441",
+        "nombre": "Soldado Maldonado"
+      },
+      "nombre": "Soldado Maldonado",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2281543844156,
+        "lon": -65.66001671135
+      },
+      "departamento": {
+        "id": "90070",
+        "nombre": "Monteros"
+      },
+      "id": "90070070",
+      "localidad_censal": {
+        "id": "90070070",
+        "nombre": "Sargento Moya"
+      },
+      "municipio": {
+        "id": "908434",
+        "nombre": "Sargento Moya"
+      },
+      "nombre": "Sargento Moya",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.268401179539,
+        "lon": -65.5573539551945
+      },
+      "departamento": {
+        "id": "90070",
+        "nombre": "Monteros"
+      },
+      "id": "90070050",
+      "localidad_censal": {
+        "id": "90070050",
+        "nombre": "Río Seco"
+      },
+      "municipio": {
+        "id": "908420",
+        "nombre": "Río Seco"
+      },
+      "nombre": "Río Seco",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.2528891446981,
+        "lon": -65.5492035203704
+      },
+      "departamento": {
+        "id": "90070",
+        "nombre": "Monteros"
+      },
+      "id": "90070100",
+      "localidad_censal": {
+        "id": "90070100",
+        "nombre": "Villa Quinteros"
+      },
+      "municipio": {
+        "id": "908455",
+        "nombre": "Villa Quinteros"
+      },
+      "nombre": "Villa Quinteros",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.12072050474,
+        "lon": -65.4705647177524
+      },
+      "departamento": {
+        "id": "90070",
+        "nombre": "Monteros"
+      },
+      "id": "90070010",
+      "localidad_censal": {
+        "id": "90070010",
+        "nombre": "Acheral"
+      },
+      "municipio": {
+        "id": "908378",
+        "nombre": "Acheral"
+      },
+      "nombre": "Acheral",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.0927743714751,
+        "lon": -65.5325183966732
+      },
+      "departamento": {
+        "id": "90070",
+        "nombre": "Monteros"
+      },
+      "id": "90070060",
+      "localidad_censal": {
+        "id": "90070060",
+        "nombre": "Santa Lucía"
+      },
+      "municipio": {
+        "id": "908427",
+        "nombre": "Santa Lucía"
+      },
+      "nombre": "Santa Lucía",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.1652871396868,
+        "lon": -65.4972182882035
+      },
+      "departamento": {
+        "id": "90070",
+        "nombre": "Monteros"
+      },
+      "id": "90070030",
+      "localidad_censal": {
+        "id": "90070030",
+        "nombre": "Monteros"
+      },
+      "municipio": {
+        "id": "900084",
+        "nombre": "Monteros"
+      },
+      "nombre": "Monteros",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "90070"
+    ]
+  },
+  "total": 10
+}

@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.1569379390652,
+        "lon": -71.352714325536
+      },
+      "departamento": {
+        "id": "58056",
+        "nombre": "Lácar"
+      },
+      "id": "58056010",
+      "localidad_censal": {
+        "id": "58056010",
+        "nombre": "San Martín de los Andes"
+      },
+      "municipio": {
+        "id": "580119",
+        "nombre": "San Martín de los Andes"
+      },
+      "nombre": "San Martín de los Andes",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.3832509265768,
+        "lon": -71.2533978159202
+      },
+      "departamento": {
+        "id": "58056",
+        "nombre": "Lácar"
+      },
+      "id": "58056020",
+      "localidad_censal": {
+        "id": "58056020",
+        "nombre": "Villa Lago Meliquina"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Villa Lago Meliquina",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "58056"
+    ]
+  },
+  "total": 2
+}

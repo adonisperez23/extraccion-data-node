@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.9513065400359,
+        "lon": -60.9703382686613
+      },
+      "departamento": {
+        "id": "22049",
+        "nombre": "General Belgrano"
+      },
+      "id": "22049010",
+      "localidad_censal": {
+        "id": "22049010",
+        "nombre": "Corzuela"
+      },
+      "municipio": {
+        "id": "220133",
+        "nombre": "Corzuela"
+      },
+      "nombre": "Corzuela",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22049"
+    ]
+  },
+  "total": 1
+}

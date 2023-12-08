@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.2681635262819,
+        "lon": -60.1715414465427
+      },
+      "departamento": {
+        "id": "82133",
+        "nombre": "Vera"
+      },
+      "id": "82133160",
+      "localidad_censal": {
+        "id": "82133160",
+        "nombre": "Toba"
+      },
+      "municipio": {
+        "id": "824205",
+        "nombre": "Toba"
+      },
+      "nombre": "Toba",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.0569537199912,
+        "lon": -60.41289860052
+      },
+      "departamento": {
+        "id": "82133",
+        "nombre": "Vera"
+      },
+      "id": "82133040",
+      "localidad_censal": {
+        "id": "82133040",
+        "nombre": "Fortín Olmos"
+      },
+      "municipio": {
+        "id": "824149",
+        "nombre": "Fortín Olmos"
+      },
+      "nombre": "Fortín Olmos",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6748656834627,
+        "lon": -60.070701236947
+      },
+      "departamento": {
+        "id": "82133",
+        "nombre": "Vera"
+      },
+      "id": "82133070",
+      "localidad_censal": {
+        "id": "82133070",
+        "nombre": "Intiyaco"
+      },
+      "municipio": {
+        "id": "824170",
+        "nombre": "Intiyaco"
+      },
+      "nombre": "Intiyaco",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.2819170762863,
+        "lon": -60.402675586656
+      },
+      "departamento": {
+        "id": "82133",
+        "nombre": "Vera"
+      },
+      "id": "82133140",
+      "localidad_censal": {
+        "id": "82133140",
+        "nombre": "Pueblo Santa Lucía"
+      },
+      "municipio": {
+        "id": "820336",
+        "nombre": "Vera"
+      },
+      "nombre": "Pueblo Santa Lucía",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.9451326200967,
+        "lon": -60.2520040689412
+      },
+      "departamento": {
+        "id": "82133",
+        "nombre": "Vera"
+      },
+      "id": "82133130",
+      "localidad_censal": {
+        "id": "82133130",
+        "nombre": "Pozo de los Indios"
+      },
+      "municipio": {
+        "id": "824156",
+        "nombre": "Garabato"
+      },
+      "nombre": "Pozo de los Indios",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.5862759292266,
+        "lon": -60.3782241422222
+      },
+      "departamento": {
+        "id": "82133",
+        "nombre": "Vera"
+      },
+      "id": "82133090",
+      "localidad_censal": {
+        "id": "82133090",
+        "nombre": "La Gallareta"
+      },
+      "municipio": {
+        "id": "824177",
+        "nombre": "La Gallareta"
+      },
+      "nombre": "La Gallareta",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6710544649968,
+        "lon": -59.8480856379029
+      },
+      "departamento": {
+        "id": "82133",
+        "nombre": "Vera"
+      },
+      "id": "82133150",
+      "localidad_censal": {
+        "id": "82133150",
+        "nombre": "Tartagal"
+      },
+      "municipio": {
+        "id": "824198",
+        "nombre": "Tartagal"
+      },
+      "nombre": "Tartagal",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.9544900875832,
+        "lon": -60.1350767620573
+      },
+      "departamento": {
+        "id": "82133",
+        "nombre": "Vera"
+      },
+      "id": "82133050",
+      "localidad_censal": {
+        "id": "82133050",
+        "nombre": "Garabato"
+      },
+      "municipio": {
+        "id": "824156",
+        "nombre": "Garabato"
+      },
+      "nombre": "Garabato",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.8247601435944,
+        "lon": -60.2234051707498
+      },
+      "departamento": {
+        "id": "82133",
+        "nombre": "Vera"
+      },
+      "id": "82133080",
+      "localidad_censal": {
+        "id": "82133080",
+        "nombre": "Kilómetro 115"
+      },
+      "municipio": {
+        "id": "824156",
+        "nombre": "Garabato"
+      },
+      "nombre": "Kilómetro 115",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.8880092948258,
+        "lon": -60.283116145806
+      },
+      "departamento": {
+        "id": "82133",
+        "nombre": "Vera"
+      },
+      "id": "82133010",
+      "localidad_censal": {
+        "id": "82133010",
+        "nombre": "Calchaquí"
+      },
+      "municipio": {
+        "id": "820329",
+        "nombre": "Calchaquí"
+      },
+      "nombre": "Calchaquí",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "82133"
+    ]
+  },
+  "total": 17
+}

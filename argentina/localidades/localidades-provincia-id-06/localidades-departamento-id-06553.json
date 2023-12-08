@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.9937618197022,
+        "lon": -61.208011352374
+      },
+      "departamento": {
+        "id": "06553",
+        "nombre": "Monte Hermoso"
+      },
+      "id": "06553010",
+      "localidad_censal": {
+        "id": "06553010",
+        "nombre": "Balneario Sauce Grande"
+      },
+      "municipio": {
+        "id": "060553",
+        "nombre": "Monte Hermoso"
+      },
+      "nombre": "Balneario Sauce Grande",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.9866632490426,
+        "lon": -61.2909287456711
+      },
+      "departamento": {
+        "id": "06553",
+        "nombre": "Monte Hermoso"
+      },
+      "id": "06553020",
+      "localidad_censal": {
+        "id": "06553020",
+        "nombre": "Monte Hermoso"
+      },
+      "municipio": {
+        "id": "060553",
+        "nombre": "Monte Hermoso"
+      },
+      "nombre": "Monte Hermoso",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06553"
+    ]
+  },
+  "total": 2
+}

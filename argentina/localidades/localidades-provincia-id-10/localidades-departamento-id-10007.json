@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9217506990605,
+        "lon": -65.8386083361237
+      },
+      "departamento": {
+        "id": "10007",
+        "nombre": "Ambato"
+      },
+      "id": "10007010",
+      "localidad_censal": {
+        "id": "10007010",
+        "nombre": "Chuchucaruana"
+      },
+      "municipio": {
+        "id": "100028",
+        "nombre": "Los Varela"
+      },
+      "nombre": "Chuchucaruana",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.0654919189984,
+        "lon": -65.812634342758
+      },
+      "departamento": {
+        "id": "10007",
+        "nombre": "Ambato"
+      },
+      "id": "10007020",
+      "localidad_censal": {
+        "id": "10007020",
+        "nombre": "Colpes"
+      },
+      "municipio": {
+        "id": "100014",
+        "nombre": "La Puerta"
+      },
+      "nombre": "Colpes",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9039042243544,
+        "lon": -65.8810526601527
+      },
+      "departamento": {
+        "id": "10007",
+        "nombre": "Ambato"
+      },
+      "id": "10007030",
+      "localidad_censal": {
+        "id": "10007030",
+        "nombre": "El Bolsón"
+      },
+      "municipio": {
+        "id": "100028",
+        "nombre": "Los Varela"
+      },
+      "nombre": "El Bolsón",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.2126967614006,
+        "lon": -65.8764873689251
+      },
+      "departamento": {
+        "id": "10007",
+        "nombre": "Ambato"
+      },
+      "id": "10007040",
+      "localidad_censal": {
+        "id": "10007040",
+        "nombre": "El Rodeo"
+      },
+      "municipio": {
+        "id": "100007",
+        "nombre": "El Rodeo"
+      },
+      "nombre": "El Rodeo",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.1193513672937,
+        "lon": -65.7984624307184
+      },
+      "departamento": {
+        "id": "10007",
+        "nombre": "Ambato"
+      },
+      "id": "10007050",
+      "localidad_censal": {
+        "id": "10007050",
+        "nombre": "Huaycama"
+      },
+      "municipio": {
+        "id": "100014",
+        "nombre": "La Puerta"
+      },
+      "nombre": "Huaycama",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.1563452866546,
+        "lon": -65.7938676297893
+      },
+      "departamento": {
+        "id": "10007",
+        "nombre": "Ambato"
+      },
+      "id": "10007060",
+      "localidad_censal": {
+        "id": "10007060",
+        "nombre": "La Puerta"
+      },
+      "municipio": {
+        "id": "100014",
+        "nombre": "La Puerta"
+      },
+      "nombre": "La Puerta",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.6881718363204,
+        "lon": -65.9237482043879
+      },
+      "departamento": {
+        "id": "10007",
+        "nombre": "Ambato"
+      },
+      "id": "10007070",
+      "localidad_censal": {
+        "id": "10007070",
+        "nombre": "Las Chacritas"
+      },
+      "municipio": {
+        "id": "100028",
+        "nombre": "Los Varela"
+      },
+      "nombre": "Las Chacritas",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.0983112879268,
+        "lon": -65.8992367971529
+      },
+      "departamento": {
+        "id": "10007",
+        "nombre": "Ambato"
+      },
+      "id": "10007080",
+      "localidad_censal": {
+        "id": "10007080",
+        "nombre": "Las Juntas"
+      },
+      "municipio": {
+        "id": "100021",
+        "nombre": "Las Juntas"
+      },
+      "nombre": "Las Juntas",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9598298042336,
+        "lon": -65.8128044102085
+      },
+      "departamento": {
+        "id": "10007",
+        "nombre": "Ambato"
+      },
+      "id": "10007090",
+      "localidad_censal": {
+        "id": "10007090",
+        "nombre": "Los Castillos"
+      },
+      "municipio": {
+        "id": "100028",
+        "nombre": "Los Varela"
+      },
+      "nombre": "Los Castillos",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9415305502312,
+        "lon": -65.8680485138611
+      },
+      "departamento": {
+        "id": "10007",
+        "nombre": "Ambato"
+      },
+      "id": "10007100",
+      "localidad_censal": {
+        "id": "10007100",
+        "nombre": "Los Talas"
+      },
+      "municipio": {
+        "id": "100028",
+        "nombre": "Los Varela"
+      },
+      "nombre": "Los Talas",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "10007"
+    ]
+  },
+  "total": 12
+}

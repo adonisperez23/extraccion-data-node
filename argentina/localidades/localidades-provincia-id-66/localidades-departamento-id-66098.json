@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.2706433183492,
+        "lon": -65.332758126793
+      },
+      "departamento": {
+        "id": "66098",
+        "nombre": "La Viña"
+      },
+      "id": "66098020",
+      "localidad_censal": {
+        "id": "66098020",
+        "nombre": "Cabra Corral"
+      },
+      "municipio": {
+        "id": "660231",
+        "nombre": "Coronel Moldes"
+      },
+      "nombre": "Cabra Corral",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.2800358172228,
+        "lon": -65.4784601397725
+      },
+      "departamento": {
+        "id": "66098",
+        "nombre": "La Viña"
+      },
+      "id": "66098030",
+      "localidad_censal": {
+        "id": "66098030",
+        "nombre": "Coronel Moldes"
+      },
+      "municipio": {
+        "id": "660231",
+        "nombre": "Coronel Moldes"
+      },
+      "nombre": "Coronel Moldes",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.4681172244716,
+        "lon": -65.5655609668891
+      },
+      "departamento": {
+        "id": "66098",
+        "nombre": "La Viña"
+      },
+      "id": "66098040",
+      "localidad_censal": {
+        "id": "66098040",
+        "nombre": "La Viña"
+      },
+      "municipio": {
+        "id": "660238",
+        "nombre": "La Viña"
+      },
+      "nombre": "La Viña",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.5455605722538,
+        "lon": -65.5561331281547
+      },
+      "departamento": {
+        "id": "66098",
+        "nombre": "La Viña"
+      },
+      "id": "66098050",
+      "localidad_censal": {
+        "id": "66098050",
+        "nombre": "Talapampa"
+      },
+      "municipio": {
+        "id": "660238",
+        "nombre": "La Viña"
+      },
+      "nombre": "Talapampa",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.3526532165204,
+        "lon": -65.5282293039128
+      },
+      "departamento": {
+        "id": "66098",
+        "nombre": "La Viña"
+      },
+      "id": "66098010",
+      "localidad_censal": {
+        "id": "66098010",
+        "nombre": "Ampascachi"
+      },
+      "municipio": {
+        "id": "660238",
+        "nombre": "La Viña"
+      },
+      "nombre": "Ampascachi",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66098"
+    ]
+  },
+  "total": 5
+}

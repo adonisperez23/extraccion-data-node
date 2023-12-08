@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4612179179034,
+        "lon": -55.7439632349916
+      },
+      "departamento": {
+        "id": "54021",
+        "nombre": "Candelaria"
+      },
+      "id": "54021020",
+      "localidad_censal": {
+        "id": "54021020",
+        "nombre": "Candelaria"
+      },
+      "municipio": {
+        "id": "540063",
+        "nombre": "Candelaria"
+      },
+      "nombre": "Candelaria",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4854037770063,
+        "lon": -55.4800946081688
+      },
+      "departamento": {
+        "id": "54021",
+        "nombre": "Candelaria"
+      },
+      "id": "54021010",
+      "localidad_censal": {
+        "id": "54021010",
+        "nombre": "Bonpland"
+      },
+      "municipio": {
+        "id": "540056",
+        "nombre": "Bonpland"
+      },
+      "nombre": "Bonpland",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5119171907114,
+        "lon": -55.6096055001528
+      },
+      "departamento": {
+        "id": "54021",
+        "nombre": "Candelaria"
+      },
+      "id": "54021030",
+      "localidad_censal": {
+        "id": "54021030",
+        "nombre": "Cerro Corá"
+      },
+      "municipio": {
+        "id": "540070",
+        "nombre": "Cerro Corá"
+      },
+      "nombre": "Cerro Corá",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4231319468937,
+        "lon": -55.3772951438647
+      },
+      "departamento": {
+        "id": "54021",
+        "nombre": "Candelaria"
+      },
+      "id": "54021050",
+      "localidad_censal": {
+        "id": "54021050",
+        "nombre": "Mártires"
+      },
+      "municipio": {
+        "id": "540084",
+        "nombre": "Mártires"
+      },
+      "nombre": "Mártires",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5617193816031,
+        "lon": -55.7045653968785
+      },
+      "departamento": {
+        "id": "54021",
+        "nombre": "Candelaria"
+      },
+      "id": "54021060",
+      "localidad_censal": {
+        "id": "54021060",
+        "nombre": "Profundidad"
+      },
+      "municipio": {
+        "id": "540091",
+        "nombre": "Profundidad"
+      },
+      "nombre": "Profundidad",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3356474494144,
+        "lon": -55.5831271516349
+      },
+      "departamento": {
+        "id": "54021",
+        "nombre": "Candelaria"
+      },
+      "id": "54021070",
+      "localidad_censal": {
+        "id": "54021070",
+        "nombre": "Puerto Santa Ana"
+      },
+      "municipio": {
+        "id": "540098",
+        "nombre": "Santa Ana"
+      },
+      "nombre": "Puerto Santa Ana",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3329451758117,
+        "lon": -55.5222494577568
+      },
+      "departamento": {
+        "id": "54021",
+        "nombre": "Candelaria"
+      },
+      "id": "54021040",
+      "localidad_censal": {
+        "id": "54021040",
+        "nombre": "Loreto"
+      },
+      "municipio": {
+        "id": "540077",
+        "nombre": "Loreto"
+      },
+      "nombre": "Loreto",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3692137837182,
+        "lon": -55.5817097004515
+      },
+      "departamento": {
+        "id": "54021",
+        "nombre": "Candelaria"
+      },
+      "id": "54021080",
+      "localidad_censal": {
+        "id": "54021080",
+        "nombre": "Santa Ana"
+      },
+      "municipio": {
+        "id": "540098",
+        "nombre": "Santa Ana"
+      },
+      "nombre": "Santa Ana",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4665218225907,
+        "lon": -55.7989929706314
+      },
+      "departamento": {
+        "id": "54021",
+        "nombre": "Candelaria"
+      },
+      "id": "54021005",
+      "localidad_censal": {
+        "id": "54021005",
+        "nombre": "Barrio del Lago"
+      },
+      "municipio": {
+        "id": "540063",
+        "nombre": "Candelaria"
+      },
+      "nombre": "Barrio del Lago",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "54021"
+    ]
+  },
+  "total": 9
+}

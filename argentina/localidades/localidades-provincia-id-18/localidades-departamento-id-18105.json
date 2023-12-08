@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.1068306261889,
+        "lon": -58.339630558229
+      },
+      "departamento": {
+        "id": "18105",
+        "nombre": "Mercedes"
+      },
+      "id": "18105010",
+      "localidad_censal": {
+        "id": "18105010",
+        "nombre": "Felipe Yofré"
+      },
+      "municipio": {
+        "id": "180231",
+        "nombre": "Felipe Yofré"
+      },
+      "nombre": "Felipe Yofré",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.3768720997383,
+        "lon": -58.1922345557106
+      },
+      "departamento": {
+        "id": "18105",
+        "nombre": "Mercedes"
+      },
+      "id": "18105020",
+      "localidad_censal": {
+        "id": "18105020",
+        "nombre": "Mariano I. Loza (Est. Justino Solari)"
+      },
+      "municipio": {
+        "id": "180238",
+        "nombre": "Mariano I. Loza"
+      },
+      "nombre": "Mariano I. Loza",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.184692808419,
+        "lon": -58.0735317667774
+      },
+      "departamento": {
+        "id": "18105",
+        "nombre": "Mercedes"
+      },
+      "id": "18105030",
+      "localidad_censal": {
+        "id": "18105030",
+        "nombre": "Mercedes"
+      },
+      "municipio": {
+        "id": "180245",
+        "nombre": "Mercedes"
+      },
+      "nombre": "Mercedes",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18105"
+    ]
+  },
+  "total": 3
+}

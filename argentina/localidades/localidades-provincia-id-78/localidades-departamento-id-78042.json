@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -49.314086297116,
+        "lon": -67.719744220642
+      },
+      "departamento": {
+        "id": "78042",
+        "nombre": "Magallanes"
+      },
+      "id": "78042010",
+      "localidad_censal": {
+        "id": "78042010",
+        "nombre": "Puerto San Julián"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Puerto San Julián",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "78042"
+    ]
+  },
+  "total": 1
+}

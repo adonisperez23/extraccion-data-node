@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.0201422388977,
+        "lon": -68.2294831234224
+      },
+      "departamento": {
+        "id": "46077",
+        "nombre": "General Lamadrid"
+      },
+      "id": "46077010",
+      "localidad_censal": {
+        "id": "46077010",
+        "nombre": "Villa Castelli"
+      },
+      "municipio": {
+        "id": "460077",
+        "nombre": "General Lamadrid"
+      },
+      "nombre": "Villa Castelli",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "46077"
+    ]
+  },
+  "total": 1
+}

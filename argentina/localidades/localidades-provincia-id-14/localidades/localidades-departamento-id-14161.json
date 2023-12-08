@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.1923904655136,
+        "lon": -64.2557452081438
+      },
+      "departamento": {
+        "id": "14161",
+        "nombre": "Tercero Arriba"
+      },
+      "id": "14161010",
+      "localidad_censal": {
+        "id": "14161010",
+        "nombre": "Almafuerte"
+      },
+      "municipio": {
+        "id": "141421",
+        "nombre": "Almafuerte"
+      },
+      "nombre": "Almafuerte",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0350246795763,
+        "lon": -63.8647845777601
+      },
+      "departamento": {
+        "id": "14161",
+        "nombre": "Tercero Arriba"
+      },
+      "id": "14161020",
+      "localidad_censal": {
+        "id": "14161020",
+        "nombre": "Colonia Almada"
+      },
+      "municipio": {
+        "id": "141428",
+        "nombre": "Colonia Almada"
+      },
+      "nombre": "Colonia Almada",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0237232059044,
+        "lon": -64.1919905042322
+      },
+      "departamento": {
+        "id": "14161",
+        "nombre": "Tercero Arriba"
+      },
+      "id": "14161030",
+      "localidad_censal": {
+        "id": "14161030",
+        "nombre": "Corralito"
+      },
+      "municipio": {
+        "id": "141435",
+        "nombre": "Corralito"
+      },
+      "nombre": "Corralito",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6086003623095,
+        "lon": -63.5834910311437
+      },
+      "departamento": {
+        "id": "14161",
+        "nombre": "Tercero Arriba"
+      },
+      "id": "14161040",
+      "localidad_censal": {
+        "id": "14161040",
+        "nombre": "Dalmacio Vélez"
+      },
+      "municipio": {
+        "id": "141442",
+        "nombre": "Dalmacio Vélez"
+      },
+      "nombre": "Dalmacio Vélez",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.3224142092327,
+        "lon": -63.8684716593729
+      },
+      "departamento": {
+        "id": "14161",
+        "nombre": "Tercero Arriba"
+      },
+      "id": "14161050",
+      "localidad_censal": {
+        "id": "14161050",
+        "nombre": "General Fotheringham"
+      },
+      "municipio": {
+        "id": "143141",
+        "nombre": "General Fotheringham"
+      },
+      "nombre": "General Fotheringham",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.4278813952385,
+        "lon": -63.7334711036897
+      },
+      "departamento": {
+        "id": "14161",
+        "nombre": "Tercero Arriba"
+      },
+      "id": "14161060",
+      "localidad_censal": {
+        "id": "14161060",
+        "nombre": "Hernando"
+      },
+      "municipio": {
+        "id": "141449",
+        "nombre": "Hernando"
+      },
+      "nombre": "Hernando",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.1614313460231,
+        "lon": -63.4679698158525
+      },
+      "departamento": {
+        "id": "14161",
+        "nombre": "Tercero Arriba"
+      },
+      "id": "14161070",
+      "localidad_censal": {
+        "id": "14161070",
+        "nombre": "James Craik"
+      },
+      "municipio": {
+        "id": "141456",
+        "nombre": "James Craik"
+      },
+      "nombre": "James Craik",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.5092190889334,
+        "lon": -63.9289560413206
+      },
+      "departamento": {
+        "id": "14161",
+        "nombre": "Tercero Arriba"
+      },
+      "id": "14161080",
+      "localidad_censal": {
+        "id": "14161080",
+        "nombre": "Las Isletillas"
+      },
+      "municipio": {
+        "id": "143148",
+        "nombre": "Las Isletillas"
+      },
+      "nombre": "Las Isletillas",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6989558280139,
+        "lon": -63.704674204932
+      },
+      "departamento": {
+        "id": "14161",
+        "nombre": "Tercero Arriba"
+      },
+      "id": "14161090",
+      "localidad_censal": {
+        "id": "14161090",
+        "nombre": "Las Perdices"
+      },
+      "municipio": {
+        "id": "141463",
+        "nombre": "Las Perdices"
+      },
+      "nombre": "Las Perdices",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0449728043823,
+        "lon": -63.202240246887
+      },
+      "departamento": {
+        "id": "14161",
+        "nombre": "Tercero Arriba"
+      },
+      "id": "14161100",
+      "localidad_censal": {
+        "id": "14161100",
+        "nombre": "Los Zorros"
+      },
+      "municipio": {
+        "id": "141470",
+        "nombre": "Los Zorros"
+      },
+      "nombre": "Los Zorros",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14161"
+    ]
+  },
+  "total": 17
+}

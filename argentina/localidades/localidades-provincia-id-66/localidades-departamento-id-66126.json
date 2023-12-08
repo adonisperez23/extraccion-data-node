@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -23.3733127893416,
+        "lon": -64.4298267661685
+      },
+      "departamento": {
+        "id": "66126",
+        "nombre": "Orán"
+      },
+      "id": "6612602002",
+      "localidad_censal": {
+        "id": "66126020",
+        "nombre": "Colonia Santa Rosa"
+      },
+      "municipio": {
+        "id": "660294",
+        "nombre": "Colonia Santa Rosa"
+      },
+      "nombre": "La Misión",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -23.391886839632,
+        "lon": -64.4247058748049
+      },
+      "departamento": {
+        "id": "66126",
+        "nombre": "Orán"
+      },
+      "id": "6612602001",
+      "localidad_censal": {
+        "id": "66126020",
+        "nombre": "Colonia Santa Rosa"
+      },
+      "municipio": {
+        "id": "660294",
+        "nombre": "Colonia Santa Rosa"
+      },
+      "nombre": "Colonia Santa Rosa",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.7371177944486,
+        "lon": -64.3532509266978
+      },
+      "departamento": {
+        "id": "66126",
+        "nombre": "Orán"
+      },
+      "id": "66126010",
+      "localidad_censal": {
+        "id": "66126010",
+        "nombre": "Aguas Blancas"
+      },
+      "municipio": {
+        "id": "660290",
+        "nombre": "Aguas Blancas"
+      },
+      "nombre": "Aguas Blancas",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.253484702818,
+        "lon": -64.2457599100457
+      },
+      "departamento": {
+        "id": "66126",
+        "nombre": "Orán"
+      },
+      "id": "66126030",
+      "localidad_censal": {
+        "id": "66126030",
+        "nombre": "El Tabacal"
+      },
+      "municipio": {
+        "id": "660301",
+        "nombre": "Hipólito Yrigoyen"
+      },
+      "nombre": "El Tabacal",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.3942953452733,
+        "lon": -64.4255785834237
+      },
+      "departamento": {
+        "id": "66126",
+        "nombre": "Orán"
+      },
+      "id": "66126020",
+      "localidad_censal": {
+        "id": "66126020",
+        "nombre": "Colonia Santa Rosa"
+      },
+      "municipio": {
+        "id": "660294",
+        "nombre": "Colonia Santa Rosa"
+      },
+      "nombre": "Colonia Santa Rosa",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.2443431479711,
+        "lon": -64.2765526310543
+      },
+      "departamento": {
+        "id": "66126",
+        "nombre": "Orán"
+      },
+      "id": "66126040",
+      "localidad_censal": {
+        "id": "66126040",
+        "nombre": "Hipólito Yrigoyen"
+      },
+      "municipio": {
+        "id": "660301",
+        "nombre": "Hipólito Yrigoyen"
+      },
+      "nombre": "Hipólito Yrigoyen",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.1360887190851,
+        "lon": -64.3229270120273
+      },
+      "departamento": {
+        "id": "66126",
+        "nombre": "Orán"
+      },
+      "id": "66126070",
+      "localidad_censal": {
+        "id": "66126070",
+        "nombre": "San Ramón de la Nueva Orán"
+      },
+      "municipio": {
+        "id": "660315",
+        "nombre": "San Ramón de la Nueva Orán"
+      },
+      "nombre": "San Ramón de la Nueva Orán",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.3245912929234,
+        "lon": -64.2253034273741
+      },
+      "departamento": {
+        "id": "66126",
+        "nombre": "Orán"
+      },
+      "id": "66126060",
+      "localidad_censal": {
+        "id": "66126060",
+        "nombre": "Pichanal"
+      },
+      "municipio": {
+        "id": "660308",
+        "nombre": "Pichanal"
+      },
+      "nombre": "Pichanal",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.5578641799717,
+        "lon": -64.3969298334448
+      },
+      "departamento": {
+        "id": "66126",
+        "nombre": "Orán"
+      },
+      "id": "66126080",
+      "localidad_censal": {
+        "id": "66126080",
+        "nombre": "Urundel"
+      },
+      "municipio": {
+        "id": "660322",
+        "nombre": "Urundel"
+      },
+      "nombre": "Urundel",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66126"
+    ]
+  },
+  "total": 9
+}

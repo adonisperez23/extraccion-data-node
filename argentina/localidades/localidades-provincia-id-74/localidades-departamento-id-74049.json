@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0240439288572,
+        "lon": -65.3725051927927
+      },
+      "departamento": {
+        "id": "74049",
+        "nombre": "Junín"
+      },
+      "id": "74049040",
+      "localidad_censal": {
+        "id": "74049040",
+        "nombre": "Los Cajones"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Los Cajones",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.3426351395134,
+        "lon": -65.013732533825
+      },
+      "departamento": {
+        "id": "74049",
+        "nombre": "Junín"
+      },
+      "id": "74049060",
+      "localidad_censal": {
+        "id": "74049060",
+        "nombre": "Villa de Merlo"
+      },
+      "municipio": {
+        "id": "740105",
+        "nombre": "Villa de Merlo"
+      },
+      "nombre": "Merlo",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.4101026889389,
+        "lon": -65.009919408714
+      },
+      "departamento": {
+        "id": "74049",
+        "nombre": "Junín"
+      },
+      "id": "74049010",
+      "localidad_censal": {
+        "id": "74049010",
+        "nombre": "Carpintería"
+      },
+      "municipio": {
+        "id": "740095",
+        "nombre": "Carpintería"
+      },
+      "nombre": "Carpintería",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0625819746666,
+        "lon": -65.3501415424308
+      },
+      "departamento": {
+        "id": "74049",
+        "nombre": "Junín"
+      },
+      "id": "74049030",
+      "localidad_censal": {
+        "id": "74049030",
+        "nombre": "Lafinur"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Lafinur",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.4385997521181,
+        "lon": -65.0097622004684
+      },
+      "departamento": {
+        "id": "74049",
+        "nombre": "Junín"
+      },
+      "id": "74049050",
+      "localidad_censal": {
+        "id": "74049050",
+        "nombre": "Los Molles"
+      },
+      "municipio": {
+        "id": "746217",
+        "nombre": "Los Molles"
+      },
+      "nombre": "Los Molles",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.2489523569696,
+        "lon": -65.5832382343239
+      },
+      "departamento": {
+        "id": "74049",
+        "nombre": "Junín"
+      },
+      "id": "74049080",
+      "localidad_censal": {
+        "id": "74049080",
+        "nombre": "Talita"
+      },
+      "municipio": {
+        "id": "746224",
+        "nombre": "Talita"
+      },
+      "nombre": "Talita",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.3428333476501,
+        "lon": -65.2089058975824
+      },
+      "departamento": {
+        "id": "74049",
+        "nombre": "Junín"
+      },
+      "id": "74049070",
+      "localidad_censal": {
+        "id": "74049070",
+        "nombre": "Santa Rosa del Conlara"
+      },
+      "municipio": {
+        "id": "740098",
+        "nombre": "Santa Rosa"
+      },
+      "nombre": "Santa Rosa del Conlara",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "74049"
+    ]
+  },
+  "total": 7
+}

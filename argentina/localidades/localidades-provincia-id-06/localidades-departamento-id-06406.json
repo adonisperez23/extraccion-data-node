@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.2981771240063,
+        "lon": -61.7185623851795
+      },
+      "departamento": {
+        "id": "06406",
+        "nombre": "Hipólito Yrigoyen"
+      },
+      "id": "06406010",
+      "localidad_censal": {
+        "id": "06406010",
+        "nombre": "Henderson"
+      },
+      "municipio": {
+        "id": "060406",
+        "nombre": "Hipólito Yrigoyen"
+      },
+      "nombre": "Henderson",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.0875575438524,
+        "lon": -61.4108983875355
+      },
+      "departamento": {
+        "id": "06406",
+        "nombre": "Hipólito Yrigoyen"
+      },
+      "id": "06406020",
+      "localidad_censal": {
+        "id": "06406020",
+        "nombre": "Herrera Vegas"
+      },
+      "municipio": {
+        "id": "060406",
+        "nombre": "Hipólito Yrigoyen"
+      },
+      "nombre": "Herrera Vegas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06406"
+    ]
+  },
+  "total": 2
+}

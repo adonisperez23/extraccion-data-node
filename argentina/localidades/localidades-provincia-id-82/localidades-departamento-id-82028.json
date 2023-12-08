@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.3671910023616,
+        "lon": -60.5093016994803
+      },
+      "departamento": {
+        "id": "82028",
+        "nombre": "Constitución"
+      },
+      "id": "82028100",
+      "localidad_censal": {
+        "id": "82028100",
+        "nombre": "Godoy"
+      },
+      "municipio": {
+        "id": "822455",
+        "nombre": "Godoy"
+      },
+      "nombre": "Godoy",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -33.2517230130873,
+        "lon": -60.3888354800097
+      },
+      "departamento": {
+        "id": "82028",
+        "nombre": "Constitución"
+      },
+      "id": "82028030",
+      "localidad_censal": {
+        "id": "82028030",
+        "nombre": "Barrio Mitre"
+      },
+      "municipio": {
+        "id": "822490",
+        "nombre": "Pavón"
+      },
+      "nombre": "Barrio Mitre",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.483177504226,
+        "lon": -60.9561048192364
+      },
+      "departamento": {
+        "id": "82028",
+        "nombre": "Constitución"
+      },
+      "id": "82028140",
+      "localidad_censal": {
+        "id": "82028140",
+        "nombre": "Máximo Paz"
+      },
+      "municipio": {
+        "id": "822483",
+        "nombre": "Máximo Paz"
+      },
+      "nombre": "Máximo Paz",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.4938372185306,
+        "lon": -60.5107844353139
+      },
+      "departamento": {
+        "id": "82028",
+        "nombre": "Constitución"
+      },
+      "id": "82028110",
+      "localidad_censal": {
+        "id": "82028110",
+        "nombre": "Juan B. Molina"
+      },
+      "municipio": {
+        "id": "822462",
+        "nombre": "Juan B. Molina"
+      },
+      "nombre": "Juan B. Molina",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.3579976554596,
+        "lon": -60.6573745480685
+      },
+      "departamento": {
+        "id": "82028",
+        "nombre": "Constitución"
+      },
+      "id": "82028130",
+      "localidad_censal": {
+        "id": "82028130",
+        "nombre": "La Vanguardia"
+      },
+      "municipio": {
+        "id": "822476",
+        "nombre": "La Vanguardia"
+      },
+      "nombre": "La Vanguardia",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.5381781092336,
+        "lon": -61.1239279068517
+      },
+      "departamento": {
+        "id": "82028",
+        "nombre": "Constitución"
+      },
+      "id": "82028010",
+      "localidad_censal": {
+        "id": "82028010",
+        "nombre": "Alcorta"
+      },
+      "municipio": {
+        "id": "822413",
+        "nombre": "Alcorta"
+      },
+      "nombre": "Alcorta",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.516017756468,
+        "lon": -60.6101051449502
+      },
+      "departamento": {
+        "id": "82028",
+        "nombre": "Constitución"
+      },
+      "id": "82028050",
+      "localidad_censal": {
+        "id": "82028050",
+        "nombre": "Cañada Rica"
+      },
+      "municipio": {
+        "id": "822427",
+        "nombre": "Cañada Rica"
+      },
+      "nombre": "Cañada Rica",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.6001762745689,
+        "lon": -60.5979139757829
+      },
+      "departamento": {
+        "id": "82028",
+        "nombre": "Constitución"
+      },
+      "id": "82028090",
+      "localidad_censal": {
+        "id": "82028090",
+        "nombre": "General Gelly"
+      },
+      "municipio": {
+        "id": "822448",
+        "nombre": "General Gelly"
+      },
+      "nombre": "General Gelly",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.5377799155476,
+        "lon": -60.7997182059749
+      },
+      "departamento": {
+        "id": "82028",
+        "nombre": "Constitución"
+      },
+      "id": "82028170",
+      "localidad_censal": {
+        "id": "82028170",
+        "nombre": "Peyrano"
+      },
+      "municipio": {
+        "id": "822504",
+        "nombre": "Peyrano"
+      },
+      "nombre": "Peyrano",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -33.2611690764412,
+        "lon": -60.3796047256777
+      },
+      "departamento": {
+        "id": "82028",
+        "nombre": "Constitución"
+      },
+      "id": "82028070",
+      "localidad_censal": {
+        "id": "82028070",
+        "nombre": "Empalme Villa Constitución"
+      },
+      "municipio": {
+        "id": "822441",
+        "nombre": "Empalme Villa Constitución"
+      },
+      "nombre": "Empalme Villa Constitución",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "82028"
+    ]
+  },
+  "total": 23
+}

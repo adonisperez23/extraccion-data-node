@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.9029674267497,
+        "lon": -63.7063294940983
+      },
+      "departamento": {
+        "id": "14105",
+        "nombre": "Río Primero"
+      },
+      "id": "14105010",
+      "localidad_censal": {
+        "id": "14105010",
+        "nombre": "Atahona"
+      },
+      "municipio": {
+        "id": "142609",
+        "nombre": "Atahona"
+      },
+      "nombre": "Atahona",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.4297203867713,
+        "lon": -63.5877259163344
+      },
+      "departamento": {
+        "id": "14105",
+        "nombre": "Río Primero"
+      },
+      "id": "14105020",
+      "localidad_censal": {
+        "id": "14105020",
+        "nombre": "Cañada De Machado"
+      },
+      "municipio": {
+        "id": "142616",
+        "nombre": "Cañada de Machado"
+      },
+      "nombre": "Cañada de Machado",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.4305558847437,
+        "lon": -63.832425211005
+      },
+      "departamento": {
+        "id": "14105",
+        "nombre": "Río Primero"
+      },
+      "id": "14105030",
+      "localidad_censal": {
+        "id": "14105030",
+        "nombre": "Capilla de los Remedios"
+      },
+      "municipio": {
+        "id": "142623",
+        "nombre": "Capilla de los Remedios"
+      },
+      "nombre": "Capilla de los Remedios",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.7603966656184,
+        "lon": -63.5612423391006
+      },
+      "departamento": {
+        "id": "14105",
+        "nombre": "Río Primero"
+      },
+      "id": "14105040",
+      "localidad_censal": {
+        "id": "14105040",
+        "nombre": "Chalacea"
+      },
+      "municipio": {
+        "id": "142630",
+        "nombre": "Chalacea"
+      },
+      "nombre": "Chalacea",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.2085480364788,
+        "lon": -63.2229686703641
+      },
+      "departamento": {
+        "id": "14105",
+        "nombre": "Río Primero"
+      },
+      "id": "14105050",
+      "localidad_censal": {
+        "id": "14105050",
+        "nombre": "Colonia Las Cuatro Esquinas"
+      },
+      "municipio": {
+        "id": "142637",
+        "nombre": "Colonia Las Cuatro Esquinas"
+      },
+      "nombre": "Colonia Las Cuatro Esquinas",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.0285400659698,
+        "lon": -63.3383832232436
+      },
+      "departamento": {
+        "id": "14105",
+        "nombre": "Río Primero"
+      },
+      "id": "14105060",
+      "localidad_censal": {
+        "id": "14105060",
+        "nombre": "Diego de Rojas"
+      },
+      "municipio": {
+        "id": "142651",
+        "nombre": "Diego de Rojas"
+      },
+      "nombre": "Diego de Rojas",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.116407937563,
+        "lon": -63.6016162850712
+      },
+      "departamento": {
+        "id": "14105",
+        "nombre": "Río Primero"
+      },
+      "id": "14105070",
+      "localidad_censal": {
+        "id": "14105070",
+        "nombre": "El Alcalde"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Alcalde",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.0176067254515,
+        "lon": -63.6053511676616
+      },
+      "departamento": {
+        "id": "14105",
+        "nombre": "Río Primero"
+      },
+      "id": "14105080",
+      "localidad_censal": {
+        "id": "14105080",
+        "nombre": "El Crispín"
+      },
+      "municipio": {
+        "id": "142658",
+        "nombre": "El Crispín"
+      },
+      "nombre": "El Crispín",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.077912151744,
+        "lon": -63.7936405494997
+      },
+      "departamento": {
+        "id": "14105",
+        "nombre": "Río Primero"
+      },
+      "id": "14105090",
+      "localidad_censal": {
+        "id": "14105090",
+        "nombre": "Esquina"
+      },
+      "municipio": {
+        "id": "142665",
+        "nombre": "Esquina"
+      },
+      "nombre": "Esquina",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.3688486221668,
+        "lon": -63.530628418199
+      },
+      "departamento": {
+        "id": "14105",
+        "nombre": "Río Primero"
+      },
+      "id": "14105100",
+      "localidad_censal": {
+        "id": "14105100",
+        "nombre": "Kilómetro 658"
+      },
+      "municipio": {
+        "id": "142672",
+        "nombre": "Kilómetro 658"
+      },
+      "nombre": "Kilómetro 658",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14105"
+    ]
+  },
+  "total": 27
+}

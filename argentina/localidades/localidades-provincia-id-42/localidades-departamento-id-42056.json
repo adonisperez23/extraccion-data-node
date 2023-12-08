@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.2907850630244,
+        "lon": -63.7769872104681
+      },
+      "departamento": {
+        "id": "42056",
+        "nombre": "Chapaleufú"
+      },
+      "id": "42056020",
+      "localidad_censal": {
+        "id": "42056020",
+        "nombre": "Ceballos"
+      },
+      "municipio": {
+        "id": "420084",
+        "nombre": "Ceballos"
+      },
+      "nombre": "Ceballos",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0259493098283,
+        "lon": -63.582754454385
+      },
+      "departamento": {
+        "id": "42056",
+        "nombre": "Chapaleufú"
+      },
+      "id": "42056010",
+      "localidad_censal": {
+        "id": "42056010",
+        "nombre": "Bernardo Larroude"
+      },
+      "municipio": {
+        "id": "420049",
+        "nombre": "Bernardo Larroudé"
+      },
+      "nombre": "Bernardo Larroude",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0241215550401,
+        "lon": -63.9120713203455
+      },
+      "departamento": {
+        "id": "42056",
+        "nombre": "Chapaleufú"
+      },
+      "id": "42056030",
+      "localidad_censal": {
+        "id": "42056030",
+        "nombre": "Coronel Hilario Lagos"
+      },
+      "municipio": {
+        "id": "420105",
+        "nombre": "Coronel Hilario Lagos"
+      },
+      "nombre": "Coronel Hilario Lagos",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.2346794397986,
+        "lon": -63.5920874357151
+      },
+      "departamento": {
+        "id": "42056",
+        "nombre": "Chapaleufú"
+      },
+      "id": "42056040",
+      "localidad_censal": {
+        "id": "42056040",
+        "nombre": "Intendente Alvear"
+      },
+      "municipio": {
+        "id": "420175",
+        "nombre": "Intendente Alvear"
+      },
+      "nombre": "Intendente Alvear",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0280789306098,
+        "lon": -63.6859330160218
+      },
+      "departamento": {
+        "id": "42056",
+        "nombre": "Chapaleufú"
+      },
+      "id": "42056050",
+      "localidad_censal": {
+        "id": "42056050",
+        "nombre": "Sarah"
+      },
+      "municipio": {
+        "id": "425140",
+        "nombre": "Sarah"
+      },
+      "nombre": "Sarah",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.4274437817854,
+        "lon": -63.9099859200885
+      },
+      "departamento": {
+        "id": "42056",
+        "nombre": "Chapaleufú"
+      },
+      "id": "42056060",
+      "localidad_censal": {
+        "id": "42056060",
+        "nombre": "Vértiz"
+      },
+      "municipio": {
+        "id": "420392",
+        "nombre": "Vértiz"
+      },
+      "nombre": "Vértiz",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42056"
+    ]
+  },
+  "total": 6
+}

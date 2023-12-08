@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6637211783493,
+        "lon": -68.3857405424316
+      },
+      "departamento": {
+        "id": "46098",
+        "nombre": "Vinchina"
+      },
+      "id": "46098010",
+      "localidad_censal": {
+        "id": "46098010",
+        "nombre": "Jagüé"
+      },
+      "municipio": {
+        "id": "460098",
+        "nombre": "Vinchina"
+      },
+      "nombre": "Jagüé",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.7536971019394,
+        "lon": -68.2048448095049
+      },
+      "departamento": {
+        "id": "46098",
+        "nombre": "Vinchina"
+      },
+      "id": "46098020",
+      "localidad_censal": {
+        "id": "46098020",
+        "nombre": "Villa San José de Vinchina"
+      },
+      "municipio": {
+        "id": "460098",
+        "nombre": "Vinchina"
+      },
+      "nombre": "Villa San José de Vinchina",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "46098"
+    ]
+  },
+  "total": 2
+}

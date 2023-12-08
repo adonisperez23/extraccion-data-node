@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.3409735865903,
+        "lon": -66.5919231559393
+      },
+      "departamento": {
+        "id": "46112",
+        "nombre": "Rosario Vera Peñaloza"
+      },
+      "id": "46112010",
+      "localidad_censal": {
+        "id": "46112010",
+        "nombre": "Chepes"
+      },
+      "municipio": {
+        "id": "460112",
+        "nombre": "Rosario Vera Peñaloza"
+      },
+      "nombre": "Chepes",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.2124968486754,
+        "lon": -66.3144307396543
+      },
+      "departamento": {
+        "id": "46112",
+        "nombre": "Rosario Vera Peñaloza"
+      },
+      "id": "46112020",
+      "localidad_censal": {
+        "id": "46112020",
+        "nombre": "Desiderio Tello"
+      },
+      "municipio": {
+        "id": "460112",
+        "nombre": "Rosario Vera Peñaloza"
+      },
+      "nombre": "Desiderio Tello",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "46112"
+    ]
+  },
+  "total": 2
+}

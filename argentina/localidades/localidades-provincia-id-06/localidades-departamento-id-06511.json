@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.086333288103,
+        "lon": -57.8294200706759
+      },
+      "departamento": {
+        "id": "06511",
+        "nombre": "Maipú"
+      },
+      "id": "06511010",
+      "localidad_censal": {
+        "id": "06511010",
+        "nombre": "Las Armas"
+      },
+      "municipio": {
+        "id": "060511",
+        "nombre": "Maipú"
+      },
+      "nombre": "Las Armas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.8629587024659,
+        "lon": -57.8831233218316
+      },
+      "departamento": {
+        "id": "06511",
+        "nombre": "Maipú"
+      },
+      "id": "06511020",
+      "localidad_censal": {
+        "id": "06511020",
+        "nombre": "Maipú"
+      },
+      "municipio": {
+        "id": "060511",
+        "nombre": "Maipú"
+      },
+      "nombre": "Maipú",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.7115597782752,
+        "lon": -57.5861674511156
+      },
+      "departamento": {
+        "id": "06511",
+        "nombre": "Maipú"
+      },
+      "id": "06511030",
+      "localidad_censal": {
+        "id": "06511030",
+        "nombre": "Santo Domingo"
+      },
+      "municipio": {
+        "id": "060511",
+        "nombre": "Maipú"
+      },
+      "nombre": "Santo Domingo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06511"
+    ]
+  },
+  "total": 3
+}

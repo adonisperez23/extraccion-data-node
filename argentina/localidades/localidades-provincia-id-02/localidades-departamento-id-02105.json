@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5923093373278,
+        "lon": -58.489681528085
+      },
+      "departamento": {
+        "id": "02105",
+        "nombre": "Comuna 15"
+      },
+      "id": "0210501001",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022105",
+        "nombre": "Comuna 15"
+      },
+      "nombre": "Agronomía",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5852649973532,
+        "lon": -58.4539549332692
+      },
+      "departamento": {
+        "id": "02105",
+        "nombre": "Comuna 15"
+      },
+      "id": "0210501002",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022105",
+        "nombre": "Comuna 15"
+      },
+      "nombre": "Chacarita",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.582545656321,
+        "lon": -58.4792290624138
+      },
+      "departamento": {
+        "id": "02105",
+        "nombre": "Comuna 15"
+      },
+      "id": "0210501003",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022105",
+        "nombre": "Comuna 15"
+      },
+      "nombre": "Parque Chas",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.598871440003,
+        "lon": -58.4664534521021
+      },
+      "departamento": {
+        "id": "02105",
+        "nombre": "Comuna 15"
+      },
+      "id": "0210501004",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022105",
+        "nombre": "Comuna 15"
+      },
+      "nombre": "Paternal",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5998761950699,
+        "lon": -58.4388145566975
+      },
+      "departamento": {
+        "id": "02105",
+        "nombre": "Comuna 15"
+      },
+      "id": "0210501005",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022105",
+        "nombre": "Comuna 15"
+      },
+      "nombre": "Villa Crespo",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5786712999461,
+        "lon": -58.4694820378861
+      },
+      "departamento": {
+        "id": "02105",
+        "nombre": "Comuna 15"
+      },
+      "id": "0210501006",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022105",
+        "nombre": "Comuna 15"
+      },
+      "nombre": "Villa Ortúzar",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "02105"
+    ]
+  },
+  "total": 6
+}

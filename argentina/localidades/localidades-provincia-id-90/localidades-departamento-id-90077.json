@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -27.4561875743717,
+        "lon": -65.6037142729332
+      },
+      "departamento": {
+        "id": "90077",
+        "nombre": "Río Chico"
+      },
+      "id": "9007701002",
+      "localidad_censal": {
+        "id": "90077010",
+        "nombre": "Aguilares"
+      },
+      "municipio": {
+        "id": "900091",
+        "nombre": "Aguilares"
+      },
+      "nombre": "Ingenio Santa Bárbara",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -27.4350836108284,
+        "lon": -65.6149801745018
+      },
+      "departamento": {
+        "id": "90077",
+        "nombre": "Río Chico"
+      },
+      "id": "9007701001",
+      "localidad_censal": {
+        "id": "90077010",
+        "nombre": "Aguilares"
+      },
+      "municipio": {
+        "id": "900091",
+        "nombre": "Aguilares"
+      },
+      "nombre": "Aguilares",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4147898543313,
+        "lon": -65.693197073251
+      },
+      "departamento": {
+        "id": "90077",
+        "nombre": "Río Chico"
+      },
+      "id": "90077020",
+      "localidad_censal": {
+        "id": "90077020",
+        "nombre": "Los Sarmientos"
+      },
+      "municipio": {
+        "id": "908469",
+        "nombre": "Los Sarmiento y La Tipa"
+      },
+      "nombre": "Los Sarmientos",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4800451239794,
+        "lon": -65.6251354337341
+      },
+      "departamento": {
+        "id": "90077",
+        "nombre": "Río Chico"
+      },
+      "id": "90077030",
+      "localidad_censal": {
+        "id": "90077030",
+        "nombre": "Río Chico"
+      },
+      "municipio": {
+        "id": "908483",
+        "nombre": "Santa Ana"
+      },
+      "nombre": "Río Chico",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4740005527532,
+        "lon": -65.6591463841397
+      },
+      "departamento": {
+        "id": "90077",
+        "nombre": "Río Chico"
+      },
+      "id": "90077050",
+      "localidad_censal": {
+        "id": "90077050",
+        "nombre": "Villa Clodomiro Hileret"
+      },
+      "municipio": {
+        "id": "908483",
+        "nombre": "Santa Ana"
+      },
+      "nombre": "Villa Clodomiro Hileret",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4736246342883,
+        "lon": -65.6853852862859
+      },
+      "departamento": {
+        "id": "90077",
+        "nombre": "Río Chico"
+      },
+      "id": "90077040",
+      "localidad_censal": {
+        "id": "90077040",
+        "nombre": "Santa Ana"
+      },
+      "municipio": {
+        "id": "908483",
+        "nombre": "Santa Ana"
+      },
+      "nombre": "Santa Ana",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.431628005106,
+        "lon": -65.6145379952067
+      },
+      "departamento": {
+        "id": "90077",
+        "nombre": "Río Chico"
+      },
+      "id": "90077010",
+      "localidad_censal": {
+        "id": "90077010",
+        "nombre": "Aguilares"
+      },
+      "municipio": {
+        "id": "900091",
+        "nombre": "Aguilares"
+      },
+      "nombre": "Aguilares",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "90077"
+    ]
+  },
+  "total": 7
+}

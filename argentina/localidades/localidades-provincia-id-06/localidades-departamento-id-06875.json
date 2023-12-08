@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.7702355579356,
+        "lon": -62.6029546301718
+      },
+      "departamento": {
+        "id": "06875",
+        "nombre": "Villarino"
+      },
+      "id": "06875010",
+      "localidad_censal": {
+        "id": "06875010",
+        "nombre": "Argerich"
+      },
+      "municipio": {
+        "id": "060875",
+        "nombre": "Villarino"
+      },
+      "nombre": "Argerich",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.3756504477901,
+        "lon": -62.6473691572484
+      },
+      "departamento": {
+        "id": "06875",
+        "nombre": "Villarino"
+      },
+      "id": "06875030",
+      "localidad_censal": {
+        "id": "06875030",
+        "nombre": "Hilario Ascasubi"
+      },
+      "municipio": {
+        "id": "060875",
+        "nombre": "Villarino"
+      },
+      "nombre": "Hilario Ascasubi",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.8944422347495,
+        "lon": -63.1407347636352
+      },
+      "departamento": {
+        "id": "06875",
+        "nombre": "Villarino"
+      },
+      "id": "06875040",
+      "localidad_censal": {
+        "id": "06875040",
+        "nombre": "Juan Cousté"
+      },
+      "municipio": {
+        "id": "060875",
+        "nombre": "Villarino"
+      },
+      "nombre": "Juan Cousté",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.2608696441589,
+        "lon": -62.6152474688671
+      },
+      "departamento": {
+        "id": "06875",
+        "nombre": "Villarino"
+      },
+      "id": "06875050",
+      "localidad_censal": {
+        "id": "06875050",
+        "nombre": "Mayor Buratovich"
+      },
+      "municipio": {
+        "id": "060875",
+        "nombre": "Villarino"
+      },
+      "nombre": "Mayor Buratovich",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.8292649440891,
+        "lon": -62.693309603918
+      },
+      "departamento": {
+        "id": "06875",
+        "nombre": "Villarino"
+      },
+      "id": "06875060",
+      "localidad_censal": {
+        "id": "06875060",
+        "nombre": "Médanos"
+      },
+      "municipio": {
+        "id": "060875",
+        "nombre": "Villarino"
+      },
+      "nombre": "Médanos",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.5014968706772,
+        "lon": -62.6798287686143
+      },
+      "departamento": {
+        "id": "06875",
+        "nombre": "Villarino"
+      },
+      "id": "06875070",
+      "localidad_censal": {
+        "id": "06875070",
+        "nombre": "Pedro Luro"
+      },
+      "municipio": {
+        "id": "060875",
+        "nombre": "Villarino"
+      },
+      "nombre": "Pedro Luro",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.0578094179787,
+        "lon": -62.5704145591734
+      },
+      "departamento": {
+        "id": "06875",
+        "nombre": "Villarino"
+      },
+      "id": "06875080",
+      "localidad_censal": {
+        "id": "06875080",
+        "nombre": "Teniente Origone"
+      },
+      "municipio": {
+        "id": "060875",
+        "nombre": "Villarino"
+      },
+      "nombre": "Teniente Origone",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06875"
+    ]
+  },
+  "total": 7
+}

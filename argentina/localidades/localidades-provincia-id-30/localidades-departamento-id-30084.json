@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.582388959984,
+        "lon": -60.0736871986697
+      },
+      "departamento": {
+        "id": "30084",
+        "nombre": "Paraná"
+      },
+      "id": "3008405001",
+      "localidad_censal": {
+        "id": "30084050",
+        "nombre": "Cerrito"
+      },
+      "municipio": {
+        "id": "300294",
+        "nombre": "Cerrito"
+      },
+      "nombre": "Cerrito",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.5870037147946,
+        "lon": -60.0601610854207
+      },
+      "departamento": {
+        "id": "30084",
+        "nombre": "Paraná"
+      },
+      "id": "3008405002",
+      "localidad_censal": {
+        "id": "30084050",
+        "nombre": "Cerrito"
+      },
+      "municipio": {
+        "id": "300294",
+        "nombre": "Cerrito"
+      },
+      "nombre": "Pueblo Moreno",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.8838516983236,
+        "lon": -60.4105063277925
+      },
+      "departamento": {
+        "id": "30084",
+        "nombre": "Paraná"
+      },
+      "id": "30084010",
+      "localidad_censal": {
+        "id": "30084010",
+        "nombre": "Aldea María Luisa"
+      },
+      "municipio": {
+        "id": "309580",
+        "nombre": "Maria Luisa"
+      },
+      "nombre": "Aldea María Luisa",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.9967195611947,
+        "lon": -60.3581603581635
+      },
+      "departamento": {
+        "id": "30084",
+        "nombre": "Paraná"
+      },
+      "id": "30084015",
+      "localidad_censal": {
+        "id": "30084015",
+        "nombre": "Aldea San Juan"
+      },
+      "municipio": {
+        "id": "300301",
+        "nombre": "Crespo"
+      },
+      "nombre": "Aldea San Juan",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.957411232207,
+        "lon": -60.2546306448179
+      },
+      "departamento": {
+        "id": "30084",
+        "nombre": "Paraná"
+      },
+      "id": "30084020",
+      "localidad_censal": {
+        "id": "30084020",
+        "nombre": "Aldea San Rafael"
+      },
+      "municipio": {
+        "id": "309590",
+        "nombre": "Aldea San Rafael"
+      },
+      "nombre": "Aldea San Rafael",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.6113329912328,
+        "lon": -60.0068869508086
+      },
+      "departamento": {
+        "id": "30084",
+        "nombre": "Paraná"
+      },
+      "id": "30084030",
+      "localidad_censal": {
+        "id": "30084030",
+        "nombre": "Aldea Santa María"
+      },
+      "municipio": {
+        "id": "302836",
+        "nombre": "Aldea Santa María"
+      },
+      "nombre": "Aldea Santa María",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0131601160492,
+        "lon": -60.2392099527139
+      },
+      "departamento": {
+        "id": "30084",
+        "nombre": "Paraná"
+      },
+      "id": "30084040",
+      "localidad_censal": {
+        "id": "30084040",
+        "nombre": "Aldea Santa Rosa"
+      },
+      "municipio": {
+        "id": "302843",
+        "nombre": "Aldea Santa Rosa"
+      },
+      "nombre": "Aldea Santa Rosa",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.5799390266432,
+        "lon": -60.0755467034037
+      },
+      "departamento": {
+        "id": "30084",
+        "nombre": "Paraná"
+      },
+      "id": "30084050",
+      "localidad_censal": {
+        "id": "30084050",
+        "nombre": "Cerrito"
+      },
+      "municipio": {
+        "id": "300294",
+        "nombre": "Cerrito"
+      },
+      "nombre": "Cerrito",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -31.7626492941623,
+        "lon": -60.411981206375
+      },
+      "departamento": {
+        "id": "30084",
+        "nombre": "Paraná"
+      },
+      "id": "30084060",
+      "localidad_censal": {
+        "id": "30084060",
+        "nombre": "Colonia Avellaneda"
+      },
+      "municipio": {
+        "id": "300297",
+        "nombre": "Colonia Avellaneda"
+      },
+      "nombre": "Colonia Avellaneda",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.68288121994,
+        "lon": -60.2310818879375
+      },
+      "departamento": {
+        "id": "30084",
+        "nombre": "Paraná"
+      },
+      "id": "30084065",
+      "localidad_censal": {
+        "id": "30084065",
+        "nombre": "Colonia Crespo"
+      },
+      "municipio": {
+        "id": "302899",
+        "nombre": "Colonia Crespo"
+      },
+      "nombre": "Colonia Crespo",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "30084"
+    ]
+  },
+  "total": 35
+}

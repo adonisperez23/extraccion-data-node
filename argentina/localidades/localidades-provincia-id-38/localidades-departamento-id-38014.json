@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -24.5850214756868,
+        "lon": -64.9227633011974
+      },
+      "departamento": {
+        "id": "38014",
+        "nombre": "El Carmen"
+      },
+      "id": "3801401001",
+      "localidad_censal": {
+        "id": "38014010",
+        "nombre": "Aguas Calientes"
+      },
+      "municipio": {
+        "id": "380049",
+        "nombre": "Aguas Calientes"
+      },
+      "nombre": "Aguas Calientes",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -24.5874693995008,
+        "lon": -64.9235280448918
+      },
+      "departamento": {
+        "id": "38014",
+        "nombre": "El Carmen"
+      },
+      "id": "3801401002",
+      "localidad_censal": {
+        "id": "38014010",
+        "nombre": "Aguas Calientes"
+      },
+      "municipio": {
+        "id": "380049",
+        "nombre": "Aguas Calientes"
+      },
+      "nombre": "Fleming",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -24.5824618916524,
+        "lon": -64.9200507886571
+      },
+      "departamento": {
+        "id": "38014",
+        "nombre": "El Carmen"
+      },
+      "id": "3801401003",
+      "localidad_censal": {
+        "id": "38014010",
+        "nombre": "Aguas Calientes"
+      },
+      "municipio": {
+        "id": "380049",
+        "nombre": "Aguas Calientes"
+      },
+      "nombre": "Pila Pardo",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.5844324782132,
+        "lon": -64.9232498811675
+      },
+      "departamento": {
+        "id": "38014",
+        "nombre": "El Carmen"
+      },
+      "id": "38014010",
+      "localidad_censal": {
+        "id": "38014010",
+        "nombre": "Aguas Calientes"
+      },
+      "municipio": {
+        "id": "380049",
+        "nombre": "Aguas Calientes"
+      },
+      "nombre": "Aguas Calientes",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.4634441973402,
+        "lon": -65.1192041014291
+      },
+      "departamento": {
+        "id": "38014",
+        "nombre": "El Carmen"
+      },
+      "id": "38014020",
+      "localidad_censal": {
+        "id": "38014020",
+        "nombre": "Barrio El Milagro"
+      },
+      "municipio": {
+        "id": "380063",
+        "nombre": "Monterrico"
+      },
+      "nombre": "Barrio El Milagro",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.4047316322635,
+        "lon": -65.0704593431767
+      },
+      "departamento": {
+        "id": "38014",
+        "nombre": "El Carmen"
+      },
+      "id": "38014030",
+      "localidad_censal": {
+        "id": "38014030",
+        "nombre": "Barrio Odij"
+      },
+      "municipio": {
+        "id": "380077",
+        "nombre": "Perico"
+      },
+      "nombre": "Barrio La Unión",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.3892859783731,
+        "lon": -65.261542319292
+      },
+      "departamento": {
+        "id": "38014",
+        "nombre": "El Carmen"
+      },
+      "id": "38014040",
+      "localidad_censal": {
+        "id": "38014040",
+        "nombre": "El Carmen"
+      },
+      "municipio": {
+        "id": "380056",
+        "nombre": "El Carmen"
+      },
+      "nombre": "El Carmen",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.4769979787676,
+        "lon": -65.0767204118012
+      },
+      "departamento": {
+        "id": "38014",
+        "nombre": "El Carmen"
+      },
+      "id": "38014050",
+      "localidad_censal": {
+        "id": "38014050",
+        "nombre": "Los Lapachos"
+      },
+      "municipio": {
+        "id": "380063",
+        "nombre": "Monterrico"
+      },
+      "nombre": "Los Lapachos",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.5343091599977,
+        "lon": -64.9769025134671
+      },
+      "departamento": {
+        "id": "38014",
+        "nombre": "El Carmen"
+      },
+      "id": "38014060",
+      "localidad_censal": {
+        "id": "38014060",
+        "nombre": "Manantiales"
+      },
+      "municipio": {
+        "id": "380074",
+        "nombre": "Puesto Viejo"
+      },
+      "nombre": "Manantiales",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.4429604452463,
+        "lon": -65.1660933144522
+      },
+      "departamento": {
+        "id": "38014",
+        "nombre": "El Carmen"
+      },
+      "id": "38014070",
+      "localidad_censal": {
+        "id": "38014070",
+        "nombre": "Monterrico"
+      },
+      "municipio": {
+        "id": "380063",
+        "nombre": "Monterrico"
+      },
+      "nombre": "Monterrico",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "38014"
+    ]
+  },
+  "total": 15
+}

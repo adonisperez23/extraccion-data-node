@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -51.6936791269923,
+        "lon": -57.8608555040022
+      },
+      "departamento": {
+        "id": "94021",
+        "nombre": "Islas del Atlántico Sur"
+      },
+      "id": "94021010",
+      "localidad_censal": {
+        "id": "94021010",
+        "nombre": "Bahía Fox (Is. Malvinas)"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Puerto Argentino",
+      "provincia": {
+        "id": "94",
+        "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "94021"
+    ]
+  },
+  "total": 1
+}

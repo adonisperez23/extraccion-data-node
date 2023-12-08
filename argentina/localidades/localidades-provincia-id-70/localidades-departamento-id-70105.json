@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.952830718093,
+        "lon": -68.6541474693073
+      },
+      "departamento": {
+        "id": "70105",
+        "nombre": "Sarmiento"
+      },
+      "id": "70105070",
+      "localidad_censal": {
+        "id": "70105070",
+        "nombre": "Los Berros"
+      },
+      "municipio": {
+        "id": "700105",
+        "nombre": "Sarmiento"
+      },
+      "nombre": "Los Berros",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.9851271771981,
+        "lon": -68.5486633086048
+      },
+      "departamento": {
+        "id": "70105",
+        "nombre": "Sarmiento"
+      },
+      "id": "70105010",
+      "localidad_censal": {
+        "id": "70105010",
+        "nombre": "Cañada Honda"
+      },
+      "municipio": {
+        "id": "700105",
+        "nombre": "Sarmiento"
+      },
+      "nombre": "Cañada Honda",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0771610846943,
+        "lon": -68.693531008472
+      },
+      "departamento": {
+        "id": "70105",
+        "nombre": "Sarmiento"
+      },
+      "id": "70105020",
+      "localidad_censal": {
+        "id": "70105020",
+        "nombre": "Cienaguita"
+      },
+      "municipio": {
+        "id": "700105",
+        "nombre": "Sarmiento"
+      },
+      "nombre": "Cienaguita",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.9022065585762,
+        "lon": -68.4707132112403
+      },
+      "departamento": {
+        "id": "70105",
+        "nombre": "Sarmiento"
+      },
+      "id": "70105030",
+      "localidad_censal": {
+        "id": "70105030",
+        "nombre": "Colonia Fiscal"
+      },
+      "municipio": {
+        "id": "700105",
+        "nombre": "Sarmiento"
+      },
+      "nombre": "Colonia Fiscal",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.8941833863956,
+        "lon": -68.4187610317866
+      },
+      "departamento": {
+        "id": "70105",
+        "nombre": "Sarmiento"
+      },
+      "id": "70105090",
+      "localidad_censal": {
+        "id": "70105090",
+        "nombre": "Punta del Médano"
+      },
+      "municipio": {
+        "id": "700105",
+        "nombre": "Sarmiento"
+      },
+      "nombre": "Punta del Médano",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.9814468268365,
+        "lon": -68.4266727442729
+      },
+      "departamento": {
+        "id": "70105",
+        "nombre": "Sarmiento"
+      },
+      "id": "70105100",
+      "localidad_censal": {
+        "id": "70105100",
+        "nombre": "Villa Media Agua"
+      },
+      "municipio": {
+        "id": "700105",
+        "nombre": "Sarmiento"
+      },
+      "nombre": "Villa Media Agua",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.9964102872788,
+        "lon": -68.7639500317177
+      },
+      "departamento": {
+        "id": "70105",
+        "nombre": "Sarmiento"
+      },
+      "id": "70105080",
+      "localidad_censal": {
+        "id": "70105080",
+        "nombre": "Pedernal"
+      },
+      "municipio": {
+        "id": "700105",
+        "nombre": "Sarmiento"
+      },
+      "nombre": "Pedernal",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0072717233991,
+        "lon": -68.6938717254481
+      },
+      "departamento": {
+        "id": "70105",
+        "nombre": "Sarmiento"
+      },
+      "id": "70105040",
+      "localidad_censal": {
+        "id": "70105040",
+        "nombre": "Divisadero"
+      },
+      "municipio": {
+        "id": "700105",
+        "nombre": "Sarmiento"
+      },
+      "nombre": "Divisadero",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0441493468729,
+        "lon": -68.3679604563378
+      },
+      "departamento": {
+        "id": "70105",
+        "nombre": "Sarmiento"
+      },
+      "id": "70105060",
+      "localidad_censal": {
+        "id": "70105060",
+        "nombre": "Las Lagunas"
+      },
+      "municipio": {
+        "id": "700105",
+        "nombre": "Sarmiento"
+      },
+      "nombre": "Las Lagunas",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "70105"
+    ]
+  },
+  "total": 9
+}

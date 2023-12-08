@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -38.7511255699126,
+        "lon": -70.026048478261
+      },
+      "departamento": {
+        "id": "58112",
+        "nombre": "Zapala"
+      },
+      "id": "5811202001",
+      "localidad_censal": {
+        "id": "58112020",
+        "nombre": "Mariano Moreno"
+      },
+      "municipio": {
+        "id": "580238",
+        "nombre": "Mariano Moreno"
+      },
+      "nombre": "Covunco Centro",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -38.7636115201935,
+        "lon": -70.0374506173879
+      },
+      "departamento": {
+        "id": "58112",
+        "nombre": "Zapala"
+      },
+      "id": "5811202002",
+      "localidad_censal": {
+        "id": "58112020",
+        "nombre": "Mariano Moreno"
+      },
+      "municipio": {
+        "id": "580238",
+        "nombre": "Mariano Moreno"
+      },
+      "nombre": "Mariano Moreno",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.9029343545295,
+        "lon": -70.0642112166622
+      },
+      "departamento": {
+        "id": "58112",
+        "nombre": "Zapala"
+      },
+      "id": "58112040",
+      "localidad_censal": {
+        "id": "58112040",
+        "nombre": "Zapala"
+      },
+      "municipio": {
+        "id": "580245",
+        "nombre": "Zapala"
+      },
+      "nombre": "Zapala",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.8373560898983,
+        "lon": -70.1984176324513
+      },
+      "departamento": {
+        "id": "58112",
+        "nombre": "Zapala"
+      },
+      "id": "58112010",
+      "localidad_censal": {
+        "id": "58112010",
+        "nombre": "Los Catutos"
+      },
+      "municipio": {
+        "id": "585140",
+        "nombre": "Los Catutos"
+      },
+      "nombre": "Los Catutos",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.7613362550646,
+        "lon": -70.0363596617265
+      },
+      "departamento": {
+        "id": "58112",
+        "nombre": "Zapala"
+      },
+      "id": "58112020",
+      "localidad_censal": {
+        "id": "58112020",
+        "nombre": "Mariano Moreno"
+      },
+      "municipio": {
+        "id": "580238",
+        "nombre": "Mariano Moreno"
+      },
+      "nombre": "Mariano Moreno",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.8643297107263,
+        "lon": -69.7446960918835
+      },
+      "departamento": {
+        "id": "58112",
+        "nombre": "Zapala"
+      },
+      "id": "58112030",
+      "localidad_censal": {
+        "id": "58112030",
+        "nombre": "Ramón M. Castro"
+      },
+      "municipio": {
+        "id": "585147",
+        "nombre": "Ramón M. Castro"
+      },
+      "nombre": "Ramón M. Castro",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "58112"
+    ]
+  },
+  "total": 6
+}

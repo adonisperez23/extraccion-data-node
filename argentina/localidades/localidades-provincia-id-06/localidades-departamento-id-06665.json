@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.5704240216028,
+        "lon": -59.9780284218687
+      },
+      "departamento": {
+        "id": "06665",
+        "nombre": "Ramallo"
+      },
+      "id": "06665010",
+      "localidad_censal": {
+        "id": "06665010",
+        "nombre": "El Paraí­so"
+      },
+      "municipio": {
+        "id": "060665",
+        "nombre": "Ramallo"
+      },
+      "nombre": "El Paraíso",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.6376750106,
+        "lon": -59.9888547756034
+      },
+      "departamento": {
+        "id": "06665",
+        "nombre": "Ramallo"
+      },
+      "id": "06665020",
+      "localidad_censal": {
+        "id": "06665020",
+        "nombre": "Las Bahamas"
+      },
+      "municipio": {
+        "id": "060665",
+        "nombre": "Ramallo"
+      },
+      "nombre": "Las Bahamas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.7701939258864,
+        "lon": -60.0937410521656
+      },
+      "departamento": {
+        "id": "06665",
+        "nombre": "Ramallo"
+      },
+      "id": "06665030",
+      "localidad_censal": {
+        "id": "06665030",
+        "nombre": "Pérez Milán"
+      },
+      "municipio": {
+        "id": "060665",
+        "nombre": "Ramallo"
+      },
+      "nombre": "Pérez Millán",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.4852021182933,
+        "lon": -60.0044384241728
+      },
+      "departamento": {
+        "id": "06665",
+        "nombre": "Ramallo"
+      },
+      "id": "06665040",
+      "localidad_censal": {
+        "id": "06665040",
+        "nombre": "Ramallo"
+      },
+      "municipio": {
+        "id": "060665",
+        "nombre": "Ramallo"
+      },
+      "nombre": "Ramallo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.4359779795503,
+        "lon": -60.1464497657147
+      },
+      "departamento": {
+        "id": "06665",
+        "nombre": "Ramallo"
+      },
+      "id": "06665050",
+      "localidad_censal": {
+        "id": "06665050",
+        "nombre": "Villa General Savio"
+      },
+      "municipio": {
+        "id": "060665",
+        "nombre": "Ramallo"
+      },
+      "nombre": "Villa General Savio",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.49803273822,
+        "lon": -60.0655531078037
+      },
+      "departamento": {
+        "id": "06665",
+        "nombre": "Ramallo"
+      },
+      "id": "06665060",
+      "localidad_censal": {
+        "id": "06665060",
+        "nombre": "Villa Ramallo"
+      },
+      "municipio": {
+        "id": "060665",
+        "nombre": "Ramallo"
+      },
+      "nombre": "Villa Ramallo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06665"
+    ]
+  },
+  "total": 6
+}

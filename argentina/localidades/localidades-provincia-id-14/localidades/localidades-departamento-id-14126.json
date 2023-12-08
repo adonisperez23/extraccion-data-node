@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.7972046987647,
+        "lon": -65.0024987775972
+      },
+      "departamento": {
+        "id": "14126",
+        "nombre": "San Alberto"
+      },
+      "id": "14126110",
+      "localidad_censal": {
+        "id": "14126110",
+        "nombre": "Nono"
+      },
+      "municipio": {
+        "id": "141099",
+        "nombre": "Nono"
+      },
+      "nombre": "Nono",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.4905410001863,
+        "lon": -65.0539521564899
+      },
+      "departamento": {
+        "id": "14126",
+        "nombre": "San Alberto"
+      },
+      "id": "14126010",
+      "localidad_censal": {
+        "id": "14126010",
+        "nombre": "Ambul"
+      },
+      "municipio": {
+        "id": "142833",
+        "nombre": "Ambul"
+      },
+      "nombre": "Ambul",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.7625990511637,
+        "lon": -65.0043489052346
+      },
+      "departamento": {
+        "id": "14126",
+        "nombre": "San Alberto"
+      },
+      "id": "14126020",
+      "localidad_censal": {
+        "id": "14126020",
+        "nombre": "Arroyo de Los Patos"
+      },
+      "municipio": {
+        "id": "142840",
+        "nombre": "Arroyo de los Patos"
+      },
+      "nombre": "Arroyo Los Patos",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.8240438502066,
+        "lon": -64.9714250809717
+      },
+      "departamento": {
+        "id": "14126",
+        "nombre": "San Alberto"
+      },
+      "id": "14126050",
+      "localidad_censal": {
+        "id": "14126050",
+        "nombre": "Las Calles"
+      },
+      "municipio": {
+        "id": "142847",
+        "nombre": "Las Calles"
+      },
+      "nombre": "Las Calles",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.8535617455815,
+        "lon": -64.9798804026096
+      },
+      "departamento": {
+        "id": "14126",
+        "nombre": "San Alberto"
+      },
+      "id": "14126070",
+      "localidad_censal": {
+        "id": "14126070",
+        "nombre": "Las Rabonas"
+      },
+      "municipio": {
+        "id": "142854",
+        "nombre": "Las Rabonas"
+      },
+      "nombre": "Las Rabonas",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -31.7294276425479,
+        "lon": -65.0050003391732
+      },
+      "departamento": {
+        "id": "14126",
+        "nombre": "San Alberto"
+      },
+      "id": "14126090",
+      "localidad_censal": {
+        "id": "14126090",
+        "nombre": "Mina Clavero"
+      },
+      "municipio": {
+        "id": "141092",
+        "nombre": "Mina Clavero"
+      },
+      "nombre": "Mina Clavero",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.4362627833818,
+        "lon": -65.0660065327235
+      },
+      "departamento": {
+        "id": "14126",
+        "nombre": "San Alberto"
+      },
+      "id": "14126100",
+      "localidad_censal": {
+        "id": "14126100",
+        "nombre": "Mussi"
+      },
+      "municipio": {
+        "id": "142833",
+        "nombre": "Ambul"
+      },
+      "nombre": "Mussi",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.6329535992682,
+        "lon": -65.0549532916181
+      },
+      "departamento": {
+        "id": "14126",
+        "nombre": "San Alberto"
+      },
+      "id": "14126120",
+      "localidad_censal": {
+        "id": "14126120",
+        "nombre": "Panaholma"
+      },
+      "municipio": {
+        "id": "142861",
+        "nombre": "Panaholma"
+      },
+      "nombre": "Panaholma",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.6709196641921,
+        "lon": -65.0177209944746
+      },
+      "departamento": {
+        "id": "14126",
+        "nombre": "San Alberto"
+      },
+      "id": "14126140",
+      "localidad_censal": {
+        "id": "14126140",
+        "nombre": "San Lorenzo"
+      },
+      "municipio": {
+        "id": "142868",
+        "nombre": "San Lorenzo"
+      },
+      "nombre": "San Lorenzo",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.8855360346355,
+        "lon": -65.4774666180145
+      },
+      "departamento": {
+        "id": "14126",
+        "nombre": "San Alberto"
+      },
+      "id": "14126150",
+      "localidad_censal": {
+        "id": "14126150",
+        "nombre": "San Marti­n"
+      },
+      "municipio": {
+        "id": "142875",
+        "nombre": "San Vicente"
+      },
+      "nombre": "San Martín",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14126"
+    ]
+  },
+  "total": 15
+}

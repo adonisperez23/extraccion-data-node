@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.5942904368422,
+        "lon": -64.2056869543903
+      },
+      "departamento": {
+        "id": "14049",
+        "nombre": "Ischilín"
+      },
+      "id": "14049010",
+      "localidad_censal": {
+        "id": "14049010",
+        "nombre": "Avellaneda"
+      },
+      "municipio": {
+        "id": "142259",
+        "nombre": "Avellaneda"
+      },
+      "nombre": "Avellaneda",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.7757911856885,
+        "lon": -64.218650967602
+      },
+      "departamento": {
+        "id": "14049",
+        "nombre": "Ischilín"
+      },
+      "id": "14049020",
+      "localidad_censal": {
+        "id": "14049020",
+        "nombre": "Cañada de Rio Pinto"
+      },
+      "municipio": {
+        "id": "142266",
+        "nombre": "Cañada de Río Pinto"
+      },
+      "nombre": "Cañada de Río Pinto",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.4670741739895,
+        "lon": -64.6702311731976
+      },
+      "departamento": {
+        "id": "14049",
+        "nombre": "Ischilín"
+      },
+      "id": "14049030",
+      "localidad_censal": {
+        "id": "14049030",
+        "nombre": "Chuña"
+      },
+      "municipio": {
+        "id": "142273",
+        "nombre": "Chuña"
+      },
+      "nombre": "Chuña",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.6429020291104,
+        "lon": -64.4995043048417
+      },
+      "departamento": {
+        "id": "14049",
+        "nombre": "Ischilín"
+      },
+      "id": "14049040",
+      "localidad_censal": {
+        "id": "14049040",
+        "nombre": "Copacabana"
+      },
+      "municipio": {
+        "id": "142280",
+        "nombre": "Copacabana"
+      },
+      "nombre": "Copacabana",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.4249771769302,
+        "lon": -64.35273931174
+      },
+      "departamento": {
+        "id": "14049",
+        "nombre": "Ischilín"
+      },
+      "id": "14049050",
+      "localidad_censal": {
+        "id": "14049050",
+        "nombre": "Deán Funes"
+      },
+      "municipio": {
+        "id": "140371",
+        "nombre": "Deán Funes"
+      },
+      "nombre": "Deán Funes",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.5191804150051,
+        "lon": -64.2522892562555
+      },
+      "departamento": {
+        "id": "14049",
+        "nombre": "Ischilín"
+      },
+      "id": "14049080",
+      "localidad_censal": {
+        "id": "14049080",
+        "nombre": "Los Pozos"
+      },
+      "municipio": {
+        "id": "142287",
+        "nombre": "Los Pozos"
+      },
+      "nombre": "Los Pozos",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.6012264239052,
+        "lon": -64.8556055205058
+      },
+      "departamento": {
+        "id": "14049",
+        "nombre": "Ischilín"
+      },
+      "id": "14049090",
+      "localidad_censal": {
+        "id": "14049090",
+        "nombre": "Olivares de San Nicolás"
+      },
+      "municipio": {
+        "id": "142294",
+        "nombre": "Olivares de San Nicolás"
+      },
+      "nombre": "Olivares de San Nicolás",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.2141741753478,
+        "lon": -64.4993682465442
+      },
+      "departamento": {
+        "id": "14049",
+        "nombre": "Ischilín"
+      },
+      "id": "14049100",
+      "localidad_censal": {
+        "id": "14049100",
+        "nombre": "Quilino"
+      },
+      "municipio": {
+        "id": "140378",
+        "nombre": "Quilino"
+      },
+      "nombre": "Quilino",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.4542122342579,
+        "lon": -64.4448949849585
+      },
+      "departamento": {
+        "id": "14049",
+        "nombre": "Ischilín"
+      },
+      "id": "14049110",
+      "localidad_censal": {
+        "id": "14049110",
+        "nombre": "San Pedro de Toyos"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "San Pedro de Toyos",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.6792055355653,
+        "lon": -64.1601540603629
+      },
+      "departamento": {
+        "id": "14049",
+        "nombre": "Ischilín"
+      },
+      "id": "14049120",
+      "localidad_censal": {
+        "id": "14049120",
+        "nombre": "Villa Gutiérrez"
+      },
+      "municipio": {
+        "id": "142301",
+        "nombre": "Villa Gutiérrez"
+      },
+      "nombre": "Villa Gutiérrez",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14049"
+    ]
+  },
+  "total": 10
+}

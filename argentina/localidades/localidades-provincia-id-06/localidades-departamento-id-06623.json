@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.7550385031659,
+        "lon": -60.4399592941223
+      },
+      "departamento": {
+        "id": "06623",
+        "nombre": "Pergamino"
+      },
+      "id": "06623010",
+      "localidad_censal": {
+        "id": "06623010",
+        "nombre": "Acevedo"
+      },
+      "municipio": {
+        "id": "060623",
+        "nombre": "Pergamino"
+      },
+      "nombre": "Acevedo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.912063973022,
+        "lon": -60.4600333437368
+      },
+      "departamento": {
+        "id": "06623",
+        "nombre": "Pergamino"
+      },
+      "id": "06623020",
+      "localidad_censal": {
+        "id": "06623020",
+        "nombre": "Villa San José"
+      },
+      "municipio": {
+        "id": "060623",
+        "nombre": "Pergamino"
+      },
+      "nombre": "Fontezuela",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.6761292533535,
+        "lon": -60.4001651448795
+      },
+      "departamento": {
+        "id": "06623",
+        "nombre": "Pergamino"
+      },
+      "id": "06623030",
+      "localidad_censal": {
+        "id": "06623030",
+        "nombre": "Guerrico"
+      },
+      "municipio": {
+        "id": "060623",
+        "nombre": "Pergamino"
+      },
+      "nombre": "Guerrico",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.8313815436909,
+        "lon": -60.4879689960145
+      },
+      "departamento": {
+        "id": "06623",
+        "nombre": "Pergamino"
+      },
+      "id": "06623040",
+      "localidad_censal": {
+        "id": "06623040",
+        "nombre": "Juan A. de la Peña"
+      },
+      "municipio": {
+        "id": "060623",
+        "nombre": "Pergamino"
+      },
+      "nombre": "Juan A. de la Peña",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.9243095039946,
+        "lon": -60.3828396641755
+      },
+      "departamento": {
+        "id": "06623",
+        "nombre": "Pergamino"
+      },
+      "id": "06623050",
+      "localidad_censal": {
+        "id": "06623050",
+        "nombre": "Urquiza"
+      },
+      "municipio": {
+        "id": "060623",
+        "nombre": "Pergamino"
+      },
+      "nombre": "Juan Anchorena",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.733064625315,
+        "lon": -60.1685122078304
+      },
+      "departamento": {
+        "id": "06623",
+        "nombre": "Pergamino"
+      },
+      "id": "06623060",
+      "localidad_censal": {
+        "id": "06623060",
+        "nombre": "La Violeta"
+      },
+      "municipio": {
+        "id": "060623",
+        "nombre": "Pergamino"
+      },
+      "nombre": "La Violeta",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.7649964204955,
+        "lon": -60.6510366023021
+      },
+      "departamento": {
+        "id": "06623",
+        "nombre": "Pergamino"
+      },
+      "id": "06623070",
+      "localidad_censal": {
+        "id": "06623070",
+        "nombre": "Manuel Ocampo"
+      },
+      "municipio": {
+        "id": "060623",
+        "nombre": "Pergamino"
+      },
+      "nombre": "Manuel Ocampo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.7078470960533,
+        "lon": -60.5834220063022
+      },
+      "departamento": {
+        "id": "06623",
+        "nombre": "Pergamino"
+      },
+      "id": "06623080",
+      "localidad_censal": {
+        "id": "06623080",
+        "nombre": "Mariano Bení­tez"
+      },
+      "municipio": {
+        "id": "060623",
+        "nombre": "Pergamino"
+      },
+      "nombre": "Mariano Benítez",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.9135085343931,
+        "lon": -60.8371254638542
+      },
+      "departamento": {
+        "id": "06623",
+        "nombre": "Pergamino"
+      },
+      "id": "06623090",
+      "localidad_censal": {
+        "id": "06623090",
+        "nombre": "Mariano H. Alfonzo"
+      },
+      "municipio": {
+        "id": "060623",
+        "nombre": "Pergamino"
+      },
+      "nombre": "Mariano H. Alfonzo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.8911091446081,
+        "lon": -60.5745861929678
+      },
+      "departamento": {
+        "id": "06623",
+        "nombre": "Pergamino"
+      },
+      "id": "06623100",
+      "localidad_censal": {
+        "id": "06623100",
+        "nombre": "Pergamino"
+      },
+      "municipio": {
+        "id": "060623",
+        "nombre": "Pergamino"
+      },
+      "nombre": "Pergamino",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06623"
+    ]
+  },
+  "total": 14
+}

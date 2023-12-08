@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.3137795522174,
+        "lon": -58.9847899100606
+      },
+      "departamento": {
+        "id": "06126",
+        "nombre": "Campana"
+      },
+      "id": "06126010",
+      "localidad_censal": {
+        "id": "06126010",
+        "nombre": "Barrio Los Pioneros (Barrio Tavella)"
+      },
+      "municipio": {
+        "id": "060126",
+        "nombre": "Campana"
+      },
+      "nombre": "Los Cardales",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.2525242125627,
+        "lon": -58.9597435392037
+      },
+      "departamento": {
+        "id": "06126",
+        "nombre": "Campana"
+      },
+      "id": "06126020",
+      "localidad_censal": {
+        "id": "06126020",
+        "nombre": "Campana"
+      },
+      "municipio": {
+        "id": "060126",
+        "nombre": "Campana"
+      },
+      "nombre": "Barrio Los Pioneros (Barrio Tavella)",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06126"
+    ]
+  },
+  "total": 2
+}

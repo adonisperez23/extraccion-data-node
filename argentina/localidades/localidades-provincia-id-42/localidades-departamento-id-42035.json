@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.9160630841589,
+        "lon": -64.2955757480516
+      },
+      "departamento": {
+        "id": "42035",
+        "nombre": "Conhelo"
+      },
+      "id": "42035020",
+      "localidad_censal": {
+        "id": "42035020",
+        "nombre": "Eduardo Castex"
+      },
+      "municipio": {
+        "id": "420119",
+        "nombre": "Eduardo Castex"
+      },
+      "nombre": "Eduardo Castex",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.2274656752379,
+        "lon": -64.2335073428745
+      },
+      "departamento": {
+        "id": "42035",
+        "nombre": "Conhelo"
+      },
+      "id": "42035060",
+      "localidad_censal": {
+        "id": "42035060",
+        "nombre": "Winifreda"
+      },
+      "municipio": {
+        "id": "420413",
+        "nombre": "Winifreda"
+      },
+      "nombre": "Winifreda",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.0005318724578,
+        "lon": -64.5985082000058
+      },
+      "departamento": {
+        "id": "42035",
+        "nombre": "Conhelo"
+      },
+      "id": "42035010",
+      "localidad_censal": {
+        "id": "42035010",
+        "nombre": "Conhelo"
+      },
+      "municipio": {
+        "id": "420098",
+        "nombre": "Conhelo"
+      },
+      "nombre": "Conhelo",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.2115350135006,
+        "lon": -64.0331358077792
+      },
+      "departamento": {
+        "id": "42035",
+        "nombre": "Conhelo"
+      },
+      "id": "42035030",
+      "localidad_censal": {
+        "id": "42035030",
+        "nombre": "Mauricio Mayer"
+      },
+      "municipio": {
+        "id": "420238",
+        "nombre": "Mauricio Mayer"
+      },
+      "nombre": "Mauricio Mayer",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.861584511751,
+        "lon": -64.1531743254991
+      },
+      "departamento": {
+        "id": "42035",
+        "nombre": "Conhelo"
+      },
+      "id": "42035040",
+      "localidad_censal": {
+        "id": "42035040",
+        "nombre": "Monte Nievas"
+      },
+      "municipio": {
+        "id": "420266",
+        "nombre": "Monte Nievas"
+      },
+      "nombre": "Monte Nievas",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.0417970740766,
+        "lon": -64.8357210916463
+      },
+      "departamento": {
+        "id": "42035",
+        "nombre": "Conhelo"
+      },
+      "id": "42035050",
+      "localidad_censal": {
+        "id": "42035050",
+        "nombre": "Rucanelo"
+      },
+      "municipio": {
+        "id": "425133",
+        "nombre": "Rucanelo"
+      },
+      "nombre": "Rucanelo",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42035"
+    ]
+  },
+  "total": 6
+}

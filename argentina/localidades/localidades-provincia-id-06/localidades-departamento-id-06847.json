@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.6109231766528,
+        "lon": -62.9129347766243
+      },
+      "departamento": {
+        "id": "06847",
+        "nombre": "Tres Lomas"
+      },
+      "id": "06847010",
+      "localidad_censal": {
+        "id": "06847010",
+        "nombre": "Ingeniero Thompson"
+      },
+      "municipio": {
+        "id": "060847",
+        "nombre": "Tres Lomas"
+      },
+      "nombre": "Ingeniero Thompson",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.4591893277392,
+        "lon": -62.8625761708921
+      },
+      "departamento": {
+        "id": "06847",
+        "nombre": "Tres Lomas"
+      },
+      "id": "06847020",
+      "localidad_censal": {
+        "id": "06847020",
+        "nombre": "Tres Lomas"
+      },
+      "municipio": {
+        "id": "060847",
+        "nombre": "Tres Lomas"
+      },
+      "nombre": "Tres Lomas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06847"
+    ]
+  },
+  "total": 2
+}

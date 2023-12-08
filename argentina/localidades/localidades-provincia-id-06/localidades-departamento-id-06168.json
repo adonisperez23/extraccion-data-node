@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.0909178514273,
+        "lon": -57.8074789990778
+      },
+      "departamento": {
+        "id": "06168",
+        "nombre": "Castelli"
+      },
+      "id": "06168010",
+      "localidad_censal": {
+        "id": "06168010",
+        "nombre": "Castelli"
+      },
+      "municipio": {
+        "id": "060168",
+        "nombre": "Castelli"
+      },
+      "nombre": "Castelli",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.055467874484,
+        "lon": -57.8210962168972
+      },
+      "departamento": {
+        "id": "06168",
+        "nombre": "Castelli"
+      },
+      "id": "06168020",
+      "localidad_censal": {
+        "id": "06168020",
+        "nombre": "Centro Guerrero"
+      },
+      "municipio": {
+        "id": "060168",
+        "nombre": "Castelli"
+      },
+      "nombre": "Centro Guerrero",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.9748604509867,
+        "lon": -57.4495354380042
+      },
+      "departamento": {
+        "id": "06168",
+        "nombre": "Castelli"
+      },
+      "id": "06168030",
+      "localidad_censal": {
+        "id": "06168030",
+        "nombre": "Cerro de la Gloria"
+      },
+      "municipio": {
+        "id": "060168",
+        "nombre": "Castelli"
+      },
+      "nombre": "Cerro de la Gloria",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06168"
+    ]
+  },
+  "total": 3
+}

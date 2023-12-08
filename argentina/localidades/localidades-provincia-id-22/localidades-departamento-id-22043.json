@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9146445282621,
+        "lon": -61.4013993128414
+      },
+      "departamento": {
+        "id": "22043",
+        "nombre": "Fray Justo Santa María de Oro"
+      },
+      "id": "22043010",
+      "localidad_censal": {
+        "id": "22043010",
+        "nombre": "Chorotis"
+      },
+      "municipio": {
+        "id": "220119",
+        "nombre": "Chorotis"
+      },
+      "nombre": "Chorotis",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.8316109768351,
+        "lon": -61.1360003686102
+      },
+      "departamento": {
+        "id": "22043",
+        "nombre": "Fray Justo Santa María de Oro"
+      },
+      "id": "22043020",
+      "localidad_censal": {
+        "id": "22043020",
+        "nombre": "Santa Sylvina"
+      },
+      "municipio": {
+        "id": "220126",
+        "nombre": "Santa Sylvina"
+      },
+      "nombre": "Santa Sylvina",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.8163479454318,
+        "lon": -61.3828840983219
+      },
+      "departamento": {
+        "id": "22043",
+        "nombre": "Fray Justo Santa María de Oro"
+      },
+      "id": "22043030",
+      "localidad_censal": {
+        "id": "22043030",
+        "nombre": "Venados Grandes"
+      },
+      "municipio": {
+        "id": "220119",
+        "nombre": "Chorotis"
+      },
+      "nombre": "Venados Grandes",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22043"
+    ]
+  },
+  "total": 3
+}

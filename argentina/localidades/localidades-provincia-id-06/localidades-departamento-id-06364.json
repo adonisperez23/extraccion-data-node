@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5566851720057,
+        "lon": -58.9383850232165
+      },
+      "departamento": {
+        "id": "06364",
+        "nombre": "General Rodríguez"
+      },
+      "id": "0636403001",
+      "localidad_censal": {
+        "id": "06364030",
+        "nombre": "General Rodri­guez"
+      },
+      "municipio": {
+        "id": "060364",
+        "nombre": "General Rodríguez"
+      },
+      "nombre": "Barrio Morabo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6843060049161,
+        "lon": -58.9582932640657
+      },
+      "departamento": {
+        "id": "06364",
+        "nombre": "General Rodríguez"
+      },
+      "id": "0636403002",
+      "localidad_censal": {
+        "id": "06364030",
+        "nombre": "General Rodri­guez"
+      },
+      "municipio": {
+        "id": "060364",
+        "nombre": "General Rodríguez"
+      },
+      "nombre": "Barrio Ruta 24 Kilómetro 10",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5898473179259,
+        "lon": -58.9060067802104
+      },
+      "departamento": {
+        "id": "06364",
+        "nombre": "General Rodríguez"
+      },
+      "id": "0636403003",
+      "localidad_censal": {
+        "id": "06364030",
+        "nombre": "General Rodri­guez"
+      },
+      "municipio": {
+        "id": "060364",
+        "nombre": "General Rodríguez"
+      },
+      "nombre": "Country Club Bosque Real",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6082064832342,
+        "lon": -58.9510798915332
+      },
+      "departamento": {
+        "id": "06364",
+        "nombre": "General Rodríguez"
+      },
+      "id": "0636403004",
+      "localidad_censal": {
+        "id": "06364030",
+        "nombre": "General Rodri­guez"
+      },
+      "municipio": {
+        "id": "060364",
+        "nombre": "General Rodríguez"
+      },
+      "nombre": "General Rodríguez",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.6064310688302,
+        "lon": -58.9521606358841
+      },
+      "departamento": {
+        "id": "06364",
+        "nombre": "General Rodríguez"
+      },
+      "id": "06364030",
+      "localidad_censal": {
+        "id": "06364030",
+        "nombre": "General Rodri­guez"
+      },
+      "municipio": {
+        "id": "060364",
+        "nombre": "General Rodríguez"
+      },
+      "nombre": "General Rodríguez",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06364"
+    ]
+  },
+  "total": 5
+}

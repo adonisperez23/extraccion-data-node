@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.4573653455777,
+        "lon": -59.5985723120056
+      },
+      "departamento": {
+        "id": "30070",
+        "nombre": "La Paz"
+      },
+      "id": "30070005",
+      "localidad_censal": {
+        "id": "30070005",
+        "nombre": "Alcaraz"
+      },
+      "municipio": {
+        "id": "300231",
+        "nombre": "Alcaraz"
+      },
+      "nombre": "Alcaraz",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.343579683492,
+        "lon": -59.4463897661907
+      },
+      "departamento": {
+        "id": "30070",
+        "nombre": "La Paz"
+      },
+      "id": "30070010",
+      "localidad_censal": {
+        "id": "30070010",
+        "nombre": "Bovril"
+      },
+      "municipio": {
+        "id": "300238",
+        "nombre": "Bovril"
+      },
+      "nombre": "Bovril",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.183195499668,
+        "lon": -59.4082372809929
+      },
+      "departamento": {
+        "id": "30070",
+        "nombre": "La Paz"
+      },
+      "id": "30070020",
+      "localidad_censal": {
+        "id": "30070020",
+        "nombre": "Colonia Avigdor"
+      },
+      "municipio": {
+        "id": "302596",
+        "nombre": "Colonia Avigdor"
+      },
+      "nombre": "Colonia Avigdor",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.1795440846043,
+        "lon": -59.7331340626411
+      },
+      "departamento": {
+        "id": "30070",
+        "nombre": "La Paz"
+      },
+      "id": "30070030",
+      "localidad_censal": {
+        "id": "30070030",
+        "nombre": "El Solar"
+      },
+      "municipio": {
+        "id": "302638",
+        "nombre": "El Solar"
+      },
+      "nombre": "El Solar",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.7404766242794,
+        "lon": -59.6443012787354
+      },
+      "departamento": {
+        "id": "30070",
+        "nombre": "La Paz"
+      },
+      "id": "30070040",
+      "localidad_censal": {
+        "id": "30070040",
+        "nombre": "La Paz"
+      },
+      "municipio": {
+        "id": "300245",
+        "nombre": "La Paz"
+      },
+      "nombre": "La Paz",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.1850061480935,
+        "lon": -59.9499577135334
+      },
+      "departamento": {
+        "id": "30070",
+        "nombre": "La Paz"
+      },
+      "id": "30070050",
+      "localidad_censal": {
+        "id": "30070050",
+        "nombre": "Piedras Blancas"
+      },
+      "municipio": {
+        "id": "300252",
+        "nombre": "Piedras Blancas"
+      },
+      "nombre": "Piedras Blancas",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.6902877479076,
+        "lon": -59.3949842943142
+      },
+      "departamento": {
+        "id": "30070",
+        "nombre": "La Paz"
+      },
+      "id": "30070070",
+      "localidad_censal": {
+        "id": "30070070",
+        "nombre": "San Gustavo"
+      },
+      "municipio": {
+        "id": "300255",
+        "nombre": "San Gustavo"
+      },
+      "nombre": "San Gustavo",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.9444600016756,
+        "lon": -59.7891212913891
+      },
+      "departamento": {
+        "id": "30070",
+        "nombre": "La Paz"
+      },
+      "id": "30070080",
+      "localidad_censal": {
+        "id": "30070080",
+        "nombre": "Santa Elena"
+      },
+      "municipio": {
+        "id": "300259",
+        "nombre": "Santa Elena"
+      },
+      "nombre": "Santa Elena",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.3889211506789,
+        "lon": -59.5010619355657
+      },
+      "departamento": {
+        "id": "30070",
+        "nombre": "La Paz"
+      },
+      "id": "30070090",
+      "localidad_censal": {
+        "id": "30070090",
+        "nombre": "Sir Leonard"
+      },
+      "municipio": {
+        "id": "309500",
+        "nombre": "Sir Leonard"
+      },
+      "nombre": "Sir Leonard",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "30070"
+    ]
+  },
+  "total": 9
+}

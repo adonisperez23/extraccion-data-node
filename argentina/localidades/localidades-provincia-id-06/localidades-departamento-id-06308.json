@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.6431665880464,
+        "lon": -57.7905023945179
+      },
+      "departamento": {
+        "id": "06308",
+        "nombre": "General Guido"
+      },
+      "id": "06308010",
+      "localidad_censal": {
+        "id": "06308010",
+        "nombre": "General Guido"
+      },
+      "municipio": {
+        "id": "060308",
+        "nombre": "General Guido"
+      },
+      "nombre": "General Guido",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.9489663646248,
+        "lon": -58.10356763494
+      },
+      "departamento": {
+        "id": "06308",
+        "nombre": "General Guido"
+      },
+      "id": "06308020",
+      "localidad_censal": {
+        "id": "06308020",
+        "nombre": "Labardén"
+      },
+      "municipio": {
+        "id": "060308",
+        "nombre": "General Guido"
+      },
+      "nombre": "Labardén",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06308"
+    ]
+  },
+  "total": 2
+}

@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.9856677754422,
+        "lon": -61.3503974314576
+      },
+      "departamento": {
+        "id": "06196",
+        "nombre": "Coronel Pringles"
+      },
+      "id": "06196010",
+      "localidad_censal": {
+        "id": "06196010",
+        "nombre": "Coronel Pringles"
+      },
+      "municipio": {
+        "id": "060196",
+        "nombre": "Coronel Pringles"
+      },
+      "nombre": "Coronel Pringles",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.3232806651225,
+        "lon": -61.4442755598393
+      },
+      "departamento": {
+        "id": "06196",
+        "nombre": "Coronel Pringles"
+      },
+      "id": "06196020",
+      "localidad_censal": {
+        "id": "06196020",
+        "nombre": "El Divisorio"
+      },
+      "municipio": {
+        "id": "060196",
+        "nombre": "Coronel Pringles"
+      },
+      "nombre": "El Divisorio",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.2164777887394,
+        "lon": -61.3148888421413
+      },
+      "departamento": {
+        "id": "06196",
+        "nombre": "Coronel Pringles"
+      },
+      "id": "06196030",
+      "localidad_censal": {
+        "id": "06196030",
+        "nombre": "El Pensamiento"
+      },
+      "municipio": {
+        "id": "060196",
+        "nombre": "Coronel Pringles"
+      },
+      "nombre": "El Pensamiento",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.3304457035345,
+        "lon": -60.8852418354866
+      },
+      "departamento": {
+        "id": "06196",
+        "nombre": "Coronel Pringles"
+      },
+      "id": "06196040",
+      "localidad_censal": {
+        "id": "06196040",
+        "nombre": "Indio Rico"
+      },
+      "municipio": {
+        "id": "060196",
+        "nombre": "Coronel Pringles"
+      },
+      "nombre": "Indio Rico",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.4472093172749,
+        "lon": -61.5668870057787
+      },
+      "departamento": {
+        "id": "06196",
+        "nombre": "Coronel Pringles"
+      },
+      "id": "06196050",
+      "localidad_censal": {
+        "id": "06196050",
+        "nombre": "Lartigau"
+      },
+      "municipio": {
+        "id": "060196",
+        "nombre": "Coronel Pringles"
+      },
+      "nombre": "Lartigau",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06196"
+    ]
+  },
+  "total": 5
+}

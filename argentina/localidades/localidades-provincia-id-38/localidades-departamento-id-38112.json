@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -22.1346028583951,
+        "lon": -65.4681564031582
+      },
+      "departamento": {
+        "id": "38112",
+        "nombre": "Yavi"
+      },
+      "id": "3811208001",
+      "localidad_censal": {
+        "id": "38112080",
+        "nombre": "Yavi"
+      },
+      "municipio": {
+        "id": "386273",
+        "nombre": "Yavi"
+      },
+      "nombre": "San José",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -22.1317190074175,
+        "lon": -65.4613403371105
+      },
+      "departamento": {
+        "id": "38112",
+        "nombre": "Yavi"
+      },
+      "id": "3811208002",
+      "localidad_censal": {
+        "id": "38112080",
+        "nombre": "Yavi"
+      },
+      "municipio": {
+        "id": "386273",
+        "nombre": "Yavi"
+      },
+      "nombre": "Yavi",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.1307244841681,
+        "lon": -65.4625308099051
+      },
+      "departamento": {
+        "id": "38112",
+        "nombre": "Yavi"
+      },
+      "id": "38112080",
+      "localidad_censal": {
+        "id": "38112080",
+        "nombre": "Yavi"
+      },
+      "municipio": {
+        "id": "386273",
+        "nombre": "Yavi"
+      },
+      "nombre": "Yavi",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.2470721722284,
+        "lon": -65.5292683777942
+      },
+      "departamento": {
+        "id": "38112",
+        "nombre": "Yavi"
+      },
+      "id": "38112010",
+      "localidad_censal": {
+        "id": "38112010",
+        "nombre": "Barrios"
+      },
+      "municipio": {
+        "id": "386245",
+        "nombre": "Barrios"
+      },
+      "nombre": "Barrios",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.4242323230985,
+        "lon": -65.580994619225
+      },
+      "departamento": {
+        "id": "38112",
+        "nombre": "Yavi"
+      },
+      "id": "38112020",
+      "localidad_censal": {
+        "id": "38112020",
+        "nombre": "Cangrejillos"
+      },
+      "municipio": {
+        "id": "386252",
+        "nombre": "Cangrejillos"
+      },
+      "nombre": "Cangrejillos",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.3883194119765,
+        "lon": -65.3379898484267
+      },
+      "departamento": {
+        "id": "38112",
+        "nombre": "Yavi"
+      },
+      "id": "38112030",
+      "localidad_censal": {
+        "id": "38112030",
+        "nombre": "El Cóndor"
+      },
+      "municipio": {
+        "id": "386259",
+        "nombre": "El Cóndor"
+      },
+      "nombre": "El Cóndor",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.4211722383705,
+        "lon": -65.7015097533795
+      },
+      "departamento": {
+        "id": "38112",
+        "nombre": "Yavi"
+      },
+      "id": "38112040",
+      "localidad_censal": {
+        "id": "38112040",
+        "nombre": "La Intermedia"
+      },
+      "municipio": {
+        "id": "386266",
+        "nombre": "Pumahuasi"
+      },
+      "nombre": "La Intermedia",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.1044517820432,
+        "lon": -65.5963734749511
+      },
+      "departamento": {
+        "id": "38112",
+        "nombre": "Yavi"
+      },
+      "id": "38112050",
+      "localidad_censal": {
+        "id": "38112050",
+        "nombre": "La Quiaca"
+      },
+      "municipio": {
+        "id": "380406",
+        "nombre": "La Quiaca"
+      },
+      "nombre": "La Quiaca",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.5487891410912,
+        "lon": -65.387508561537
+      },
+      "departamento": {
+        "id": "38112",
+        "nombre": "Yavi"
+      },
+      "id": "38112060",
+      "localidad_censal": {
+        "id": "38112060",
+        "nombre": "Llulluchayoc"
+      },
+      "municipio": {
+        "id": "386021",
+        "nombre": "Puesto del Marquez"
+      },
+      "nombre": "Llulluchayoc",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.2899728229498,
+        "lon": -65.6800738577856
+      },
+      "departamento": {
+        "id": "38112",
+        "nombre": "Yavi"
+      },
+      "id": "38112070",
+      "localidad_censal": {
+        "id": "38112070",
+        "nombre": "Pumahuasi"
+      },
+      "municipio": {
+        "id": "386266",
+        "nombre": "Pumahuasi"
+      },
+      "nombre": "Pumahuasi",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "38112"
+    ]
+  },
+  "total": 11
+}

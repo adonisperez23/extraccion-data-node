@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -23.3937973544612,
+        "lon": -65.3452136931126
+      },
+      "departamento": {
+        "id": "38094",
+        "nombre": "Tilcara"
+      },
+      "id": "3809401001",
+      "localidad_censal": {
+        "id": "38094010",
+        "nombre": "Colonia San José"
+      },
+      "municipio": {
+        "id": "386175",
+        "nombre": "Huacalera"
+      },
+      "nombre": "Colonia San José",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -23.3878061932966,
+        "lon": -65.3446878040781
+      },
+      "departamento": {
+        "id": "38094",
+        "nombre": "Tilcara"
+      },
+      "id": "3809401002",
+      "localidad_censal": {
+        "id": "38094010",
+        "nombre": "Colonia San José"
+      },
+      "municipio": {
+        "id": "386175",
+        "nombre": "Huacalera"
+      },
+      "nombre": "Yacoraite",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.3926884503663,
+        "lon": -65.3456108217831
+      },
+      "departamento": {
+        "id": "38094",
+        "nombre": "Tilcara"
+      },
+      "id": "38094010",
+      "localidad_censal": {
+        "id": "38094010",
+        "nombre": "Colonia San José"
+      },
+      "municipio": {
+        "id": "386175",
+        "nombre": "Huacalera"
+      },
+      "nombre": "Colonia San José",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.5226619916908,
+        "lon": -65.4000137514936
+      },
+      "departamento": {
+        "id": "38094",
+        "nombre": "Tilcara"
+      },
+      "id": "38094030",
+      "localidad_censal": {
+        "id": "38094030",
+        "nombre": "Juella"
+      },
+      "municipio": {
+        "id": "380329",
+        "nombre": "Tilcara"
+      },
+      "nombre": "Juella",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.4390388970502,
+        "lon": -65.3500113272314
+      },
+      "departamento": {
+        "id": "38094",
+        "nombre": "Tilcara"
+      },
+      "id": "38094020",
+      "localidad_censal": {
+        "id": "38094020",
+        "nombre": "Huacalera"
+      },
+      "municipio": {
+        "id": "386175",
+        "nombre": "Huacalera"
+      },
+      "nombre": "Huacalera",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.6245410340817,
+        "lon": -65.408815861657
+      },
+      "departamento": {
+        "id": "38094",
+        "nombre": "Tilcara"
+      },
+      "id": "38094040",
+      "localidad_censal": {
+        "id": "38094040",
+        "nombre": "Maimará"
+      },
+      "municipio": {
+        "id": "380322",
+        "nombre": "Maimará"
+      },
+      "nombre": "Maimará",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.5768951588348,
+        "lon": -65.3933729257421
+      },
+      "departamento": {
+        "id": "38094",
+        "nombre": "Tilcara"
+      },
+      "id": "38094050",
+      "localidad_censal": {
+        "id": "38094050",
+        "nombre": "Tilcara"
+      },
+      "municipio": {
+        "id": "380329",
+        "nombre": "Tilcara"
+      },
+      "nombre": "Tilcara",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "38094"
+    ]
+  },
+  "total": 7
+}

@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.7035428215827,
+        "lon": -58.7686059898584
+      },
+      "departamento": {
+        "id": "18042",
+        "nombre": "Empedrado"
+      },
+      "id": "18042010",
+      "localidad_censal": {
+        "id": "18042010",
+        "nombre": "El Sombrero"
+      },
+      "municipio": {
+        "id": "180073",
+        "nombre": "El Sombrero"
+      },
+      "nombre": "El Sombrero",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9507030287188,
+        "lon": -58.8030952116087
+      },
+      "departamento": {
+        "id": "18042",
+        "nombre": "Empedrado"
+      },
+      "id": "18042020",
+      "localidad_censal": {
+        "id": "18042020",
+        "nombre": "Empedrado"
+      },
+      "municipio": {
+        "id": "180077",
+        "nombre": "Empedrado"
+      },
+      "nombre": "Empedrado",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18042"
+    ]
+  },
+  "total": 2
+}

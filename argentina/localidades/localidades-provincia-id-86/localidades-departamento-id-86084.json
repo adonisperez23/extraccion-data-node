@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -28.1945110968274,
+        "lon": -65.1076656495112
+      },
+      "departamento": {
+        "id": "86084",
+        "nombre": "Guasayán"
+      },
+      "id": "86084010",
+      "localidad_censal": {
+        "id": "86084010",
+        "nombre": "Lavalle"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Lavalle",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.955896930423,
+        "lon": -65.1684961529465
+      },
+      "departamento": {
+        "id": "86084",
+        "nombre": "Guasayán"
+      },
+      "id": "86084020",
+      "localidad_censal": {
+        "id": "86084020",
+        "nombre": "San Pedro"
+      },
+      "municipio": {
+        "id": "100217",
+        "nombre": "Santa Rosa"
+      },
+      "nombre": "San Pedro",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86084"
+    ]
+  },
+  "total": 2
+}

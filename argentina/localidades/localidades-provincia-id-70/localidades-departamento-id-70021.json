@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.3345240273629,
+        "lon": -69.4207034984075
+      },
+      "departamento": {
+        "id": "70021",
+        "nombre": "Calingasta"
+      },
+      "id": "70021020",
+      "localidad_censal": {
+        "id": "70021020",
+        "nombre": "Calingasta"
+      },
+      "municipio": {
+        "id": "700021",
+        "nombre": "Calingasta"
+      },
+      "nombre": "Calingasta",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.4580988587428,
+        "lon": -69.4215526945527
+      },
+      "departamento": {
+        "id": "70021",
+        "nombre": "Calingasta"
+      },
+      "id": "70021030",
+      "localidad_censal": {
+        "id": "70021030",
+        "nombre": "Tamberías"
+      },
+      "municipio": {
+        "id": "700021",
+        "nombre": "Calingasta"
+      },
+      "nombre": "Tamberías",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.6447359774509,
+        "lon": -69.4720779467626
+      },
+      "departamento": {
+        "id": "70021",
+        "nombre": "Calingasta"
+      },
+      "id": "70021010",
+      "localidad_censal": {
+        "id": "70021010",
+        "nombre": "Barreal - Villa Pituil"
+      },
+      "municipio": {
+        "id": "700021",
+        "nombre": "Calingasta"
+      },
+      "nombre": "Barreal - Villa Pituil",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "70021"
+    ]
+  },
+  "total": 3
+}

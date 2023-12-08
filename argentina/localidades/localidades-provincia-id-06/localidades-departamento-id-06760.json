@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5682733387092,
+        "lon": -58.6820583867252
+      },
+      "departamento": {
+        "id": "06760",
+        "nombre": "San Miguel"
+      },
+      "id": "0676001001",
+      "localidad_censal": {
+        "id": "06760010",
+        "nombre": "San Miguel"
+      },
+      "municipio": {
+        "id": "060760",
+        "nombre": "San Miguel"
+      },
+      "nombre": "Bella Vista",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5550627752485,
+        "lon": -58.6522136037965
+      },
+      "departamento": {
+        "id": "06760",
+        "nombre": "San Miguel"
+      },
+      "id": "0676001002",
+      "localidad_censal": {
+        "id": "06760010",
+        "nombre": "San Miguel"
+      },
+      "municipio": {
+        "id": "060760",
+        "nombre": "San Miguel"
+      },
+      "nombre": "Campo de Mayo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5524946303365,
+        "lon": -58.704793707995
+      },
+      "departamento": {
+        "id": "06760",
+        "nombre": "San Miguel"
+      },
+      "id": "0676001003",
+      "localidad_censal": {
+        "id": "06760010",
+        "nombre": "San Miguel"
+      },
+      "municipio": {
+        "id": "060760",
+        "nombre": "San Miguel"
+      },
+      "nombre": "Muñiz",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5431343361878,
+        "lon": -58.7092007082159
+      },
+      "departamento": {
+        "id": "06760",
+        "nombre": "San Miguel"
+      },
+      "id": "0676001004",
+      "localidad_censal": {
+        "id": "06760010",
+        "nombre": "San Miguel"
+      },
+      "municipio": {
+        "id": "060760",
+        "nombre": "San Miguel"
+      },
+      "nombre": "San Miguel",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.5430416024272,
+        "lon": -58.7119689876992
+      },
+      "departamento": {
+        "id": "06760",
+        "nombre": "San Miguel"
+      },
+      "id": "06760010",
+      "localidad_censal": {
+        "id": "06760010",
+        "nombre": "San Miguel"
+      },
+      "municipio": {
+        "id": "060760",
+        "nombre": "San Miguel"
+      },
+      "nombre": "San Miguel",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06760"
+    ]
+  },
+  "total": 5
+}

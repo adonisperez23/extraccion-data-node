@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -25.4090620882755,
+        "lon": -59.5714188388511
+      },
+      "departamento": {
+        "id": "34035",
+        "nombre": "Patiño"
+      },
+      "id": "3403501001",
+      "localidad_censal": {
+        "id": "34035010",
+        "nombre": "Bartolomé De Las Casas"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Bartolomé de las Casas",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -25.3486802585053,
+        "lon": -59.6122308000124
+      },
+      "departamento": {
+        "id": "34035",
+        "nombre": "Patiño"
+      },
+      "id": "3403501002",
+      "localidad_censal": {
+        "id": "34035010",
+        "nombre": "Bartolomé De Las Casas"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Comunidad Aborigen Bartolomé de las Casas",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.4080479237042,
+        "lon": -59.5707595923838
+      },
+      "departamento": {
+        "id": "34035",
+        "nombre": "Patiño"
+      },
+      "id": "34035010",
+      "localidad_censal": {
+        "id": "34035010",
+        "nombre": "Bartolomé De Las Casas"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Bartolomé de las Casas",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.6439212019411,
+        "lon": -59.4340586061241
+      },
+      "departamento": {
+        "id": "34035",
+        "nombre": "Patiño"
+      },
+      "id": "34035020",
+      "localidad_censal": {
+        "id": "34035020",
+        "nombre": "Colonia Sarmiento"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Colonia Sarmiento",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.3306403808431,
+        "lon": -59.6809897687992
+      },
+      "departamento": {
+        "id": "34035",
+        "nombre": "Patiño"
+      },
+      "id": "34035030",
+      "localidad_censal": {
+        "id": "34035030",
+        "nombre": "Comandante Fontana"
+      },
+      "municipio": {
+        "id": "340091",
+        "nombre": "Comandante Fontana"
+      },
+      "nombre": "Comandante Fontana",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.0407804838539,
+        "lon": -59.2942416355715
+      },
+      "departamento": {
+        "id": "34035",
+        "nombre": "Patiño"
+      },
+      "id": "34035040",
+      "localidad_censal": {
+        "id": "34035040",
+        "nombre": "El Recreo"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Recreo",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.0535462736029,
+        "lon": -60.0906385210658
+      },
+      "departamento": {
+        "id": "34035",
+        "nombre": "Patiño"
+      },
+      "id": "34035050",
+      "localidad_censal": {
+        "id": "34035050",
+        "nombre": "Estanislao Del Campo"
+      },
+      "municipio": {
+        "id": "340098",
+        "nombre": "Estanislao del Campo"
+      },
+      "nombre": "Estanislao del Campo",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.2864226294886,
+        "lon": -59.8276785997752
+      },
+      "departamento": {
+        "id": "34035",
+        "nombre": "Patiño"
+      },
+      "id": "34035060",
+      "localidad_censal": {
+        "id": "34035060",
+        "nombre": "Fortín Cabo 1º Lugones"
+      },
+      "municipio": {
+        "id": "345042",
+        "nombre": "Fortín Lugones"
+      },
+      "nombre": "Fortín Cabo 1º Lugones",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.5541117903083,
+        "lon": -59.3851162050619
+      },
+      "departamento": {
+        "id": "34035",
+        "nombre": "Patiño"
+      },
+      "id": "34035070",
+      "localidad_censal": {
+        "id": "34035070",
+        "nombre": "Fortín Sargento 1º Leyes"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Fortín Sargento 1º Leyes",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.2144997571403,
+        "lon": -59.8588924367402
+      },
+      "departamento": {
+        "id": "34035",
+        "nombre": "Patiño"
+      },
+      "id": "34035080",
+      "localidad_censal": {
+        "id": "34035080",
+        "nombre": "Ibarreta"
+      },
+      "municipio": {
+        "id": "340126",
+        "nombre": "Ibarreta"
+      },
+      "nombre": "Ibarreta",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "34035"
+    ]
+  },
+  "total": 19
+}

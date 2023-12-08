@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -53.7863260891398,
+        "lon": -67.6963281355519
+      },
+      "departamento": {
+        "id": "94008",
+        "nombre": "Río Grande"
+      },
+      "id": "94008010",
+      "localidad_censal": {
+        "id": "94008010",
+        "nombre": "Río Grande"
+      },
+      "municipio": {
+        "id": "940007",
+        "nombre": "Río Grande"
+      },
+      "nombre": "Río Grande",
+      "provincia": {
+        "id": "94",
+        "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "94008"
+    ]
+  },
+  "total": 1
+}

@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.7473961516096,
+        "lon": -64.3673907018325
+      },
+      "departamento": {
+        "id": "42140",
+        "nombre": "Toay"
+      },
+      "id": "42140005",
+      "localidad_censal": {
+        "id": "42140005",
+        "nombre": "Cachirulo"
+      },
+      "municipio": {
+        "id": "420357",
+        "nombre": "Toay"
+      },
+      "nombre": "Cachirulo",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.925725758829,
+        "lon": -64.4050728875869
+      },
+      "departamento": {
+        "id": "42140",
+        "nombre": "Toay"
+      },
+      "id": "42140010",
+      "localidad_censal": {
+        "id": "42140010",
+        "nombre": "Naicó"
+      },
+      "municipio": {
+        "id": "420042",
+        "nombre": "Ataliva Roca"
+      },
+      "nombre": "Naicó",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -36.673898048391,
+        "lon": -64.3797897154644
+      },
+      "departamento": {
+        "id": "42140",
+        "nombre": "Toay"
+      },
+      "id": "42140020",
+      "localidad_censal": {
+        "id": "42140020",
+        "nombre": "Toay"
+      },
+      "municipio": {
+        "id": "420357",
+        "nombre": "Toay"
+      },
+      "nombre": "Toay",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42140"
+    ]
+  },
+  "total": 3
+}

@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.2605144353187,
+        "lon": -64.4141251024339
+      },
+      "departamento": {
+        "id": "38070",
+        "nombre": "Santa Bárbara"
+      },
+      "id": "38070010",
+      "localidad_censal": {
+        "id": "38070010",
+        "nombre": "El Fuerte"
+      },
+      "municipio": {
+        "id": "386098",
+        "nombre": "El Fuerte"
+      },
+      "nombre": "El Fuerte",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.1784335111713,
+        "lon": -64.6790174406548
+      },
+      "departamento": {
+        "id": "38070",
+        "nombre": "Santa Bárbara"
+      },
+      "id": "38070020",
+      "localidad_censal": {
+        "id": "38070020",
+        "nombre": "El Piquete"
+      },
+      "municipio": {
+        "id": "386119",
+        "nombre": "El Piquete"
+      },
+      "nombre": "El Piquete",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.556358522789,
+        "lon": -64.3598888239635
+      },
+      "departamento": {
+        "id": "38070",
+        "nombre": "Santa Bárbara"
+      },
+      "id": "38070030",
+      "localidad_censal": {
+        "id": "38070030",
+        "nombre": "El Talar"
+      },
+      "municipio": {
+        "id": "380238",
+        "nombre": "El Talar"
+      },
+      "nombre": "El Talar",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.9777382405358,
+        "lon": -64.3045617254473
+      },
+      "departamento": {
+        "id": "38070",
+        "nombre": "Santa Bárbara"
+      },
+      "id": "38070040",
+      "localidad_censal": {
+        "id": "38070040",
+        "nombre": "Palma Sola"
+      },
+      "municipio": {
+        "id": "380245",
+        "nombre": "Palma Sola"
+      },
+      "nombre": "Palma Sola",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.2731383461315,
+        "lon": -64.7057888272571
+      },
+      "departamento": {
+        "id": "38070",
+        "nombre": "Santa Bárbara"
+      },
+      "id": "38070050",
+      "localidad_censal": {
+        "id": "38070050",
+        "nombre": "Puente Lavayén"
+      },
+      "municipio": {
+        "id": "380252",
+        "nombre": "Santa Clara"
+      },
+      "nombre": "Puente Lavayén",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.3093701352927,
+        "lon": -64.661845869132
+      },
+      "departamento": {
+        "id": "38070",
+        "nombre": "Santa Bárbara"
+      },
+      "id": "38070060",
+      "localidad_censal": {
+        "id": "38070060",
+        "nombre": "Santa Clara"
+      },
+      "municipio": {
+        "id": "380252",
+        "nombre": "Santa Clara"
+      },
+      "nombre": "Santa Clara",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.6679185621684,
+        "lon": -64.4136601101789
+      },
+      "departamento": {
+        "id": "38070",
+        "nombre": "Santa Bárbara"
+      },
+      "id": "38070070",
+      "localidad_censal": {
+        "id": "38070070",
+        "nombre": "Vinalito"
+      },
+      "municipio": {
+        "id": "386126",
+        "nombre": "Vinalito"
+      },
+      "nombre": "Vinalito",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "38070"
+    ]
+  },
+  "total": 7
+}

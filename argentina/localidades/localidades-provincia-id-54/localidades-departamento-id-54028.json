@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.4837771073615,
+        "lon": -55.8297016552887
+      },
+      "departamento": {
+        "id": "54028",
+        "nombre": "Capital"
+      },
+      "id": "54028010",
+      "localidad_censal": {
+        "id": "54028010",
+        "nombre": "Garupá"
+      },
+      "municipio": {
+        "id": "540112",
+        "nombre": "Garupá"
+      },
+      "nombre": "Garupá",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3564760995956,
+        "lon": -56.0172226758984
+      },
+      "departamento": {
+        "id": "54028",
+        "nombre": "Capital"
+      },
+      "id": "54028020",
+      "localidad_censal": {
+        "id": "54028020",
+        "nombre": "Nemesio Parma"
+      },
+      "municipio": {
+        "id": "540119",
+        "nombre": "Posadas"
+      },
+      "nombre": "Nemesio Parma",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.4524336750218,
+        "lon": -55.8527114869609
+      },
+      "departamento": {
+        "id": "54028",
+        "nombre": "Capital"
+      },
+      "id": "54028040",
+      "localidad_censal": {
+        "id": "54028040",
+        "nombre": "Posadas (Expansión)"
+      },
+      "municipio": {
+        "id": "540112",
+        "nombre": "Garupá"
+      },
+      "nombre": "Posadas (Extensión)",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.3664259799962,
+        "lon": -55.8939802751923
+      },
+      "departamento": {
+        "id": "54028",
+        "nombre": "Capital"
+      },
+      "id": "54028030",
+      "localidad_censal": {
+        "id": "54028030",
+        "nombre": "Posadas"
+      },
+      "municipio": {
+        "id": "540119",
+        "nombre": "Posadas"
+      },
+      "nombre": "Posadas",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "54028"
+    ]
+  },
+  "total": 4
+}

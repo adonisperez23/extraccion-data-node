@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.412884219358,
+        "lon": -66.8558279775847
+      },
+      "departamento": {
+        "id": "46014",
+        "nombre": "Capital"
+      },
+      "id": "46014010",
+      "localidad_censal": {
+        "id": "46014010",
+        "nombre": "La Rioja"
+      },
+      "municipio": {
+        "id": "460014",
+        "nombre": "La Rioja"
+      },
+      "nombre": "La Rioja",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "46014"
+    ]
+  },
+  "total": 1
+}

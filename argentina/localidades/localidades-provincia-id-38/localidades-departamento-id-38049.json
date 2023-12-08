@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.4621452480052,
+        "lon": -66.6279675861741
+      },
+      "departamento": {
+        "id": "38049",
+        "nombre": "Rinconada"
+      },
+      "id": "38049010",
+      "localidad_censal": {
+        "id": "38049010",
+        "nombre": "Lagunillas de Farallón"
+      },
+      "municipio": {
+        "id": "386140",
+        "nombre": "Cusi Cusi"
+      },
+      "nombre": "Lagunillas de Farallón",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.3259406370226,
+        "lon": -66.2839461506375
+      },
+      "departamento": {
+        "id": "38049",
+        "nombre": "Rinconada"
+      },
+      "id": "38049003",
+      "localidad_censal": {
+        "id": "38049003",
+        "nombre": "Casa Colorada"
+      },
+      "municipio": {
+        "id": "386077",
+        "nombre": "Rinconada"
+      },
+      "nombre": "Casa Colorada",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.7694173407619,
+        "lon": -66.4409076444878
+      },
+      "departamento": {
+        "id": "38049",
+        "nombre": "Rinconada"
+      },
+      "id": "38049007",
+      "localidad_censal": {
+        "id": "38049007",
+        "nombre": "Coyaguaima"
+      },
+      "municipio": {
+        "id": "386070",
+        "nombre": "Mina Pirquitas"
+      },
+      "nombre": "Coyaguaima",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.5210652304427,
+        "lon": -66.3376830601011
+      },
+      "departamento": {
+        "id": "38049",
+        "nombre": "Rinconada"
+      },
+      "id": "38049020",
+      "localidad_censal": {
+        "id": "38049020",
+        "nombre": "Liviara"
+      },
+      "municipio": {
+        "id": "386070",
+        "nombre": "Mina Pirquitas"
+      },
+      "nombre": "Liviara",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.4722627385754,
+        "lon": -66.4841075547226
+      },
+      "departamento": {
+        "id": "38049",
+        "nombre": "Rinconada"
+      },
+      "id": "38049025",
+      "localidad_censal": {
+        "id": "38049025",
+        "nombre": "Loma Blanca"
+      },
+      "municipio": {
+        "id": "386070",
+        "nombre": "Mina Pirquitas"
+      },
+      "nombre": "Loma Blanca",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.6879554218994,
+        "lon": -66.4563756677863
+      },
+      "departamento": {
+        "id": "38049",
+        "nombre": "Rinconada"
+      },
+      "id": "38049030",
+      "localidad_censal": {
+        "id": "38049030",
+        "nombre": "Nuevo Pirquitas"
+      },
+      "municipio": {
+        "id": "386070",
+        "nombre": "Mina Pirquitas"
+      },
+      "nombre": "Nuevo Pirquitas",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.5568875913675,
+        "lon": -66.3567871674677
+      },
+      "departamento": {
+        "id": "38049",
+        "nombre": "Rinconada"
+      },
+      "id": "38049035",
+      "localidad_censal": {
+        "id": "38049035",
+        "nombre": "Orosmayo"
+      },
+      "municipio": {
+        "id": "386070",
+        "nombre": "Mina Pirquitas"
+      },
+      "nombre": "Orosmayo",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.4407001997033,
+        "lon": -66.1671505103563
+      },
+      "departamento": {
+        "id": "38049",
+        "nombre": "Rinconada"
+      },
+      "id": "38049040",
+      "localidad_censal": {
+        "id": "38049040",
+        "nombre": "Rinconada"
+      },
+      "municipio": {
+        "id": "386077",
+        "nombre": "Rinconada"
+      },
+      "nombre": "Rinconada",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "38049"
+    ]
+  },
+  "total": 8
+}

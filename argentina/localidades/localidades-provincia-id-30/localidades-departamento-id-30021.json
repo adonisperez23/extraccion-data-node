@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.0671282176756,
+        "lon": -60.6426461219973
+      },
+      "departamento": {
+        "id": "30021",
+        "nombre": "Diamante"
+      },
+      "id": "3002108001",
+      "localidad_censal": {
+        "id": "30021080",
+        "nombre": "Diamante"
+      },
+      "municipio": {
+        "id": "300084",
+        "nombre": "Diamante"
+      },
+      "nombre": "Diamante",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.0537739076169,
+        "lon": -60.6124866224263
+      },
+      "departamento": {
+        "id": "30021",
+        "nombre": "Diamante"
+      },
+      "id": "3002108002",
+      "localidad_censal": {
+        "id": "30021080",
+        "nombre": "Diamante"
+      },
+      "municipio": {
+        "id": "300084",
+        "nombre": "Diamante"
+      },
+      "nombre": "Strobel",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.0558292988722,
+        "lon": -60.4468862677802
+      },
+      "departamento": {
+        "id": "30021",
+        "nombre": "Diamante"
+      },
+      "id": "3002115001",
+      "localidad_censal": {
+        "id": "30021150",
+        "nombre": "Villa Libertador San Martín"
+      },
+      "municipio": {
+        "id": "300098",
+        "nombre": "Villa Libertador San Martín"
+      },
+      "nombre": "Estación Puiggari",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.0739285541973,
+        "lon": -60.4610408161734
+      },
+      "departamento": {
+        "id": "30021",
+        "nombre": "Diamante"
+      },
+      "id": "3002115002",
+      "localidad_censal": {
+        "id": "30021150",
+        "nombre": "Villa Libertador San Martín"
+      },
+      "municipio": {
+        "id": "300098",
+        "nombre": "Villa Libertador San Martín"
+      },
+      "nombre": "Villa Libertador San Martín",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.8898331706717,
+        "lon": -60.5907932653543
+      },
+      "departamento": {
+        "id": "30021",
+        "nombre": "Diamante"
+      },
+      "id": "30021010",
+      "localidad_censal": {
+        "id": "30021010",
+        "nombre": "Aldea Brasilera"
+      },
+      "municipio": {
+        "id": "309075",
+        "nombre": "Aldea Brasilera"
+      },
+      "nombre": "Aldea Brasilera",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.9605187678945,
+        "lon": -60.4989837531202
+      },
+      "departamento": {
+        "id": "30021",
+        "nombre": "Diamante"
+      },
+      "id": "30021015",
+      "localidad_censal": {
+        "id": "30021015",
+        "nombre": "Aldea Grapschental"
+      },
+      "municipio": {
+        "id": "309080",
+        "nombre": "Aldea Grapschental"
+      },
+      "nombre": "Aldea Grapschental",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0293027894612,
+        "lon": -60.5618081310949
+      },
+      "departamento": {
+        "id": "30021",
+        "nombre": "Diamante"
+      },
+      "id": "30021020",
+      "localidad_censal": {
+        "id": "30021020",
+        "nombre": "Aldea Protestante"
+      },
+      "municipio": {
+        "id": "302112",
+        "nombre": "Aldea Protestante"
+      },
+      "nombre": "Aldea Protestante",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.9248332176685,
+        "lon": -60.5473518905461
+      },
+      "departamento": {
+        "id": "30021",
+        "nombre": "Diamante"
+      },
+      "id": "30021030",
+      "localidad_censal": {
+        "id": "30021030",
+        "nombre": "Aldea Salto"
+      },
+      "municipio": {
+        "id": "309090",
+        "nombre": "Aldea Salto"
+      },
+      "nombre": "Aldea Salto",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.9612266672352,
+        "lon": -60.6352599381601
+      },
+      "departamento": {
+        "id": "30021",
+        "nombre": "Diamante"
+      },
+      "id": "30021040",
+      "localidad_censal": {
+        "id": "30021040",
+        "nombre": "Aldea San Francisco"
+      },
+      "municipio": {
+        "id": "309120",
+        "nombre": "General Alvear"
+      },
+      "nombre": "Aldea San Francisco",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.9461790345738,
+        "lon": -60.5808627344469
+      },
+      "departamento": {
+        "id": "30021",
+        "nombre": "Diamante"
+      },
+      "id": "30021050",
+      "localidad_censal": {
+        "id": "30021050",
+        "nombre": "Aldea Spatzenkutter"
+      },
+      "municipio": {
+        "id": "302126",
+        "nombre": "Aldea Spatzenkutter"
+      },
+      "nombre": "Aldea Spatzenkutter",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "30021"
+    ]
+  },
+  "total": 22
+}

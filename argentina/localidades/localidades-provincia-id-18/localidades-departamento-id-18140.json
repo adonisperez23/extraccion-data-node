@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5076986550343,
+        "lon": -58.5561477152531
+      },
+      "departamento": {
+        "id": "18140",
+        "nombre": "San Luis del Palmar"
+      },
+      "id": "18140010",
+      "localidad_censal": {
+        "id": "18140010",
+        "nombre": "San Luis del Palmar"
+      },
+      "municipio": {
+        "id": "180350",
+        "nombre": "San Luis del Palmar"
+      },
+      "nombre": "San Luis del Palmar",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18140"
+    ]
+  },
+  "total": 1
+}

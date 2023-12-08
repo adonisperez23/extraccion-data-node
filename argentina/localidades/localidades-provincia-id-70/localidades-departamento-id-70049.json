@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.0572474935076,
+        "lon": -69.1741246352112
+      },
+      "departamento": {
+        "id": "70049",
+        "nombre": "Iglesia"
+      },
+      "id": "70049010",
+      "localidad_censal": {
+        "id": "70049010",
+        "nombre": "Angualasto"
+      },
+      "municipio": {
+        "id": "700049",
+        "nombre": "Iglesia"
+      },
+      "nombre": "Angualasto",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.2802254035094,
+        "lon": -69.2279466704071
+      },
+      "departamento": {
+        "id": "70049",
+        "nombre": "Iglesia"
+      },
+      "id": "70049050",
+      "localidad_censal": {
+        "id": "70049050",
+        "nombre": "Pismanta"
+      },
+      "municipio": {
+        "id": "700049",
+        "nombre": "Iglesia"
+      },
+      "nombre": "Pismanta",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.2101589904976,
+        "lon": -69.1315941819034
+      },
+      "departamento": {
+        "id": "70049",
+        "nombre": "Iglesia"
+      },
+      "id": "70049060",
+      "localidad_censal": {
+        "id": "70049060",
+        "nombre": "Rodeo"
+      },
+      "municipio": {
+        "id": "700049",
+        "nombre": "Iglesia"
+      },
+      "nombre": "Rodeo",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.1881560407353,
+        "lon": -69.2707387133114
+      },
+      "departamento": {
+        "id": "70049",
+        "nombre": "Iglesia"
+      },
+      "id": "70049070",
+      "localidad_censal": {
+        "id": "70049070",
+        "nombre": "Tudcum"
+      },
+      "municipio": {
+        "id": "700049",
+        "nombre": "Iglesia"
+      },
+      "nombre": "Tudcum",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.411056912084,
+        "lon": -69.2237020815051
+      },
+      "departamento": {
+        "id": "70049",
+        "nombre": "Iglesia"
+      },
+      "id": "70049030",
+      "localidad_censal": {
+        "id": "70049030",
+        "nombre": "Iglesia"
+      },
+      "municipio": {
+        "id": "700049",
+        "nombre": "Iglesia"
+      },
+      "nombre": "Iglesia",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.3224851594708,
+        "lon": -69.2043008133451
+      },
+      "departamento": {
+        "id": "70049",
+        "nombre": "Iglesia"
+      },
+      "id": "70049040",
+      "localidad_censal": {
+        "id": "70049040",
+        "nombre": "Las Flores"
+      },
+      "municipio": {
+        "id": "700049",
+        "nombre": "Iglesia"
+      },
+      "nombre": "Las Flores",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "70049"
+    ]
+  },
+  "total": 6
+}

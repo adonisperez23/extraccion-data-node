@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.897126396729,
+        "lon": -61.0994163618167
+      },
+      "departamento": {
+        "id": "06175",
+        "nombre": "Colón"
+      },
+      "id": "06175010",
+      "localidad_censal": {
+        "id": "06175010",
+        "nombre": "Colón"
+      },
+      "municipio": {
+        "id": "060175",
+        "nombre": "Colón"
+      },
+      "nombre": "Colón",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -33.9133660735741,
+        "lon": -60.9423275118825
+      },
+      "departamento": {
+        "id": "06175",
+        "nombre": "Colón"
+      },
+      "id": "06175020",
+      "localidad_censal": {
+        "id": "06175020",
+        "nombre": "Pearson"
+      },
+      "municipio": {
+        "id": "060175",
+        "nombre": "Colón"
+      },
+      "nombre": "Villa Manuel Pomar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.6532883192242,
+        "lon": -60.8930583876828
+      },
+      "departamento": {
+        "id": "06175",
+        "nombre": "Colón"
+      },
+      "id": "06175030",
+      "localidad_censal": {
+        "id": "06175030",
+        "nombre": "Sarasa"
+      },
+      "municipio": {
+        "id": "060175",
+        "nombre": "Colón"
+      },
+      "nombre": "Pearson",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.0480939107829,
+        "lon": -61.2017243473526
+      },
+      "departamento": {
+        "id": "06175",
+        "nombre": "Colón"
+      },
+      "id": "06175040",
+      "localidad_censal": {
+        "id": "06175040",
+        "nombre": "Villa Manuel Pomar"
+      },
+      "municipio": {
+        "id": "060175",
+        "nombre": "Colón"
+      },
+      "nombre": "Sarasa",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06175"
+    ]
+  },
+  "total": 4
+}

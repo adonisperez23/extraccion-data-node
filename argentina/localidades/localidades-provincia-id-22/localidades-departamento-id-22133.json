@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.8707906795915,
+        "lon": -60.215199589267
+      },
+      "departamento": {
+        "id": "22133",
+        "nombre": "Quitilipi"
+      },
+      "id": "22133010",
+      "localidad_censal": {
+        "id": "22133010",
+        "nombre": "Quitilipi"
+      },
+      "municipio": {
+        "id": "220378",
+        "nombre": "Quitilipi"
+      },
+      "nombre": "Quitilipi",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.4545040227541,
+        "lon": -60.16440487728
+      },
+      "departamento": {
+        "id": "22133",
+        "nombre": "Quitilipi"
+      },
+      "id": "22133020",
+      "localidad_censal": {
+        "id": "22133020",
+        "nombre": "Villa El Palmar"
+      },
+      "municipio": {
+        "id": "220378",
+        "nombre": "Quitilipi"
+      },
+      "nombre": "Villa El Palmar",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22133"
+    ]
+  },
+  "total": 2
+}

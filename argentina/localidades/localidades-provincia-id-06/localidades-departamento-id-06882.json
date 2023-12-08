@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.138026855185,
+        "lon": -59.0054028498658
+      },
+      "departamento": {
+        "id": "06882",
+        "nombre": "Zárate"
+      },
+      "id": "0688205001",
+      "localidad_censal": {
+        "id": "06882050",
+        "nombre": "Acceso a Lima"
+      },
+      "municipio": {
+        "id": "060882",
+        "nombre": "Zárate"
+      },
+      "nombre": "Barrio Saavedra",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.0989165196293,
+        "lon": -59.0296629320907
+      },
+      "departamento": {
+        "id": "06882",
+        "nombre": "Zárate"
+      },
+      "id": "0688205002",
+      "localidad_censal": {
+        "id": "06882050",
+        "nombre": "Acceso a Lima"
+      },
+      "municipio": {
+        "id": "060882",
+        "nombre": "Zárate"
+      },
+      "nombre": "Zárate",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.1581474333804,
+        "lon": -59.113670695869
+      },
+      "departamento": {
+        "id": "06882",
+        "nombre": "Zárate"
+      },
+      "id": "06882030",
+      "localidad_censal": {
+        "id": "06882030",
+        "nombre": "Lima"
+      },
+      "municipio": {
+        "id": "060882",
+        "nombre": "Zárate"
+      },
+      "nombre": "Escalada",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.0447948866739,
+        "lon": -59.1961491544738
+      },
+      "departamento": {
+        "id": "06882",
+        "nombre": "Zárate"
+      },
+      "id": "06882040",
+      "localidad_censal": {
+        "id": "06882040",
+        "nombre": "Zárate"
+      },
+      "municipio": {
+        "id": "060882",
+        "nombre": "Zárate"
+      },
+      "nombre": "Lima",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.095805089842,
+        "lon": -59.024323230709
+      },
+      "departamento": {
+        "id": "06882",
+        "nombre": "Zárate"
+      },
+      "id": "06882050",
+      "localidad_censal": {
+        "id": "06882050",
+        "nombre": "Acceso a Lima"
+      },
+      "municipio": {
+        "id": "060882",
+        "nombre": "Zárate"
+      },
+      "nombre": "Zárate",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06882"
+    ]
+  },
+  "total": 5
+}

@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.115566278564,
+        "lon": -60.4896499896216
+      },
+      "departamento": {
+        "id": "06112",
+        "nombre": "Bragado"
+      },
+      "id": "06112010",
+      "localidad_censal": {
+        "id": "06112010",
+        "nombre": "Asamblea"
+      },
+      "municipio": {
+        "id": "060112",
+        "nombre": "Bragado"
+      },
+      "nombre": "Bragado",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.3225569754525,
+        "lon": -60.5213798412284
+      },
+      "departamento": {
+        "id": "06112",
+        "nombre": "Bragado"
+      },
+      "id": "06112020",
+      "localidad_censal": {
+        "id": "06112020",
+        "nombre": "Bragado"
+      },
+      "municipio": {
+        "id": "060112",
+        "nombre": "Bragado"
+      },
+      "nombre": "Comodoro Py",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.9056096603392,
+        "lon": -60.7605000810587
+      },
+      "departamento": {
+        "id": "06112",
+        "nombre": "Bragado"
+      },
+      "id": "06112030",
+      "localidad_censal": {
+        "id": "06112030",
+        "nombre": "Comodoro Py"
+      },
+      "municipio": {
+        "id": "060112",
+        "nombre": "Bragado"
+      },
+      "nombre": "General O'Brien",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.7702039328676,
+        "lon": -60.6910217502228
+      },
+      "departamento": {
+        "id": "06112",
+        "nombre": "Bragado"
+      },
+      "id": "06112040",
+      "localidad_censal": {
+        "id": "06112040",
+        "nombre": "Eduardo O'Brien"
+      },
+      "municipio": {
+        "id": "060112",
+        "nombre": "Bragado"
+      },
+      "nombre": "Irala",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0800960334474,
+        "lon": -60.5911917698263
+      },
+      "departamento": {
+        "id": "06112",
+        "nombre": "Bragado"
+      },
+      "id": "06112050",
+      "localidad_censal": {
+        "id": "06112050",
+        "nombre": "Irala"
+      },
+      "municipio": {
+        "id": "060112",
+        "nombre": "Bragado"
+      },
+      "nombre": "La Limpia",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0616154828316,
+        "lon": -60.7047540548361
+      },
+      "departamento": {
+        "id": "06112",
+        "nombre": "Bragado"
+      },
+      "id": "06112060",
+      "localidad_censal": {
+        "id": "06112060",
+        "nombre": "Juan F. Salaberry"
+      },
+      "municipio": {
+        "id": "060112",
+        "nombre": "Bragado"
+      },
+      "nombre": "Juan F. Salaberry",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -35.0733790333491,
+        "lon": -60.4118165706567
+      },
+      "departamento": {
+        "id": "06112",
+        "nombre": "Bragado"
+      },
+      "id": "06112070",
+      "localidad_censal": {
+        "id": "06112070",
+        "nombre": "La Limpia"
+      },
+      "municipio": {
+        "id": "060112",
+        "nombre": "Bragado"
+      },
+      "nombre": "Mechita",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.2373944024438,
+        "lon": -60.6110729787317
+      },
+      "departamento": {
+        "id": "06112",
+        "nombre": "Bragado"
+      },
+      "id": "06112080",
+      "localidad_censal": {
+        "id": "06112080",
+        "nombre": "Mechita"
+      },
+      "municipio": {
+        "id": "060112",
+        "nombre": "Bragado"
+      },
+      "nombre": "Olascoaga",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.9101336709228,
+        "lon": -60.5389528273212
+      },
+      "departamento": {
+        "id": "06112",
+        "nombre": "Bragado"
+      },
+      "id": "06112090",
+      "localidad_censal": {
+        "id": "06112090",
+        "nombre": "Olascoaga"
+      },
+      "municipio": {
+        "id": "060112",
+        "nombre": "Bragado"
+      },
+      "nombre": "Warnes",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06112"
+    ]
+  },
+  "total": 9
+}

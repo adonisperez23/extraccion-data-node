@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.2904470528437,
+        "lon": -66.265531650787
+      },
+      "departamento": {
+        "id": "74056",
+        "nombre": "Juan Martín de Pueyrredón"
+      },
+      "id": "7405610003",
+      "localidad_censal": {
+        "id": "74056100",
+        "nombre": "Juana Koslay"
+      },
+      "municipio": {
+        "id": "740119",
+        "nombre": "Juana Koslay"
+      },
+      "nombre": "El Chorrillo",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.2671640831953,
+        "lon": -66.2362275881388
+      },
+      "departamento": {
+        "id": "74056",
+        "nombre": "Juan Martín de Pueyrredón"
+      },
+      "id": "7405610004",
+      "localidad_censal": {
+        "id": "74056100",
+        "nombre": "Juana Koslay"
+      },
+      "municipio": {
+        "id": "740119",
+        "nombre": "Juana Koslay"
+      },
+      "nombre": "Las Chacras",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.2694024344067,
+        "lon": -66.2266554796377
+      },
+      "departamento": {
+        "id": "74056",
+        "nombre": "Juan Martín de Pueyrredón"
+      },
+      "id": "7405610005",
+      "localidad_censal": {
+        "id": "74056100",
+        "nombre": "Juana Koslay"
+      },
+      "municipio": {
+        "id": "740119",
+        "nombre": "Juana Koslay"
+      },
+      "nombre": "San Roque",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.2660479910859,
+        "lon": -66.2157798451663
+      },
+      "departamento": {
+        "id": "74056",
+        "nombre": "Juan Martín de Pueyrredón"
+      },
+      "id": "7405610002",
+      "localidad_censal": {
+        "id": "74056100",
+        "nombre": "Juana Koslay"
+      },
+      "municipio": {
+        "id": "740119",
+        "nombre": "Juana Koslay"
+      },
+      "nombre": "Cruz de Piedra",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.2514037047875,
+        "lon": -66.2273612725062
+      },
+      "departamento": {
+        "id": "74056",
+        "nombre": "Juan Martín de Pueyrredón"
+      },
+      "id": "7405610001",
+      "localidad_censal": {
+        "id": "74056100",
+        "nombre": "Juana Koslay"
+      },
+      "municipio": {
+        "id": "740119",
+        "nombre": "Juana Koslay"
+      },
+      "nombre": "Cerro Colorado",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.2173981922507,
+        "lon": -66.2312695846812
+      },
+      "departamento": {
+        "id": "74056",
+        "nombre": "Juan Martín de Pueyrredón"
+      },
+      "id": "74056120",
+      "localidad_censal": {
+        "id": "74056120",
+        "nombre": "Potrero de los Funes"
+      },
+      "municipio": {
+        "id": "740130",
+        "nombre": "Potrero de los Funes"
+      },
+      "nombre": "Potrero de los Funes",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.5013818949778,
+        "lon": -66.65145868425
+      },
+      "departamento": {
+        "id": "74056",
+        "nombre": "Juan Martín de Pueyrredón"
+      },
+      "id": "74056130",
+      "localidad_censal": {
+        "id": "74056130",
+        "nombre": "Salinas del Bebedero"
+      },
+      "municipio": {
+        "id": "746245",
+        "nombre": "Balde"
+      },
+      "nombre": "Salinas del Bebedero",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.3964475430666,
+        "lon": -67.0265786063946
+      },
+      "departamento": {
+        "id": "74056",
+        "nombre": "Juan Martín de Pueyrredón"
+      },
+      "id": "74056090",
+      "localidad_censal": {
+        "id": "74056090",
+        "nombre": "Jarilla"
+      },
+      "municipio": {
+        "id": "740108",
+        "nombre": "Desaguadero"
+      },
+      "nombre": "Jarilla",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.8370288220722,
+        "lon": -66.1390733396145
+      },
+      "departamento": {
+        "id": "74056",
+        "nombre": "Juan Martín de Pueyrredón"
+      },
+      "id": "74056010",
+      "localidad_censal": {
+        "id": "74056010",
+        "nombre": "Alto Pelado"
+      },
+      "municipio": {
+        "id": "746231",
+        "nombre": "Alto Pelado"
+      },
+      "nombre": "Alto Pelado",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.8547706325493,
+        "lon": -66.3690785429312
+      },
+      "departamento": {
+        "id": "74056",
+        "nombre": "Juan Martín de Pueyrredón"
+      },
+      "id": "74056050",
+      "localidad_censal": {
+        "id": "74056050",
+        "nombre": "Cazador"
+      },
+      "municipio": {
+        "id": "746280",
+        "nombre": "Zanjitas"
+      },
+      "nombre": "Cazador",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "74056"
+    ]
+  },
+  "total": 22
+}

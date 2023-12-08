@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.0058165762144,
+        "lon": -65.992395165732
+      },
+      "departamento": {
+        "id": "46084",
+        "nombre": "General Ortiz de Ocampo"
+      },
+      "id": "46084030",
+      "localidad_censal": {
+        "id": "46084030",
+        "nombre": "Milagro"
+      },
+      "municipio": {
+        "id": "460084",
+        "nombre": "General Ortiz de Ocampo"
+      },
+      "nombre": "Milagro",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.1295791116995,
+        "lon": -66.3439208367266
+      },
+      "departamento": {
+        "id": "46084",
+        "nombre": "General Ortiz de Ocampo"
+      },
+      "id": "46084010",
+      "localidad_censal": {
+        "id": "46084010",
+        "nombre": "Ambil"
+      },
+      "municipio": {
+        "id": "460084",
+        "nombre": "General Ortiz de Ocampo"
+      },
+      "nombre": "Ambil",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.962785080594,
+        "lon": -66.1766930299756
+      },
+      "departamento": {
+        "id": "46084",
+        "nombre": "General Ortiz de Ocampo"
+      },
+      "id": "46084020",
+      "localidad_censal": {
+        "id": "46084020",
+        "nombre": "Colonia Ortiz de Ocampo"
+      },
+      "municipio": {
+        "id": "460084",
+        "nombre": "General Ortiz de Ocampo"
+      },
+      "nombre": "Colonia Ortiz de Ocampo",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.8061831450308,
+        "lon": -66.2439574519494
+      },
+      "departamento": {
+        "id": "46084",
+        "nombre": "General Ortiz de Ocampo"
+      },
+      "id": "46084040",
+      "localidad_censal": {
+        "id": "46084040",
+        "nombre": "Olpas"
+      },
+      "municipio": {
+        "id": "460084",
+        "nombre": "General Ortiz de Ocampo"
+      },
+      "nombre": "Olpas",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.9547125049789,
+        "lon": -66.2206893248424
+      },
+      "departamento": {
+        "id": "46084",
+        "nombre": "General Ortiz de Ocampo"
+      },
+      "id": "46084050",
+      "localidad_censal": {
+        "id": "46084050",
+        "nombre": "Santa Rita de Catuna"
+      },
+      "municipio": {
+        "id": "460084",
+        "nombre": "General Ortiz de Ocampo"
+      },
+      "nombre": "Santa Rita de Catuna",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "46084"
+    ]
+  },
+  "total": 5
+}

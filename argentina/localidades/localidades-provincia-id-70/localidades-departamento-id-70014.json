@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.4424608153609,
+        "lon": -68.4439619164403
+      },
+      "departamento": {
+        "id": "70014",
+        "nombre": "Angaco"
+      },
+      "id": "7001402002",
+      "localidad_censal": {
+        "id": "70014020",
+        "nombre": "Villa El Salvador - Villa Sefair"
+      },
+      "municipio": {
+        "id": "700014",
+        "nombre": "Angaco"
+      },
+      "nombre": "Villa Sefair",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.455282119356,
+        "lon": -68.4046421027422
+      },
+      "departamento": {
+        "id": "70014",
+        "nombre": "Angaco"
+      },
+      "id": "7001402001",
+      "localidad_censal": {
+        "id": "70014020",
+        "nombre": "Villa El Salvador - Villa Sefair"
+      },
+      "municipio": {
+        "id": "700014",
+        "nombre": "Angaco"
+      },
+      "nombre": "Villa El Salvador",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -31.4532696508238,
+        "lon": -68.4037600798682
+      },
+      "departamento": {
+        "id": "70014",
+        "nombre": "Angaco"
+      },
+      "id": "70014020",
+      "localidad_censal": {
+        "id": "70014020",
+        "nombre": "Villa El Salvador - Villa Sefair"
+      },
+      "municipio": {
+        "id": "700014",
+        "nombre": "Angaco"
+      },
+      "nombre": "Villa El Salvador - Villa Sefair",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.4103870955492,
+        "lon": -68.3993098452715
+      },
+      "departamento": {
+        "id": "70014",
+        "nombre": "Angaco"
+      },
+      "id": "70014010",
+      "localidad_censal": {
+        "id": "70014010",
+        "nombre": "Las Tapias"
+      },
+      "municipio": {
+        "id": "700014",
+        "nombre": "Angaco"
+      },
+      "nombre": "Las Tapias",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "70014"
+    ]
+  },
+  "total": 4
+}

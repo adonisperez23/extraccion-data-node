@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4336449302222,
+        "lon": -58.624308399711
+      },
+      "departamento": {
+        "id": "18133",
+        "nombre": "San Cosme"
+      },
+      "id": "18133010",
+      "localidad_censal": {
+        "id": "18133010",
+        "nombre": "Ingenio Primer Correntino"
+      },
+      "municipio": {
+        "id": "180336",
+        "nombre": "Santa Ana de los Guácaras"
+      },
+      "nombre": "Ingenio Primer Correntino",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3173742609378,
+        "lon": -58.5725641481134
+      },
+      "departamento": {
+        "id": "18133",
+        "nombre": "San Cosme"
+      },
+      "id": "18133020",
+      "localidad_censal": {
+        "id": "18133020",
+        "nombre": "Paso de la Patria"
+      },
+      "municipio": {
+        "id": "180322",
+        "nombre": "Paso de la Patria"
+      },
+      "nombre": "Paso de la Patria",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3703733639743,
+        "lon": -58.5125134414712
+      },
+      "departamento": {
+        "id": "18133",
+        "nombre": "San Cosme"
+      },
+      "id": "18133030",
+      "localidad_censal": {
+        "id": "18133030",
+        "nombre": "San Cosme"
+      },
+      "municipio": {
+        "id": "180329",
+        "nombre": "San Cosme"
+      },
+      "nombre": "San Cosme",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4553549984351,
+        "lon": -58.6547603461789
+      },
+      "departamento": {
+        "id": "18133",
+        "nombre": "San Cosme"
+      },
+      "id": "18133040",
+      "localidad_censal": {
+        "id": "18133040",
+        "nombre": "Santa Ana de los Guácaras"
+      },
+      "municipio": {
+        "id": "180336",
+        "nombre": "Santa Ana de los Guácaras"
+      },
+      "nombre": "Santa Ana",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18133"
+    ]
+  },
+  "total": 4
+}

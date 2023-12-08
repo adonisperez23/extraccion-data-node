@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.5432844931547,
+        "lon": -65.036726705634
+      },
+      "departamento": {
+        "id": "14028",
+        "nombre": "Cruz del Eje"
+      },
+      "id": "14028010",
+      "localidad_censal": {
+        "id": "14028010",
+        "nombre": "Alto de los Quebrachos"
+      },
+      "municipio": {
+        "id": "142133",
+        "nombre": "Alto de los Quebrachos"
+      },
+      "nombre": "Alto de los Quebrachos",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.7951306902471,
+        "lon": -65.0526414509469
+      },
+      "departamento": {
+        "id": "14028",
+        "nombre": "Cruz del Eje"
+      },
+      "id": "14028020",
+      "localidad_censal": {
+        "id": "14028020",
+        "nombre": "Bañado de Soto"
+      },
+      "municipio": {
+        "id": "142140",
+        "nombre": "Bañado de Soto"
+      },
+      "nombre": "Bañado de Soto",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.0678362171856,
+        "lon": -64.9347870163643
+      },
+      "departamento": {
+        "id": "14028",
+        "nombre": "Cruz del Eje"
+      },
+      "id": "14028040",
+      "localidad_censal": {
+        "id": "14028040",
+        "nombre": "Cruz de Cana"
+      },
+      "municipio": {
+        "id": "142147",
+        "nombre": "Cruz de Caña"
+      },
+      "nombre": "Cruz de Caña",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.7439287854916,
+        "lon": -64.7907762625898
+      },
+      "departamento": {
+        "id": "14028",
+        "nombre": "Cruz del Eje"
+      },
+      "id": "14028050",
+      "localidad_censal": {
+        "id": "14028050",
+        "nombre": "Cruz del Eje"
+      },
+      "municipio": {
+        "id": "140182",
+        "nombre": "Cruz del Eje"
+      },
+      "nombre": "Cruz del Eje",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.6726348056743,
+        "lon": -64.8718984580637
+      },
+      "departamento": {
+        "id": "14028",
+        "nombre": "Cruz del Eje"
+      },
+      "id": "14028060",
+      "localidad_censal": {
+        "id": "14028060",
+        "nombre": "El Brete"
+      },
+      "municipio": {
+        "id": "140185",
+        "nombre": "El Brete"
+      },
+      "nombre": "El Brete",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.4786437166254,
+        "lon": -65.0615999465835
+      },
+      "departamento": {
+        "id": "14028",
+        "nombre": "Cruz del Eje"
+      },
+      "id": "14028080",
+      "localidad_censal": {
+        "id": "14028080",
+        "nombre": "Guanaco Muerto"
+      },
+      "municipio": {
+        "id": "142161",
+        "nombre": "Guanaco Muerto"
+      },
+      "nombre": "Guanaco Muerto",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.3722741905701,
+        "lon": -65.3081506835707
+      },
+      "departamento": {
+        "id": "14028",
+        "nombre": "Cruz del Eje"
+      },
+      "id": "14028100",
+      "localidad_censal": {
+        "id": "14028100",
+        "nombre": "La Batea"
+      },
+      "municipio": {
+        "id": "142168",
+        "nombre": "La Batea"
+      },
+      "nombre": "La Batea",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.0132902934693,
+        "lon": -65.1028961989253
+      },
+      "departamento": {
+        "id": "14028",
+        "nombre": "Cruz del Eje"
+      },
+      "id": "14028110",
+      "localidad_censal": {
+        "id": "14028110",
+        "nombre": "La Higuera"
+      },
+      "municipio": {
+        "id": "142175",
+        "nombre": "La Higuera"
+      },
+      "nombre": "La Higuera",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.9149930562395,
+        "lon": -64.7347253605041
+      },
+      "departamento": {
+        "id": "14028",
+        "nombre": "Cruz del Eje"
+      },
+      "id": "14028120",
+      "localidad_censal": {
+        "id": "14028120",
+        "nombre": "Las Cañadas"
+      },
+      "municipio": {
+        "id": "142182",
+        "nombre": "Las Cañadas"
+      },
+      "nombre": "Las Cañadas",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.7067406068792,
+        "lon": -64.8472958527643
+      },
+      "departamento": {
+        "id": "14028",
+        "nombre": "Cruz del Eje"
+      },
+      "id": "14028130",
+      "localidad_censal": {
+        "id": "14028130",
+        "nombre": "Las Playas"
+      },
+      "municipio": {
+        "id": "142189",
+        "nombre": "Las Playas"
+      },
+      "nombre": "Las Playas",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14028"
+    ]
+  },
+  "total": 17
+}

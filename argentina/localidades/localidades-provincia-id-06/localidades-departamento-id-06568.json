@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6474573245916,
+        "lon": -58.6218615494078
+      },
+      "departamento": {
+        "id": "06568",
+        "nombre": "Morón"
+      },
+      "id": "0656801004",
+      "localidad_censal": {
+        "id": "06568010",
+        "nombre": "Morón"
+      },
+      "municipio": {
+        "id": "060568",
+        "nombre": "Morón"
+      },
+      "nombre": "Morón",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6518205338135,
+        "lon": -58.6460475077958
+      },
+      "departamento": {
+        "id": "06568",
+        "nombre": "Morón"
+      },
+      "id": "0656801001",
+      "localidad_censal": {
+        "id": "06568010",
+        "nombre": "Morón"
+      },
+      "municipio": {
+        "id": "060568",
+        "nombre": "Morón"
+      },
+      "nombre": "Castelar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6108556165017,
+        "lon": -58.5956810077115
+      },
+      "departamento": {
+        "id": "06568",
+        "nombre": "Morón"
+      },
+      "id": "0656801002",
+      "localidad_censal": {
+        "id": "06568010",
+        "nombre": "Morón"
+      },
+      "municipio": {
+        "id": "060568",
+        "nombre": "Morón"
+      },
+      "nombre": "El Palomar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6436075977527,
+        "lon": -58.5945223728959
+      },
+      "departamento": {
+        "id": "06568",
+        "nombre": "Morón"
+      },
+      "id": "0656801003",
+      "localidad_censal": {
+        "id": "06568010",
+        "nombre": "Morón"
+      },
+      "municipio": {
+        "id": "060568",
+        "nombre": "Morón"
+      },
+      "nombre": "Haedo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6333593873734,
+        "lon": -58.5704071179586
+      },
+      "departamento": {
+        "id": "06568",
+        "nombre": "Morón"
+      },
+      "id": "0656801005",
+      "localidad_censal": {
+        "id": "06568010",
+        "nombre": "Morón"
+      },
+      "municipio": {
+        "id": "060568",
+        "nombre": "Morón"
+      },
+      "nombre": "Villa Sarmiento",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.6510579231814,
+        "lon": -58.6218540984498
+      },
+      "departamento": {
+        "id": "06568",
+        "nombre": "Morón"
+      },
+      "id": "06568010",
+      "localidad_censal": {
+        "id": "06568010",
+        "nombre": "Morón"
+      },
+      "municipio": {
+        "id": "060568",
+        "nombre": "Morón"
+      },
+      "nombre": "Morón",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06568"
+    ]
+  },
+  "total": 6
+}

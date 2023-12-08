@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.2836552092519,
+        "lon": -67.7614282705723
+      },
+      "departamento": {
+        "id": "26063",
+        "nombre": "Mártires"
+      },
+      "id": "26063010",
+      "localidad_censal": {
+        "id": "26063010",
+        "nombre": "El Mirasol"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Mirasol",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.7216248834969,
+        "lon": -67.2842377970135
+      },
+      "departamento": {
+        "id": "26063",
+        "nombre": "Mártires"
+      },
+      "id": "26063020",
+      "localidad_censal": {
+        "id": "26063020",
+        "nombre": "Las Plumas"
+      },
+      "municipio": {
+        "id": "268077",
+        "nombre": "Las Plumas"
+      },
+      "nombre": "Las Plumas",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "26063"
+    ]
+  },
+  "total": 2
+}

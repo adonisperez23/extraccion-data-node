@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7447138351125,
+        "lon": -58.3929263130465
+      },
+      "departamento": {
+        "id": "06490",
+        "nombre": "Lomas de Zamora"
+      },
+      "id": "0649001001",
+      "localidad_censal": {
+        "id": "06490010",
+        "nombre": "Lomas de Zamora"
+      },
+      "municipio": {
+        "id": "060490",
+        "nombre": "Lomas de Zamora"
+      },
+      "nombre": "Banfield",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7930707191435,
+        "lon": -58.4262793211745
+      },
+      "departamento": {
+        "id": "06490",
+        "nombre": "Lomas de Zamora"
+      },
+      "id": "0649001002",
+      "localidad_censal": {
+        "id": "06490010",
+        "nombre": "Lomas de Zamora"
+      },
+      "municipio": {
+        "id": "060490",
+        "nombre": "Lomas de Zamora"
+      },
+      "nombre": "Llavallol",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7596127748886,
+        "lon": -58.3994691356768
+      },
+      "departamento": {
+        "id": "06490",
+        "nombre": "Lomas de Zamora"
+      },
+      "id": "0649001003",
+      "localidad_censal": {
+        "id": "06490010",
+        "nombre": "Lomas de Zamora"
+      },
+      "municipio": {
+        "id": "060490",
+        "nombre": "Lomas de Zamora"
+      },
+      "nombre": "Lomas de Zamora",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7726021631685,
+        "lon": -58.3895955235586
+      },
+      "departamento": {
+        "id": "06490",
+        "nombre": "Lomas de Zamora"
+      },
+      "id": "0649001004",
+      "localidad_censal": {
+        "id": "06490010",
+        "nombre": "Lomas de Zamora"
+      },
+      "municipio": {
+        "id": "060490",
+        "nombre": "Lomas de Zamora"
+      },
+      "nombre": "Temperley",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7909861826968,
+        "lon": -58.4051947065789
+      },
+      "departamento": {
+        "id": "06490",
+        "nombre": "Lomas de Zamora"
+      },
+      "id": "0649001005",
+      "localidad_censal": {
+        "id": "06490010",
+        "nombre": "Lomas de Zamora"
+      },
+      "municipio": {
+        "id": "060490",
+        "nombre": "Lomas de Zamora"
+      },
+      "nombre": "Turdera",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7273607491723,
+        "lon": -58.4305869359055
+      },
+      "departamento": {
+        "id": "06490",
+        "nombre": "Lomas de Zamora"
+      },
+      "id": "0649001006",
+      "localidad_censal": {
+        "id": "06490010",
+        "nombre": "Lomas de Zamora"
+      },
+      "municipio": {
+        "id": "060490",
+        "nombre": "Lomas de Zamora"
+      },
+      "nombre": "Villa Centenario",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7056984765634,
+        "lon": -58.4444661837853
+      },
+      "departamento": {
+        "id": "06490",
+        "nombre": "Lomas de Zamora"
+      },
+      "id": "0649001007",
+      "localidad_censal": {
+        "id": "06490010",
+        "nombre": "Lomas de Zamora"
+      },
+      "municipio": {
+        "id": "060490",
+        "nombre": "Lomas de Zamora"
+      },
+      "nombre": "Villa Fiorito",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.7572838174373,
+        "lon": -58.4027167976743
+      },
+      "departamento": {
+        "id": "06490",
+        "nombre": "Lomas de Zamora"
+      },
+      "id": "06490010",
+      "localidad_censal": {
+        "id": "06490010",
+        "nombre": "Lomas de Zamora"
+      },
+      "municipio": {
+        "id": "060490",
+        "nombre": "Lomas de Zamora"
+      },
+      "nombre": "Lomas de Zamora",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06490"
+    ]
+  },
+  "total": 8
+}

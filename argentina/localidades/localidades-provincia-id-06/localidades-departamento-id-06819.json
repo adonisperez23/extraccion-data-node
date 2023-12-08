@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.3373320283001,
+        "lon": -62.6445852070943
+      },
+      "departamento": {
+        "id": "06819",
+        "nombre": "Tornquist"
+      },
+      "id": "06819010",
+      "localidad_censal": {
+        "id": "06819010",
+        "nombre": "Chasicó"
+      },
+      "municipio": {
+        "id": "060819",
+        "nombre": "Tornquist"
+      },
+      "nombre": "Chasicó",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.1012814183258,
+        "lon": -62.2229543263369
+      },
+      "departamento": {
+        "id": "06819",
+        "nombre": "Tornquist"
+      },
+      "id": "06819040",
+      "localidad_censal": {
+        "id": "06819040",
+        "nombre": "Villa Serrana La Gruta"
+      },
+      "municipio": {
+        "id": "060819",
+        "nombre": "Tornquist"
+      },
+      "nombre": "Tornquist",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.2896055604839,
+        "lon": -62.2080555809382
+      },
+      "departamento": {
+        "id": "06819",
+        "nombre": "Tornquist"
+      },
+      "id": "06819050",
+      "localidad_censal": {
+        "id": "06819050",
+        "nombre": "Saldungaray"
+      },
+      "municipio": {
+        "id": "060819",
+        "nombre": "Tornquist"
+      },
+      "nombre": "Tres Picos",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.0597276619179,
+        "lon": -62.0776250250117
+      },
+      "departamento": {
+        "id": "06819",
+        "nombre": "Tornquist"
+      },
+      "id": "06819060",
+      "localidad_censal": {
+        "id": "06819060",
+        "nombre": "Sierra de la Ventana"
+      },
+      "municipio": {
+        "id": "060819",
+        "nombre": "Tornquist"
+      },
+      "nombre": "La Gruta",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.0819443434639,
+        "lon": -61.929805289519
+      },
+      "departamento": {
+        "id": "06819",
+        "nombre": "Tornquist"
+      },
+      "id": "06819070",
+      "localidad_censal": {
+        "id": "06819070",
+        "nombre": "Tornquist"
+      },
+      "municipio": {
+        "id": "060819",
+        "nombre": "Tornquist"
+      },
+      "nombre": "Villa Ventana",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06819"
+    ]
+  },
+  "total": 5
+}

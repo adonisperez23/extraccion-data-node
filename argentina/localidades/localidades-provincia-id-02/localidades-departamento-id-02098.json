@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5812372422911,
+        "lon": -58.421015206853
+      },
+      "departamento": {
+        "id": "02098",
+        "nombre": "Comuna 14"
+      },
+      "id": "0209801001",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022098",
+        "nombre": "Comuna 14"
+      },
+      "nombre": "Palermo",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "02098"
+    ]
+  },
+  "total": 1
+}

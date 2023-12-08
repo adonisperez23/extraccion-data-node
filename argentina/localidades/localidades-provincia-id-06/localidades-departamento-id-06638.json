@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4502158741149,
+        "lon": -58.7986321054863
+      },
+      "departamento": {
+        "id": "06638",
+        "nombre": "Pilar"
+      },
+      "id": "0663804001",
+      "localidad_censal": {
+        "id": "06638040",
+        "nombre": "Pilar"
+      },
+      "municipio": {
+        "id": "060638",
+        "nombre": "Pilar"
+      },
+      "nombre": "Del Viso",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4278831571111,
+        "lon": -58.9936681977088
+      },
+      "departamento": {
+        "id": "06638",
+        "nombre": "Pilar"
+      },
+      "id": "0663804002",
+      "localidad_censal": {
+        "id": "06638040",
+        "nombre": "Pilar"
+      },
+      "municipio": {
+        "id": "060638",
+        "nombre": "Pilar"
+      },
+      "nombre": "Fátima",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4484860405622,
+        "lon": -58.846095707197
+      },
+      "departamento": {
+        "id": "06638",
+        "nombre": "Pilar"
+      },
+      "id": "0663804003",
+      "localidad_censal": {
+        "id": "06638040",
+        "nombre": "Pilar"
+      },
+      "municipio": {
+        "id": "060638",
+        "nombre": "Pilar"
+      },
+      "nombre": "La Lonja",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4230504480055,
+        "lon": -58.7927540749802
+      },
+      "departamento": {
+        "id": "06638",
+        "nombre": "Pilar"
+      },
+      "id": "0663804004",
+      "localidad_censal": {
+        "id": "06638040",
+        "nombre": "Pilar"
+      },
+      "municipio": {
+        "id": "060638",
+        "nombre": "Pilar"
+      },
+      "nombre": "Los Cachorros",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4503831705186,
+        "lon": -59.0070416860588
+      },
+      "departamento": {
+        "id": "06638",
+        "nombre": "Pilar"
+      },
+      "id": "0663804005",
+      "localidad_censal": {
+        "id": "06638040",
+        "nombre": "Pilar"
+      },
+      "municipio": {
+        "id": "060638",
+        "nombre": "Pilar"
+      },
+      "nombre": "Manzanares",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.508617703129,
+        "lon": -58.8613535584736
+      },
+      "departamento": {
+        "id": "06638",
+        "nombre": "Pilar"
+      },
+      "id": "0663804006",
+      "localidad_censal": {
+        "id": "06638040",
+        "nombre": "Pilar"
+      },
+      "municipio": {
+        "id": "060638",
+        "nombre": "Pilar"
+      },
+      "nombre": "Manzone",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4073856736919,
+        "lon": -58.7801774138414
+      },
+      "departamento": {
+        "id": "06638",
+        "nombre": "Pilar"
+      },
+      "id": "0663804007",
+      "localidad_censal": {
+        "id": "06638040",
+        "nombre": "Pilar"
+      },
+      "municipio": {
+        "id": "060638",
+        "nombre": "Pilar"
+      },
+      "nombre": "Maquinista F. Savio Oeste",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4569822956164,
+        "lon": -58.9139117853571
+      },
+      "departamento": {
+        "id": "06638",
+        "nombre": "Pilar"
+      },
+      "id": "0663804008",
+      "localidad_censal": {
+        "id": "06638040",
+        "nombre": "Pilar"
+      },
+      "municipio": {
+        "id": "060638",
+        "nombre": "Pilar"
+      },
+      "nombre": "Pilar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4922671765476,
+        "lon": -58.8390198925922
+      },
+      "departamento": {
+        "id": "06638",
+        "nombre": "Pilar"
+      },
+      "id": "0663804009",
+      "localidad_censal": {
+        "id": "06638040",
+        "nombre": "Pilar"
+      },
+      "municipio": {
+        "id": "060638",
+        "nombre": "Pilar"
+      },
+      "nombre": "Presidente Derqui",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.432379801221,
+        "lon": -58.7724236466929
+      },
+      "departamento": {
+        "id": "06638",
+        "nombre": "Pilar"
+      },
+      "id": "0663804010",
+      "localidad_censal": {
+        "id": "06638040",
+        "nombre": "Pilar"
+      },
+      "municipio": {
+        "id": "060638",
+        "nombre": "Pilar"
+      },
+      "nombre": "Roberto de Vicenzo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06638"
+    ]
+  },
+  "total": 16
+}

@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.3980844050316,
+        "lon": -67.1444914624205
+      },
+      "departamento": {
+        "id": "42063",
+        "nombre": "Chical Co"
+      },
+      "id": "42063010",
+      "localidad_censal": {
+        "id": "42063010",
+        "nombre": "Algarrobo del Águila"
+      },
+      "municipio": {
+        "id": "420011",
+        "nombre": "Algarrobo del Águila"
+      },
+      "nombre": "Algarrobo del Águila",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.3490388802789,
+        "lon": -68.0135207257269
+      },
+      "departamento": {
+        "id": "42063",
+        "nombre": "Chical Co"
+      },
+      "id": "42063020",
+      "localidad_censal": {
+        "id": "42063020",
+        "nombre": "La Humada"
+      },
+      "municipio": {
+        "id": "420196",
+        "nombre": "La Humada"
+      },
+      "nombre": "La Humada",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42063"
+    ]
+  },
+  "total": 2
+}

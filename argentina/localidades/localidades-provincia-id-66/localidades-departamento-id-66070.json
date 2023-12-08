@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.8362080127934,
+        "lon": -65.2155381304384
+      },
+      "departamento": {
+        "id": "66070",
+        "nombre": "Iruya"
+      },
+      "id": "66070030",
+      "localidad_censal": {
+        "id": "66070030",
+        "nombre": "Pueblo Viejo"
+      },
+      "municipio": {
+        "id": "660175",
+        "nombre": "Iruya"
+      },
+      "nombre": "Pueblo Viejo",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.7921073376729,
+        "lon": -65.216284390102
+      },
+      "departamento": {
+        "id": "66070",
+        "nombre": "Iruya"
+      },
+      "id": "66070010",
+      "localidad_censal": {
+        "id": "66070010",
+        "nombre": "Iruya"
+      },
+      "municipio": {
+        "id": "660175",
+        "nombre": "Iruya"
+      },
+      "nombre": "Iruya",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.8991389794964,
+        "lon": -64.665199431842
+      },
+      "departamento": {
+        "id": "66070",
+        "nombre": "Iruya"
+      },
+      "id": "66070020",
+      "localidad_censal": {
+        "id": "66070020",
+        "nombre": "Isla de Cañas"
+      },
+      "municipio": {
+        "id": "660182",
+        "nombre": "Isla de Cañas"
+      },
+      "nombre": "Isla de Cañas",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66070"
+    ]
+  },
+  "total": 3
+}

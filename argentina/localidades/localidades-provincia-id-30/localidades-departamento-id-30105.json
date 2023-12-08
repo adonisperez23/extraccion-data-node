@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.5335417495954,
+        "lon": -60.0354527750223
+      },
+      "departamento": {
+        "id": "30105",
+        "nombre": "Victoria"
+      },
+      "id": "30105010",
+      "localidad_censal": {
+        "id": "30105010",
+        "nombre": "Antelo"
+      },
+      "municipio": {
+        "id": "303196",
+        "nombre": "Antelo"
+      },
+      "nombre": "Antelo",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.3068249744527,
+        "lon": -60.423089442856
+      },
+      "departamento": {
+        "id": "30105",
+        "nombre": "Victoria"
+      },
+      "id": "30105040",
+      "localidad_censal": {
+        "id": "30105040",
+        "nombre": "Molino Doll"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Molino Doll",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6216058234351,
+        "lon": -60.1579539516715
+      },
+      "departamento": {
+        "id": "30105",
+        "nombre": "Victoria"
+      },
+      "id": "30105060",
+      "localidad_censal": {
+        "id": "30105060",
+        "nombre": "Victoria"
+      },
+      "municipio": {
+        "id": "300469",
+        "nombre": "Victoria"
+      },
+      "nombre": "Victoria",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "30105"
+    ]
+  },
+  "total": 3
+}

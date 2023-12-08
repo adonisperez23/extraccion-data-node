@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.8563597027019,
+        "lon": -64.379558101433
+      },
+      "departamento": {
+        "id": "14007",
+        "nombre": "Calamuchita"
+      },
+      "id": "1400712001",
+      "localidad_censal": {
+        "id": "14007120",
+        "nombre": "Los Molinos"
+      },
+      "municipio": {
+        "id": "142042",
+        "nombre": "Los Molinos"
+      },
+      "nombre": "Los Molinos",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.8634283575435,
+        "lon": -64.3749971056873
+      },
+      "departamento": {
+        "id": "14007",
+        "nombre": "Calamuchita"
+      },
+      "id": "1400712002",
+      "localidad_censal": {
+        "id": "14007120",
+        "nombre": "Los Molinos"
+      },
+      "municipio": {
+        "id": "142042",
+        "nombre": "Los Molinos"
+      },
+      "nombre": "Villa San Miguel",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.0688257152431,
+        "lon": -64.5743119195038
+      },
+      "departamento": {
+        "id": "14007",
+        "nombre": "Calamuchita"
+      },
+      "id": "1400721001",
+      "localidad_censal": {
+        "id": "14007210",
+        "nombre": "Santa Rosa de Calamuchita"
+      },
+      "municipio": {
+        "id": "140035",
+        "nombre": "Santa Rosa de Calamuchita"
+      },
+      "nombre": "Santa Mónica",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.0699095313468,
+        "lon": -64.5390917673383
+      },
+      "departamento": {
+        "id": "14007",
+        "nombre": "Calamuchita"
+      },
+      "id": "1400721002",
+      "localidad_censal": {
+        "id": "14007210",
+        "nombre": "Santa Rosa de Calamuchita"
+      },
+      "municipio": {
+        "id": "140035",
+        "nombre": "Santa Rosa de Calamuchita"
+      },
+      "nombre": "Santa Rosa de Calamuchita",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.0989506129028,
+        "lon": -64.5371421674543
+      },
+      "departamento": {
+        "id": "14007",
+        "nombre": "Calamuchita"
+      },
+      "id": "1400721003",
+      "localidad_censal": {
+        "id": "14007210",
+        "nombre": "Santa Rosa de Calamuchita"
+      },
+      "municipio": {
+        "id": "140035",
+        "nombre": "Santa Rosa de Calamuchita"
+      },
+      "nombre": "San Ignacio (Loteo Vélez Crespo)",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.9103714592552,
+        "lon": -64.5377457547189
+      },
+      "departamento": {
+        "id": "14007",
+        "nombre": "Calamuchita"
+      },
+      "id": "1400727001",
+      "localidad_censal": {
+        "id": "14007270",
+        "nombre": "Villa Ciudad Parque Los Reartes"
+      },
+      "municipio": {
+        "id": "142084",
+        "nombre": "Villa Ciudad Parque Los Reartes"
+      },
+      "nombre": "Villa Ciudad Parque Los Reartes",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.9142481412202,
+        "lon": -64.5259122990344
+      },
+      "departamento": {
+        "id": "14007",
+        "nombre": "Calamuchita"
+      },
+      "id": "1400727002",
+      "localidad_censal": {
+        "id": "14007270",
+        "nombre": "Villa Ciudad Parque Los Reartes"
+      },
+      "municipio": {
+        "id": "142084",
+        "nombre": "Villa Ciudad Parque Los Reartes"
+      },
+      "nombre": "Va.Ciudad Pque.Los Reartes (1° Sección)",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.904934350576,
+        "lon": -64.5613666819537
+      },
+      "departamento": {
+        "id": "14007",
+        "nombre": "Calamuchita"
+      },
+      "id": "1400727003",
+      "localidad_censal": {
+        "id": "14007270",
+        "nombre": "Villa Ciudad Parque Los Reartes"
+      },
+      "municipio": {
+        "id": "142084",
+        "nombre": "Villa Ciudad Parque Los Reartes"
+      },
+      "nombre": "Va.Ciudad Pque.Los Reartes (3° Sección)",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.1745792840367,
+        "lon": -64.5732436463006
+      },
+      "departamento": {
+        "id": "14007",
+        "nombre": "Calamuchita"
+      },
+      "id": "14007010",
+      "localidad_censal": {
+        "id": "14007010",
+        "nombre": "Amboy"
+      },
+      "municipio": {
+        "id": "142007",
+        "nombre": "Amboy"
+      },
+      "nombre": "Amboy",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.2562251197951,
+        "lon": -64.6077980473932
+      },
+      "departamento": {
+        "id": "14007",
+        "nombre": "Calamuchita"
+      },
+      "id": "14007020",
+      "localidad_censal": {
+        "id": "14007020",
+        "nombre": "Arroyo San Antonio"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Arroyo San Antonio",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14007"
+    ]
+  },
+  "total": 40
+}

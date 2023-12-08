@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1744471620908,
+        "lon": -64.9920618144743
+      },
+      "departamento": {
+        "id": "14098",
+        "nombre": "Río Cuarto"
+      },
+      "id": "14098010",
+      "localidad_censal": {
+        "id": "14098010",
+        "nombre": "Achiras"
+      },
+      "municipio": {
+        "id": "140756",
+        "nombre": "Achiras"
+      },
+      "nombre": "Achiras",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.6320303880364,
+        "lon": -64.0216780090112
+      },
+      "departamento": {
+        "id": "14098",
+        "nombre": "Río Cuarto"
+      },
+      "id": "14098020",
+      "localidad_censal": {
+        "id": "14098020",
+        "nombre": "Adelia María"
+      },
+      "municipio": {
+        "id": "140763",
+        "nombre": "Adelia María"
+      },
+      "nombre": "Adelia María",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.7588292300939,
+        "lon": -64.3340334156491
+      },
+      "departamento": {
+        "id": "14098",
+        "nombre": "Río Cuarto"
+      },
+      "id": "14098030",
+      "localidad_censal": {
+        "id": "14098030",
+        "nombre": "Alcira"
+      },
+      "municipio": {
+        "id": "140770",
+        "nombre": "Alcira"
+      },
+      "nombre": "Alcira Gigena",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6921124082415,
+        "lon": -64.7235966023545
+      },
+      "departamento": {
+        "id": "14098",
+        "nombre": "Río Cuarto"
+      },
+      "id": "14098040",
+      "localidad_censal": {
+        "id": "14098040",
+        "nombre": "Alpa Corral"
+      },
+      "municipio": {
+        "id": "140777",
+        "nombre": "Alpa Corral"
+      },
+      "nombre": "Alpa Corral",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.4528417351187,
+        "lon": -64.3879391106245
+      },
+      "departamento": {
+        "id": "14098",
+        "nombre": "Río Cuarto"
+      },
+      "id": "14098050",
+      "localidad_censal": {
+        "id": "14098050",
+        "nombre": "Berrotarán"
+      },
+      "municipio": {
+        "id": "140784",
+        "nombre": "Berrotarán"
+      },
+      "nombre": "Berrotarán",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.5059261778155,
+        "lon": -64.6782186707837
+      },
+      "departamento": {
+        "id": "14098",
+        "nombre": "Río Cuarto"
+      },
+      "id": "14098060",
+      "localidad_censal": {
+        "id": "14098060",
+        "nombre": "Bulnes"
+      },
+      "municipio": {
+        "id": "140791",
+        "nombre": "Bulnes"
+      },
+      "nombre": "Bulnes",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.5556299871625,
+        "lon": -65.0026547353906
+      },
+      "departamento": {
+        "id": "14098",
+        "nombre": "Río Cuarto"
+      },
+      "id": "14098070",
+      "localidad_censal": {
+        "id": "14098070",
+        "nombre": "Chaján"
+      },
+      "municipio": {
+        "id": "140798",
+        "nombre": "Chaján"
+      },
+      "nombre": "Chaján",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0093371221871,
+        "lon": -64.1699747861705
+      },
+      "departamento": {
+        "id": "14098",
+        "nombre": "Río Cuarto"
+      },
+      "id": "14098080",
+      "localidad_censal": {
+        "id": "14098080",
+        "nombre": "Chucul"
+      },
+      "municipio": {
+        "id": "142553",
+        "nombre": "Chucul"
+      },
+      "nombre": "Chucul",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.8474045290245,
+        "lon": -64.3610770121251
+      },
+      "departamento": {
+        "id": "14098",
+        "nombre": "Río Cuarto"
+      },
+      "id": "14098090",
+      "localidad_censal": {
+        "id": "14098090",
+        "nombre": "Coronel Baigorria"
+      },
+      "municipio": {
+        "id": "140805",
+        "nombre": "Coronel Baigorria"
+      },
+      "nombre": "Coronel Baigorria",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.6227285213653,
+        "lon": -64.5970481396538
+      },
+      "departamento": {
+        "id": "14098",
+        "nombre": "Río Cuarto"
+      },
+      "id": "14098100",
+      "localidad_censal": {
+        "id": "14098100",
+        "nombre": "Coronel Moldes"
+      },
+      "municipio": {
+        "id": "140812",
+        "nombre": "Coronel Moldes"
+      },
+      "nombre": "Coronel Moldes",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14098"
+    ]
+  },
+  "total": 30
+}

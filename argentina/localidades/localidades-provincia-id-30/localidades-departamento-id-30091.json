@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0877800983375,
+        "lon": -59.1747316014494
+      },
+      "departamento": {
+        "id": "30091",
+        "nombre": "Tala"
+      },
+      "id": "30091010",
+      "localidad_censal": {
+        "id": "30091010",
+        "nombre": "Altamirano Sur"
+      },
+      "municipio": {
+        "id": "309790",
+        "nombre": "Altamirano Sur"
+      },
+      "nombre": "Altamirano Sur",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.9858807820586,
+        "lon": -59.2792940251352
+      },
+      "departamento": {
+        "id": "30091",
+        "nombre": "Tala"
+      },
+      "id": "30091020",
+      "localidad_censal": {
+        "id": "30091020",
+        "nombre": "Durazno"
+      },
+      "municipio": {
+        "id": "303091",
+        "nombre": "Durazno"
+      },
+      "nombre": "Durazno",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6350310386839,
+        "lon": -59.4015034243036
+      },
+      "departamento": {
+        "id": "30091",
+        "nombre": "Tala"
+      },
+      "id": "30091030",
+      "localidad_censal": {
+        "id": "30091030",
+        "nombre": "Arroyo Clé"
+      },
+      "municipio": {
+        "id": "309795",
+        "nombre": "Arroyo Cle"
+      },
+      "nombre": "Estación Arroyo Clé",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.3933721966686,
+        "lon": -59.2758896426831
+      },
+      "departamento": {
+        "id": "30091",
+        "nombre": "Tala"
+      },
+      "id": "30091040",
+      "localidad_censal": {
+        "id": "30091040",
+        "nombre": "Gobernador Echagüe"
+      },
+      "municipio": {
+        "id": "303098",
+        "nombre": "Gobernador Echagüe"
+      },
+      "nombre": "Gobernador Echagüe",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.5454358721796,
+        "lon": -59.3566188061038
+      },
+      "departamento": {
+        "id": "30091",
+        "nombre": "Tala"
+      },
+      "id": "30091050",
+      "localidad_censal": {
+        "id": "30091050",
+        "nombre": "Gobernador Mansilla"
+      },
+      "municipio": {
+        "id": "300392",
+        "nombre": "Gobernador Mansilla"
+      },
+      "nombre": "Gobernador Mansilla",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.336522574321,
+        "lon": -59.3727853441384
+      },
+      "departamento": {
+        "id": "30091",
+        "nombre": "Tala"
+      },
+      "id": "30091060",
+      "localidad_censal": {
+        "id": "30091060",
+        "nombre": "Gobernador Sola"
+      },
+      "municipio": {
+        "id": "303112",
+        "nombre": "Gobernador Sola"
+      },
+      "nombre": "Gobernador Solá",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0811453250374,
+        "lon": -59.3059536407295
+      },
+      "departamento": {
+        "id": "30091",
+        "nombre": "Tala"
+      },
+      "id": "30091070",
+      "localidad_censal": {
+        "id": "30091070",
+        "nombre": "Guardamonte"
+      },
+      "municipio": {
+        "id": "303119",
+        "nombre": "Guardamonte"
+      },
+      "nombre": "Guardamonte",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.4702188089563,
+        "lon": -59.1729259161367
+      },
+      "departamento": {
+        "id": "30091",
+        "nombre": "Tala"
+      },
+      "id": "30091080",
+      "localidad_censal": {
+        "id": "30091080",
+        "nombre": "Las Guachas"
+      },
+      "municipio": {
+        "id": "309825",
+        "nombre": "Las Guachas"
+      },
+      "nombre": "Las Guachas",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.1746842191822,
+        "lon": -59.3979704528443
+      },
+      "departamento": {
+        "id": "30091",
+        "nombre": "Tala"
+      },
+      "id": "30091090",
+      "localidad_censal": {
+        "id": "30091090",
+        "nombre": "Maciá"
+      },
+      "municipio": {
+        "id": "300399",
+        "nombre": "Maciá"
+      },
+      "nombre": "Maciá",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.3006755060116,
+        "lon": -59.1390668036666
+      },
+      "departamento": {
+        "id": "30091",
+        "nombre": "Tala"
+      },
+      "id": "30091100",
+      "localidad_censal": {
+        "id": "30091100",
+        "nombre": "Rosario del Tala"
+      },
+      "municipio": {
+        "id": "300406",
+        "nombre": "Rosario del Tala"
+      },
+      "nombre": "Rosario del Tala",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "30091"
+    ]
+  },
+  "total": 10
+}

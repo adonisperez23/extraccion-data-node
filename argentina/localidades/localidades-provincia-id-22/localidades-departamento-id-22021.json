@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.7909717754736,
+        "lon": -60.4412483249411
+      },
+      "departamento": {
+        "id": "22021",
+        "nombre": "Comandante Fernández"
+      },
+      "id": "22021010",
+      "localidad_censal": {
+        "id": "22021010",
+        "nombre": "Presidencia Roque Sáenz Peña"
+      },
+      "municipio": {
+        "id": "220077",
+        "nombre": "Presidencia Roque Sáenz Peña"
+      },
+      "nombre": "Presidencia Roque Sáenz Peña",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22021"
+    ]
+  },
+  "total": 1
+}

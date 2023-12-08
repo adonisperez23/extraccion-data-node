@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.1023583664882,
+        "lon": -60.088892156522
+      },
+      "departamento": {
+        "id": "82035",
+        "nombre": "Garay"
+      },
+      "id": "82035020",
+      "localidad_censal": {
+        "id": "82035020",
+        "nombre": "Helvecia"
+      },
+      "municipio": {
+        "id": "822553",
+        "nombre": "Helvecia"
+      },
+      "nombre": "Helvecia",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.4203863328414,
+        "lon": -60.3326831079652
+      },
+      "departamento": {
+        "id": "82035",
+        "nombre": "Garay"
+      },
+      "id": "82035050",
+      "localidad_censal": {
+        "id": "82035050",
+        "nombre": "Santa Rosa de Calchines"
+      },
+      "municipio": {
+        "id": "822567",
+        "nombre": "Santa Rosa de Calchines"
+      },
+      "nombre": "Santa Rosa de Calchines",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.2007506608006,
+        "lon": -60.1593537908308
+      },
+      "departamento": {
+        "id": "82035",
+        "nombre": "Garay"
+      },
+      "id": "82035010",
+      "localidad_censal": {
+        "id": "82035010",
+        "nombre": "Cayastá"
+      },
+      "municipio": {
+        "id": "822539",
+        "nombre": "Cayastá"
+      },
+      "nombre": "Cayastá",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.4920030542134,
+        "lon": -60.4289774874059
+      },
+      "departamento": {
+        "id": "82035",
+        "nombre": "Garay"
+      },
+      "id": "82035030",
+      "localidad_censal": {
+        "id": "82035030",
+        "nombre": "Los Zapallos"
+      },
+      "municipio": {
+        "id": "822567",
+        "nombre": "Santa Rosa de Calchines"
+      },
+      "nombre": "Los Zapallos",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.8806050987998,
+        "lon": -60.035242547062
+      },
+      "departamento": {
+        "id": "82035",
+        "nombre": "Garay"
+      },
+      "id": "82035040",
+      "localidad_censal": {
+        "id": "82035040",
+        "nombre": "Saladero Mariano Cabal"
+      },
+      "municipio": {
+        "id": "822560",
+        "nombre": "Saladero Mariano Cabal"
+      },
+      "nombre": "Saladero Mariano Cabal",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "82035"
+    ]
+  },
+  "total": 5
+}

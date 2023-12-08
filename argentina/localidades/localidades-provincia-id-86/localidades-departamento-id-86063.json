@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.4438934389945,
+        "lon": -64.9294023509419
+      },
+      "departamento": {
+        "id": "86063",
+        "nombre": "Choya"
+      },
+      "id": "86063010",
+      "localidad_censal": {
+        "id": "86063010",
+        "nombre": "Ancaján"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Ancaján",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -28.4037546106213,
+        "lon": -65.0962494325382
+      },
+      "departamento": {
+        "id": "86063",
+        "nombre": "Choya"
+      },
+      "id": "86063080",
+      "localidad_censal": {
+        "id": "86063080",
+        "nombre": "Tapso"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Tapso",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.3756319929947,
+        "lon": -64.5305517169134
+      },
+      "departamento": {
+        "id": "86063",
+        "nombre": "Choya"
+      },
+      "id": "86063050",
+      "localidad_censal": {
+        "id": "86063050",
+        "nombre": "Laprida"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Laprida",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6375441857012,
+        "lon": -65.1287283523686
+      },
+      "departamento": {
+        "id": "86063",
+        "nombre": "Choya"
+      },
+      "id": "86063040",
+      "localidad_censal": {
+        "id": "86063040",
+        "nombre": "Frí­as"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Frías",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.3697259938311,
+        "lon": -64.7946719966444
+      },
+      "departamento": {
+        "id": "86063",
+        "nombre": "Choya"
+      },
+      "id": "86063090",
+      "localidad_censal": {
+        "id": "86063090",
+        "nombre": "Villa La Punta"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Villa La Punta",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.4961034265278,
+        "lon": -64.856284376695
+      },
+      "departamento": {
+        "id": "86063",
+        "nombre": "Choya"
+      },
+      "id": "86063020",
+      "localidad_censal": {
+        "id": "86063020",
+        "nombre": "Choya"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Choya",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.4102994601221,
+        "lon": -64.7553659569935
+      },
+      "departamento": {
+        "id": "86063",
+        "nombre": "Choya"
+      },
+      "id": "86063030",
+      "localidad_censal": {
+        "id": "86063030",
+        "nombre": "Estación La Punta"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Estación La Punta",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.4680342415624,
+        "lon": -64.8669763387871
+      },
+      "departamento": {
+        "id": "86063",
+        "nombre": "Choya"
+      },
+      "id": "86063070",
+      "localidad_censal": {
+        "id": "86063070",
+        "nombre": "San Pedro"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "San Pedro",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86063"
+    ]
+  },
+  "total": 8
+}

@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.3693159694486,
+        "lon": -69.1465922989995
+      },
+      "departamento": {
+        "id": "50126",
+        "nombre": "Tupungato"
+      },
+      "id": "5012606001",
+      "localidad_censal": {
+        "id": "50126060",
+        "nombre": "Tupungato"
+      },
+      "municipio": {
+        "id": "500126",
+        "nombre": "Tupungato"
+      },
+      "nombre": "Tupungato",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.3508625463177,
+        "lon": -69.1369805928994
+      },
+      "departamento": {
+        "id": "50126",
+        "nombre": "Tupungato"
+      },
+      "id": "5012606002",
+      "localidad_censal": {
+        "id": "50126060",
+        "nombre": "Tupungato"
+      },
+      "municipio": {
+        "id": "500126",
+        "nombre": "Tupungato"
+      },
+      "nombre": "Villa Bastias",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.3307856688247,
+        "lon": -69.1261640831275
+      },
+      "departamento": {
+        "id": "50126",
+        "nombre": "Tupungato"
+      },
+      "id": "50126010",
+      "localidad_censal": {
+        "id": "50126010",
+        "nombre": "Barrio Belgrano Norte"
+      },
+      "municipio": {
+        "id": "500126",
+        "nombre": "Tupungato"
+      },
+      "nombre": "Barrio Belgrano Norte",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.4624304577156,
+        "lon": -69.143259066239
+      },
+      "departamento": {
+        "id": "50126",
+        "nombre": "Tupungato"
+      },
+      "id": "50126020",
+      "localidad_censal": {
+        "id": "50126020",
+        "nombre": "Cordón del Plata"
+      },
+      "municipio": {
+        "id": "500126",
+        "nombre": "Tupungato"
+      },
+      "nombre": "Cordón del Plata",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.3990666467458,
+        "lon": -69.1057397865026
+      },
+      "departamento": {
+        "id": "50126",
+        "nombre": "Tupungato"
+      },
+      "id": "50126035",
+      "localidad_censal": {
+        "id": "50126035",
+        "nombre": "El Zampal"
+      },
+      "municipio": {
+        "id": "500126",
+        "nombre": "Tupungato"
+      },
+      "nombre": "El Zampal",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.3614609687859,
+        "lon": -69.1196031138833
+      },
+      "departamento": {
+        "id": "50126",
+        "nombre": "Tupungato"
+      },
+      "id": "50126040",
+      "localidad_censal": {
+        "id": "50126040",
+        "nombre": "La Arboleda"
+      },
+      "municipio": {
+        "id": "500126",
+        "nombre": "Tupungato"
+      },
+      "nombre": "La Arboleda",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.3082825254093,
+        "lon": -69.1528988847786
+      },
+      "departamento": {
+        "id": "50126",
+        "nombre": "Tupungato"
+      },
+      "id": "50126050",
+      "localidad_censal": {
+        "id": "50126050",
+        "nombre": "San José"
+      },
+      "municipio": {
+        "id": "500126",
+        "nombre": "Tupungato"
+      },
+      "nombre": "San José",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.3671344564996,
+        "lon": -69.184087743799
+      },
+      "departamento": {
+        "id": "50126",
+        "nombre": "Tupungato"
+      },
+      "id": "50126030",
+      "localidad_censal": {
+        "id": "50126030",
+        "nombre": "El Peral"
+      },
+      "municipio": {
+        "id": "500126",
+        "nombre": "Tupungato"
+      },
+      "nombre": "El Peral",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.3728409074166,
+        "lon": -69.1475742860632
+      },
+      "departamento": {
+        "id": "50126",
+        "nombre": "Tupungato"
+      },
+      "id": "50126060",
+      "localidad_censal": {
+        "id": "50126060",
+        "nombre": "Tupungato"
+      },
+      "municipio": {
+        "id": "500126",
+        "nombre": "Tupungato"
+      },
+      "nombre": "Tupungato",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "50126"
+    ]
+  },
+  "total": 9
+}

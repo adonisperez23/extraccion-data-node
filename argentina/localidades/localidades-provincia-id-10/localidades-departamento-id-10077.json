@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.2625721317543,
+        "lon": -65.6373471946803
+      },
+      "departamento": {
+        "id": "10077",
+        "nombre": "Paclín"
+      },
+      "id": "10077010",
+      "localidad_censal": {
+        "id": "10077010",
+        "nombre": "Amadores"
+      },
+      "municipio": {
+        "id": "100182",
+        "nombre": "Paclín"
+      },
+      "nombre": "Amadores",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9396601365619,
+        "lon": -65.6976635982792
+      },
+      "departamento": {
+        "id": "10077",
+        "nombre": "Paclín"
+      },
+      "id": "10077040",
+      "localidad_censal": {
+        "id": "10077040",
+        "nombre": "La Higuera"
+      },
+      "municipio": {
+        "id": "100182",
+        "nombre": "Paclín"
+      },
+      "nombre": "La Higuera",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.1544077397567,
+        "lon": -65.6594385462931
+      },
+      "departamento": {
+        "id": "10077",
+        "nombre": "Paclín"
+      },
+      "id": "10077050",
+      "localidad_censal": {
+        "id": "10077050",
+        "nombre": "La Merced"
+      },
+      "municipio": {
+        "id": "100182",
+        "nombre": "Paclín"
+      },
+      "nombre": "La Merced",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.0392837807742,
+        "lon": -65.5968360756269
+      },
+      "departamento": {
+        "id": "10077",
+        "nombre": "Paclín"
+      },
+      "id": "10077060",
+      "localidad_censal": {
+        "id": "10077060",
+        "nombre": "La Viña"
+      },
+      "municipio": {
+        "id": "100182",
+        "nombre": "Paclín"
+      },
+      "nombre": "La Viña",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.8381591887716,
+        "lon": -65.7294653565801
+      },
+      "departamento": {
+        "id": "10077",
+        "nombre": "Paclín"
+      },
+      "id": "10077070",
+      "localidad_censal": {
+        "id": "10077070",
+        "nombre": "Las Lajas"
+      },
+      "municipio": {
+        "id": "100182",
+        "nombre": "Paclín"
+      },
+      "nombre": "Las Lajas",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.1790226989676,
+        "lon": -65.6627541955027
+      },
+      "departamento": {
+        "id": "10077",
+        "nombre": "Paclín"
+      },
+      "id": "10077080",
+      "localidad_censal": {
+        "id": "10077080",
+        "nombre": "Monte Potrero"
+      },
+      "municipio": {
+        "id": "100182",
+        "nombre": "Paclín"
+      },
+      "nombre": "Monte Potrero",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.3210385814734,
+        "lon": -65.6193479149477
+      },
+      "departamento": {
+        "id": "10077",
+        "nombre": "Paclín"
+      },
+      "id": "10077090",
+      "localidad_censal": {
+        "id": "10077090",
+        "nombre": "Palo Labrado"
+      },
+      "municipio": {
+        "id": "100182",
+        "nombre": "Paclín"
+      },
+      "nombre": "Palo Labrado",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.0084614266576,
+        "lon": -65.7104578503512
+      },
+      "departamento": {
+        "id": "10077",
+        "nombre": "Paclín"
+      },
+      "id": "10077100",
+      "localidad_censal": {
+        "id": "10077100",
+        "nombre": "San Antonio"
+      },
+      "municipio": {
+        "id": "100182",
+        "nombre": "Paclín"
+      },
+      "nombre": "San Antonio",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.8826117613613,
+        "lon": -65.7278189496364
+      },
+      "departamento": {
+        "id": "10077",
+        "nombre": "Paclín"
+      },
+      "id": "10077110",
+      "localidad_censal": {
+        "id": "10077110",
+        "nombre": "Villa de Balcozna"
+      },
+      "municipio": {
+        "id": "100182",
+        "nombre": "Paclín"
+      },
+      "nombre": "Villa de Balcozna",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "10077"
+    ]
+  },
+  "total": 9
+}

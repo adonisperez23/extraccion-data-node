@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4340815369012,
+        "lon": -65.1642407603942
+      },
+      "departamento": {
+        "id": "90091",
+        "nombre": "Simoca"
+      },
+      "id": "90091060",
+      "localidad_censal": {
+        "id": "90091060",
+        "nombre": "Villa Chicligasta"
+      },
+      "municipio": {
+        "id": "908553",
+        "nombre": "Villa Chicligasta"
+      },
+      "nombre": "Villa Chicligasta",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.510776781948,
+        "lon": -65.2773295398962
+      },
+      "departamento": {
+        "id": "90091",
+        "nombre": "Simoca"
+      },
+      "id": "90091020",
+      "localidad_censal": {
+        "id": "90091020",
+        "nombre": "Monteagudo"
+      },
+      "municipio": {
+        "id": "908518",
+        "nombre": "Monteagudo"
+      },
+      "nombre": "Monteagudo",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4168673549348,
+        "lon": -65.2866811539166
+      },
+      "departamento": {
+        "id": "90091",
+        "nombre": "Simoca"
+      },
+      "id": "90091010",
+      "localidad_censal": {
+        "id": "90091010",
+        "nombre": "Atahona"
+      },
+      "municipio": {
+        "id": "908490",
+        "nombre": "Atahona"
+      },
+      "nombre": "Atahona",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3894471673393,
+        "lon": -65.4580738397899
+      },
+      "departamento": {
+        "id": "90091",
+        "nombre": "Simoca"
+      },
+      "id": "90091040",
+      "localidad_censal": {
+        "id": "90091040",
+        "nombre": "Santa Cruz"
+      },
+      "municipio": {
+        "id": "908546",
+        "nombre": "Santa Cruz y La Tuna"
+      },
+      "nombre": "Santa Cruz",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4845113363813,
+        "lon": -65.4912509331708
+      },
+      "departamento": {
+        "id": "90091",
+        "nombre": "Simoca"
+      },
+      "id": "90091030",
+      "localidad_censal": {
+        "id": "90091030",
+        "nombre": "Nueva Trinidad"
+      },
+      "municipio": {
+        "id": "908532",
+        "nombre": "Río Chico y Nueva Trinidad"
+      },
+      "nombre": "Nueva Trinidad",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.262904015139,
+        "lon": -65.3579173017904
+      },
+      "departamento": {
+        "id": "90091",
+        "nombre": "Simoca"
+      },
+      "id": "90091050",
+      "localidad_censal": {
+        "id": "90091050",
+        "nombre": "Simoca"
+      },
+      "municipio": {
+        "id": "900098",
+        "nombre": "Simoca"
+      },
+      "nombre": "Simoca",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "90091"
+    ]
+  },
+  "total": 6
+}

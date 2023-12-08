@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.7274016897704,
+        "lon": -64.1954659803225
+      },
+      "departamento": {
+        "id": "66007",
+        "nombre": "Anta"
+      },
+      "id": "66007100",
+      "localidad_censal": {
+        "id": "66007100",
+        "nombre": "Las Lajitas"
+      },
+      "municipio": {
+        "id": "660035",
+        "nombre": "Las Lajitas"
+      },
+      "nombre": "Las Lajitas",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.3886517618513,
+        "lon": -63.9878609304749
+      },
+      "departamento": {
+        "id": "66007",
+        "nombre": "Anta"
+      },
+      "id": "66007110",
+      "localidad_censal": {
+        "id": "66007110",
+        "nombre": "Luis Burela"
+      },
+      "municipio": {
+        "id": "660021",
+        "nombre": "General Pizarro"
+      },
+      "nombre": "Luis Burela",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.8208499637771,
+        "lon": -64.1776669022563
+      },
+      "departamento": {
+        "id": "66007",
+        "nombre": "Anta"
+      },
+      "id": "66007140",
+      "localidad_censal": {
+        "id": "66007140",
+        "nombre": "Piquete Cabado"
+      },
+      "municipio": {
+        "id": "660028",
+        "nombre": "Joaquín V. González"
+      },
+      "nombre": "Piquete Cabado",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.2275086114635,
+        "lon": -63.9885590458909
+      },
+      "departamento": {
+        "id": "66007",
+        "nombre": "Anta"
+      },
+      "id": "66007080",
+      "localidad_censal": {
+        "id": "66007080",
+        "nombre": "General Pizarro"
+      },
+      "municipio": {
+        "id": "660021",
+        "nombre": "General Pizarro"
+      },
+      "nombre": "General Pizarro",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.5400088547596,
+        "lon": -64.1008393435622
+      },
+      "departamento": {
+        "id": "66007",
+        "nombre": "Anta"
+      },
+      "id": "66007040",
+      "localidad_censal": {
+        "id": "66007040",
+        "nombre": "Coronel Mollinedo"
+      },
+      "municipio": {
+        "id": "660007",
+        "nombre": "Apolinario Saravia"
+      },
+      "nombre": "Coronel Mollinedo",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.4307774508554,
+        "lon": -63.9949453612836
+      },
+      "departamento": {
+        "id": "66007",
+        "nombre": "Anta"
+      },
+      "id": "66007010",
+      "localidad_censal": {
+        "id": "66007010",
+        "nombre": "Apolinario Saravia"
+      },
+      "municipio": {
+        "id": "660007",
+        "nombre": "Apolinario Saravia"
+      },
+      "nombre": "Apolinario Saravia",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.100544491003,
+        "lon": -64.2215706081892
+      },
+      "departamento": {
+        "id": "66007",
+        "nombre": "Anta"
+      },
+      "id": "66007050",
+      "localidad_censal": {
+        "id": "66007050",
+        "nombre": "Coronel Olleros"
+      },
+      "municipio": {
+        "id": "660028",
+        "nombre": "Joaquín V. González"
+      },
+      "nombre": "Coronel Olleros",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.331998582486,
+        "lon": -64.0176493740719
+      },
+      "departamento": {
+        "id": "66007",
+        "nombre": "Anta"
+      },
+      "id": "66007060",
+      "localidad_censal": {
+        "id": "66007060",
+        "nombre": "El Quebrachal"
+      },
+      "municipio": {
+        "id": "660014",
+        "nombre": "El Quebrachal"
+      },
+      "nombre": "El Quebrachal",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.2414908191714,
+        "lon": -64.0372176659907
+      },
+      "departamento": {
+        "id": "66007",
+        "nombre": "Anta"
+      },
+      "id": "66007070",
+      "localidad_censal": {
+        "id": "66007070",
+        "nombre": "Gaona"
+      },
+      "municipio": {
+        "id": "660014",
+        "nombre": "El Quebrachal"
+      },
+      "nombre": "Gaona",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.1173913945956,
+        "lon": -64.1247732363283
+      },
+      "departamento": {
+        "id": "66007",
+        "nombre": "Anta"
+      },
+      "id": "66007090",
+      "localidad_censal": {
+        "id": "66007090",
+        "nombre": "Joaquín V. Gonzalez"
+      },
+      "municipio": {
+        "id": "660028",
+        "nombre": "Joaquín V. González"
+      },
+      "nombre": "Joaquín V. González",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66007"
+    ]
+  },
+  "total": 16
+}

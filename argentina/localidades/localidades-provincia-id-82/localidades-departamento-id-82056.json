@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.603740815386,
+        "lon": -60.9474006363592
+      },
+      "departamento": {
+        "id": "82056",
+        "nombre": "Iriondo"
+      },
+      "id": "82056130",
+      "localidad_censal": {
+        "id": "82056130",
+        "nombre": "Serodino"
+      },
+      "municipio": {
+        "id": "822938",
+        "nombre": "Serodino"
+      },
+      "nombre": "Serodino",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.4623773523095,
+        "lon": -61.2903951726398
+      },
+      "departamento": {
+        "id": "82056",
+        "nombre": "Iriondo"
+      },
+      "id": "82056050",
+      "localidad_censal": {
+        "id": "82056050",
+        "nombre": "Classon"
+      },
+      "municipio": {
+        "id": "822896",
+        "nombre": "Classon"
+      },
+      "nombre": "Classon",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -32.6349730637308,
+        "lon": -60.8202265666262
+      },
+      "departamento": {
+        "id": "82056",
+        "nombre": "Iriondo"
+      },
+      "id": "82056160",
+      "localidad_censal": {
+        "id": "82056160",
+        "nombre": "Villa La Ribera (Oliveros)"
+      },
+      "municipio": {
+        "id": "822917",
+        "nombre": "Oliveros"
+      },
+      "nombre": "Villa La Rivera (Oliveros)",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -32.6388659356076,
+        "lon": -60.8226652162287
+      },
+      "departamento": {
+        "id": "82056",
+        "nombre": "Iriondo"
+      },
+      "id": "82056170",
+      "localidad_censal": {
+        "id": "82056170",
+        "nombre": "Villa La Ribera (Pueblo Andino)"
+      },
+      "municipio": {
+        "id": "822924",
+        "nombre": "Pueblo Andino"
+      },
+      "nombre": "Villa La Rivera (Pueblo Andino)",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.8486177247202,
+        "lon": -61.2544973435105
+      },
+      "departamento": {
+        "id": "82056",
+        "nombre": "Iriondo"
+      },
+      "id": "82056070",
+      "localidad_censal": {
+        "id": "82056070",
+        "nombre": "Correa"
+      },
+      "municipio": {
+        "id": "822903",
+        "nombre": "Correa"
+      },
+      "nombre": "Correa",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.5975464245976,
+        "lon": -61.3779651267946
+      },
+      "departamento": {
+        "id": "82056",
+        "nombre": "Iriondo"
+      },
+      "id": "82056060",
+      "localidad_censal": {
+        "id": "82056060",
+        "nombre": "Colonia Médici"
+      },
+      "municipio": {
+        "id": "822882",
+        "nombre": "Bustinza"
+      },
+      "nombre": "Colonia Médici",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6699421082672,
+        "lon": -60.8753783738369
+      },
+      "departamento": {
+        "id": "82056",
+        "nombre": "Iriondo"
+      },
+      "id": "82056110",
+      "localidad_censal": {
+        "id": "82056110",
+        "nombre": "Pueblo Andino"
+      },
+      "municipio": {
+        "id": "822924",
+        "nombre": "Pueblo Andino"
+      },
+      "nombre": "Pueblo Andino",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.8212161641876,
+        "lon": -61.3951986808447
+      },
+      "departamento": {
+        "id": "82056",
+        "nombre": "Iriondo"
+      },
+      "id": "82056030",
+      "localidad_censal": {
+        "id": "82056030",
+        "nombre": "Cañada de Gómez"
+      },
+      "municipio": {
+        "id": "820126",
+        "nombre": "Cañada de Gómez"
+      },
+      "nombre": "Cañada de Gómez",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.9638882646234,
+        "lon": -61.5510135195736
+      },
+      "departamento": {
+        "id": "82056",
+        "nombre": "Iriondo"
+      },
+      "id": "82056150",
+      "localidad_censal": {
+        "id": "82056150",
+        "nombre": "Villa Eloísa"
+      },
+      "municipio": {
+        "id": "822945",
+        "nombre": "Villa Eloísa"
+      },
+      "nombre": "Villa Eloísa",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6660588029387,
+        "lon": -61.0882080982879
+      },
+      "departamento": {
+        "id": "82056",
+        "nombre": "Iriondo"
+      },
+      "id": "82056120",
+      "localidad_censal": {
+        "id": "82056120",
+        "nombre": "Salto Grande"
+      },
+      "municipio": {
+        "id": "822931",
+        "nombre": "Salto Grande"
+      },
+      "nombre": "Salto Grande",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "82056"
+    ]
+  },
+  "total": 17
+}

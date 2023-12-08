@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.4080860934361,
+        "lon": -56.9433578443012
+      },
+      "departamento": {
+        "id": "06336",
+        "nombre": "General Lavalle"
+      },
+      "id": "06336020",
+      "localidad_censal": {
+        "id": "06336020",
+        "nombre": "Pavón"
+      },
+      "municipio": {
+        "id": "060336",
+        "nombre": "General Lavalle"
+      },
+      "nombre": "General Lavalle",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06336"
+    ]
+  },
+  "total": 1
+}

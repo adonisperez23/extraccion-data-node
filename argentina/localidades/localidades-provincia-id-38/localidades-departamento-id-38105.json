@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.4758185654919,
+        "lon": -64.9467698895773
+      },
+      "departamento": {
+        "id": "38105",
+        "nombre": "Valle Grande"
+      },
+      "id": "38105060",
+      "localidad_censal": {
+        "id": "38105060",
+        "nombre": "Valle Grande"
+      },
+      "municipio": {
+        "id": "386238",
+        "nombre": "Valle Grande"
+      },
+      "nombre": "Valle Grande",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.363371839558,
+        "lon": -65.0924381173466
+      },
+      "departamento": {
+        "id": "38105",
+        "nombre": "Valle Grande"
+      },
+      "id": "38105010",
+      "localidad_censal": {
+        "id": "38105010",
+        "nombre": "Caspalá"
+      },
+      "municipio": {
+        "id": "386210",
+        "nombre": "Caspalá"
+      },
+      "nombre": "Caspalá",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.5545915952429,
+        "lon": -65.0081791023336
+      },
+      "departamento": {
+        "id": "38105",
+        "nombre": "Valle Grande"
+      },
+      "id": "38105020",
+      "localidad_censal": {
+        "id": "38105020",
+        "nombre": "Pampichuela"
+      },
+      "municipio": {
+        "id": "386217",
+        "nombre": "Pampichuela"
+      },
+      "nombre": "Pampichuela",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.6220827260116,
+        "lon": -64.9506186804931
+      },
+      "departamento": {
+        "id": "38105",
+        "nombre": "Valle Grande"
+      },
+      "id": "38105030",
+      "localidad_censal": {
+        "id": "38105030",
+        "nombre": "San Francisco"
+      },
+      "municipio": {
+        "id": "386224",
+        "nombre": "San Francisco"
+      },
+      "nombre": "San Francisco",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.3559990045057,
+        "lon": -64.9891552627791
+      },
+      "departamento": {
+        "id": "38105",
+        "nombre": "Valle Grande"
+      },
+      "id": "38105040",
+      "localidad_censal": {
+        "id": "38105040",
+        "nombre": "Santa Ana"
+      },
+      "municipio": {
+        "id": "386231",
+        "nombre": "Santa Ana"
+      },
+      "nombre": "Santa Ana",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.4137353465543,
+        "lon": -64.9334191885008
+      },
+      "departamento": {
+        "id": "38105",
+        "nombre": "Valle Grande"
+      },
+      "id": "38105050",
+      "localidad_censal": {
+        "id": "38105050",
+        "nombre": "Valle Colorado"
+      },
+      "municipio": {
+        "id": "386231",
+        "nombre": "Santa Ana"
+      },
+      "nombre": "Valle Colorado",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "38105"
+    ]
+  },
+  "total": 6
+}

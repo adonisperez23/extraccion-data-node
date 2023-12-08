@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.144800394228,
+        "lon": -61.469507176368
+      },
+      "departamento": {
+        "id": "82014",
+        "nombre": "Caseros"
+      },
+      "id": "82014010",
+      "localidad_censal": {
+        "id": "82014010",
+        "nombre": "Arequito"
+      },
+      "municipio": {
+        "id": "822028",
+        "nombre": "Arequito"
+      },
+      "nombre": "Arequito",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.3408431220729,
+        "lon": -61.8620921917021
+      },
+      "departamento": {
+        "id": "82014",
+        "nombre": "Caseros"
+      },
+      "id": "82014030",
+      "localidad_censal": {
+        "id": "82014030",
+        "nombre": "Beravebú"
+      },
+      "municipio": {
+        "id": "822042",
+        "nombre": "Berabevú"
+      },
+      "nombre": "Beravebú",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0446976480953,
+        "lon": -61.1642010904025
+      },
+      "departamento": {
+        "id": "82014",
+        "nombre": "Caseros"
+      },
+      "id": "82014050",
+      "localidad_censal": {
+        "id": "82014050",
+        "nombre": "Casilda"
+      },
+      "municipio": {
+        "id": "820028",
+        "nombre": "Casilda"
+      },
+      "nombre": "Casilda",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1044795464708,
+        "lon": -61.3255640507782
+      },
+      "departamento": {
+        "id": "82014",
+        "nombre": "Caseros"
+      },
+      "id": "82014090",
+      "localidad_censal": {
+        "id": "82014090",
+        "nombre": "Los Molinos"
+      },
+      "municipio": {
+        "id": "822077",
+        "nombre": "Los Molinos"
+      },
+      "nombre": "Los Molinos",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1401348565952,
+        "lon": -61.6046539899734
+      },
+      "departamento": {
+        "id": "82014",
+        "nombre": "Caseros"
+      },
+      "id": "82014100",
+      "localidad_censal": {
+        "id": "82014100",
+        "nombre": "Los Nogales"
+      },
+      "municipio": {
+        "id": "822091",
+        "nombre": "San José de la Esquina"
+      },
+      "nombre": "Los Nogales",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.3748594819552,
+        "lon": -61.7104920093924
+      },
+      "departamento": {
+        "id": "82014",
+        "nombre": "Caseros"
+      },
+      "id": "82014110",
+      "localidad_censal": {
+        "id": "82014110",
+        "nombre": "Los Quirquinchos"
+      },
+      "municipio": {
+        "id": "822084",
+        "nombre": "Los Quirquinchos"
+      },
+      "nombre": "Los Quirquinchos",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1459879020981,
+        "lon": -61.2772000921421
+      },
+      "departamento": {
+        "id": "82014",
+        "nombre": "Caseros"
+      },
+      "id": "82014130",
+      "localidad_censal": {
+        "id": "82014130",
+        "nombre": "Sanford"
+      },
+      "municipio": {
+        "id": "822098",
+        "nombre": "Sanford"
+      },
+      "nombre": "Sanford",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0926816599494,
+        "lon": -61.7920112335548
+      },
+      "departamento": {
+        "id": "82014",
+        "nombre": "Caseros"
+      },
+      "id": "82014020",
+      "localidad_censal": {
+        "id": "82014020",
+        "nombre": "Arteaga"
+      },
+      "municipio": {
+        "id": "822035",
+        "nombre": "Arteaga"
+      },
+      "nombre": "Arteaga",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1122799042506,
+        "lon": -61.7026631156616
+      },
+      "departamento": {
+        "id": "82014",
+        "nombre": "Caseros"
+      },
+      "id": "82014120",
+      "localidad_censal": {
+        "id": "82014120",
+        "nombre": "San José de la Esquina"
+      },
+      "municipio": {
+        "id": "822091",
+        "nombre": "San José de la Esquina"
+      },
+      "nombre": "San José de la Esquina",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.348849210097,
+        "lon": -61.4466203172551
+      },
+      "departamento": {
+        "id": "82014",
+        "nombre": "Caseros"
+      },
+      "id": "82014140",
+      "localidad_censal": {
+        "id": "82014140",
+        "nombre": "Villada"
+      },
+      "municipio": {
+        "id": "822105",
+        "nombre": "Villada"
+      },
+      "nombre": "Villada",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "82014"
+    ]
+  },
+  "total": 14
+}

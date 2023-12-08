@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.8023878089949,
+        "lon": -59.5570832354769
+      },
+      "departamento": {
+        "id": "22154",
+        "nombre": "Sargento Cabral"
+      },
+      "id": "22154010",
+      "localidad_censal": {
+        "id": "22154010",
+        "nombre": "Capitán Solari"
+      },
+      "municipio": {
+        "id": "220434",
+        "nombre": "Capitán Solari"
+      },
+      "nombre": "Capitán Solari",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.9316357889598,
+        "lon": -59.5188114273782
+      },
+      "departamento": {
+        "id": "22154",
+        "nombre": "Sargento Cabral"
+      },
+      "id": "22154020",
+      "localidad_censal": {
+        "id": "22154020",
+        "nombre": "Colonia Elisa"
+      },
+      "municipio": {
+        "id": "220441",
+        "nombre": "Colonia Elisa"
+      },
+      "nombre": "Colonia Elisa",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.6983483793636,
+        "lon": -59.6322100649357
+      },
+      "departamento": {
+        "id": "22154",
+        "nombre": "Sargento Cabral"
+      },
+      "id": "22154030",
+      "localidad_censal": {
+        "id": "22154030",
+        "nombre": "Colonias Unidas"
+      },
+      "municipio": {
+        "id": "220448",
+        "nombre": "Colonias Unidas"
+      },
+      "nombre": "Colonias Unidas",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.002424705928,
+        "lon": -59.4826230875459
+      },
+      "departamento": {
+        "id": "22154",
+        "nombre": "Sargento Cabral"
+      },
+      "id": "22154040",
+      "localidad_censal": {
+        "id": "22154040",
+        "nombre": "Ingeniero Barbet"
+      },
+      "municipio": {
+        "id": "220441",
+        "nombre": "Colonia Elisa"
+      },
+      "nombre": "Ingeniero Barbet",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.6180677849294,
+        "lon": -59.7990423169377
+      },
+      "departamento": {
+        "id": "22154",
+        "nombre": "Sargento Cabral"
+      },
+      "id": "22154050",
+      "localidad_censal": {
+        "id": "22154050",
+        "nombre": "Las Garcitas"
+      },
+      "municipio": {
+        "id": "220455",
+        "nombre": "Las Garcitas"
+      },
+      "nombre": "Las Garcitas",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22154"
+    ]
+  },
+  "total": 5
+}

@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -44.1913673349593,
+        "lon": -71.6642206830995
+      },
+      "departamento": {
+        "id": "26098",
+        "nombre": "Tehuelches"
+      },
+      "id": "26098010",
+      "localidad_censal": {
+        "id": "26098010",
+        "nombre": "Doctor Oscar Atilio Viglione (Frontera de Río Pico)"
+      },
+      "municipio": {
+        "id": "268147",
+        "nombre": "Dr. Atilio Oscar Viglione"
+      },
+      "nombre": "Doctor Oscar Atilio Viglione (Frontera de Río Pico)",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -44.0487066290367,
+        "lon": -70.5990240935454
+      },
+      "departamento": {
+        "id": "26098",
+        "nombre": "Tehuelches"
+      },
+      "id": "26098020",
+      "localidad_censal": {
+        "id": "26098020",
+        "nombre": "Gobernador Costa"
+      },
+      "municipio": {
+        "id": "260147",
+        "nombre": "Gobernador Costa"
+      },
+      "nombre": "Gobernador Costa",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -44.0514653137899,
+        "lon": -70.4707413513195
+      },
+      "departamento": {
+        "id": "26098",
+        "nombre": "Tehuelches"
+      },
+      "id": "26098030",
+      "localidad_censal": {
+        "id": "26098030",
+        "nombre": "José de San Martín"
+      },
+      "municipio": {
+        "id": "260154",
+        "nombre": "José de San Martín"
+      },
+      "nombre": "José de San Martín",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -44.1793548777281,
+        "lon": -71.3683181076623
+      },
+      "departamento": {
+        "id": "26098",
+        "nombre": "Tehuelches"
+      },
+      "id": "26098040",
+      "localidad_censal": {
+        "id": "26098040",
+        "nombre": "Río Pico"
+      },
+      "municipio": {
+        "id": "260161",
+        "nombre": "Río Pico"
+      },
+      "nombre": "Río Pico",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "26098"
+    ]
+  },
+  "total": 4
+}

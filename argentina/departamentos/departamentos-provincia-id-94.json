@@ -1,0 +1,71 @@
+{
+  "cantidad": 5,
+  "departamentos": [
+    {
+      "centroide": {
+        "lat": -54.7704676359158,
+        "lon": -66.6836200601613
+      },
+      "id": "94015",
+      "nombre": "Ushuaia",
+      "provincia": {
+        "id": "94",
+        "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -82.7776766547034,
+        "lon": -50.6480306037361
+      },
+      "id": "94028",
+      "nombre": "Antártida Argentina",
+      "provincia": {
+        "id": "94",
+        "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -53.7462919871752,
+        "lon": -68.1361046544505
+      },
+      "id": "94008",
+      "nombre": "Río Grande",
+      "provincia": {
+        "id": "94",
+        "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -52.5006628799787,
+        "lon": -53.4026402162418
+      },
+      "id": "94021",
+      "nombre": "Islas del Atlántico Sur",
+      "provincia": {
+        "id": "94",
+        "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -54.4245608947124,
+        "lon": -67.5034849447963
+      },
+      "id": "94011",
+      "nombre": "Tolhuin",
+      "provincia": {
+        "id": "94",
+        "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+      }
+    }
+  ],
+  "inicio": 0,
+  "parametros": {
+    "max": 200,
+    "provincia": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+  },
+  "total": 5
+}

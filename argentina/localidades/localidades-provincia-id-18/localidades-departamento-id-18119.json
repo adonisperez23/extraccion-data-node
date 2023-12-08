@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.8174715349719,
+        "lon": -57.4278325390256
+      },
+      "departamento": {
+        "id": "18119",
+        "nombre": "Paso de los Libres"
+      },
+      "id": "18119010",
+      "localidad_censal": {
+        "id": "18119010",
+        "nombre": "Bonpland"
+      },
+      "municipio": {
+        "id": "180280",
+        "nombre": "Bonpland"
+      },
+      "nombre": "Bonpland",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.9060392794892,
+        "lon": -57.5741688351701
+      },
+      "departamento": {
+        "id": "18119",
+        "nombre": "Paso de los Libres"
+      },
+      "id": "18119020",
+      "localidad_censal": {
+        "id": "18119020",
+        "nombre": "Parada Pucheta"
+      },
+      "municipio": {
+        "id": "180287",
+        "nombre": "Parada Pucheta"
+      },
+      "nombre": "Parada Pucheta",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.7137148107283,
+        "lon": -57.085405398509
+      },
+      "departamento": {
+        "id": "18119",
+        "nombre": "Paso de los Libres"
+      },
+      "id": "18119030",
+      "localidad_censal": {
+        "id": "18119030",
+        "nombre": "Paso de los Libres"
+      },
+      "municipio": {
+        "id": "180294",
+        "nombre": "Paso de los Libres"
+      },
+      "nombre": "Paso de los Libres",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.5068220837034,
+        "lon": -56.9748504032869
+      },
+      "departamento": {
+        "id": "18119",
+        "nombre": "Paso de los Libres"
+      },
+      "id": "18119040",
+      "localidad_censal": {
+        "id": "18119040",
+        "nombre": "Tapebicuá"
+      },
+      "municipio": {
+        "id": "180301",
+        "nombre": "Tapebicuá"
+      },
+      "nombre": "Tapebicuá",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18119"
+    ]
+  },
+  "total": 4
+}

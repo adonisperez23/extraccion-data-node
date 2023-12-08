@@ -1,0 +1,215 @@
+{
+  "cantidad": 17,
+  "departamentos": [
+    {
+      "centroide": {
+        "lat": -26.6579081868111,
+        "lon": -54.5631774506644
+      },
+      "id": "54084",
+      "nombre": "Montecarlo",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.3138449972573,
+        "lon": -54.4407363386816
+      },
+      "id": "54042",
+      "nombre": "Eldorado",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.62996077436,
+        "lon": -53.9629780421788
+      },
+      "id": "54112",
+      "nombre": "San Pedro",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.1478365768268,
+        "lon": -54.8023437852311
+      },
+      "id": "54014",
+      "nombre": "Cainguás",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.8931448896048,
+        "lon": -54.9233629608393
+      },
+      "id": "54077",
+      "nombre": "Libertador General San Martín",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.5505259291655,
+        "lon": -55.8565833366475
+      },
+      "id": "54028",
+      "nombre": "Capital",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.4608500546705,
+        "lon": -55.5826900383218
+      },
+      "id": "54021",
+      "nombre": "Candelaria",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -25.9784317106931,
+        "lon": -53.9638550967802
+      },
+      "id": "54049",
+      "nombre": "General Manuel Belgrano",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.0262348990631,
+        "lon": -54.2693651314473
+      },
+      "id": "54056",
+      "nombre": "Guaraní",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -25.8747354911285,
+        "lon": -54.4004185890739
+      },
+      "id": "54063",
+      "nombre": "Iguazú",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.3786143619873,
+        "lon": -54.6340904863083
+      },
+      "id": "54119",
+      "nombre": "25 de Mayo",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.4763636010381,
+        "lon": -55.0712221113606
+      },
+      "id": "54091",
+      "nombre": "Oberá",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.1765939471765,
+        "lon": -55.3392901736977
+      },
+      "id": "54098",
+      "nombre": "San Ignacio",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.6306652583192,
+        "lon": -55.3880677316604
+      },
+      "id": "54070",
+      "nombre": "Leandro N. Alem",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.7771031453698,
+        "lon": -55.1674595937339
+      },
+      "id": "54105",
+      "nombre": "San Javier",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.9311673935877,
+        "lon": -55.4670364912488
+      },
+      "id": "54035",
+      "nombre": "Concepción",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.8887539522051,
+        "lon": -55.6781134842867
+      },
+      "id": "54007",
+      "nombre": "Apóstoles",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    }
+  ],
+  "inicio": 0,
+  "parametros": {
+    "max": 200,
+    "provincia": "Misiones"
+  },
+  "total": 17
+}

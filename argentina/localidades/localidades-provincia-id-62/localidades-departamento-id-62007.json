@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.0831999241352,
+        "lon": -63.9326015992993
+      },
+      "departamento": {
+        "id": "62007",
+        "nombre": "Adolfo Alsina"
+      },
+      "id": "62007010",
+      "localidad_censal": {
+        "id": "62007010",
+        "nombre": "Bahía Creek"
+      },
+      "municipio": {
+        "id": "620014",
+        "nombre": "Viedma"
+      },
+      "nombre": "Bahía Creek",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.0412857501304,
+        "lon": -62.829010313718
+      },
+      "departamento": {
+        "id": "62007",
+        "nombre": "Adolfo Alsina"
+      },
+      "id": "62007020",
+      "localidad_censal": {
+        "id": "62007020",
+        "nombre": "El Cóndor"
+      },
+      "municipio": {
+        "id": "620014",
+        "nombre": "Viedma"
+      },
+      "nombre": "El Cóndor",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.4257188413796,
+        "lon": -63.6722545155244
+      },
+      "departamento": {
+        "id": "62007",
+        "nombre": "Adolfo Alsina"
+      },
+      "id": "62007040",
+      "localidad_censal": {
+        "id": "62007040",
+        "nombre": "Guardia Mitre"
+      },
+      "municipio": {
+        "id": "620007",
+        "nombre": "Guardia Mitre"
+      },
+      "nombre": "Guardia Mitre",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.1527268091278,
+        "lon": -63.1254161554067
+      },
+      "departamento": {
+        "id": "62007",
+        "nombre": "Adolfo Alsina"
+      },
+      "id": "62007050",
+      "localidad_censal": {
+        "id": "62007050",
+        "nombre": "La Lobería"
+      },
+      "municipio": {
+        "id": "620014",
+        "nombre": "Viedma"
+      },
+      "nombre": "La Lobería",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.8698040115554,
+        "lon": -62.920389148668
+      },
+      "departamento": {
+        "id": "62007",
+        "nombre": "Adolfo Alsina"
+      },
+      "id": "62007060",
+      "localidad_censal": {
+        "id": "62007060",
+        "nombre": "Loteo Costa de Río"
+      },
+      "municipio": {
+        "id": "620014",
+        "nombre": "Viedma"
+      },
+      "nombre": "Loteo Costa de Río",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.7497987732917,
+        "lon": -63.2671141099008
+      },
+      "departamento": {
+        "id": "62007",
+        "nombre": "Adolfo Alsina"
+      },
+      "id": "62007080",
+      "localidad_censal": {
+        "id": "62007080",
+        "nombre": "San Javier"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "San Javier",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -40.8083677299022,
+        "lon": -62.9949287297467
+      },
+      "departamento": {
+        "id": "62007",
+        "nombre": "Adolfo Alsina"
+      },
+      "id": "62007090",
+      "localidad_censal": {
+        "id": "62007090",
+        "nombre": "Viedma"
+      },
+      "municipio": {
+        "id": "620014",
+        "nombre": "Viedma"
+      },
+      "nombre": "Viedma",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.8074060552697,
+        "lon": -63.1232809499307
+      },
+      "departamento": {
+        "id": "62007",
+        "nombre": "Adolfo Alsina"
+      },
+      "id": "62007030",
+      "localidad_censal": {
+        "id": "62007030",
+        "nombre": "El Juncal"
+      },
+      "municipio": {
+        "id": "620014",
+        "nombre": "Viedma"
+      },
+      "nombre": "El Juncal",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.0127515398258,
+        "lon": -64.162498025301
+      },
+      "departamento": {
+        "id": "62007",
+        "nombre": "Adolfo Alsina"
+      },
+      "id": "62007070",
+      "localidad_censal": {
+        "id": "62007070",
+        "nombre": "Pozo Salado"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Pozo Salado",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "62007"
+    ]
+  },
+  "total": 9
+}

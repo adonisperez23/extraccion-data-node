@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.9214681520576,
+        "lon": -54.5843176057696
+      },
+      "departamento": {
+        "id": "54063",
+        "nombre": "Iguazú"
+      },
+      "id": "54063020",
+      "localidad_censal": {
+        "id": "54063020",
+        "nombre": "Puerto Libertad"
+      },
+      "municipio": {
+        "id": "540224",
+        "nombre": "Libertad"
+      },
+      "nombre": "Puerto Libertad",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.5972100979327,
+        "lon": -54.5772230013845
+      },
+      "departamento": {
+        "id": "54063",
+        "nombre": "Iguazú"
+      },
+      "id": "54063030",
+      "localidad_censal": {
+        "id": "54063030",
+        "nombre": "Puerto Iguazú"
+      },
+      "municipio": {
+        "id": "540217",
+        "nombre": "Puerto Iguazú"
+      },
+      "nombre": "Puerto Iguazú",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.9441957737229,
+        "lon": -54.5449410673016
+      },
+      "departamento": {
+        "id": "54063",
+        "nombre": "Iguazú"
+      },
+      "id": "54063035",
+      "localidad_censal": {
+        "id": "54063035",
+        "nombre": "Villa Cooperativa"
+      },
+      "municipio": {
+        "id": "540224",
+        "nombre": "Libertad"
+      },
+      "nombre": "Villa Cooperativa",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.0206123976287,
+        "lon": -54.6152011709047
+      },
+      "departamento": {
+        "id": "54063",
+        "nombre": "Iguazú"
+      },
+      "id": "54063010",
+      "localidad_censal": {
+        "id": "54063010",
+        "nombre": "Puerto Esperanza"
+      },
+      "municipio": {
+        "id": "540210",
+        "nombre": "Puerto Esperanza"
+      },
+      "nombre": "Puerto Esperanza",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.9733663759994,
+        "lon": -54.5630397012731
+      },
+      "departamento": {
+        "id": "54063",
+        "nombre": "Iguazú"
+      },
+      "id": "54063040",
+      "localidad_censal": {
+        "id": "54063040",
+        "nombre": "Colonia Wanda"
+      },
+      "municipio": {
+        "id": "540231",
+        "nombre": "Colonia Wanda"
+      },
+      "nombre": "Colonia Wanda",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "54063"
+    ]
+  },
+  "total": 5
+}

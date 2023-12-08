@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.6054599449508,
+        "lon": -65.3570237719529
+      },
+      "departamento": {
+        "id": "62077",
+        "nombre": "San Antonio"
+      },
+      "id": "62077060",
+      "localidad_censal": {
+        "id": "62077060",
+        "nombre": "Sierra Grande"
+      },
+      "municipio": {
+        "id": "620238",
+        "nombre": "Sierra Grande"
+      },
+      "nombre": "Sierra Grande",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.6311379036925,
+        "lon": -65.0265965722596
+      },
+      "departamento": {
+        "id": "62077",
+        "nombre": "San Antonio"
+      },
+      "id": "62077020",
+      "localidad_censal": {
+        "id": "62077020",
+        "nombre": "Playas Doradas"
+      },
+      "municipio": {
+        "id": "620238",
+        "nombre": "Sierra Grande"
+      },
+      "nombre": "Playas Doradas",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.7115608505761,
+        "lon": -65.0037252454271
+      },
+      "departamento": {
+        "id": "62077",
+        "nombre": "San Antonio"
+      },
+      "id": "62077005",
+      "localidad_censal": {
+        "id": "62077005",
+        "nombre": "El Empalme"
+      },
+      "municipio": {
+        "id": "620231",
+        "nombre": "San Antonio Oeste"
+      },
+      "nombre": "El Empalme",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.8090870932712,
+        "lon": -65.0880740060036
+      },
+      "departamento": {
+        "id": "62077",
+        "nombre": "San Antonio"
+      },
+      "id": "62077010",
+      "localidad_censal": {
+        "id": "62077010",
+        "nombre": "Las Grutas"
+      },
+      "municipio": {
+        "id": "620231",
+        "nombre": "San Antonio Oeste"
+      },
+      "nombre": "Las Grutas",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.6944311700901,
+        "lon": -65.0291474129519
+      },
+      "departamento": {
+        "id": "62077",
+        "nombre": "San Antonio"
+      },
+      "id": "62077040",
+      "localidad_censal": {
+        "id": "62077040",
+        "nombre": "Punta Colorada"
+      },
+      "municipio": {
+        "id": "620238",
+        "nombre": "Sierra Grande"
+      },
+      "nombre": "Punta Colorada",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.8152519077614,
+        "lon": -64.7574203785112
+      },
+      "departamento": {
+        "id": "62077",
+        "nombre": "San Antonio"
+      },
+      "id": "62077045",
+      "localidad_censal": {
+        "id": "62077045",
+        "nombre": "Saco Viejo"
+      },
+      "municipio": {
+        "id": "620231",
+        "nombre": "San Antonio Oeste"
+      },
+      "nombre": "Saco Viejo",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.7301325794789,
+        "lon": -64.9389710745023
+      },
+      "departamento": {
+        "id": "62077",
+        "nombre": "San Antonio"
+      },
+      "id": "62077050",
+      "localidad_censal": {
+        "id": "62077050",
+        "nombre": "San Antonio Oeste"
+      },
+      "municipio": {
+        "id": "620231",
+        "nombre": "San Antonio Oeste"
+      },
+      "nombre": "San Antonio Oeste",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.8043457603265,
+        "lon": -64.8804105856761
+      },
+      "departamento": {
+        "id": "62077",
+        "nombre": "San Antonio"
+      },
+      "id": "62077030",
+      "localidad_censal": {
+        "id": "62077030",
+        "nombre": "Puerto San Antonio Este"
+      },
+      "municipio": {
+        "id": "620231",
+        "nombre": "San Antonio Oeste"
+      },
+      "nombre": "Puerto San Antonio Este",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "62077"
+    ]
+  },
+  "total": 8
+}

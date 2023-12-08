@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.8055322826857,
+        "lon": -68.8268897098386
+      },
+      "departamento": {
+        "id": "50049",
+        "nombre": "Las Heras"
+      },
+      "id": "5004905001",
+      "localidad_censal": {
+        "id": "50049050",
+        "nombre": "Las Heras"
+      },
+      "municipio": {
+        "id": "500049",
+        "nombre": "Las Heras"
+      },
+      "nombre": "Capdevila",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.8509435777421,
+        "lon": -68.836014945095
+      },
+      "departamento": {
+        "id": "50049",
+        "nombre": "Las Heras"
+      },
+      "id": "5004905002",
+      "localidad_censal": {
+        "id": "50049050",
+        "nombre": "Las Heras"
+      },
+      "municipio": {
+        "id": "500049",
+        "nombre": "Las Heras"
+      },
+      "nombre": "Ciudad de Las Heras",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.836885004476,
+        "lon": -68.7707577387305
+      },
+      "departamento": {
+        "id": "50049",
+        "nombre": "Las Heras"
+      },
+      "id": "5004905003",
+      "localidad_censal": {
+        "id": "50049050",
+        "nombre": "Las Heras"
+      },
+      "municipio": {
+        "id": "500049",
+        "nombre": "Las Heras"
+      },
+      "nombre": "El Algarrobal",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.8065587821456,
+        "lon": -68.7662806352765
+      },
+      "departamento": {
+        "id": "50049",
+        "nombre": "Las Heras"
+      },
+      "id": "5004905004",
+      "localidad_censal": {
+        "id": "50049050",
+        "nombre": "Las Heras"
+      },
+      "municipio": {
+        "id": "500049",
+        "nombre": "Las Heras"
+      },
+      "nombre": "El Borbollón",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.854641750271,
+        "lon": -68.8929808830502
+      },
+      "departamento": {
+        "id": "50049",
+        "nombre": "Las Heras"
+      },
+      "id": "5004905005",
+      "localidad_censal": {
+        "id": "50049050",
+        "nombre": "Las Heras"
+      },
+      "municipio": {
+        "id": "500049",
+        "nombre": "Las Heras"
+      },
+      "nombre": "El Challao",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.8303390304647,
+        "lon": -68.8209663176292
+      },
+      "departamento": {
+        "id": "50049",
+        "nombre": "Las Heras"
+      },
+      "id": "5004905008",
+      "localidad_censal": {
+        "id": "50049050",
+        "nombre": "Las Heras"
+      },
+      "municipio": {
+        "id": "500049",
+        "nombre": "Las Heras"
+      },
+      "nombre": "El Resguardo",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.8624796752219,
+        "lon": -68.8056414489579
+      },
+      "departamento": {
+        "id": "50049",
+        "nombre": "Las Heras"
+      },
+      "id": "5004905009",
+      "localidad_censal": {
+        "id": "50049050",
+        "nombre": "Las Heras"
+      },
+      "municipio": {
+        "id": "500049",
+        "nombre": "Las Heras"
+      },
+      "nombre": "El Zapallar",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.8558877491946,
+        "lon": -68.8441750722165
+      },
+      "departamento": {
+        "id": "50049",
+        "nombre": "Las Heras"
+      },
+      "id": "5004905010",
+      "localidad_censal": {
+        "id": "50049050",
+        "nombre": "Las Heras"
+      },
+      "municipio": {
+        "id": "500049",
+        "nombre": "Las Heras"
+      },
+      "nombre": "La Cieneguita",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.9939522051273,
+        "lon": -68.9327343722195
+      },
+      "departamento": {
+        "id": "50049",
+        "nombre": "Las Heras"
+      },
+      "id": "5004905012",
+      "localidad_censal": {
+        "id": "50049050",
+        "nombre": "Las Heras"
+      },
+      "municipio": {
+        "id": "500049",
+        "nombre": "Las Heras"
+      },
+      "nombre": "Sierras de Encalada",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.8486094901654,
+        "lon": -68.8054574601639
+      },
+      "departamento": {
+        "id": "50049",
+        "nombre": "Las Heras"
+      },
+      "id": "5004905007",
+      "localidad_censal": {
+        "id": "50049050",
+        "nombre": "Las Heras"
+      },
+      "municipio": {
+        "id": "500049",
+        "nombre": "Las Heras"
+      },
+      "nombre": "El Plumerillo",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "50049"
+    ]
+  },
+  "total": 20
+}

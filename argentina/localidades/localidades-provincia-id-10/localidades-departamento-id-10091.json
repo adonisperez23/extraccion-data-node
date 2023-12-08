@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.6937570109379,
+        "lon": -66.0662144302352
+      },
+      "departamento": {
+        "id": "10091",
+        "nombre": "Santa María"
+      },
+      "id": "1009111002",
+      "localidad_censal": {
+        "id": "10091110",
+        "nombre": "Las Mojarras"
+      },
+      "municipio": {
+        "id": "100210",
+        "nombre": "Santa María"
+      },
+      "nombre": "Las Mojarras",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.7245601354379,
+        "lon": -66.0760975824739
+      },
+      "departamento": {
+        "id": "10091",
+        "nombre": "Santa María"
+      },
+      "id": "1009103001",
+      "localidad_censal": {
+        "id": "10091030",
+        "nombre": "Chañar Punco"
+      },
+      "municipio": {
+        "id": "100210",
+        "nombre": "Santa María"
+      },
+      "nombre": "Chañar Punco",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.7145521014582,
+        "lon": -66.068288107357
+      },
+      "departamento": {
+        "id": "10091",
+        "nombre": "Santa María"
+      },
+      "id": "1009103002",
+      "localidad_censal": {
+        "id": "10091030",
+        "nombre": "Chañar Punco"
+      },
+      "municipio": {
+        "id": "100210",
+        "nombre": "Santa María"
+      },
+      "nombre": "Lampacito",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.7507779940066,
+        "lon": -66.0787233659467
+      },
+      "departamento": {
+        "id": "10091",
+        "nombre": "Santa María"
+      },
+      "id": "1009103003",
+      "localidad_censal": {
+        "id": "10091030",
+        "nombre": "Chañar Punco"
+      },
+      "municipio": {
+        "id": "100203",
+        "nombre": "San José"
+      },
+      "nombre": "Medanitos",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.7709564163444,
+        "lon": -66.0822731499912
+      },
+      "departamento": {
+        "id": "10091",
+        "nombre": "Santa María"
+      },
+      "id": "1009107001",
+      "localidad_censal": {
+        "id": "10091070",
+        "nombre": "Famatanca"
+      },
+      "municipio": {
+        "id": "100203",
+        "nombre": "San José"
+      },
+      "nombre": "Famatanca",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.7974352576604,
+        "lon": -66.0851845538927
+      },
+      "departamento": {
+        "id": "10091",
+        "nombre": "Santa María"
+      },
+      "id": "1009107002",
+      "localidad_censal": {
+        "id": "10091070",
+        "nombre": "Famatanca"
+      },
+      "municipio": {
+        "id": "100203",
+        "nombre": "San José"
+      },
+      "nombre": "San José Banda",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.6719152173714,
+        "lon": -66.0607916411274
+      },
+      "departamento": {
+        "id": "10091",
+        "nombre": "Santa María"
+      },
+      "id": "1009111001",
+      "localidad_censal": {
+        "id": "10091110",
+        "nombre": "Las Mojarras"
+      },
+      "municipio": {
+        "id": "100210",
+        "nombre": "Santa María"
+      },
+      "nombre": "El Cerrito",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.8166192033332,
+        "lon": -66.0794962394573
+      },
+      "departamento": {
+        "id": "10091",
+        "nombre": "Santa María"
+      },
+      "id": "1009114001",
+      "localidad_censal": {
+        "id": "10091140",
+        "nombre": "San José"
+      },
+      "municipio": {
+        "id": "100203",
+        "nombre": "San José"
+      },
+      "nombre": "Casa de Piedra",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.8248891133172,
+        "lon": -66.0850814214729
+      },
+      "departamento": {
+        "id": "10091",
+        "nombre": "Santa María"
+      },
+      "id": "1009114002",
+      "localidad_censal": {
+        "id": "10091140",
+        "nombre": "San José"
+      },
+      "municipio": {
+        "id": "100203",
+        "nombre": "San José"
+      },
+      "nombre": "La Puntilla",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.8092749554447,
+        "lon": -66.0746154327429
+      },
+      "departamento": {
+        "id": "10091",
+        "nombre": "Santa María"
+      },
+      "id": "1009114003",
+      "localidad_censal": {
+        "id": "10091140",
+        "nombre": "San José"
+      },
+      "municipio": {
+        "id": "100203",
+        "nombre": "San José"
+      },
+      "nombre": "Palo Seco",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "10091"
+    ]
+  },
+  "total": 25
+}

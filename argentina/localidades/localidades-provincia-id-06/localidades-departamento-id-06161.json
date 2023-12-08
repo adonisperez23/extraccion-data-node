@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.3766620785956,
+        "lon": -59.8226965330084
+      },
+      "departamento": {
+        "id": "06161",
+        "nombre": "Carmen de Areco"
+      },
+      "id": "06161010",
+      "localidad_censal": {
+        "id": "06161010",
+        "nombre": "Carmen de Areco"
+      },
+      "municipio": {
+        "id": "060161",
+        "nombre": "Carmen de Areco"
+      },
+      "nombre": "Carmen de Areco",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.4935583552398,
+        "lon": -59.8013546655888
+      },
+      "departamento": {
+        "id": "06161",
+        "nombre": "Carmen de Areco"
+      },
+      "id": "06161020",
+      "localidad_censal": {
+        "id": "06161020",
+        "nombre": "Pueblo Gouin"
+      },
+      "municipio": {
+        "id": "060161",
+        "nombre": "Carmen de Areco"
+      },
+      "nombre": "Pueblo Gouin",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.4665633184272,
+        "lon": -59.9994503481915
+      },
+      "departamento": {
+        "id": "06161",
+        "nombre": "Carmen de Areco"
+      },
+      "id": "06161030",
+      "localidad_censal": {
+        "id": "06161030",
+        "nombre": "Tres Sargentos"
+      },
+      "municipio": {
+        "id": "060161",
+        "nombre": "Carmen de Areco"
+      },
+      "nombre": "Tres Sargentos",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06161"
+    ]
+  },
+  "total": 3
+}

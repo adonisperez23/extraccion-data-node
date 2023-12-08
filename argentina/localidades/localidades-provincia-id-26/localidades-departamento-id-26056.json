@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.3208227444691,
+        "lon": -69.6922931611261
+      },
+      "departamento": {
+        "id": "26056",
+        "nombre": "Languiñeo"
+      },
+      "id": "26056010",
+      "localidad_censal": {
+        "id": "26056010",
+        "nombre": "Aldea Epulef"
+      },
+      "municipio": {
+        "id": "268049",
+        "nombre": "Aldea Epulef"
+      },
+      "nombre": "Aldea Epulef",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.5878979285719,
+        "lon": -71.702134687121
+      },
+      "departamento": {
+        "id": "26056",
+        "nombre": "Languiñeo"
+      },
+      "id": "26056020",
+      "localidad_censal": {
+        "id": "26056020",
+        "nombre": "Carrenleufú"
+      },
+      "municipio": {
+        "id": "268056",
+        "nombre": "Carrenleufú"
+      },
+      "nombre": "Carrenleufú",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.2413702729388,
+        "lon": -69.9303348841452
+      },
+      "departamento": {
+        "id": "26056",
+        "nombre": "Languiñeo"
+      },
+      "id": "26056030",
+      "localidad_censal": {
+        "id": "26056030",
+        "nombre": "Colan Conhué"
+      },
+      "municipio": {
+        "id": "268063",
+        "nombre": "Colan Conhue"
+      },
+      "nombre": "Colan Conhué",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.7351158725925,
+        "lon": -69.6081536894308
+      },
+      "departamento": {
+        "id": "26056",
+        "nombre": "Languiñeo"
+      },
+      "id": "26056040",
+      "localidad_censal": {
+        "id": "26056040",
+        "nombre": "Paso del Sapo"
+      },
+      "municipio": {
+        "id": "268070",
+        "nombre": "Paso del Sapo"
+      },
+      "nombre": "Paso del Sapo",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.4928649439078,
+        "lon": -70.810780740043
+      },
+      "departamento": {
+        "id": "26056",
+        "nombre": "Languiñeo"
+      },
+      "id": "26056050",
+      "localidad_censal": {
+        "id": "26056050",
+        "nombre": "Tecka"
+      },
+      "municipio": {
+        "id": "260105",
+        "nombre": "Tecka"
+      },
+      "nombre": "Tecka",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "26056"
+    ]
+  },
+  "total": 5
+}

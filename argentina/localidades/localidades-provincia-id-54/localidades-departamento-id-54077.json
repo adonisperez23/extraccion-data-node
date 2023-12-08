@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.9283151085215,
+        "lon": -55.0572981188178
+      },
+      "departamento": {
+        "id": "54077",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "54077010",
+      "localidad_censal": {
+        "id": "54077010",
+        "nombre": "Capioví"
+      },
+      "municipio": {
+        "id": "540294",
+        "nombre": "Capioví"
+      },
+      "nombre": "Capioví",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.7136471487898,
+        "lon": -54.8140478333356
+      },
+      "departamento": {
+        "id": "54077",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "54077020",
+      "localidad_censal": {
+        "id": "54077020",
+        "nombre": "El Alcázar"
+      },
+      "municipio": {
+        "id": "540301",
+        "nombre": "El Alcázar"
+      },
+      "nombre": "El Alcázar",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.8211256600335,
+        "lon": -54.9577454257086
+      },
+      "departamento": {
+        "id": "54077",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "54077030",
+      "localidad_censal": {
+        "id": "54077030",
+        "nombre": "Garuhapé"
+      },
+      "municipio": {
+        "id": "540308",
+        "nombre": "Garuhapé"
+      },
+      "nombre": "Garuhapé",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.8638507233861,
+        "lon": -55.0451619807519
+      },
+      "departamento": {
+        "id": "54077",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "54077040",
+      "localidad_censal": {
+        "id": "54077040",
+        "nombre": "Mbopicuá"
+      },
+      "municipio": {
+        "id": "540322",
+        "nombre": "Puerto Rico"
+      },
+      "nombre": "Mbopicuá",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.8085916829121,
+        "lon": -55.0221268413538
+      },
+      "departamento": {
+        "id": "54077",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "54077060",
+      "localidad_censal": {
+        "id": "54077060",
+        "nombre": "Puerto Rico"
+      },
+      "municipio": {
+        "id": "540322",
+        "nombre": "Puerto Rico"
+      },
+      "nombre": "Puerto Rico",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.9704326336471,
+        "lon": -55.0522224925892
+      },
+      "departamento": {
+        "id": "54077",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "54077070",
+      "localidad_censal": {
+        "id": "54077070",
+        "nombre": "Ruiz de Montoya"
+      },
+      "municipio": {
+        "id": "540329",
+        "nombre": "Ruiz de Montoya"
+      },
+      "nombre": "Ruiz de Montoya",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.8082370998635,
+        "lon": -54.9894731619228
+      },
+      "departamento": {
+        "id": "54077",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "54077080",
+      "localidad_censal": {
+        "id": "54077080",
+        "nombre": "San Alberto"
+      },
+      "municipio": {
+        "id": "540322",
+        "nombre": "Puerto Rico"
+      },
+      "nombre": "San Alberto",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.8536577633327,
+        "lon": -54.8887924064813
+      },
+      "departamento": {
+        "id": "54077",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "54077100",
+      "localidad_censal": {
+        "id": "54077100",
+        "nombre": "San Miguel"
+      },
+      "municipio": {
+        "id": "540308",
+        "nombre": "Garuhapé"
+      },
+      "nombre": "San Miguel",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.9433284445605,
+        "lon": -55.0955190135295
+      },
+      "departamento": {
+        "id": "54077",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "54077110",
+      "localidad_censal": {
+        "id": "54077110",
+        "nombre": "Villa Akerman"
+      },
+      "municipio": {
+        "id": "540294",
+        "nombre": "Capioví"
+      },
+      "nombre": "Villa Akerman",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.83689267867,
+        "lon": -54.7530630524833
+      },
+      "departamento": {
+        "id": "54077",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "54077120",
+      "localidad_censal": {
+        "id": "54077120",
+        "nombre": "Villa Urrutia"
+      },
+      "municipio": {
+        "id": "540301",
+        "nombre": "El Alcázar"
+      },
+      "nombre": "Villa Urrutia",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "54077"
+    ]
+  },
+  "total": 13
+}

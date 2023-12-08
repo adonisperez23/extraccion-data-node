@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.3819482673625,
+        "lon": -65.045502263122
+      },
+      "departamento": {
+        "id": "26077",
+        "nombre": "Rawson"
+      },
+      "id": "26077010",
+      "localidad_censal": {
+        "id": "26077010",
+        "nombre": "Playa Magagna"
+      },
+      "municipio": {
+        "id": "260112",
+        "nombre": "Rawson"
+      },
+      "nombre": "Playa Magagna",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.321660695384,
+        "lon": -65.0478800374535
+      },
+      "departamento": {
+        "id": "26077",
+        "nombre": "Rawson"
+      },
+      "id": "26077020",
+      "localidad_censal": {
+        "id": "26077020",
+        "nombre": "Playa Unión"
+      },
+      "municipio": {
+        "id": "260112",
+        "nombre": "Rawson"
+      },
+      "nombre": "Playa Unión",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.3052236685054,
+        "lon": -65.1036957322757
+      },
+      "departamento": {
+        "id": "26077",
+        "nombre": "Rawson"
+      },
+      "id": "26077030",
+      "localidad_censal": {
+        "id": "26077030",
+        "nombre": "Rawson"
+      },
+      "municipio": {
+        "id": "260112",
+        "nombre": "Rawson"
+      },
+      "nombre": "Rawson",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.2531867505795,
+        "lon": -65.3093805893395
+      },
+      "departamento": {
+        "id": "26077",
+        "nombre": "Rawson"
+      },
+      "id": "26077040",
+      "localidad_censal": {
+        "id": "26077040",
+        "nombre": "Trelew"
+      },
+      "municipio": {
+        "id": "260119",
+        "nombre": "Trelew"
+      },
+      "nombre": "Trelew",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "26077"
+    ]
+  },
+  "total": 4
+}

@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.8869216698984,
+        "lon": -65.0069082959571
+      },
+      "departamento": {
+        "id": "90014",
+        "nombre": "Cruz Alta"
+      },
+      "id": "9001410002",
+      "localidad_censal": {
+        "id": "90014100",
+        "nombre": "Los Ralos"
+      },
+      "municipio": {
+        "id": "908140",
+        "nombre": "Los Ralos"
+      },
+      "nombre": "Villa Recaste",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.8886803487373,
+        "lon": -64.9955280855558
+      },
+      "departamento": {
+        "id": "90014",
+        "nombre": "Cruz Alta"
+      },
+      "id": "9001410001",
+      "localidad_censal": {
+        "id": "90014100",
+        "nombre": "Los Ralos"
+      },
+      "municipio": {
+        "id": "908140",
+        "nombre": "Los Ralos"
+      },
+      "nombre": "Ex Ingenio Los Ralos",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.8178736293748,
+        "lon": -65.1420185935541
+      },
+      "departamento": {
+        "id": "90014",
+        "nombre": "Cruz Alta"
+      },
+      "id": "9001401001",
+      "localidad_censal": {
+        "id": "90014010",
+        "nombre": "Alderetes"
+      },
+      "municipio": {
+        "id": "900021",
+        "nombre": "Alderetes"
+      },
+      "nombre": "Alderetes",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.8916971073269,
+        "lon": -65.0125512617517
+      },
+      "departamento": {
+        "id": "90014",
+        "nombre": "Cruz Alta"
+      },
+      "id": "9001410003",
+      "localidad_censal": {
+        "id": "90014100",
+        "nombre": "Los Ralos"
+      },
+      "municipio": {
+        "id": "908140",
+        "nombre": "Los Ralos"
+      },
+      "nombre": "Villa Tercera",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.8499130983387,
+        "lon": -65.1290403440326
+      },
+      "departamento": {
+        "id": "90014",
+        "nombre": "Cruz Alta"
+      },
+      "id": "9001402002",
+      "localidad_censal": {
+        "id": "90014020",
+        "nombre": "Banda del Río Salí"
+      },
+      "municipio": {
+        "id": "900028",
+        "nombre": "Banda del Río Salí"
+      },
+      "nombre": "Barrio Aeropuerto",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.8188845586951,
+        "lon": -65.0936153061334
+      },
+      "departamento": {
+        "id": "90014",
+        "nombre": "Cruz Alta"
+      },
+      "id": "9001408002",
+      "localidad_censal": {
+        "id": "90014080",
+        "nombre": "La Florida"
+      },
+      "municipio": {
+        "id": "908105",
+        "nombre": "La Florida y Luisiana"
+      },
+      "nombre": "La Florida",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.8064448446339,
+        "lon": -65.1414485842111
+      },
+      "departamento": {
+        "id": "90014",
+        "nombre": "Cruz Alta"
+      },
+      "id": "9001401003",
+      "localidad_censal": {
+        "id": "90014010",
+        "nombre": "Alderetes"
+      },
+      "municipio": {
+        "id": "900021",
+        "nombre": "Alderetes"
+      },
+      "nombre": "Los Gutiérrez",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.8597004363626,
+        "lon": -65.1588895516206
+      },
+      "departamento": {
+        "id": "90014",
+        "nombre": "Cruz Alta"
+      },
+      "id": "9001402003",
+      "localidad_censal": {
+        "id": "90014020",
+        "nombre": "Banda del Río Salí"
+      },
+      "municipio": {
+        "id": "900028",
+        "nombre": "Banda del Río Salí"
+      },
+      "nombre": "Lastenia",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.8450218892077,
+        "lon": -65.0890946482249
+      },
+      "departamento": {
+        "id": "90014",
+        "nombre": "Cruz Alta"
+      },
+      "id": "9001406002",
+      "localidad_censal": {
+        "id": "90014060",
+        "nombre": "Delfín Gallo"
+      },
+      "municipio": {
+        "id": "908084",
+        "nombre": "Delfín Gallo"
+      },
+      "nombre": "Ex Ingenio Esperanza",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.8353549165959,
+        "lon": -65.1639725785394
+      },
+      "departamento": {
+        "id": "90014",
+        "nombre": "Cruz Alta"
+      },
+      "id": "9001402001",
+      "localidad_censal": {
+        "id": "90014020",
+        "nombre": "Banda del Río Salí"
+      },
+      "municipio": {
+        "id": "900028",
+        "nombre": "Banda del Río Salí"
+      },
+      "nombre": "Banda del Río Salí",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "90014"
+    ]
+  },
+  "total": 26
+}

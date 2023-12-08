@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4115727076684,
+        "lon": -58.689927948636
+      },
+      "departamento": {
+        "id": "06805",
+        "nombre": "Tigre"
+      },
+      "id": "0680501001",
+      "localidad_censal": {
+        "id": "06805010",
+        "nombre": "Tigre"
+      },
+      "municipio": {
+        "id": "060805",
+        "nombre": "Tigre"
+      },
+      "nombre": "Benavídez",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.3613050945309,
+        "lon": -58.686560990698
+      },
+      "departamento": {
+        "id": "06805",
+        "nombre": "Tigre"
+      },
+      "id": "0680501002",
+      "localidad_censal": {
+        "id": "06805010",
+        "nombre": "Tigre"
+      },
+      "municipio": {
+        "id": "060805",
+        "nombre": "Tigre"
+      },
+      "nombre": "Dique Luján",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.487529336749,
+        "lon": -58.615576288829
+      },
+      "departamento": {
+        "id": "06805",
+        "nombre": "Tigre"
+      },
+      "id": "0680501003",
+      "localidad_censal": {
+        "id": "06805010",
+        "nombre": "Tigre"
+      },
+      "municipio": {
+        "id": "060805",
+        "nombre": "Tigre"
+      },
+      "nombre": "Don Torcuato Este",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5013115714354,
+        "lon": -58.6266976169668
+      },
+      "departamento": {
+        "id": "06805",
+        "nombre": "Tigre"
+      },
+      "id": "0680501004",
+      "localidad_censal": {
+        "id": "06805010",
+        "nombre": "Tigre"
+      },
+      "municipio": {
+        "id": "060805",
+        "nombre": "Tigre"
+      },
+      "nombre": "Don Torcuato Oeste",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4635807779742,
+        "lon": -58.6613515343482
+      },
+      "departamento": {
+        "id": "06805",
+        "nombre": "Tigre"
+      },
+      "id": "0680501005",
+      "localidad_censal": {
+        "id": "06805010",
+        "nombre": "Tigre"
+      },
+      "municipio": {
+        "id": "060805",
+        "nombre": "Tigre"
+      },
+      "nombre": "El Talar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.454922848233,
+        "lon": -58.6341494353431
+      },
+      "departamento": {
+        "id": "06805",
+        "nombre": "Tigre"
+      },
+      "id": "0680501006",
+      "localidad_censal": {
+        "id": "06805010",
+        "nombre": "Tigre"
+      },
+      "municipio": {
+        "id": "060805",
+        "nombre": "Tigre"
+      },
+      "nombre": "General Pacheco",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4548097726973,
+        "lon": -58.6133409368885
+      },
+      "departamento": {
+        "id": "06805",
+        "nombre": "Tigre"
+      },
+      "id": "0680501007",
+      "localidad_censal": {
+        "id": "06805010",
+        "nombre": "Tigre"
+      },
+      "municipio": {
+        "id": "060805",
+        "nombre": "Tigre"
+      },
+      "nombre": "Troncos del Talar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.458452696066,
+        "lon": -58.6830425981974
+      },
+      "departamento": {
+        "id": "06805",
+        "nombre": "Tigre"
+      },
+      "id": "0680501008",
+      "localidad_censal": {
+        "id": "06805010",
+        "nombre": "Tigre"
+      },
+      "municipio": {
+        "id": "060805",
+        "nombre": "Tigre"
+      },
+      "nombre": "Ricardo Rojas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4104604155702,
+        "lon": -58.6019963050247
+      },
+      "departamento": {
+        "id": "06805",
+        "nombre": "Tigre"
+      },
+      "id": "0680501009",
+      "localidad_censal": {
+        "id": "06805010",
+        "nombre": "Tigre"
+      },
+      "municipio": {
+        "id": "060805",
+        "nombre": "Tigre"
+      },
+      "nombre": "Rincón de Milberg",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4248130997973,
+        "lon": -58.5755281971763
+      },
+      "departamento": {
+        "id": "06805",
+        "nombre": "Tigre"
+      },
+      "id": "0680501010",
+      "localidad_censal": {
+        "id": "06805010",
+        "nombre": "Tigre"
+      },
+      "municipio": {
+        "id": "060805",
+        "nombre": "Tigre"
+      },
+      "nombre": "Tigre",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06805"
+    ]
+  },
+  "total": 11
+}

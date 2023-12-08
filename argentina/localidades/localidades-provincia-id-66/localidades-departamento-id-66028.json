@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -24.7616630929021,
+        "lon": -65.4665724753893
+      },
+      "departamento": {
+        "id": "66028",
+        "nombre": "Capital"
+      },
+      "id": "6602805002",
+      "localidad_censal": {
+        "id": "66028050",
+        "nombre": "Salta"
+      },
+      "municipio": {
+        "id": "660063",
+        "nombre": "Salta"
+      },
+      "nombre": "Country Club La Almudena",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -24.7831983811283,
+        "lon": -65.4102509654276
+      },
+      "departamento": {
+        "id": "66028",
+        "nombre": "Capital"
+      },
+      "id": "6602805003",
+      "localidad_censal": {
+        "id": "66028050",
+        "nombre": "Salta"
+      },
+      "municipio": {
+        "id": "660063",
+        "nombre": "Salta"
+      },
+      "nombre": "Salta",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -24.7564566727092,
+        "lon": -65.4758471105577
+      },
+      "departamento": {
+        "id": "66028",
+        "nombre": "Capital"
+      },
+      "id": "6602805001",
+      "localidad_censal": {
+        "id": "66028050",
+        "nombre": "Salta"
+      },
+      "municipio": {
+        "id": "660063",
+        "nombre": "Salta"
+      },
+      "nombre": "Country Club El Tipal",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.7312298797803,
+        "lon": -65.4863144091632
+      },
+      "departamento": {
+        "id": "66028",
+        "nombre": "Capital"
+      },
+      "id": "66028060",
+      "localidad_censal": {
+        "id": "66028060",
+        "nombre": "San Lorenzo"
+      },
+      "municipio": {
+        "id": "660070",
+        "nombre": "San Lorenzo"
+      },
+      "nombre": "Villa San Lorenzo",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -24.7892720320797,
+        "lon": -65.4102860355135
+      },
+      "departamento": {
+        "id": "66028",
+        "nombre": "Capital"
+      },
+      "id": "66028050",
+      "localidad_censal": {
+        "id": "66028050",
+        "nombre": "Salta"
+      },
+      "municipio": {
+        "id": "660063",
+        "nombre": "Salta"
+      },
+      "nombre": "Salta",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66028"
+    ]
+  },
+  "total": 5
+}

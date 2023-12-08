@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.2010459561701,
+        "lon": -59.3453961078207
+      },
+      "departamento": {
+        "id": "06483",
+        "nombre": "Lobos"
+      },
+      "id": "06483010",
+      "localidad_censal": {
+        "id": "06483010",
+        "nombre": "Antonio Carboni"
+      },
+      "municipio": {
+        "id": "060483",
+        "nombre": "Lobos"
+      },
+      "nombre": "Antonio Carboni",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.2427518619546,
+        "lon": -59.4856520939805
+      },
+      "departamento": {
+        "id": "06483",
+        "nombre": "Lobos"
+      },
+      "id": "06483020",
+      "localidad_censal": {
+        "id": "06483020",
+        "nombre": "Elvira"
+      },
+      "municipio": {
+        "id": "060483",
+        "nombre": "Lobos"
+      },
+      "nombre": "Elvira",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.2737826395219,
+        "lon": -59.1350643318774
+      },
+      "departamento": {
+        "id": "06483",
+        "nombre": "Lobos"
+      },
+      "id": "06483030",
+      "localidad_censal": {
+        "id": "06483030",
+        "nombre": "Laguna de Lobos"
+      },
+      "municipio": {
+        "id": "060483",
+        "nombre": "Lobos"
+      },
+      "nombre": "Laguna de Lobos",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.1854255468713,
+        "lon": -59.0978341614036
+      },
+      "departamento": {
+        "id": "06483",
+        "nombre": "Lobos"
+      },
+      "id": "06483040",
+      "localidad_censal": {
+        "id": "06483040",
+        "nombre": "Lobos"
+      },
+      "municipio": {
+        "id": "060483",
+        "nombre": "Lobos"
+      },
+      "nombre": "Lobos",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.3006709969199,
+        "lon": -59.170135916078
+      },
+      "departamento": {
+        "id": "06483",
+        "nombre": "Lobos"
+      },
+      "id": "06483050",
+      "localidad_censal": {
+        "id": "06483050",
+        "nombre": "Salvador Marí­a"
+      },
+      "municipio": {
+        "id": "060483",
+        "nombre": "Lobos"
+      },
+      "nombre": "Salvador María",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06483"
+    ]
+  },
+  "total": 5
+}

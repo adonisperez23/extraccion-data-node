@@ -1,0 +1,203 @@
+{
+  "cantidad": 16,
+  "departamentos": [
+    {
+      "centroide": {
+        "lat": -24.4475372667752,
+        "lon": -65.1012859046503
+      },
+      "id": "38014",
+      "nombre": "El Carmen",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -22.290645260596,
+        "lon": -65.5667394207971
+      },
+      "id": "38112",
+      "nombre": "Yavi",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -22.1376406851166,
+        "lon": -66.227261407729
+      },
+      "id": "38077",
+      "nombre": "Santa Catalina",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -24.2985083171115,
+        "lon": -64.8109899059972
+      },
+      "id": "38063",
+      "nombre": "San Pedro",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -23.4666140607053,
+        "lon": -65.0120193444126
+      },
+      "id": "38105",
+      "nombre": "Valle Grande",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -23.5206710927029,
+        "lon": -66.6617118803761
+      },
+      "id": "38084",
+      "nombre": "Susques",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -23.5604015183698,
+        "lon": -65.3200105901478
+      },
+      "id": "38094",
+      "nombre": "Tilcara",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -24.1949225166052,
+        "lon": -65.1264498101135
+      },
+      "id": "38042",
+      "nombre": "Palpalá",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -24.007640144548,
+        "lon": -64.4023116738515
+      },
+      "id": "38070",
+      "nombre": "Santa Bárbara",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -24.0891183755518,
+        "lon": -65.4478782461086
+      },
+      "id": "38021",
+      "nombre": "Dr. Manuel Belgrano",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -24.3466655289394,
+        "lon": -65.4465034514555
+      },
+      "id": "38056",
+      "nombre": "San Antonio",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -22.621441999219,
+        "lon": -66.5415632203904
+      },
+      "id": "38049",
+      "nombre": "Rinconada",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -23.7854859185353,
+        "lon": -64.8288746330382
+      },
+      "id": "38035",
+      "nombre": "Ledesma",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -23.0820099180032,
+        "lon": -65.4095227491295
+      },
+      "id": "38028",
+      "nombre": "Humahuaca",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -22.9392130779775,
+        "lon": -65.9347260935414
+      },
+      "id": "38007",
+      "nombre": "Cochinoca",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -23.7434749479331,
+        "lon": -65.6961901966194
+      },
+      "id": "38098",
+      "nombre": "Tumbaya",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    }
+  ],
+  "inicio": 0,
+  "parametros": {
+    "max": 200,
+    "provincia": "Jujuy"
+  },
+  "total": 16
+}

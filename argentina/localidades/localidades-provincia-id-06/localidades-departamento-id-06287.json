@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.0217418768588,
+        "lon": -60.0145053844846
+      },
+      "departamento": {
+        "id": "06287",
+        "nombre": "General Alvear"
+      },
+      "id": "06287010",
+      "localidad_censal": {
+        "id": "06287010",
+        "nombre": "General Alvear"
+      },
+      "municipio": {
+        "id": "060287",
+        "nombre": "General Alvear"
+      },
+      "nombre": "General Alvear",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06287"
+    ]
+  },
+  "total": 1
+}

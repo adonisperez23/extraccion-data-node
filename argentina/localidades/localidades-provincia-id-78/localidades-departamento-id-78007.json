@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -49.985576992417,
+        "lon": -68.9092992971819
+      },
+      "departamento": {
+        "id": "78007",
+        "nombre": "Corpen Aike"
+      },
+      "id": "78007010",
+      "localidad_censal": {
+        "id": "78007010",
+        "nombre": "Comandante Luis Piedrabuena"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Comandante Luis Piedrabuena",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -50.0186587486252,
+        "lon": -68.5213642316797
+      },
+      "departamento": {
+        "id": "78007",
+        "nombre": "Corpen Aike"
+      },
+      "id": "78007020",
+      "localidad_censal": {
+        "id": "78007020",
+        "nombre": "Puerto Santa Cruz"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Puerto Santa Cruz",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "78007"
+    ]
+  },
+  "total": 2
+}

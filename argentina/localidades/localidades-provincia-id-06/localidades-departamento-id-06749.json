@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4436592867769,
+        "lon": -58.5586455411774
+      },
+      "departamento": {
+        "id": "06749",
+        "nombre": "San Fernando"
+      },
+      "id": "0674901001",
+      "localidad_censal": {
+        "id": "06749010",
+        "nombre": "San Fernando"
+      },
+      "municipio": {
+        "id": "060749",
+        "nombre": "San Fernando"
+      },
+      "nombre": "San Fernando",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4530475393768,
+        "lon": -58.5421912513957
+      },
+      "departamento": {
+        "id": "06749",
+        "nombre": "San Fernando"
+      },
+      "id": "0674901002",
+      "localidad_censal": {
+        "id": "06749010",
+        "nombre": "San Fernando"
+      },
+      "municipio": {
+        "id": "060749",
+        "nombre": "San Fernando"
+      },
+      "nombre": "Victoria",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4537518251362,
+        "lon": -58.5543400812344
+      },
+      "departamento": {
+        "id": "06749",
+        "nombre": "San Fernando"
+      },
+      "id": "0674901003",
+      "localidad_censal": {
+        "id": "06749010",
+        "nombre": "San Fernando"
+      },
+      "municipio": {
+        "id": "060749",
+        "nombre": "San Fernando"
+      },
+      "nombre": "Virreyes",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.4406044811916,
+        "lon": -58.5581489424613
+      },
+      "departamento": {
+        "id": "06749",
+        "nombre": "San Fernando"
+      },
+      "id": "06749010",
+      "localidad_censal": {
+        "id": "06749010",
+        "nombre": "San Fernando"
+      },
+      "municipio": {
+        "id": "060749",
+        "nombre": "San Fernando"
+      },
+      "nombre": "San Fernando",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06749"
+    ]
+  },
+  "total": 4
+}

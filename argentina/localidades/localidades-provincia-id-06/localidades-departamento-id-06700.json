@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.51488223008,
+        "lon": -62.3122486493154
+      },
+      "departamento": {
+        "id": "06700",
+        "nombre": "Saavedra"
+      },
+      "id": "06700010",
+      "localidad_censal": {
+        "id": "06700010",
+        "nombre": "Arroyo Corto"
+      },
+      "municipio": {
+        "id": "060700",
+        "nombre": "Saavedra"
+      },
+      "nombre": "Arroyo Corto",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.9768634201524,
+        "lon": -62.33248362465
+      },
+      "departamento": {
+        "id": "06700",
+        "nombre": "Saavedra"
+      },
+      "id": "06700020",
+      "localidad_censal": {
+        "id": "06700020",
+        "nombre": "Dufaur"
+      },
+      "municipio": {
+        "id": "060700",
+        "nombre": "Saavedra"
+      },
+      "nombre": "Colonia San Martín",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.9428114794239,
+        "lon": -62.2830886448847
+      },
+      "departamento": {
+        "id": "06700",
+        "nombre": "Saavedra"
+      },
+      "id": "06700030",
+      "localidad_censal": {
+        "id": "06700030",
+        "nombre": "Espartillar"
+      },
+      "municipio": {
+        "id": "060700",
+        "nombre": "Saavedra"
+      },
+      "nombre": "Dufaur",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -37.3611255964229,
+        "lon": -62.4338504694523
+      },
+      "departamento": {
+        "id": "06700",
+        "nombre": "Saavedra"
+      },
+      "id": "06700040",
+      "localidad_censal": {
+        "id": "06700040",
+        "nombre": "Goyena"
+      },
+      "municipio": {
+        "id": "060700",
+        "nombre": "Saavedra"
+      },
+      "nombre": "Espartillar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.7210187708495,
+        "lon": -62.6064548472965
+      },
+      "departamento": {
+        "id": "06700",
+        "nombre": "Saavedra"
+      },
+      "id": "06700050",
+      "localidad_censal": {
+        "id": "06700050",
+        "nombre": "Pigüé"
+      },
+      "municipio": {
+        "id": "060700",
+        "nombre": "Saavedra"
+      },
+      "nombre": "Goyena",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.6025487129648,
+        "lon": -62.4083614847022
+      },
+      "departamento": {
+        "id": "06700",
+        "nombre": "Saavedra"
+      },
+      "id": "06700060",
+      "localidad_censal": {
+        "id": "06700060",
+        "nombre": "Saavedra"
+      },
+      "municipio": {
+        "id": "060700",
+        "nombre": "Saavedra"
+      },
+      "nombre": "Pigüé",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.7613769091951,
+        "lon": -62.3486388910383
+      },
+      "departamento": {
+        "id": "06700",
+        "nombre": "Saavedra"
+      },
+      "id": "06700070",
+      "localidad_censal": {
+        "id": "06700070",
+        "nombre": "Las Encadenadas"
+      },
+      "municipio": {
+        "id": "060700",
+        "nombre": "Saavedra"
+      },
+      "nombre": "Saavedra",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06700"
+    ]
+  },
+  "total": 7
+}

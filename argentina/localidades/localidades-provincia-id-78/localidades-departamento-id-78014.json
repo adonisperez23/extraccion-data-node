@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -47.1840284109773,
+        "lon": -67.1447240080037
+      },
+      "departamento": {
+        "id": "78014",
+        "nombre": "Deseado"
+      },
+      "id": "78014040",
+      "localidad_censal": {
+        "id": "78014040",
+        "nombre": "Jaramillo"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Jaramillo",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -46.5615341694967,
+        "lon": -67.6106327547081
+      },
+      "departamento": {
+        "id": "78014",
+        "nombre": "Deseado"
+      },
+      "id": "78014020",
+      "localidad_censal": {
+        "id": "78014020",
+        "nombre": "Cañadón Seco"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Cañadón Seco",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -46.5413135289238,
+        "lon": -68.9322724914313
+      },
+      "departamento": {
+        "id": "78014",
+        "nombre": "Deseado"
+      },
+      "id": "78014060",
+      "localidad_censal": {
+        "id": "78014060",
+        "nombre": "Las Heras"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Las Heras",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -47.7517194088909,
+        "lon": -65.9009487268108
+      },
+      "departamento": {
+        "id": "78014",
+        "nombre": "Deseado"
+      },
+      "id": "78014080",
+      "localidad_censal": {
+        "id": "78014080",
+        "nombre": "Puerto Deseado"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Puerto Deseado",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -46.7994201755505,
+        "lon": -67.9578516802203
+      },
+      "departamento": {
+        "id": "78014",
+        "nombre": "Deseado"
+      },
+      "id": "78014070",
+      "localidad_censal": {
+        "id": "78014070",
+        "nombre": "Pico Truncado"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Pico Truncado",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -47.6490308254007,
+        "lon": -66.0400432765073
+      },
+      "departamento": {
+        "id": "78014",
+        "nombre": "Deseado"
+      },
+      "id": "78014090",
+      "localidad_censal": {
+        "id": "78014090",
+        "nombre": "Tellier"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Tellier",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -46.7168153931794,
+        "lon": -68.2235809078605
+      },
+      "departamento": {
+        "id": "78014",
+        "nombre": "Deseado"
+      },
+      "id": "78014050",
+      "localidad_censal": {
+        "id": "78014050",
+        "nombre": "Nuestra Señora de los Dolores de Koluel Kayke"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Koluel Kaike",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -46.4478465229957,
+        "lon": -67.5227409022738
+      },
+      "departamento": {
+        "id": "78014",
+        "nombre": "Deseado"
+      },
+      "id": "78014010",
+      "localidad_censal": {
+        "id": "78014010",
+        "nombre": "Caleta Olivia"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Caleta Olivia",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -47.0263477886883,
+        "lon": -67.2473968411481
+      },
+      "departamento": {
+        "id": "78014",
+        "nombre": "Deseado"
+      },
+      "id": "78014030",
+      "localidad_censal": {
+        "id": "78014030",
+        "nombre": "Fitz Roy"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Fitz Roy",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "78014"
+    ]
+  },
+  "total": 9
+}

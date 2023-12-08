@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.6992194338424,
+        "lon": -62.9146578216711
+      },
+      "departamento": {
+        "id": "14182",
+        "nombre": "Unión"
+      },
+      "id": "14182010",
+      "localidad_censal": {
+        "id": "14182010",
+        "nombre": "Aldea Santa María"
+      },
+      "municipio": {
+        "id": "143225",
+        "nombre": "Aldea Santa María"
+      },
+      "nombre": "Aldea Santa María",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.3446887169557,
+        "lon": -62.8849135837045
+      },
+      "departamento": {
+        "id": "14182",
+        "nombre": "Unión"
+      },
+      "id": "14182020",
+      "localidad_censal": {
+        "id": "14182020",
+        "nombre": "Alto Alegre"
+      },
+      "municipio": {
+        "id": "141589",
+        "nombre": "Alto Alegre"
+      },
+      "nombre": "Alto Alegre",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.3909528477684,
+        "lon": -63.0572324375935
+      },
+      "departamento": {
+        "id": "14182",
+        "nombre": "Unión"
+      },
+      "id": "14182030",
+      "localidad_censal": {
+        "id": "14182030",
+        "nombre": "Ana Zumarán"
+      },
+      "municipio": {
+        "id": "143232",
+        "nombre": "Ana Zumarán"
+      },
+      "nombre": "Ana Zumarán",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.5416970468857,
+        "lon": -62.9808108669527
+      },
+      "departamento": {
+        "id": "14182",
+        "nombre": "Unión"
+      },
+      "id": "14182040",
+      "localidad_censal": {
+        "id": "14182040",
+        "nombre": "Ballesteros"
+      },
+      "municipio": {
+        "id": "141596",
+        "nombre": "Ballesteros"
+      },
+      "nombre": "Ballesteros",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.5894780609773,
+        "lon": -63.030218271647
+      },
+      "departamento": {
+        "id": "14182",
+        "nombre": "Unión"
+      },
+      "id": "14182050",
+      "localidad_censal": {
+        "id": "14182050",
+        "nombre": "Ballesteros Sud"
+      },
+      "municipio": {
+        "id": "141603",
+        "nombre": "Ballesteros Sud"
+      },
+      "nombre": "Ballesteros Sud",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6303142822017,
+        "lon": -62.6887933841481
+      },
+      "departamento": {
+        "id": "14182",
+        "nombre": "Unión"
+      },
+      "id": "14182060",
+      "localidad_censal": {
+        "id": "14182060",
+        "nombre": "Bell Ville"
+      },
+      "municipio": {
+        "id": "141610",
+        "nombre": "Bell Ville"
+      },
+      "nombre": "Bell Ville",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.5874649702842,
+        "lon": -62.7281348793285
+      },
+      "departamento": {
+        "id": "14182",
+        "nombre": "Unión"
+      },
+      "id": "14182070",
+      "localidad_censal": {
+        "id": "14182070",
+        "nombre": "Benjamí­n Gould"
+      },
+      "municipio": {
+        "id": "141617",
+        "nombre": "Benjamín Gould"
+      },
+      "nombre": "Benjamín Gould",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.5621726336415,
+        "lon": -62.8850856145061
+      },
+      "departamento": {
+        "id": "14182",
+        "nombre": "Unión"
+      },
+      "id": "14182080",
+      "localidad_censal": {
+        "id": "14182080",
+        "nombre": "Canals"
+      },
+      "municipio": {
+        "id": "141624",
+        "nombre": "Canals"
+      },
+      "nombre": "Canals",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.332692033009,
+        "lon": -62.5107956684272
+      },
+      "departamento": {
+        "id": "14182",
+        "nombre": "Unión"
+      },
+      "id": "14182090",
+      "localidad_censal": {
+        "id": "14182090",
+        "nombre": "Chilibroste"
+      },
+      "municipio": {
+        "id": "141631",
+        "nombre": "Chilibroste"
+      },
+      "nombre": "Chilibroste",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.3063318200183,
+        "lon": -62.6516060754802
+      },
+      "departamento": {
+        "id": "14182",
+        "nombre": "Unión"
+      },
+      "id": "14182100",
+      "localidad_censal": {
+        "id": "14182100",
+        "nombre": "Cintra"
+      },
+      "municipio": {
+        "id": "141638",
+        "nombre": "Cintra"
+      },
+      "nombre": "Cintra",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14182"
+    ]
+  },
+  "total": 29
+}

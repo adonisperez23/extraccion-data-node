@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.821283998305,
+        "lon": -69.9152842865671
+      },
+      "departamento": {
+        "id": "58091",
+        "nombre": "Pehuenches"
+      },
+      "id": "58091010",
+      "localidad_censal": {
+        "id": "58091010",
+        "nombre": "Barrancas"
+      },
+      "municipio": {
+        "id": "580196",
+        "nombre": "Barrancas"
+      },
+      "nombre": "Barrancas",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.0516079001953,
+        "lon": -69.8777949183135
+      },
+      "departamento": {
+        "id": "58091",
+        "nombre": "Pehuenches"
+      },
+      "id": "58091020",
+      "localidad_censal": {
+        "id": "58091020",
+        "nombre": "Buta Ranquil"
+      },
+      "municipio": {
+        "id": "580203",
+        "nombre": "Buta Ranquil"
+      },
+      "nombre": "Buta Ranquil",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.3901794870084,
+        "lon": -68.9251875598311
+      },
+      "departamento": {
+        "id": "58091",
+        "nombre": "Pehuenches"
+      },
+      "id": "58091040",
+      "localidad_censal": {
+        "id": "58091040",
+        "nombre": "Rincón de los Sauces"
+      },
+      "municipio": {
+        "id": "580210",
+        "nombre": "Rincón de los Sauces"
+      },
+      "nombre": "Rincón de los Sauces",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.5896262003336,
+        "lon": -68.258276272983
+      },
+      "departamento": {
+        "id": "58091",
+        "nombre": "Pehuenches"
+      },
+      "id": "58091030",
+      "localidad_censal": {
+        "id": "58091030",
+        "nombre": "Octavio Pico"
+      },
+      "municipio": {
+        "id": "585105",
+        "nombre": "Octavio Pico"
+      },
+      "nombre": "Octavio Pico",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "58091"
+    ]
+  },
+  "total": 4
+}

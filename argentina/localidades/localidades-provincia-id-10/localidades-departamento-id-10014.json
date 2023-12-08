@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.8126440511075,
+        "lon": -65.5006877212264
+      },
+      "departamento": {
+        "id": "10014",
+        "nombre": "Ancasti"
+      },
+      "id": "10014010",
+      "localidad_censal": {
+        "id": "10014010",
+        "nombre": "Ancasti"
+      },
+      "municipio": {
+        "id": "100035",
+        "nombre": "Ancasti"
+      },
+      "nombre": "Ancasti",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.7466882688681,
+        "lon": -65.5463244146797
+      },
+      "departamento": {
+        "id": "10014",
+        "nombre": "Ancasti"
+      },
+      "id": "10014020",
+      "localidad_censal": {
+        "id": "10014020",
+        "nombre": "Anquincila"
+      },
+      "municipio": {
+        "id": "100035",
+        "nombre": "Ancasti"
+      },
+      "nombre": "Anquincila",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6943069148913,
+        "lon": -65.4314484203132
+      },
+      "departamento": {
+        "id": "10014",
+        "nombre": "Ancasti"
+      },
+      "id": "10014030",
+      "localidad_censal": {
+        "id": "10014030",
+        "nombre": "La Candelaria"
+      },
+      "municipio": {
+        "id": "100035",
+        "nombre": "Ancasti"
+      },
+      "nombre": "La Candelaria",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.0291660768967,
+        "lon": -65.5467246141158
+      },
+      "departamento": {
+        "id": "10014",
+        "nombre": "Ancasti"
+      },
+      "id": "10014040",
+      "localidad_censal": {
+        "id": "10014040",
+        "nombre": "La Majada"
+      },
+      "municipio": {
+        "id": "100035",
+        "nombre": "Ancasti"
+      },
+      "nombre": "La Majada",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "10014"
+    ]
+  },
+  "total": 4
+}

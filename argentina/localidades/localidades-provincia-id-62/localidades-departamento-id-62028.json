@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.1061860032175,
+        "lon": -64.4530141062483
+      },
+      "departamento": {
+        "id": "62028",
+        "nombre": "Conesa"
+      },
+      "id": "62028020",
+      "localidad_censal": {
+        "id": "62028020",
+        "nombre": "General Conesa"
+      },
+      "municipio": {
+        "id": "620084",
+        "nombre": "General Conesa"
+      },
+      "nombre": "General Conesa",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.0619299273077,
+        "lon": -64.4748544269681
+      },
+      "departamento": {
+        "id": "62028",
+        "nombre": "Conesa"
+      },
+      "id": "62028030",
+      "localidad_censal": {
+        "id": "62028030",
+        "nombre": "Barrio Planta Compresora de Gas"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Barrio Planta Compresora de Gas",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.1510359482702,
+        "lon": -64.348591808395
+      },
+      "departamento": {
+        "id": "62028",
+        "nombre": "Conesa"
+      },
+      "id": "62028010",
+      "localidad_censal": {
+        "id": "62028010",
+        "nombre": "Barrio Colonia Conesa"
+      },
+      "municipio": {
+        "id": "620084",
+        "nombre": "General Conesa"
+      },
+      "nombre": "Barrio Colonia Conesa",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "62028"
+    ]
+  },
+  "total": 3
+}

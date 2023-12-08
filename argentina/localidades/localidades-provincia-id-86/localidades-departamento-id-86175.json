@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.2438527439867,
+        "lon": -63.9533373386705
+      },
+      "departamento": {
+        "id": "86175",
+        "nombre": "San Martín"
+      },
+      "id": "86175010",
+      "localidad_censal": {
+        "id": "86175010",
+        "nombre": "Brea Pozo"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Brea Pozo",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.0490800415143,
+        "lon": -63.9912324968561
+      },
+      "departamento": {
+        "id": "86175",
+        "nombre": "San Martín"
+      },
+      "id": "86175020",
+      "localidad_censal": {
+        "id": "86175020",
+        "nombre": "Estación Robles"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Estación Robles",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.3024445606439,
+        "lon": -64.0202258300515
+      },
+      "departamento": {
+        "id": "86175",
+        "nombre": "San Martín"
+      },
+      "id": "86175040",
+      "localidad_censal": {
+        "id": "86175040",
+        "nombre": "Villa Nueva"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Villa Nueva",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.0084517235785,
+        "lon": -63.7444099575737
+      },
+      "departamento": {
+        "id": "86175",
+        "nombre": "San Martín"
+      },
+      "id": "86175030",
+      "localidad_censal": {
+        "id": "86175030",
+        "nombre": "Taboada"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Estación Taboada",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86175"
+    ]
+  },
+  "total": 4
+}

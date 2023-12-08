@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.6133150947209,
+        "lon": -59.9061282408254
+      },
+      "departamento": {
+        "id": "06210",
+        "nombre": "Chacabuco"
+      },
+      "id": "06210010",
+      "localidad_censal": {
+        "id": "06210010",
+        "nombre": "Chacabuco"
+      },
+      "municipio": {
+        "id": "060210",
+        "nombre": "Chacabuco"
+      },
+      "nombre": "Castilla",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.6420259859288,
+        "lon": -60.4712365314463
+      },
+      "departamento": {
+        "id": "06210",
+        "nombre": "Chacabuco"
+      },
+      "id": "06210020",
+      "localidad_censal": {
+        "id": "06210020",
+        "nombre": "Los Ángeles"
+      },
+      "municipio": {
+        "id": "060210",
+        "nombre": "Chacabuco"
+      },
+      "nombre": "Chacabuco",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.4571453075658,
+        "lon": -60.1802920837556
+      },
+      "departamento": {
+        "id": "06210",
+        "nombre": "Chacabuco"
+      },
+      "id": "06210030",
+      "localidad_censal": {
+        "id": "06210030",
+        "nombre": "O'Higgins"
+      },
+      "municipio": {
+        "id": "060210",
+        "nombre": "Chacabuco"
+      },
+      "nombre": "Los Angeles",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.5855495645367,
+        "lon": -60.6998875515446
+      },
+      "departamento": {
+        "id": "06210",
+        "nombre": "Chacabuco"
+      },
+      "id": "06210040",
+      "localidad_censal": {
+        "id": "06210040",
+        "nombre": "Rawson"
+      },
+      "municipio": {
+        "id": "060210",
+        "nombre": "Chacabuco"
+      },
+      "nombre": "O'Higgins",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.6050847201737,
+        "lon": -60.0668250412382
+      },
+      "departamento": {
+        "id": "06210",
+        "nombre": "Chacabuco"
+      },
+      "id": "06210050",
+      "localidad_censal": {
+        "id": "06210050",
+        "nombre": "Castilla"
+      },
+      "municipio": {
+        "id": "060210",
+        "nombre": "Chacabuco"
+      },
+      "nombre": "Rawson",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06210"
+    ]
+  },
+  "total": 5
+}

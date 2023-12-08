@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -38.8781733532983,
+        "lon": -62.0794804613607
+      },
+      "departamento": {
+        "id": "06182",
+        "nombre": "Coronel de Marina Leonardo Rosales"
+      },
+      "id": "0618203001",
+      "localidad_censal": {
+        "id": "06182030",
+        "nombre": "Punta Alta"
+      },
+      "municipio": {
+        "id": "060182",
+        "nombre": "Coronel de Marina Leonardo Rosales"
+      },
+      "nombre": "Punta Alta",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -38.8543891102131,
+        "lon": -62.116520630945
+      },
+      "departamento": {
+        "id": "06182",
+        "nombre": "Coronel de Marina Leonardo Rosales"
+      },
+      "id": "0618203002",
+      "localidad_censal": {
+        "id": "06182030",
+        "nombre": "Punta Alta"
+      },
+      "municipio": {
+        "id": "060182",
+        "nombre": "Coronel de Marina Leonardo Rosales"
+      },
+      "nombre": "Villa del Mar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.8095202261785,
+        "lon": -62.1010009856671
+      },
+      "departamento": {
+        "id": "06182",
+        "nombre": "Coronel de Marina Leonardo Rosales"
+      },
+      "id": "06182050",
+      "localidad_censal": {
+        "id": "06182050",
+        "nombre": "Villa General Arias"
+      },
+      "municipio": {
+        "id": "060182",
+        "nombre": "Coronel de Marina Leonardo Rosales"
+      },
+      "nombre": "Villa General Arias",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.7627964873508,
+        "lon": -61.9205128744151
+      },
+      "departamento": {
+        "id": "06182",
+        "nombre": "Coronel de Marina Leonardo Rosales"
+      },
+      "id": "06182010",
+      "localidad_censal": {
+        "id": "06182010",
+        "nombre": "Bajo Hondo"
+      },
+      "municipio": {
+        "id": "060182",
+        "nombre": "Coronel de Marina Leonardo Rosales"
+      },
+      "nombre": "Bajo Hondo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.999893566657,
+        "lon": -61.5536640537776
+      },
+      "departamento": {
+        "id": "06182",
+        "nombre": "Coronel de Marina Leonardo Rosales"
+      },
+      "id": "06182020",
+      "localidad_censal": {
+        "id": "06182020",
+        "nombre": "Pehuen Co"
+      },
+      "municipio": {
+        "id": "060182",
+        "nombre": "Coronel de Marina Leonardo Rosales"
+      },
+      "nombre": "Balneario Pehuen Co",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.8804582193504,
+        "lon": -62.0749966355857
+      },
+      "departamento": {
+        "id": "06182",
+        "nombre": "Coronel de Marina Leonardo Rosales"
+      },
+      "id": "06182030",
+      "localidad_censal": {
+        "id": "06182030",
+        "nombre": "Punta Alta"
+      },
+      "municipio": {
+        "id": "060182",
+        "nombre": "Coronel de Marina Leonardo Rosales"
+      },
+      "nombre": "Punta Alta",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06182"
+    ]
+  },
+  "total": 6
+}

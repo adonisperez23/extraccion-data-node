@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -31.5389329666832,
+        "lon": -68.4139211008057
+      },
+      "departamento": {
+        "id": "70063",
+        "nombre": "9 de Julio"
+      },
+      "id": "70063010",
+      "localidad_censal": {
+        "id": "70063010",
+        "nombre": "Alto de Sierra"
+      },
+      "municipio": {
+        "id": "700063",
+        "nombre": "9 de Julio"
+      },
+      "nombre": "Alto de Sierra",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.5941935190241,
+        "lon": -68.4005125289112
+      },
+      "departamento": {
+        "id": "70063",
+        "nombre": "9 de Julio"
+      },
+      "id": "70063030",
+      "localidad_censal": {
+        "id": "70063030",
+        "nombre": "Las Chacritas"
+      },
+      "municipio": {
+        "id": "700063",
+        "nombre": "9 de Julio"
+      },
+      "nombre": "Las Chacritas",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.6697505180199,
+        "lon": -68.3900417098157
+      },
+      "departamento": {
+        "id": "70063",
+        "nombre": "9 de Julio"
+      },
+      "id": "70063040",
+      "localidad_censal": {
+        "id": "70063040",
+        "nombre": "9 de Julio"
+      },
+      "municipio": {
+        "id": "700063",
+        "nombre": "9 de Julio"
+      },
+      "nombre": "9 de Julio",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "70063"
+    ]
+  },
+  "total": 3
+}

@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.7042147933042,
+        "lon": -62.9012860076337
+      },
+      "departamento": {
+        "id": "06651",
+        "nombre": "Puán"
+      },
+      "id": "06651010",
+      "localidad_censal": {
+        "id": "06651010",
+        "nombre": "Azopardo"
+      },
+      "municipio": {
+        "id": "060651",
+        "nombre": "Puán"
+      },
+      "nombre": "Azopardo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.8055147094651,
+        "lon": -63.0433735782465
+      },
+      "departamento": {
+        "id": "06651",
+        "nombre": "Puán"
+      },
+      "id": "06651020",
+      "localidad_censal": {
+        "id": "06651020",
+        "nombre": "Bordenave"
+      },
+      "municipio": {
+        "id": "060651",
+        "nombre": "Puán"
+      },
+      "nombre": "Bordenave",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.6894529983703,
+        "lon": -63.1610268101447
+      },
+      "departamento": {
+        "id": "06651",
+        "nombre": "Puán"
+      },
+      "id": "06651030",
+      "localidad_censal": {
+        "id": "06651030",
+        "nombre": "Darregueira"
+      },
+      "municipio": {
+        "id": "060651",
+        "nombre": "Puán"
+      },
+      "nombre": "Darregueira",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.9097506905124,
+        "lon": -62.935638980217
+      },
+      "departamento": {
+        "id": "06651",
+        "nombre": "Puán"
+      },
+      "id": "06651040",
+      "localidad_censal": {
+        "id": "06651040",
+        "nombre": "Estela"
+      },
+      "municipio": {
+        "id": "060651",
+        "nombre": "Puán"
+      },
+      "nombre": "17 de Agosto",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.1099152231,
+        "lon": -62.9147830517742
+      },
+      "departamento": {
+        "id": "06651",
+        "nombre": "Puán"
+      },
+      "id": "06651050",
+      "localidad_censal": {
+        "id": "06651050",
+        "nombre": "Felipe Solá"
+      },
+      "municipio": {
+        "id": "060651",
+        "nombre": "Puán"
+      },
+      "nombre": "Estela",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.0092406586158,
+        "lon": -62.8224206965566
+      },
+      "departamento": {
+        "id": "06651",
+        "nombre": "Puán"
+      },
+      "id": "06651060",
+      "localidad_censal": {
+        "id": "06651060",
+        "nombre": "López Lecube"
+      },
+      "municipio": {
+        "id": "060651",
+        "nombre": "Puán"
+      },
+      "nombre": "Felipe Solá",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.1194939806378,
+        "lon": -62.7262061182875
+      },
+      "departamento": {
+        "id": "06651",
+        "nombre": "Puán"
+      },
+      "id": "06651070",
+      "localidad_censal": {
+        "id": "06651070",
+        "nombre": "Puán"
+      },
+      "municipio": {
+        "id": "060651",
+        "nombre": "Puán"
+      },
+      "nombre": "López Lecube",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.5480950158685,
+        "lon": -62.7683364676841
+      },
+      "departamento": {
+        "id": "06651",
+        "nombre": "Puán"
+      },
+      "id": "06651080",
+      "localidad_censal": {
+        "id": "06651080",
+        "nombre": "San Germán"
+      },
+      "municipio": {
+        "id": "060651",
+        "nombre": "Puán"
+      },
+      "nombre": "Puán",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.3017590568014,
+        "lon": -62.9812849309099
+      },
+      "departamento": {
+        "id": "06651",
+        "nombre": "Puán"
+      },
+      "id": "06651090",
+      "localidad_censal": {
+        "id": "06651090",
+        "nombre": "Erize"
+      },
+      "municipio": {
+        "id": "060651",
+        "nombre": "Puán"
+      },
+      "nombre": "San Germán",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.3949214240607,
+        "lon": -62.8034443473684
+      },
+      "departamento": {
+        "id": "06651",
+        "nombre": "Puán"
+      },
+      "id": "06651100",
+      "localidad_censal": {
+        "id": "06651100",
+        "nombre": "17 de Agosto"
+      },
+      "municipio": {
+        "id": "060651",
+        "nombre": "Puán"
+      },
+      "nombre": "Villa Castelar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06651"
+    ]
+  },
+  "total": 11
+}

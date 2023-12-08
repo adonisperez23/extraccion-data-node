@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.9674232624478,
+        "lon": -68.8516196087317
+      },
+      "departamento": {
+        "id": "50063",
+        "nombre": "Luján de Cuyo"
+      },
+      "id": "5006309001",
+      "localidad_censal": {
+        "id": "50063090",
+        "nombre": "Luján de Cuyo"
+      },
+      "municipio": {
+        "id": "500063",
+        "nombre": "Luján de Cuyo"
+      },
+      "nombre": "Carrodilla",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.0345495234972,
+        "lon": -68.8845806111688
+      },
+      "departamento": {
+        "id": "50063",
+        "nombre": "Luján de Cuyo"
+      },
+      "id": "5006309003",
+      "localidad_censal": {
+        "id": "50063090",
+        "nombre": "Luján de Cuyo"
+      },
+      "municipio": {
+        "id": "500063",
+        "nombre": "Luján de Cuyo"
+      },
+      "nombre": "Ciudad Luján de Cuyo",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.9620757495015,
+        "lon": -68.8609733262489
+      },
+      "departamento": {
+        "id": "50063",
+        "nombre": "Luján de Cuyo"
+      },
+      "id": "5006309004",
+      "localidad_censal": {
+        "id": "50063090",
+        "nombre": "Luján de Cuyo"
+      },
+      "municipio": {
+        "id": "500063",
+        "nombre": "Luján de Cuyo"
+      },
+      "nombre": "La Puntilla",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.0194203114596,
+        "lon": -68.8757421386204
+      },
+      "departamento": {
+        "id": "50063",
+        "nombre": "Luján de Cuyo"
+      },
+      "id": "5006309005",
+      "localidad_censal": {
+        "id": "50063090",
+        "nombre": "Luján de Cuyo"
+      },
+      "municipio": {
+        "id": "500063",
+        "nombre": "Luján de Cuyo"
+      },
+      "nombre": "Mayor Drummond",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.9694816435606,
+        "lon": -68.8715140834301
+      },
+      "departamento": {
+        "id": "50063",
+        "nombre": "Luján de Cuyo"
+      },
+      "id": "5006309002",
+      "localidad_censal": {
+        "id": "50063090",
+        "nombre": "Luján de Cuyo"
+      },
+      "municipio": {
+        "id": "500063",
+        "nombre": "Luján de Cuyo"
+      },
+      "nombre": "Chacras de Coria",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.0408263233575,
+        "lon": -68.9253619869867
+      },
+      "departamento": {
+        "id": "50063",
+        "nombre": "Luján de Cuyo"
+      },
+      "id": "5006309006",
+      "localidad_censal": {
+        "id": "50063090",
+        "nombre": "Luján de Cuyo"
+      },
+      "municipio": {
+        "id": "500063",
+        "nombre": "Luján de Cuyo"
+      },
+      "nombre": "Vistalba",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1202890008925,
+        "lon": -68.8891201209443
+      },
+      "departamento": {
+        "id": "50063",
+        "nombre": "Luján de Cuyo"
+      },
+      "id": "50063010",
+      "localidad_censal": {
+        "id": "50063010",
+        "nombre": "Agrelo"
+      },
+      "municipio": {
+        "id": "500063",
+        "nombre": "Luján de Cuyo"
+      },
+      "nombre": "Agrelo",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0766828971477,
+        "lon": -68.9137985131991
+      },
+      "departamento": {
+        "id": "50063",
+        "nombre": "Luján de Cuyo"
+      },
+      "id": "50063020",
+      "localidad_censal": {
+        "id": "50063020",
+        "nombre": "Barrio Perdriel IV"
+      },
+      "municipio": {
+        "id": "500063",
+        "nombre": "Luján de Cuyo"
+      },
+      "nombre": "Barrio Perdriel IV",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0131455155079,
+        "lon": -69.1189728553332
+      },
+      "departamento": {
+        "id": "50063",
+        "nombre": "Luján de Cuyo"
+      },
+      "id": "50063030",
+      "localidad_censal": {
+        "id": "50063030",
+        "nombre": "Cacheuta"
+      },
+      "municipio": {
+        "id": "500049",
+        "nombre": "Las Heras"
+      },
+      "nombre": "Cacheuta",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0582266670311,
+        "lon": -68.9318712034055
+      },
+      "departamento": {
+        "id": "50063",
+        "nombre": "Luján de Cuyo"
+      },
+      "id": "50063040",
+      "localidad_censal": {
+        "id": "50063040",
+        "nombre": "Costa Flores"
+      },
+      "municipio": {
+        "id": "500063",
+        "nombre": "Luján de Cuyo"
+      },
+      "nombre": "Costa Flores",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "50063"
+    ]
+  },
+  "total": 18
+}

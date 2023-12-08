@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.1797450451293,
+        "lon": -70.6699597964992
+      },
+      "departamento": {
+        "id": "58077",
+        "nombre": "Minas"
+      },
+      "id": "58077010",
+      "localidad_censal": {
+        "id": "58077010",
+        "nombre": "Andacollo"
+      },
+      "municipio": {
+        "id": "580140",
+        "nombre": "Andacollo"
+      },
+      "nombre": "Andacollo",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.9889729158681,
+        "lon": -70.7495207912724
+      },
+      "departamento": {
+        "id": "58077",
+        "nombre": "Minas"
+      },
+      "id": "58077030",
+      "localidad_censal": {
+        "id": "58077030",
+        "nombre": "Las Ovejas"
+      },
+      "municipio": {
+        "id": "580154",
+        "nombre": "Las Ovejas"
+      },
+      "nombre": "Las Ovejas",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.2054440051563,
+        "lon": -70.8192231954535
+      },
+      "departamento": {
+        "id": "58077",
+        "nombre": "Minas"
+      },
+      "id": "58077040",
+      "localidad_censal": {
+        "id": "58077040",
+        "nombre": "Los Miches"
+      },
+      "municipio": {
+        "id": "580161",
+        "nombre": "Los Miches"
+      },
+      "nombre": "Los Miches",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.7530915276015,
+        "lon": -70.7632138580449
+      },
+      "departamento": {
+        "id": "58077",
+        "nombre": "Minas"
+      },
+      "id": "58077050",
+      "localidad_censal": {
+        "id": "58077050",
+        "nombre": "Manzano Amargo"
+      },
+      "municipio": {
+        "id": "585084",
+        "nombre": "Manzano Amargo"
+      },
+      "nombre": "Manzano Amargo",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.1202804965414,
+        "lon": -70.7700196350578
+      },
+      "departamento": {
+        "id": "58077",
+        "nombre": "Minas"
+      },
+      "id": "58077070",
+      "localidad_censal": {
+        "id": "58077070",
+        "nombre": "Los Carrizos"
+      },
+      "municipio": {
+        "id": "585098",
+        "nombre": "Villa del Nahueve"
+      },
+      "nombre": "Villa del Nahueve",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.1607374099253,
+        "lon": -70.6240915033899
+      },
+      "departamento": {
+        "id": "58077",
+        "nombre": "Minas"
+      },
+      "id": "58077020",
+      "localidad_censal": {
+        "id": "58077020",
+        "nombre": "Huinganco"
+      },
+      "municipio": {
+        "id": "580147",
+        "nombre": "Huinganco"
+      },
+      "nombre": "Huinganco",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.8547881517533,
+        "lon": -70.6781519736701
+      },
+      "departamento": {
+        "id": "58077",
+        "nombre": "Minas"
+      },
+      "id": "58077060",
+      "localidad_censal": {
+        "id": "58077060",
+        "nombre": "Varvarco"
+      },
+      "municipio": {
+        "id": "585091",
+        "nombre": "Varvarco - Invernada Vieja"
+      },
+      "nombre": "Varvarco",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "58077"
+    ]
+  },
+  "total": 7
+}

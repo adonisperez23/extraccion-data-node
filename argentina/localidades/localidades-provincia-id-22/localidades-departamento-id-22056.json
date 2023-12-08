@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.1053486152867,
+        "lon": -59.4463769418997
+      },
+      "departamento": {
+        "id": "22056",
+        "nombre": "General Donovan"
+      },
+      "id": "22056010",
+      "localidad_censal": {
+        "id": "22056010",
+        "nombre": "La Escondida"
+      },
+      "municipio": {
+        "id": "220140",
+        "nombre": "La Escondida"
+      },
+      "nombre": "La Escondida",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.1304179902021,
+        "lon": -59.3761983068578
+      },
+      "departamento": {
+        "id": "22056",
+        "nombre": "General Donovan"
+      },
+      "id": "22056020",
+      "localidad_censal": {
+        "id": "22056020",
+        "nombre": "La Verde"
+      },
+      "municipio": {
+        "id": "220154",
+        "nombre": "La Verde"
+      },
+      "nombre": "La Verde",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.1593324979119,
+        "lon": -59.3854154416988
+      },
+      "departamento": {
+        "id": "22056",
+        "nombre": "General Donovan"
+      },
+      "id": "22056030",
+      "localidad_censal": {
+        "id": "22056030",
+        "nombre": "Lapachito"
+      },
+      "municipio": {
+        "id": "220147",
+        "nombre": "Lapachito"
+      },
+      "nombre": "Lapachito",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2057849207571,
+        "lon": -59.2870860955885
+      },
+      "departamento": {
+        "id": "22056",
+        "nombre": "General Donovan"
+      },
+      "id": "22056040",
+      "localidad_censal": {
+        "id": "22056040",
+        "nombre": "Makallé"
+      },
+      "municipio": {
+        "id": "220161",
+        "nombre": "Makallé"
+      },
+      "nombre": "Makallé",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22056"
+    ]
+  },
+  "total": 4
+}

@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.0592666352418,
+        "lon": -67.4065517117148
+      },
+      "departamento": {
+        "id": "10028",
+        "nombre": "Antofagasta de la Sierra"
+      },
+      "id": "10028010",
+      "localidad_censal": {
+        "id": "10028010",
+        "nombre": "Antofagasta de la Sierra"
+      },
+      "municipio": {
+        "id": "100056",
+        "nombre": "Antofagasta de la Sierra"
+      },
+      "nombre": "Antofagasta de la Sierra",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.4754473000087,
+        "lon": -67.2652083338104
+      },
+      "departamento": {
+        "id": "10028",
+        "nombre": "Antofagasta de la Sierra"
+      },
+      "id": "10028030",
+      "localidad_censal": {
+        "id": "10028030",
+        "nombre": "El Peñón"
+      },
+      "municipio": {
+        "id": "100056",
+        "nombre": "Antofagasta de la Sierra"
+      },
+      "nombre": "El Peñón",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.8246381808033,
+        "lon": -67.3717929184851
+      },
+      "departamento": {
+        "id": "10028",
+        "nombre": "Antofagasta de la Sierra"
+      },
+      "id": "10028040",
+      "localidad_censal": {
+        "id": "10028040",
+        "nombre": "Los Nacimientos"
+      },
+      "municipio": {
+        "id": "100056",
+        "nombre": "Antofagasta de la Sierra"
+      },
+      "nombre": "Los Nacimientos",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "10028"
+    ]
+  },
+  "total": 3
+}

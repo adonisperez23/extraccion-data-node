@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.6671648439804,
+        "lon": -54.0498617471609
+      },
+      "departamento": {
+        "id": "54049",
+        "nombre": "General Manuel Belgrano"
+      },
+      "id": "54049010",
+      "localidad_censal": {
+        "id": "54049010",
+        "nombre": "Comandante Andresito"
+      },
+      "municipio": {
+        "id": "540182",
+        "nombre": "Comandante Andresito"
+      },
+      "nombre": "Comandante Andresito",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.6821342595151,
+        "lon": -54.1413600614806
+      },
+      "departamento": {
+        "id": "54049",
+        "nombre": "General Manuel Belgrano"
+      },
+      "id": "54049025",
+      "localidad_censal": {
+        "id": "54049025",
+        "nombre": "Caburei"
+      },
+      "municipio": {
+        "id": "540182",
+        "nombre": "Comandante Andresito"
+      },
+      "nombre": "Caburei",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.2930794265319,
+        "lon": -53.7569299362558
+      },
+      "departamento": {
+        "id": "54049",
+        "nombre": "General Manuel Belgrano"
+      },
+      "id": "54049030",
+      "localidad_censal": {
+        "id": "54049030",
+        "nombre": "Dos Hermanas"
+      },
+      "municipio": {
+        "id": "540175",
+        "nombre": "Bernardo de Irigoyen"
+      },
+      "nombre": "Dos Hermanas",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.7709613454189,
+        "lon": -53.8551809061342
+      },
+      "departamento": {
+        "id": "54049",
+        "nombre": "General Manuel Belgrano"
+      },
+      "id": "54049040",
+      "localidad_censal": {
+        "id": "54049040",
+        "nombre": "Integración"
+      },
+      "municipio": {
+        "id": "540182",
+        "nombre": "Comandante Andresito"
+      },
+      "nombre": "Integración",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.5962144012714,
+        "lon": -54.0024142431872
+      },
+      "departamento": {
+        "id": "54049",
+        "nombre": "General Manuel Belgrano"
+      },
+      "id": "54049045",
+      "localidad_censal": {
+        "id": "54049045",
+        "nombre": "Puerto Andresito"
+      },
+      "municipio": {
+        "id": "540182",
+        "nombre": "Comandante Andresito"
+      },
+      "nombre": "Puerto Andresito",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.7858361976721,
+        "lon": -54.0389539830062
+      },
+      "departamento": {
+        "id": "54049",
+        "nombre": "General Manuel Belgrano"
+      },
+      "id": "54049047",
+      "localidad_censal": {
+        "id": "54049047",
+        "nombre": "Puerto Deseado"
+      },
+      "municipio": {
+        "id": "540182",
+        "nombre": "Comandante Andresito"
+      },
+      "nombre": "Puerto Deseado",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.0573709006984,
+        "lon": -53.7341195284472
+      },
+      "departamento": {
+        "id": "54049",
+        "nombre": "General Manuel Belgrano"
+      },
+      "id": "54049050",
+      "localidad_censal": {
+        "id": "54049050",
+        "nombre": "San Antonio"
+      },
+      "municipio": {
+        "id": "540189",
+        "nombre": "San Antonio"
+      },
+      "nombre": "San Antonio",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.9331145756288,
+        "lon": -53.9329622012243
+      },
+      "departamento": {
+        "id": "54049",
+        "nombre": "General Manuel Belgrano"
+      },
+      "id": "54049043",
+      "localidad_censal": {
+        "id": "54049043",
+        "nombre": "Piñalito Norte"
+      },
+      "municipio": {
+        "id": "540189",
+        "nombre": "San Antonio"
+      },
+      "nombre": "Piñalito Norte",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.255330197167,
+        "lon": -53.6467345738917
+      },
+      "departamento": {
+        "id": "54049",
+        "nombre": "General Manuel Belgrano"
+      },
+      "id": "54049020",
+      "localidad_censal": {
+        "id": "54049020",
+        "nombre": "Bernardo de Irigoyen"
+      },
+      "municipio": {
+        "id": "540175",
+        "nombre": "Bernardo de Irigoyen"
+      },
+      "nombre": "Bernardo de Irigoyen",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "54049"
+    ]
+  },
+  "total": 9
+}

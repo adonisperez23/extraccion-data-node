@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.9361065477829,
+        "lon": -57.9849314095121
+      },
+      "departamento": {
+        "id": "06441",
+        "nombre": "La Plata"
+      },
+      "id": "0644103006",
+      "localidad_censal": {
+        "id": "06441030",
+        "nombre": "La Plata"
+      },
+      "municipio": {
+        "id": "060441",
+        "nombre": "La Plata"
+      },
+      "nombre": "Barrio Gambier",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.9867591259577,
+        "lon": -58.0908657138948
+      },
+      "departamento": {
+        "id": "06441",
+        "nombre": "La Plata"
+      },
+      "id": "0644103001",
+      "localidad_censal": {
+        "id": "06441030",
+        "nombre": "La Plata"
+      },
+      "municipio": {
+        "id": "060441",
+        "nombre": "La Plata"
+      },
+      "nombre": "Abasto",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -35.0244808823111,
+        "lon": -58.0781379447636
+      },
+      "departamento": {
+        "id": "06441",
+        "nombre": "La Plata"
+      },
+      "id": "0644103002",
+      "localidad_censal": {
+        "id": "06441030",
+        "nombre": "La Plata"
+      },
+      "municipio": {
+        "id": "060441",
+        "nombre": "La Plata"
+      },
+      "nombre": "Ángel Etcheverry",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.9996034102201,
+        "lon": -57.8924655082918
+      },
+      "departamento": {
+        "id": "06441",
+        "nombre": "La Plata"
+      },
+      "id": "0644103003",
+      "localidad_censal": {
+        "id": "06441030",
+        "nombre": "La Plata"
+      },
+      "municipio": {
+        "id": "060441",
+        "nombre": "La Plata"
+      },
+      "nombre": "Arana",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8913472133746,
+        "lon": -58.1319357401525
+      },
+      "departamento": {
+        "id": "06441",
+        "nombre": "La Plata"
+      },
+      "id": "0644103004",
+      "localidad_censal": {
+        "id": "06441030",
+        "nombre": "La Plata"
+      },
+      "municipio": {
+        "id": "060441",
+        "nombre": "La Plata"
+      },
+      "nombre": "Arturo Seguí",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.9389300458219,
+        "lon": -57.8775985098977
+      },
+      "departamento": {
+        "id": "06441",
+        "nombre": "La Plata"
+      },
+      "id": "0644103005",
+      "localidad_censal": {
+        "id": "06441030",
+        "nombre": "La Plata"
+      },
+      "municipio": {
+        "id": "060441",
+        "nombre": "La Plata"
+      },
+      "nombre": "Barrio El Carmen Oeste",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.9343317745387,
+        "lon": -58.001724758917
+      },
+      "departamento": {
+        "id": "06441",
+        "nombre": "La Plata"
+      },
+      "id": "0644103007",
+      "localidad_censal": {
+        "id": "06441030",
+        "nombre": "La Plata"
+      },
+      "municipio": {
+        "id": "060441",
+        "nombre": "La Plata"
+      },
+      "nombre": "Barrio Las Malvinas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.9251183154547,
+        "lon": -58.0164733151666
+      },
+      "departamento": {
+        "id": "06441",
+        "nombre": "La Plata"
+      },
+      "id": "0644103008",
+      "localidad_censal": {
+        "id": "06441030",
+        "nombre": "La Plata"
+      },
+      "municipio": {
+        "id": "060441",
+        "nombre": "La Plata"
+      },
+      "nombre": "Barrio Las Quintas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8674740179381,
+        "lon": -58.0474227947356
+      },
+      "departamento": {
+        "id": "06441",
+        "nombre": "La Plata"
+      },
+      "id": "0644103009",
+      "localidad_censal": {
+        "id": "06441030",
+        "nombre": "La Plata"
+      },
+      "municipio": {
+        "id": "060441",
+        "nombre": "La Plata"
+      },
+      "nombre": "City Bell",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.9483129769295,
+        "lon": -57.9948819613567
+      },
+      "departamento": {
+        "id": "06441",
+        "nombre": "La Plata"
+      },
+      "id": "0644103010",
+      "localidad_censal": {
+        "id": "06441030",
+        "nombre": "La Plata"
+      },
+      "municipio": {
+        "id": "060441",
+        "nombre": "La Plata"
+      },
+      "nombre": "El Retiro",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06441"
+    ]
+  },
+  "total": 28
+}

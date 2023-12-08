@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5282051328805,
+        "lon": -58.5346134493231
+      },
+      "departamento": {
+        "id": "06861",
+        "nombre": "Vicente López"
+      },
+      "id": "0686101001",
+      "localidad_censal": {
+        "id": "06861010",
+        "nombre": "Vicente López"
+      },
+      "municipio": {
+        "id": "060861",
+        "nombre": "Vicente López"
+      },
+      "nombre": "Carapachay",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5320107502339,
+        "lon": -58.4928251811481
+      },
+      "departamento": {
+        "id": "06861",
+        "nombre": "Vicente López"
+      },
+      "id": "0686101002",
+      "localidad_censal": {
+        "id": "06861010",
+        "nombre": "Vicente López"
+      },
+      "municipio": {
+        "id": "060861",
+        "nombre": "Vicente López"
+      },
+      "nombre": "Florida",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5385072942887,
+        "lon": -58.5154588836308
+      },
+      "departamento": {
+        "id": "06861",
+        "nombre": "Vicente López"
+      },
+      "id": "0686101003",
+      "localidad_censal": {
+        "id": "06861010",
+        "nombre": "Vicente López"
+      },
+      "municipio": {
+        "id": "060861",
+        "nombre": "Vicente López"
+      },
+      "nombre": "Florida Oeste",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4986954031124,
+        "lon": -58.4886021924852
+      },
+      "departamento": {
+        "id": "06861",
+        "nombre": "Vicente López"
+      },
+      "id": "0686101004",
+      "localidad_censal": {
+        "id": "06861010",
+        "nombre": "Vicente López"
+      },
+      "municipio": {
+        "id": "060861",
+        "nombre": "Vicente López"
+      },
+      "nombre": "La Lucila",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5298047274022,
+        "lon": -58.525182801606
+      },
+      "departamento": {
+        "id": "06861",
+        "nombre": "Vicente López"
+      },
+      "id": "0686101005",
+      "localidad_censal": {
+        "id": "06861010",
+        "nombre": "Vicente López"
+      },
+      "municipio": {
+        "id": "060861",
+        "nombre": "Vicente López"
+      },
+      "nombre": "Munro",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5093203722724,
+        "lon": -58.4813961688058
+      },
+      "departamento": {
+        "id": "06861",
+        "nombre": "Vicente López"
+      },
+      "id": "0686101006",
+      "localidad_censal": {
+        "id": "06861010",
+        "nombre": "Vicente López"
+      },
+      "municipio": {
+        "id": "060861",
+        "nombre": "Vicente López"
+      },
+      "nombre": "Olivos",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5257404584867,
+        "lon": -58.4741498273926
+      },
+      "departamento": {
+        "id": "06861",
+        "nombre": "Vicente López"
+      },
+      "id": "0686101007",
+      "localidad_censal": {
+        "id": "06861010",
+        "nombre": "Vicente López"
+      },
+      "municipio": {
+        "id": "060861",
+        "nombre": "Vicente López"
+      },
+      "nombre": "Vicente López",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5265053176719,
+        "lon": -58.5454675353282
+      },
+      "departamento": {
+        "id": "06861",
+        "nombre": "Vicente López"
+      },
+      "id": "0686101008",
+      "localidad_censal": {
+        "id": "06861010",
+        "nombre": "Vicente López"
+      },
+      "municipio": {
+        "id": "060861",
+        "nombre": "Vicente López"
+      },
+      "nombre": "Villa Adelina",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5513042797618,
+        "lon": -58.5066267194854
+      },
+      "departamento": {
+        "id": "06861",
+        "nombre": "Vicente López"
+      },
+      "id": "0686101009",
+      "localidad_censal": {
+        "id": "06861010",
+        "nombre": "Vicente López"
+      },
+      "municipio": {
+        "id": "060861",
+        "nombre": "Vicente López"
+      },
+      "nombre": "Villa Martelli",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.5089441626737,
+        "lon": -58.4861548647957
+      },
+      "departamento": {
+        "id": "06861",
+        "nombre": "Vicente López"
+      },
+      "id": "06861010",
+      "localidad_censal": {
+        "id": "06861010",
+        "nombre": "Vicente López"
+      },
+      "municipio": {
+        "id": "060861",
+        "nombre": "Vicente López"
+      },
+      "nombre": "Vicente López",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06861"
+    ]
+  },
+  "total": 10
+}

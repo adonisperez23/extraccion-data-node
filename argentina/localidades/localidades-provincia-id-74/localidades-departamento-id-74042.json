@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.1537830816654,
+        "lon": -65.9461516824094
+      },
+      "departamento": {
+        "id": "74042",
+        "nombre": "Gobernador Dupuy"
+      },
+      "id": "74042140",
+      "localidad_censal": {
+        "id": "74042140",
+        "nombre": "Unión"
+      },
+      "municipio": {
+        "id": "740091",
+        "nombre": "Unión"
+      },
+      "nombre": "Unión",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.7124530313913,
+        "lon": -66.3538565873865
+      },
+      "departamento": {
+        "id": "74042",
+        "nombre": "Gobernador Dupuy"
+      },
+      "id": "74042100",
+      "localidad_censal": {
+        "id": "74042100",
+        "nombre": "Martín de Loyola"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Martín de Loyola",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.7857388029787,
+        "lon": -66.1763305637941
+      },
+      "departamento": {
+        "id": "74042",
+        "nombre": "Gobernador Dupuy"
+      },
+      "id": "74042110",
+      "localidad_censal": {
+        "id": "74042110",
+        "nombre": "Nahuel Mapá"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Nahuel Mapá",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.6757095531148,
+        "lon": -65.4246390829684
+      },
+      "departamento": {
+        "id": "74042",
+        "nombre": "Gobernador Dupuy"
+      },
+      "id": "74042010",
+      "localidad_censal": {
+        "id": "74042010",
+        "nombre": "Anchorena"
+      },
+      "municipio": {
+        "id": "746147",
+        "nombre": "Anchorena"
+      },
+      "nombre": "Anchorena",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.7578884445232,
+        "lon": -65.2535892029721
+      },
+      "departamento": {
+        "id": "74042",
+        "nombre": "Gobernador Dupuy"
+      },
+      "id": "74042050",
+      "localidad_censal": {
+        "id": "74042050",
+        "nombre": "Buena Esperanza"
+      },
+      "municipio": {
+        "id": "740084",
+        "nombre": "Buena Esperanza"
+      },
+      "nombre": "Buena Esperanza",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.7724690564242,
+        "lon": -65.5227577779025
+      },
+      "departamento": {
+        "id": "74042",
+        "nombre": "Gobernador Dupuy"
+      },
+      "id": "74042060",
+      "localidad_censal": {
+        "id": "74042060",
+        "nombre": "Fortín El Patria"
+      },
+      "municipio": {
+        "id": "746175",
+        "nombre": "Fortín El Patria"
+      },
+      "nombre": "Fortín El Patria",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.1307004276415,
+        "lon": -65.3830928497664
+      },
+      "departamento": {
+        "id": "74042",
+        "nombre": "Gobernador Dupuy"
+      },
+      "id": "74042070",
+      "localidad_censal": {
+        "id": "74042070",
+        "nombre": "Fortuna"
+      },
+      "municipio": {
+        "id": "746182",
+        "nombre": "Fortuna"
+      },
+      "nombre": "Fortuna",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.8774779166824,
+        "lon": -66.4531758468904
+      },
+      "departamento": {
+        "id": "74042",
+        "nombre": "Gobernador Dupuy"
+      },
+      "id": "74042090",
+      "localidad_censal": {
+        "id": "74042090",
+        "nombre": "Los Overos"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Los Overos",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.1151810754279,
+        "lon": -65.2587339949911
+      },
+      "departamento": {
+        "id": "74042",
+        "nombre": "Gobernador Dupuy"
+      },
+      "id": "74042130",
+      "localidad_censal": {
+        "id": "74042130",
+        "nombre": "Nueva Galia"
+      },
+      "municipio": {
+        "id": "746196",
+        "nombre": "Nueva Galia"
+      },
+      "nombre": "Nueva Galia",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.7748629847123,
+        "lon": -66.5864418318649
+      },
+      "departamento": {
+        "id": "74042",
+        "nombre": "Gobernador Dupuy"
+      },
+      "id": "74042120",
+      "localidad_censal": {
+        "id": "74042120",
+        "nombre": "Navia"
+      },
+      "municipio": {
+        "id": "746189",
+        "nombre": "Navia"
+      },
+      "nombre": "Navia",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "74042"
+    ]
+  },
+  "total": 14
+}

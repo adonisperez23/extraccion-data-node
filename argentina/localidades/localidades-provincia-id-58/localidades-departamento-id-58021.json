@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.5564068485178,
+        "lon": -70.5941526618992
+      },
+      "departamento": {
+        "id": "58021",
+        "nombre": "Catán Lil"
+      },
+      "id": "58021010",
+      "localidad_censal": {
+        "id": "58021010",
+        "nombre": "Las Coloradas"
+      },
+      "municipio": {
+        "id": "580028",
+        "nombre": "Las Coloradas"
+      },
+      "nombre": "Las Coloradas",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "58021"
+    ]
+  },
+  "total": 1
+}

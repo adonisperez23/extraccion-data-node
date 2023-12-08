@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.7481082745121,
+        "lon": -59.4304695947374
+      },
+      "departamento": {
+        "id": "06742",
+        "nombre": "San Cayetano"
+      },
+      "id": "06742010",
+      "localidad_censal": {
+        "id": "06742010",
+        "nombre": "Balneario San Cayetano"
+      },
+      "municipio": {
+        "id": "060742",
+        "nombre": "San Cayetano"
+      },
+      "nombre": "Balneario San Cayetano",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.3592119302894,
+        "lon": -59.7932721394937
+      },
+      "departamento": {
+        "id": "06742",
+        "nombre": "San Cayetano"
+      },
+      "id": "06742020",
+      "localidad_censal": {
+        "id": "06742020",
+        "nombre": "Ochandio"
+      },
+      "municipio": {
+        "id": "060742",
+        "nombre": "San Cayetano"
+      },
+      "nombre": "Ochandío",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.345789246959,
+        "lon": -59.6067598785519
+      },
+      "departamento": {
+        "id": "06742",
+        "nombre": "San Cayetano"
+      },
+      "id": "06742030",
+      "localidad_censal": {
+        "id": "06742030",
+        "nombre": "San Cayetano"
+      },
+      "municipio": {
+        "id": "060742",
+        "nombre": "San Cayetano"
+      },
+      "nombre": "San Cayetano",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06742"
+    ]
+  },
+  "total": 3
+}

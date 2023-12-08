@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.8247091104656,
+        "lon": -59.2391181528493
+      },
+      "departamento": {
+        "id": "30049",
+        "nombre": "Gualeguay"
+      },
+      "id": "30049010",
+      "localidad_censal": {
+        "id": "30049010",
+        "nombre": "Aldea Asunción"
+      },
+      "municipio": {
+        "id": "302383",
+        "nombre": "Aldea Asunción"
+      },
+      "nombre": "Aldea Asunción",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.8708132401108,
+        "lon": -59.4223303691248
+      },
+      "departamento": {
+        "id": "30049",
+        "nombre": "Gualeguay"
+      },
+      "id": "30049020",
+      "localidad_censal": {
+        "id": "30049020",
+        "nombre": "Estación Lazo"
+      },
+      "municipio": {
+        "id": "309295",
+        "nombre": "Estación Lazo"
+      },
+      "nombre": "Estación Lazo",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.7204846633082,
+        "lon": -59.3957065604885
+      },
+      "departamento": {
+        "id": "30049",
+        "nombre": "Gualeguay"
+      },
+      "id": "30049030",
+      "localidad_censal": {
+        "id": "30049030",
+        "nombre": "General Galarza"
+      },
+      "municipio": {
+        "id": "300168",
+        "nombre": "General Galarza"
+      },
+      "nombre": "General Galarza",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1504300803974,
+        "lon": -59.3105755860058
+      },
+      "departamento": {
+        "id": "30049",
+        "nombre": "Gualeguay"
+      },
+      "id": "30049040",
+      "localidad_censal": {
+        "id": "30049040",
+        "nombre": "Gualeguay"
+      },
+      "municipio": {
+        "id": "300175",
+        "nombre": "Gualeguay"
+      },
+      "nombre": "Gualeguay",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.2218241731748,
+        "lon": -59.3654648895633
+      },
+      "departamento": {
+        "id": "30049",
+        "nombre": "Gualeguay"
+      },
+      "id": "30049050",
+      "localidad_censal": {
+        "id": "30049050",
+        "nombre": "Puerto Ruiz"
+      },
+      "municipio": {
+        "id": "300175",
+        "nombre": "Gualeguay"
+      },
+      "nombre": "Puerto Ruiz",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "30049"
+    ]
+  },
+  "total": 5
+}

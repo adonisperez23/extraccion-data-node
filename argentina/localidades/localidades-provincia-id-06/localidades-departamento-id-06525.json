@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.9062918893911,
+        "lon": -58.7065478303317
+      },
+      "departamento": {
+        "id": "06525",
+        "nombre": "Marcos Paz"
+      },
+      "id": "0652502001",
+      "localidad_censal": {
+        "id": "06525020",
+        "nombre": "Marcos Paz"
+      },
+      "municipio": {
+        "id": "060525",
+        "nombre": "Marcos Paz"
+      },
+      "nombre": "Barrio Lisandro de la Torre y Santa Marta",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7843157222504,
+        "lon": -58.8353369572326
+      },
+      "departamento": {
+        "id": "06525",
+        "nombre": "Marcos Paz"
+      },
+      "id": "0652502002",
+      "localidad_censal": {
+        "id": "06525020",
+        "nombre": "Marcos Paz"
+      },
+      "municipio": {
+        "id": "060525",
+        "nombre": "Marcos Paz"
+      },
+      "nombre": "Marcos Paz",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.782495897943,
+        "lon": -58.8378890904427
+      },
+      "departamento": {
+        "id": "06525",
+        "nombre": "Marcos Paz"
+      },
+      "id": "06525020",
+      "localidad_censal": {
+        "id": "06525020",
+        "nombre": "Marcos Paz"
+      },
+      "municipio": {
+        "id": "060525",
+        "nombre": "Marcos Paz"
+      },
+      "nombre": "Marcos Paz",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06525"
+    ]
+  },
+  "total": 3
+}

@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.9022526201872,
+        "lon": -63.742953580131
+      },
+      "departamento": {
+        "id": "42077",
+        "nombre": "Hucal"
+      },
+      "id": "42077020",
+      "localidad_censal": {
+        "id": "42077020",
+        "nombre": "Bernasconi"
+      },
+      "municipio": {
+        "id": "420056",
+        "nombre": "Bernasconi"
+      },
+      "nombre": "Bernasconi",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.8965637921854,
+        "lon": -63.8504345021239
+      },
+      "departamento": {
+        "id": "42077",
+        "nombre": "Hucal"
+      },
+      "id": "42077010",
+      "localidad_censal": {
+        "id": "42077010",
+        "nombre": "Abramo"
+      },
+      "municipio": {
+        "id": "420007",
+        "nombre": "Abramo"
+      },
+      "nombre": "Abramo",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.9788814738432,
+        "lon": -63.6034930057397
+      },
+      "departamento": {
+        "id": "42077",
+        "nombre": "Hucal"
+      },
+      "id": "42077030",
+      "localidad_censal": {
+        "id": "42077030",
+        "nombre": "General San Martín"
+      },
+      "municipio": {
+        "id": "420154",
+        "nombre": "General San Martín"
+      },
+      "nombre": "General San Martín",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.791142027803,
+        "lon": -64.0252536594731
+      },
+      "departamento": {
+        "id": "42077",
+        "nombre": "Hucal"
+      },
+      "id": "42077040",
+      "localidad_censal": {
+        "id": "42077040",
+        "nombre": "Hucal"
+      },
+      "municipio": {
+        "id": "420007",
+        "nombre": "Abramo"
+      },
+      "nombre": "Hucal",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.0828745548526,
+        "lon": -63.4294378309598
+      },
+      "departamento": {
+        "id": "42077",
+        "nombre": "Hucal"
+      },
+      "id": "42077050",
+      "localidad_censal": {
+        "id": "42077050",
+        "nombre": "Jacinto Aráuz"
+      },
+      "municipio": {
+        "id": "420182",
+        "nombre": "Jacinto Aráuz"
+      },
+      "nombre": "Jacinto Aráuz",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42077"
+    ]
+  },
+  "total": 5
+}

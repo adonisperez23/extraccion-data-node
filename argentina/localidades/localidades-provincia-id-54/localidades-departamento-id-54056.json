@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2975110360397,
+        "lon": -54.1975456175872
+      },
+      "departamento": {
+        "id": "54056",
+        "nombre": "Guaraní"
+      },
+      "id": "54056010",
+      "localidad_censal": {
+        "id": "54056010",
+        "nombre": "El Soberbio"
+      },
+      "municipio": {
+        "id": "540196",
+        "nombre": "El Soberbio"
+      },
+      "nombre": "El Soberbio",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.7434318690681,
+        "lon": -54.2974537158681
+      },
+      "departamento": {
+        "id": "54056",
+        "nombre": "Guaraní"
+      },
+      "id": "54056020",
+      "localidad_censal": {
+        "id": "54056020",
+        "nombre": "Fracrán"
+      },
+      "municipio": {
+        "id": "540203",
+        "nombre": "San Vicente"
+      },
+      "nombre": "Fracrán",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.9932973869327,
+        "lon": -54.4866189716912
+      },
+      "departamento": {
+        "id": "54056",
+        "nombre": "Guaraní"
+      },
+      "id": "54056030",
+      "localidad_censal": {
+        "id": "54056030",
+        "nombre": "San Vicente"
+      },
+      "municipio": {
+        "id": "540203",
+        "nombre": "San Vicente"
+      },
+      "nombre": "San Vicente",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "54056"
+    ]
+  },
+  "total": 3
+}

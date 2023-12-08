@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.0462438153575,
+        "lon": -59.0867226661372
+      },
+      "departamento": {
+        "id": "30035",
+        "nombre": "Federal"
+      },
+      "id": "30035010",
+      "localidad_censal": {
+        "id": "30035010",
+        "nombre": "Conscripto Bernardi"
+      },
+      "municipio": {
+        "id": "300140",
+        "nombre": "Conscripto Bernardi"
+      },
+      "nombre": "Conscripto Bernardi",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.9741023051628,
+        "lon": -58.9964135435597
+      },
+      "departamento": {
+        "id": "30035",
+        "nombre": "Federal"
+      },
+      "id": "30035020",
+      "localidad_censal": {
+        "id": "30035020",
+        "nombre": "El Cimarrón"
+      },
+      "municipio": {
+        "id": "302287",
+        "nombre": "El Cimarrón"
+      },
+      "nombre": "Aldea San Isidro (El Cimarrón)",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.9562142806914,
+        "lon": -58.7795875052823
+      },
+      "departamento": {
+        "id": "30035",
+        "nombre": "Federal"
+      },
+      "id": "30035030",
+      "localidad_censal": {
+        "id": "30035030",
+        "nombre": "Federal"
+      },
+      "municipio": {
+        "id": "300147",
+        "nombre": "Federal"
+      },
+      "nombre": "Federal",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.9685140319756,
+        "lon": -58.6127493441519
+      },
+      "departamento": {
+        "id": "30035",
+        "nombre": "Federal"
+      },
+      "id": "30035040",
+      "localidad_censal": {
+        "id": "30035040",
+        "nombre": "Nueva Vizcaya"
+      },
+      "municipio": {
+        "id": "302308",
+        "nombre": "Nueva Vizcaya"
+      },
+      "nombre": "Nueva Vizcaya",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.2395232659228,
+        "lon": -59.2173710836707
+      },
+      "departamento": {
+        "id": "30035",
+        "nombre": "Federal"
+      },
+      "id": "30035050",
+      "localidad_censal": {
+        "id": "30035050",
+        "nombre": "Sauce de Luna"
+      },
+      "municipio": {
+        "id": "300154",
+        "nombre": "Sauce de Luna"
+      },
+      "nombre": "Sauce de Luna",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "30035"
+    ]
+  },
+  "total": 5
+}

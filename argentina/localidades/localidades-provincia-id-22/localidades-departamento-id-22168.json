@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.9558881616296,
+        "lon": -60.2028728637073
+      },
+      "departamento": {
+        "id": "22168",
+        "nombre": "25 de Mayo"
+      },
+      "id": "22168010",
+      "localidad_censal": {
+        "id": "22168010",
+        "nombre": "Colonia Aborigen"
+      },
+      "municipio": {
+        "id": "220476",
+        "nombre": "Machagai"
+      },
+      "nombre": "Colonia Aborigen",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.9261347606326,
+        "lon": -60.0484194117374
+      },
+      "departamento": {
+        "id": "22168",
+        "nombre": "25 de Mayo"
+      },
+      "id": "22168020",
+      "localidad_censal": {
+        "id": "22168020",
+        "nombre": "Machagai"
+      },
+      "municipio": {
+        "id": "220476",
+        "nombre": "Machagai"
+      },
+      "nombre": "Machagai",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.90250084563,
+        "lon": -60.1298062022973
+      },
+      "departamento": {
+        "id": "22168",
+        "nombre": "25 de Mayo"
+      },
+      "id": "22168030",
+      "localidad_censal": {
+        "id": "22168030",
+        "nombre": "Napalpí"
+      },
+      "municipio": {
+        "id": "220476",
+        "nombre": "Machagai"
+      },
+      "nombre": "Napalpí",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22168"
+    ]
+  },
+  "total": 3
+}

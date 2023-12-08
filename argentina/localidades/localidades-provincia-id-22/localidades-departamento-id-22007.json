@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.6003305862167,
+        "lon": -60.9461769608855
+      },
+      "departamento": {
+        "id": "22007",
+        "nombre": "Almirante Brown"
+      },
+      "id": "22007010",
+      "localidad_censal": {
+        "id": "22007010",
+        "nombre": "Concepción del Bermejo"
+      },
+      "municipio": {
+        "id": "220007",
+        "nombre": "Concepción del Bermejo"
+      },
+      "nombre": "Concepción del Bermejo",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.4070680088246,
+        "lon": -61.412880578572
+      },
+      "departamento": {
+        "id": "22007",
+        "nombre": "Almirante Brown"
+      },
+      "id": "22007020",
+      "localidad_censal": {
+        "id": "22007020",
+        "nombre": "Los Frentones"
+      },
+      "municipio": {
+        "id": "220014",
+        "nombre": "Los Frentones"
+      },
+      "nombre": "Los Frentones",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.5035583962904,
+        "lon": -61.1765724474723
+      },
+      "departamento": {
+        "id": "22007",
+        "nombre": "Almirante Brown"
+      },
+      "id": "22007030",
+      "localidad_censal": {
+        "id": "22007030",
+        "nombre": "Pampa del Infierno"
+      },
+      "municipio": {
+        "id": "220021",
+        "nombre": "Pampa del Infierno"
+      },
+      "nombre": "Pampa del Infierno",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.3071261086056,
+        "lon": -61.6557594353689
+      },
+      "departamento": {
+        "id": "22007",
+        "nombre": "Almirante Brown"
+      },
+      "id": "22007040",
+      "localidad_censal": {
+        "id": "22007040",
+        "nombre": "Río Muerto"
+      },
+      "municipio": {
+        "id": "220014",
+        "nombre": "Los Frentones"
+      },
+      "nombre": "Río Muerto",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.6150351299997,
+        "lon": -63.2648575469479
+      },
+      "departamento": {
+        "id": "22007",
+        "nombre": "Almirante Brown"
+      },
+      "id": "22007050",
+      "localidad_censal": {
+        "id": "22007050",
+        "nombre": "Taco Pozo"
+      },
+      "municipio": {
+        "id": "220028",
+        "nombre": "Taco Pozo"
+      },
+      "nombre": "Taco Pozo",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22007"
+    ]
+  },
+  "total": 5
+}

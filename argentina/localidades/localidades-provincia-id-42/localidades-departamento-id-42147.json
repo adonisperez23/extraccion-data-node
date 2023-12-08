@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.6390821337794,
+        "lon": -64.3563635138327
+      },
+      "departamento": {
+        "id": "42147",
+        "nombre": "Trenel"
+      },
+      "id": "42147010",
+      "localidad_censal": {
+        "id": "42147010",
+        "nombre": "Arata"
+      },
+      "municipio": {
+        "id": "420035",
+        "nombre": "Arata"
+      },
+      "nombre": "Arata",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.7741568643325,
+        "lon": -63.9406318565629
+      },
+      "departamento": {
+        "id": "42147",
+        "nombre": "Trenel"
+      },
+      "id": "42147020",
+      "localidad_censal": {
+        "id": "42147020",
+        "nombre": "Metileo"
+      },
+      "municipio": {
+        "id": "420245",
+        "nombre": "Metileo"
+      },
+      "nombre": "Metileo",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.6983285275212,
+        "lon": -64.1332845095521
+      },
+      "departamento": {
+        "id": "42147",
+        "nombre": "Trenel"
+      },
+      "id": "42147030",
+      "localidad_censal": {
+        "id": "42147030",
+        "nombre": "Trenel"
+      },
+      "municipio": {
+        "id": "420371",
+        "nombre": "Trenel"
+      },
+      "nombre": "Trenel",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42147"
+    ]
+  },
+  "total": 3
+}

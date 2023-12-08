@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8166106308631,
+        "lon": -58.2313139527388
+      },
+      "departamento": {
+        "id": "06274",
+        "nombre": "Florencio Varela"
+      },
+      "id": "0627401001",
+      "localidad_censal": {
+        "id": "06274010",
+        "nombre": "Florencio Varela"
+      },
+      "municipio": {
+        "id": "060274",
+        "nombre": "Florencio Varela"
+      },
+      "nombre": "Bosques",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8141798503006,
+        "lon": -58.2412180629062
+      },
+      "departamento": {
+        "id": "06274",
+        "nombre": "Florencio Varela"
+      },
+      "id": "0627401002",
+      "localidad_censal": {
+        "id": "06274010",
+        "nombre": "Florencio Varela"
+      },
+      "municipio": {
+        "id": "060274",
+        "nombre": "Florencio Varela"
+      },
+      "nombre": "Estanislao Severo Zeballos",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8089857687717,
+        "lon": -58.2761500162399
+      },
+      "departamento": {
+        "id": "06274",
+        "nombre": "Florencio Varela"
+      },
+      "id": "0627401003",
+      "localidad_censal": {
+        "id": "06274010",
+        "nombre": "Florencio Varela"
+      },
+      "municipio": {
+        "id": "060274",
+        "nombre": "Florencio Varela"
+      },
+      "nombre": "San Juan Bautista",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8075484180765,
+        "lon": -58.3038510563683
+      },
+      "departamento": {
+        "id": "06274",
+        "nombre": "Florencio Varela"
+      },
+      "id": "0627401004",
+      "localidad_censal": {
+        "id": "06274010",
+        "nombre": "Florencio Varela"
+      },
+      "municipio": {
+        "id": "060274",
+        "nombre": "Florencio Varela"
+      },
+      "nombre": "Gobernador Julio A. Costa",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8666834881557,
+        "lon": -58.1985573691944
+      },
+      "departamento": {
+        "id": "06274",
+        "nombre": "Florencio Varela"
+      },
+      "id": "0627401005",
+      "localidad_censal": {
+        "id": "06274010",
+        "nombre": "Florencio Varela"
+      },
+      "municipio": {
+        "id": "060274",
+        "nombre": "Florencio Varela"
+      },
+      "nombre": "Ingeniero Juan Allan",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8712963131667,
+        "lon": -58.275494514116
+      },
+      "departamento": {
+        "id": "06274",
+        "nombre": "Florencio Varela"
+      },
+      "id": "0627401006",
+      "localidad_censal": {
+        "id": "06274010",
+        "nombre": "Florencio Varela"
+      },
+      "municipio": {
+        "id": "060274",
+        "nombre": "Florencio Varela"
+      },
+      "nombre": "Villa Brown",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8573772072023,
+        "lon": -58.2738131215556
+      },
+      "departamento": {
+        "id": "06274",
+        "nombre": "Florencio Varela"
+      },
+      "id": "0627401007",
+      "localidad_censal": {
+        "id": "06274010",
+        "nombre": "Florencio Varela"
+      },
+      "municipio": {
+        "id": "060274",
+        "nombre": "Florencio Varela"
+      },
+      "nombre": "Villa San Luis",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8370639708137,
+        "lon": -58.2821795695129
+      },
+      "departamento": {
+        "id": "06274",
+        "nombre": "Florencio Varela"
+      },
+      "id": "0627401008",
+      "localidad_censal": {
+        "id": "06274010",
+        "nombre": "Florencio Varela"
+      },
+      "municipio": {
+        "id": "060274",
+        "nombre": "Florencio Varela"
+      },
+      "nombre": "Villa Santa Rosa",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8269738162855,
+        "lon": -58.2714023284921
+      },
+      "departamento": {
+        "id": "06274",
+        "nombre": "Florencio Varela"
+      },
+      "id": "0627401009",
+      "localidad_censal": {
+        "id": "06274010",
+        "nombre": "Florencio Varela"
+      },
+      "municipio": {
+        "id": "060274",
+        "nombre": "Florencio Varela"
+      },
+      "nombre": "Villa Vatteone",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.9465243767608,
+        "lon": -58.2672747979278
+      },
+      "departamento": {
+        "id": "06274",
+        "nombre": "Florencio Varela"
+      },
+      "id": "0627401010",
+      "localidad_censal": {
+        "id": "06274010",
+        "nombre": "Florencio Varela"
+      },
+      "municipio": {
+        "id": "060274",
+        "nombre": "Florencio Varela"
+      },
+      "nombre": "El Tropezón",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06274"
+    ]
+  },
+  "total": 12
+}

@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.5072540354127,
+        "lon": -60.86489881645
+      },
+      "departamento": {
+        "id": "06413",
+        "nombre": "Junín"
+      },
+      "id": "06413010",
+      "localidad_censal": {
+        "id": "06413010",
+        "nombre": "Agustina"
+      },
+      "municipio": {
+        "id": "060413",
+        "nombre": "Junín"
+      },
+      "nombre": "Agustín Roca",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.457840917544,
+        "lon": -61.0664981031808
+      },
+      "departamento": {
+        "id": "06413",
+        "nombre": "Junín"
+      },
+      "id": "06413020",
+      "localidad_censal": {
+        "id": "06413020",
+        "nombre": "Balneario Laguna de Gomez"
+      },
+      "municipio": {
+        "id": "060413",
+        "nombre": "Junín"
+      },
+      "nombre": "Agustina",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.6608964328808,
+        "lon": -61.018683323305
+      },
+      "departamento": {
+        "id": "06413",
+        "nombre": "Junín"
+      },
+      "id": "06413030",
+      "localidad_censal": {
+        "id": "06413030",
+        "nombre": "Agustí­n Roca"
+      },
+      "municipio": {
+        "id": "060413",
+        "nombre": "Junín"
+      },
+      "nombre": "Balneario Laguna de Gómez",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.3445360596629,
+        "lon": -61.1285011823446
+      },
+      "departamento": {
+        "id": "06413",
+        "nombre": "Junín"
+      },
+      "id": "06413040",
+      "localidad_censal": {
+        "id": "06413040",
+        "nombre": "Fortí­n Tiburcio"
+      },
+      "municipio": {
+        "id": "060413",
+        "nombre": "Junín"
+      },
+      "nombre": "Fortín Tiburcio",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.5939417428353,
+        "lon": -60.9464309692372
+      },
+      "departamento": {
+        "id": "06413",
+        "nombre": "Junín"
+      },
+      "id": "06413050",
+      "localidad_censal": {
+        "id": "06413050",
+        "nombre": "Juní­n"
+      },
+      "municipio": {
+        "id": "060413",
+        "nombre": "Junín"
+      },
+      "nombre": "Junín",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.7231287380653,
+        "lon": -61.1582663957053
+      },
+      "departamento": {
+        "id": "06413",
+        "nombre": "Junín"
+      },
+      "id": "06413060",
+      "localidad_censal": {
+        "id": "06413060",
+        "nombre": "Laplacette"
+      },
+      "municipio": {
+        "id": "060413",
+        "nombre": "Junín"
+      },
+      "nombre": "Laplacette",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.5728278659011,
+        "lon": -61.074208603857
+      },
+      "departamento": {
+        "id": "06413",
+        "nombre": "Junín"
+      },
+      "id": "06413080",
+      "localidad_censal": {
+        "id": "06413080",
+        "nombre": "Morse"
+      },
+      "municipio": {
+        "id": "060413",
+        "nombre": "Junín"
+      },
+      "nombre": "Saforcada",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06413"
+    ]
+  },
+  "total": 7
+}

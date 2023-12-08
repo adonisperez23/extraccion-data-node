@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.9552557117496,
+        "lon": -58.5717674623871
+      },
+      "departamento": {
+        "id": "18161",
+        "nombre": "San Roque"
+      },
+      "id": "18161010",
+      "localidad_censal": {
+        "id": "18161010",
+        "nombre": "Chavarrí­a"
+      },
+      "municipio": {
+        "id": "180413",
+        "nombre": "Chavarría"
+      },
+      "nombre": "Chavarría",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.5237974395846,
+        "lon": -58.4875853173806
+      },
+      "departamento": {
+        "id": "18161",
+        "nombre": "San Roque"
+      },
+      "id": "18161020",
+      "localidad_censal": {
+        "id": "18161020",
+        "nombre": "Colonia Pando"
+      },
+      "municipio": {
+        "id": "180417",
+        "nombre": "Colonia Pando"
+      },
+      "nombre": "Colonia Pando",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.8407771600765,
+        "lon": -58.8300857171651
+      },
+      "departamento": {
+        "id": "18161",
+        "nombre": "San Roque"
+      },
+      "id": "18161030",
+      "localidad_censal": {
+        "id": "18161030",
+        "nombre": "9 de Julio (Est. Pueblo 9 de Julio)"
+      },
+      "municipio": {
+        "id": "180399",
+        "nombre": "9 de Julio"
+      },
+      "nombre": "9 de Julio",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.7463402488208,
+        "lon": -58.6541382203541
+      },
+      "departamento": {
+        "id": "18161",
+        "nombre": "San Roque"
+      },
+      "id": "18161040",
+      "localidad_censal": {
+        "id": "18161040",
+        "nombre": "Pedro R. Fernández (Est. Mantilla)"
+      },
+      "municipio": {
+        "id": "180406",
+        "nombre": "Pedro R. Fernández"
+      },
+      "nombre": "Pedro R. Fernández",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.5693032326122,
+        "lon": -58.7051349847879
+      },
+      "departamento": {
+        "id": "18161",
+        "nombre": "San Roque"
+      },
+      "id": "18161050",
+      "localidad_censal": {
+        "id": "18161050",
+        "nombre": "San Roque"
+      },
+      "municipio": {
+        "id": "180420",
+        "nombre": "San Roque"
+      },
+      "nombre": "San Roque",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18161"
+    ]
+  },
+  "total": 5
+}

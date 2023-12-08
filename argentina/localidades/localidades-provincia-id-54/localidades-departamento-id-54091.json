@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3600310986771,
+        "lon": -55.2313265030991
+      },
+      "departamento": {
+        "id": "54091",
+        "nombre": "Oberá"
+      },
+      "id": "54091010",
+      "localidad_censal": {
+        "id": "54091010",
+        "nombre": "Colonia Alberdi"
+      },
+      "municipio": {
+        "id": "540371",
+        "nombre": "Colonia Alberdi"
+      },
+      "nombre": "Colonia Alberdi",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.4703554822804,
+        "lon": -55.080588446021
+      },
+      "departamento": {
+        "id": "54091",
+        "nombre": "Oberá"
+      },
+      "id": "54091017",
+      "localidad_censal": {
+        "id": "54091017",
+        "nombre": "Barrio Escuela 633"
+      },
+      "municipio": {
+        "id": "540399",
+        "nombre": "Oberá"
+      },
+      "nombre": "Barrio Escuela 633",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4542687586517,
+        "lon": -55.022947769629
+      },
+      "departamento": {
+        "id": "54091",
+        "nombre": "Oberá"
+      },
+      "id": "54091020",
+      "localidad_censal": {
+        "id": "54091020",
+        "nombre": "Campo Ramón"
+      },
+      "municipio": {
+        "id": "540357",
+        "nombre": "Campo Ramón"
+      },
+      "nombre": "Campo Ramón",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3309716091006,
+        "lon": -55.054252029246
+      },
+      "departamento": {
+        "id": "54091",
+        "nombre": "Oberá"
+      },
+      "id": "54091030",
+      "localidad_censal": {
+        "id": "54091030",
+        "nombre": "Campo Viera"
+      },
+      "municipio": {
+        "id": "540364",
+        "nombre": "Campo Viera"
+      },
+      "nombre": "Campo Viera",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4263468328633,
+        "lon": -55.1696034483008
+      },
+      "departamento": {
+        "id": "54091",
+        "nombre": "Oberá"
+      },
+      "id": "54091050",
+      "localidad_censal": {
+        "id": "54091050",
+        "nombre": "General Alvear"
+      },
+      "municipio": {
+        "id": "540378",
+        "nombre": "General Alvear"
+      },
+      "nombre": "General Alvear",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5231765026164,
+        "lon": -55.1576461294309
+      },
+      "departamento": {
+        "id": "54091",
+        "nombre": "Oberá"
+      },
+      "id": "54091060",
+      "localidad_censal": {
+        "id": "54091060",
+        "nombre": "Guaraní"
+      },
+      "municipio": {
+        "id": "540385",
+        "nombre": "Guaraní"
+      },
+      "nombre": "Guaraní",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5576633248325,
+        "lon": -55.0762633853702
+      },
+      "departamento": {
+        "id": "54091",
+        "nombre": "Oberá"
+      },
+      "id": "54091070",
+      "localidad_censal": {
+        "id": "54091070",
+        "nombre": "Los Helechos"
+      },
+      "municipio": {
+        "id": "540392",
+        "nombre": "Los Helechos"
+      },
+      "nombre": "Los Helechos",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.4867909555976,
+        "lon": -55.1200569831231
+      },
+      "departamento": {
+        "id": "54091",
+        "nombre": "Oberá"
+      },
+      "id": "54091080",
+      "localidad_censal": {
+        "id": "54091080",
+        "nombre": "Oberá"
+      },
+      "municipio": {
+        "id": "540399",
+        "nombre": "Oberá"
+      },
+      "nombre": "Oberá",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.7220280431487,
+        "lon": -54.914825780103
+      },
+      "departamento": {
+        "id": "54091",
+        "nombre": "Oberá"
+      },
+      "id": "54091090",
+      "localidad_censal": {
+        "id": "54091090",
+        "nombre": "Panambí"
+      },
+      "municipio": {
+        "id": "540406",
+        "nombre": "Panambí"
+      },
+      "nombre": "Panambí",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.668501220684,
+        "lon": -54.9826786595937
+      },
+      "departamento": {
+        "id": "54091",
+        "nombre": "Oberá"
+      },
+      "id": "54091100",
+      "localidad_censal": {
+        "id": "54091100",
+        "nombre": "Panambí Kilómetro 8"
+      },
+      "municipio": {
+        "id": "540406",
+        "nombre": "Panambí"
+      },
+      "nombre": "Panambí Kilómetro 8",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "54091"
+    ]
+  },
+  "total": 15
+}

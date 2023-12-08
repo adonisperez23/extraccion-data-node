@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -38.8539586602418,
+        "lon": -60.0728340167456
+      },
+      "departamento": {
+        "id": "06833",
+        "nombre": "Tres Arroyos"
+      },
+      "id": "0683302001",
+      "localidad_censal": {
+        "id": "06833020",
+        "nombre": "Claromecó"
+      },
+      "municipio": {
+        "id": "060833",
+        "nombre": "Tres Arroyos"
+      },
+      "nombre": "Claromecó",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -38.8585571626837,
+        "lon": -60.0861874066163
+      },
+      "departamento": {
+        "id": "06833",
+        "nombre": "Tres Arroyos"
+      },
+      "id": "0683302002",
+      "localidad_censal": {
+        "id": "06833020",
+        "nombre": "Claromecó"
+      },
+      "municipio": {
+        "id": "060833",
+        "nombre": "Tres Arroyos"
+      },
+      "nombre": "Dunamar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.8948939829726,
+        "lon": -60.3448580643218
+      },
+      "departamento": {
+        "id": "06833",
+        "nombre": "Tres Arroyos"
+      },
+      "id": "06833070",
+      "localidad_censal": {
+        "id": "06833070",
+        "nombre": "Reta"
+      },
+      "municipio": {
+        "id": "060833",
+        "nombre": "Tres Arroyos"
+      },
+      "nombre": "Reta",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.807442643306,
+        "lon": -59.7374821959604
+      },
+      "departamento": {
+        "id": "06833",
+        "nombre": "Tres Arroyos"
+      },
+      "id": "06833010",
+      "localidad_censal": {
+        "id": "06833010",
+        "nombre": "Balneario Orense"
+      },
+      "municipio": {
+        "id": "060833",
+        "nombre": "Tres Arroyos"
+      },
+      "nombre": "Balneario Orense",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.8574751199377,
+        "lon": -60.0727995979592
+      },
+      "departamento": {
+        "id": "06833",
+        "nombre": "Tres Arroyos"
+      },
+      "id": "06833020",
+      "localidad_censal": {
+        "id": "06833020",
+        "nombre": "Claromecó"
+      },
+      "municipio": {
+        "id": "060833",
+        "nombre": "Tres Arroyos"
+      },
+      "nombre": "Claromecó",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.7214408739283,
+        "lon": -60.4517437207662
+      },
+      "departamento": {
+        "id": "06833",
+        "nombre": "Tres Arroyos"
+      },
+      "id": "06833030",
+      "localidad_censal": {
+        "id": "06833030",
+        "nombre": "Copetonas"
+      },
+      "municipio": {
+        "id": "060833",
+        "nombre": "Tres Arroyos"
+      },
+      "nombre": "Copetonas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.7056214269641,
+        "lon": -60.2450213199209
+      },
+      "departamento": {
+        "id": "06833",
+        "nombre": "Tres Arroyos"
+      },
+      "id": "06833040",
+      "localidad_censal": {
+        "id": "06833040",
+        "nombre": "Lin Calel"
+      },
+      "municipio": {
+        "id": "060833",
+        "nombre": "Tres Arroyos"
+      },
+      "nombre": "Lin Calel",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.4941143424147,
+        "lon": -60.4683512141006
+      },
+      "departamento": {
+        "id": "06833",
+        "nombre": "Tres Arroyos"
+      },
+      "id": "06833050",
+      "localidad_censal": {
+        "id": "06833050",
+        "nombre": "Micaela Cascallares"
+      },
+      "municipio": {
+        "id": "060833",
+        "nombre": "Tres Arroyos"
+      },
+      "nombre": "Micaela Cascallares",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.6882731254542,
+        "lon": -59.7806914448039
+      },
+      "departamento": {
+        "id": "06833",
+        "nombre": "Tres Arroyos"
+      },
+      "id": "06833060",
+      "localidad_censal": {
+        "id": "06833060",
+        "nombre": "Orense"
+      },
+      "municipio": {
+        "id": "060833",
+        "nombre": "Tres Arroyos"
+      },
+      "nombre": "Orense",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.6895363914284,
+        "lon": -60.0139361893588
+      },
+      "departamento": {
+        "id": "06833",
+        "nombre": "Tres Arroyos"
+      },
+      "id": "06833080",
+      "localidad_censal": {
+        "id": "06833080",
+        "nombre": "San Francisco de Bellocq"
+      },
+      "municipio": {
+        "id": "060833",
+        "nombre": "Tres Arroyos"
+      },
+      "nombre": "San Francisco de Bellocq",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06833"
+    ]
+  },
+  "total": 13
+}

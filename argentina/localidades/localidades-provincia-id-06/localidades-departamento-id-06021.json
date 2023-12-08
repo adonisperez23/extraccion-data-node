@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0315746230118,
+        "lon": -60.280286016609
+      },
+      "departamento": {
+        "id": "06021",
+        "nombre": "Alberti"
+      },
+      "id": "06021010",
+      "localidad_censal": {
+        "id": "06021010",
+        "nombre": "Alberti"
+      },
+      "municipio": {
+        "id": "060021",
+        "nombre": "Alberti"
+      },
+      "nombre": "Alberti",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.8674400521518,
+        "lon": -60.3929714439828
+      },
+      "departamento": {
+        "id": "06021",
+        "nombre": "Alberti"
+      },
+      "id": "06021020",
+      "localidad_censal": {
+        "id": "06021020",
+        "nombre": "Coronel Seguí"
+      },
+      "municipio": {
+        "id": "060021",
+        "nombre": "Alberti"
+      },
+      "nombre": "Coronel Seguí",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -35.0673861094949,
+        "lon": -60.4034270101324
+      },
+      "departamento": {
+        "id": "06021",
+        "nombre": "Alberti"
+      },
+      "id": "06021030",
+      "localidad_censal": {
+        "id": "06021030",
+        "nombre": "Mechita"
+      },
+      "municipio": {
+        "id": "060021",
+        "nombre": "Alberti"
+      },
+      "nombre": "Mechita",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.1228959868708,
+        "lon": -60.2219161413029
+      },
+      "departamento": {
+        "id": "06021",
+        "nombre": "Alberti"
+      },
+      "id": "06021040",
+      "localidad_censal": {
+        "id": "06021040",
+        "nombre": "Pla"
+      },
+      "municipio": {
+        "id": "060021",
+        "nombre": "Alberti"
+      },
+      "nombre": "Pla",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.1099999752396,
+        "lon": -60.0702181834916
+      },
+      "departamento": {
+        "id": "06021",
+        "nombre": "Alberti"
+      },
+      "id": "06021050",
+      "localidad_censal": {
+        "id": "06021050",
+        "nombre": "Achupallas"
+      },
+      "municipio": {
+        "id": "060021",
+        "nombre": "Alberti"
+      },
+      "nombre": "Villa Grisolía",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.8882250272161,
+        "lon": -60.3474804806501
+      },
+      "departamento": {
+        "id": "06021",
+        "nombre": "Alberti"
+      },
+      "id": "06021060",
+      "localidad_censal": {
+        "id": "06021060",
+        "nombre": "Villa María"
+      },
+      "municipio": {
+        "id": "060021",
+        "nombre": "Alberti"
+      },
+      "nombre": "Villa María",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.8445367882073,
+        "lon": -60.3063011463663
+      },
+      "departamento": {
+        "id": "06021",
+        "nombre": "Alberti"
+      },
+      "id": "06021070",
+      "localidad_censal": {
+        "id": "06021070",
+        "nombre": "Villa Ortiz"
+      },
+      "municipio": {
+        "id": "060021",
+        "nombre": "Alberti"
+      },
+      "nombre": "Villa Ortiz",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06021"
+    ]
+  },
+  "total": 7
+}

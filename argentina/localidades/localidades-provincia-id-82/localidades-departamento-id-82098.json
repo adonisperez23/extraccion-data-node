@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.5816675393883,
+        "lon": -59.9281005227685
+      },
+      "departamento": {
+        "id": "82098",
+        "nombre": "San Javier"
+      },
+      "id": "82098060",
+      "localidad_censal": {
+        "id": "82098060",
+        "nombre": "San Javier"
+      },
+      "municipio": {
+        "id": "820238",
+        "nombre": "San Javier"
+      },
+      "nombre": "San Javier",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.6563424367287,
+        "lon": -60.2298081562417
+      },
+      "departamento": {
+        "id": "82098",
+        "nombre": "San Javier"
+      },
+      "id": "82098020",
+      "localidad_censal": {
+        "id": "82098020",
+        "nombre": "Cacique Ariacaiquín"
+      },
+      "municipio": {
+        "id": "823694",
+        "nombre": "Cacique Ariacaiquín"
+      },
+      "nombre": "Cacique Ariacaiquín",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.4477817388248,
+        "lon": -60.1409366948519
+      },
+      "departamento": {
+        "id": "82098",
+        "nombre": "San Javier"
+      },
+      "id": "82098040",
+      "localidad_censal": {
+        "id": "82098040",
+        "nombre": "La Brava"
+      },
+      "municipio": {
+        "id": "823708",
+        "nombre": "La Brava"
+      },
+      "nombre": "La Brava",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.4995978982009,
+        "lon": -59.7477023849584
+      },
+      "departamento": {
+        "id": "82098",
+        "nombre": "San Javier"
+      },
+      "id": "82098050",
+      "localidad_censal": {
+        "id": "82098050",
+        "nombre": "Romang"
+      },
+      "municipio": {
+        "id": "820237",
+        "nombre": "Romang"
+      },
+      "nombre": "Romang",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.9092096293439,
+        "lon": -59.826868622909
+      },
+      "departamento": {
+        "id": "82098",
+        "nombre": "San Javier"
+      },
+      "id": "82098010",
+      "localidad_censal": {
+        "id": "82098010",
+        "nombre": "Alejandra"
+      },
+      "municipio": {
+        "id": "823687",
+        "nombre": "Alejandra"
+      },
+      "nombre": "Alejandra",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.5581192781533,
+        "lon": -59.9265923492876
+      },
+      "departamento": {
+        "id": "82098",
+        "nombre": "San Javier"
+      },
+      "id": "82098030",
+      "localidad_censal": {
+        "id": "82098030",
+        "nombre": "Colonia Durán"
+      },
+      "municipio": {
+        "id": "823701",
+        "nombre": "Colonia Durán"
+      },
+      "nombre": "Colonia Durán",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "82098"
+    ]
+  },
+  "total": 6
+}

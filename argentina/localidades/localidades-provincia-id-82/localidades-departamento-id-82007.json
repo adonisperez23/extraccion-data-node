@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.4236315024218,
+        "lon": -61.8897360595799
+      },
+      "departamento": {
+        "id": "82007",
+        "nombre": "Belgrano"
+      },
+      "id": "82007020",
+      "localidad_censal": {
+        "id": "82007020",
+        "nombre": "Bouquet"
+      },
+      "municipio": {
+        "id": "822007",
+        "nombre": "Bouquet"
+      },
+      "nombre": "Bouquet",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.4750508722115,
+        "lon": -61.5765081663526
+      },
+      "departamento": {
+        "id": "82007",
+        "nombre": "Belgrano"
+      },
+      "id": "82007040",
+      "localidad_censal": {
+        "id": "82007040",
+        "nombre": "Las Rosas"
+      },
+      "municipio": {
+        "id": "820021",
+        "nombre": "Las Rosas"
+      },
+      "nombre": "Las Rosas",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.566379801524,
+        "lon": -61.7684586366872
+      },
+      "departamento": {
+        "id": "82007",
+        "nombre": "Belgrano"
+      },
+      "id": "82007050",
+      "localidad_censal": {
+        "id": "82007050",
+        "nombre": "Montes de Oca"
+      },
+      "municipio": {
+        "id": "822014",
+        "nombre": "Montes de Oca"
+      },
+      "nombre": "Montes de Oca",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.7852890711609,
+        "lon": -61.6033099141452
+      },
+      "departamento": {
+        "id": "82007",
+        "nombre": "Belgrano"
+      },
+      "id": "82007010",
+      "localidad_censal": {
+        "id": "82007010",
+        "nombre": "Armstrong"
+      },
+      "municipio": {
+        "id": "820007",
+        "nombre": "Armstrong"
+      },
+      "nombre": "Armstrong",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6829498578191,
+        "lon": -61.5224490163267
+      },
+      "departamento": {
+        "id": "82007",
+        "nombre": "Belgrano"
+      },
+      "id": "82007030",
+      "localidad_censal": {
+        "id": "82007030",
+        "nombre": "Las Parejas"
+      },
+      "municipio": {
+        "id": "820014",
+        "nombre": "Las Parejas"
+      },
+      "nombre": "Las Parejas",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.7473970137447,
+        "lon": -61.8209883286038
+      },
+      "departamento": {
+        "id": "82007",
+        "nombre": "Belgrano"
+      },
+      "id": "82007060",
+      "localidad_censal": {
+        "id": "82007060",
+        "nombre": "Tortugas"
+      },
+      "municipio": {
+        "id": "822021",
+        "nombre": "Tortugas"
+      },
+      "nombre": "Tortugas",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "82007"
+    ]
+  },
+  "total": 6
+}

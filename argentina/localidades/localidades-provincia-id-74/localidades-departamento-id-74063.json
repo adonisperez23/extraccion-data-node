@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.5333366991568,
+        "lon": -65.6458598602821
+      },
+      "departamento": {
+        "id": "74063",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "74063080",
+      "localidad_censal": {
+        "id": "74063080",
+        "nombre": "Villa de Praga"
+      },
+      "municipio": {
+        "id": "746322",
+        "nombre": "Villa de Praga"
+      },
+      "nombre": "Villa de Praga",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.37588435267,
+        "lon": -65.5011350136306
+      },
+      "departamento": {
+        "id": "74063",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "74063020",
+      "localidad_censal": {
+        "id": "74063020",
+        "nombre": "Las Aguadas"
+      },
+      "municipio": {
+        "id": "746294",
+        "nombre": "Las Aguadas"
+      },
+      "nombre": "Las Aguadas",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6755589430921,
+        "lon": -65.6497483616018
+      },
+      "departamento": {
+        "id": "74063",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "74063060",
+      "localidad_censal": {
+        "id": "74063060",
+        "nombre": "Potrerillo"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Potrerillo",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.410603795414,
+        "lon": -65.6757116418494
+      },
+      "departamento": {
+        "id": "74063",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "74063070",
+      "localidad_censal": {
+        "id": "74063070",
+        "nombre": "San Martín"
+      },
+      "municipio": {
+        "id": "740140",
+        "nombre": "San Martín"
+      },
+      "nombre": "San Martín",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.8773224104062,
+        "lon": -65.6350549915323
+      },
+      "departamento": {
+        "id": "74063",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "74063050",
+      "localidad_censal": {
+        "id": "74063050",
+        "nombre": "Paso Grande"
+      },
+      "municipio": {
+        "id": "746315",
+        "nombre": "Paso Grande"
+      },
+      "nombre": "Paso Grande",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.7971093636103,
+        "lon": -65.7562953006457
+      },
+      "departamento": {
+        "id": "74063",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "74063010",
+      "localidad_censal": {
+        "id": "74063010",
+        "nombre": "La Vertiente"
+      },
+      "municipio": {
+        "id": "746287",
+        "nombre": "La Vertiente"
+      },
+      "nombre": "La Vertiente",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6280580772529,
+        "lon": -65.5485981279346
+      },
+      "departamento": {
+        "id": "74063",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "74063040",
+      "localidad_censal": {
+        "id": "74063040",
+        "nombre": "Las Lagunas"
+      },
+      "municipio": {
+        "id": "746308",
+        "nombre": "Las Lagunas"
+      },
+      "nombre": "Las Lagunas",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.5625381713775,
+        "lon": -65.7769022962592
+      },
+      "departamento": {
+        "id": "74063",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "74063030",
+      "localidad_censal": {
+        "id": "74063030",
+        "nombre": "Las Chacras"
+      },
+      "municipio": {
+        "id": "746301",
+        "nombre": "Las Chacras"
+      },
+      "nombre": "Las Chacras",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "74063"
+    ]
+  },
+  "total": 8
+}

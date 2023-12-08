@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.8462142271337,
+        "lon": -65.2793442506857
+      },
+      "departamento": {
+        "id": "90063",
+        "nombre": "Lules"
+      },
+      "id": "9006302002",
+      "localidad_censal": {
+        "id": "90063020",
+        "nombre": "El Manantial"
+      },
+      "municipio": {
+        "id": "908357",
+        "nombre": "El Manantial"
+      },
+      "nombre": "El Manantial",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.842003384481,
+        "lon": -65.2722450135604
+      },
+      "departamento": {
+        "id": "90063",
+        "nombre": "Lules"
+      },
+      "id": "9006302001",
+      "localidad_censal": {
+        "id": "90063020",
+        "nombre": "El Manantial"
+      },
+      "municipio": {
+        "id": "908357",
+        "nombre": "El Manantial"
+      },
+      "nombre": "Barrio Araujo",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.9221842679548,
+        "lon": -65.3377158244698
+      },
+      "departamento": {
+        "id": "90063",
+        "nombre": "Lules"
+      },
+      "id": "90063050",
+      "localidad_censal": {
+        "id": "90063050",
+        "nombre": "Lules"
+      },
+      "municipio": {
+        "id": "900077",
+        "nombre": "San Isidro de Lules"
+      },
+      "nombre": "Lules",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.8699922127003,
+        "lon": -65.310892532054
+      },
+      "departamento": {
+        "id": "90063",
+        "nombre": "Lules"
+      },
+      "id": "90063030",
+      "localidad_censal": {
+        "id": "90063030",
+        "nombre": "Ingenio San Pablo"
+      },
+      "municipio": {
+        "id": "908371",
+        "nombre": "San Pablo y Villa Nougués"
+      },
+      "nombre": "Ingenio San Pablo",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -26.8721049974943,
+        "lon": -65.2324535308105
+      },
+      "departamento": {
+        "id": "90063",
+        "nombre": "Lules"
+      },
+      "id": "90063010",
+      "localidad_censal": {
+        "id": "90063010",
+        "nombre": "Barrio San Felipe"
+      },
+      "municipio": {
+        "id": "900014",
+        "nombre": "San Miguel de Tucumán"
+      },
+      "nombre": "Barrio San Felipe",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.9576027416907,
+        "lon": -65.3505506517653
+      },
+      "departamento": {
+        "id": "90063",
+        "nombre": "Lules"
+      },
+      "id": "90063040",
+      "localidad_censal": {
+        "id": "90063040",
+        "nombre": "La Reducción"
+      },
+      "municipio": {
+        "id": "900077",
+        "nombre": "San Isidro de Lules"
+      },
+      "nombre": "La Reducción",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -26.8480529421479,
+        "lon": -65.2818607429994
+      },
+      "departamento": {
+        "id": "90063",
+        "nombre": "Lules"
+      },
+      "id": "90063020",
+      "localidad_censal": {
+        "id": "90063020",
+        "nombre": "El Manantial"
+      },
+      "municipio": {
+        "id": "908357",
+        "nombre": "El Manantial"
+      },
+      "nombre": "El Manantial",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "90063"
+    ]
+  },
+  "total": 7
+}

@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.8070727746487,
+        "lon": -59.5022278347215
+      },
+      "departamento": {
+        "id": "06070",
+        "nombre": "Baradero"
+      },
+      "id": "06070010",
+      "localidad_censal": {
+        "id": "06070010",
+        "nombre": "Baradero"
+      },
+      "municipio": {
+        "id": "060070",
+        "nombre": "Baradero"
+      },
+      "nombre": "Baradero",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.9798303828433,
+        "lon": -59.6701217083133
+      },
+      "departamento": {
+        "id": "06070",
+        "nombre": "Baradero"
+      },
+      "id": "06070020",
+      "localidad_censal": {
+        "id": "06070020",
+        "nombre": "Irineo Portela"
+      },
+      "municipio": {
+        "id": "060070",
+        "nombre": "Baradero"
+      },
+      "nombre": "Irineo Portela",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.0608712353202,
+        "lon": -59.5602159639334
+      },
+      "departamento": {
+        "id": "06070",
+        "nombre": "Baradero"
+      },
+      "id": "06070030",
+      "localidad_censal": {
+        "id": "06070030",
+        "nombre": "Santa Coloma"
+      },
+      "municipio": {
+        "id": "060070",
+        "nombre": "Baradero"
+      },
+      "nombre": "Santa Coloma",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.9076609182152,
+        "lon": -59.3906490653271
+      },
+      "departamento": {
+        "id": "06070",
+        "nombre": "Baradero"
+      },
+      "id": "06070040",
+      "localidad_censal": {
+        "id": "06070040",
+        "nombre": "Villa Alsina"
+      },
+      "municipio": {
+        "id": "060070",
+        "nombre": "Baradero"
+      },
+      "nombre": "Villa Alsina",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06070"
+    ]
+  },
+  "total": 4
+}

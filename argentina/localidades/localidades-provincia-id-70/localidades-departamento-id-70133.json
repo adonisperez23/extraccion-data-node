@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.5484646475955,
+        "lon": -68.7293719829141
+      },
+      "departamento": {
+        "id": "70133",
+        "nombre": "Zonda"
+      },
+      "id": "7013301001",
+      "localidad_censal": {
+        "id": "70133010",
+        "nombre": "Villa Basilio Nievas"
+      },
+      "municipio": {
+        "id": "700133",
+        "nombre": "Zonda"
+      },
+      "nombre": "Villa Basilio Nievas",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.5261702270259,
+        "lon": -68.7052483931582
+      },
+      "departamento": {
+        "id": "70133",
+        "nombre": "Zonda"
+      },
+      "id": "7013301002",
+      "localidad_censal": {
+        "id": "70133010",
+        "nombre": "Villa Basilio Nievas"
+      },
+      "municipio": {
+        "id": "700133",
+        "nombre": "Zonda"
+      },
+      "nombre": "Villa Tacú",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.5502100959339,
+        "lon": -68.7313285935161
+      },
+      "departamento": {
+        "id": "70133",
+        "nombre": "Zonda"
+      },
+      "id": "70133010",
+      "localidad_censal": {
+        "id": "70133010",
+        "nombre": "Villa Basilio Nievas"
+      },
+      "municipio": {
+        "id": "700133",
+        "nombre": "Zonda"
+      },
+      "nombre": "Villa Basilio Nievas",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "70133"
+    ]
+  },
+  "total": 3
+}

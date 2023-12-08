@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.5442260049415,
+        "lon": -60.8010273264532
+      },
+      "departamento": {
+        "id": "06448",
+        "nombre": "Laprida"
+      },
+      "id": "06448010",
+      "localidad_censal": {
+        "id": "06448010",
+        "nombre": "Laprida"
+      },
+      "municipio": {
+        "id": "060448",
+        "nombre": "Laprida"
+      },
+      "nombre": "Laprida",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.5237012125811,
+        "lon": -60.7740826042178
+      },
+      "departamento": {
+        "id": "06448",
+        "nombre": "Laprida"
+      },
+      "id": "06448020",
+      "localidad_censal": {
+        "id": "06448020",
+        "nombre": "Pueblo Nuevo"
+      },
+      "municipio": {
+        "id": "060448",
+        "nombre": "Laprida"
+      },
+      "nombre": "Pueblo Nuevo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.2288613554394,
+        "lon": -60.9610423415769
+      },
+      "departamento": {
+        "id": "06448",
+        "nombre": "Laprida"
+      },
+      "id": "06448030",
+      "localidad_censal": {
+        "id": "06448030",
+        "nombre": "Pueblo San Jorge"
+      },
+      "municipio": {
+        "id": "060448",
+        "nombre": "Laprida"
+      },
+      "nombre": "Pueblo San Jorge",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06448"
+    ]
+  },
+  "total": 3
+}

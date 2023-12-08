@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.0112648593911,
+        "lon": -64.6711512524288
+      },
+      "departamento": {
+        "id": "66140",
+        "nombre": "Rosario de la Frontera"
+      },
+      "id": "66140020",
+      "localidad_censal": {
+        "id": "66140020",
+        "nombre": "Copo Quile"
+      },
+      "municipio": {
+        "id": "660350",
+        "nombre": "El Potrero"
+      },
+      "nombre": "Copo Quile",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.0471728158573,
+        "lon": -64.6447831904946
+      },
+      "departamento": {
+        "id": "66140",
+        "nombre": "Rosario de la Frontera"
+      },
+      "id": "66140040",
+      "localidad_censal": {
+        "id": "66140040",
+        "nombre": "El Potrero"
+      },
+      "municipio": {
+        "id": "660350",
+        "nombre": "El Potrero"
+      },
+      "nombre": "El Potrero",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.7985634224576,
+        "lon": -64.973858090961
+      },
+      "departamento": {
+        "id": "66140",
+        "nombre": "Rosario de la Frontera"
+      },
+      "id": "66140050",
+      "localidad_censal": {
+        "id": "66140050",
+        "nombre": "Rosario de la Frontera"
+      },
+      "municipio": {
+        "id": "660357",
+        "nombre": "Rosario de la Frontera"
+      },
+      "nombre": "Rosario de la Frontera",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.1195766068482,
+        "lon": -64.5933991690153
+      },
+      "departamento": {
+        "id": "66140",
+        "nombre": "Rosario de la Frontera"
+      },
+      "id": "66140010",
+      "localidad_censal": {
+        "id": "66140010",
+        "nombre": "Antilla"
+      },
+      "municipio": {
+        "id": "660350",
+        "nombre": "El Potrero"
+      },
+      "nombre": "Antillá",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.7222027140064,
+        "lon": -65.0138320951143
+      },
+      "departamento": {
+        "id": "66140",
+        "nombre": "Rosario de la Frontera"
+      },
+      "id": "66140030",
+      "localidad_censal": {
+        "id": "66140030",
+        "nombre": "El Naranjo"
+      },
+      "municipio": {
+        "id": "660357",
+        "nombre": "Rosario de la Frontera"
+      },
+      "nombre": "El Naranjo",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.7175218465835,
+        "lon": -64.8368275276886
+      },
+      "departamento": {
+        "id": "66140",
+        "nombre": "Rosario de la Frontera"
+      },
+      "id": "66140060",
+      "localidad_censal": {
+        "id": "66140060",
+        "nombre": "San Felipe"
+      },
+      "municipio": {
+        "id": "660357",
+        "nombre": "Rosario de la Frontera"
+      },
+      "nombre": "San Felipe",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66140"
+    ]
+  },
+  "total": 6
+}

@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4558324468983,
+        "lon": -58.708597430815
+      },
+      "departamento": {
+        "id": "06515",
+        "nombre": "Malvinas Argentinas"
+      },
+      "id": "0651501001",
+      "localidad_censal": {
+        "id": "06515010",
+        "nombre": "Malvinas Argentinas"
+      },
+      "municipio": {
+        "id": "060515",
+        "nombre": "Malvinas Argentinas"
+      },
+      "nombre": "Área de Promoción El Triángulo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.489012469155,
+        "lon": -58.7263870544297
+      },
+      "departamento": {
+        "id": "06515",
+        "nombre": "Malvinas Argentinas"
+      },
+      "id": "0651501002",
+      "localidad_censal": {
+        "id": "06515010",
+        "nombre": "Malvinas Argentinas"
+      },
+      "municipio": {
+        "id": "060515",
+        "nombre": "Malvinas Argentinas"
+      },
+      "nombre": "Grand Bourg",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5004713123991,
+        "lon": -58.6620356056574
+      },
+      "departamento": {
+        "id": "06515",
+        "nombre": "Malvinas Argentinas"
+      },
+      "id": "0651501003",
+      "localidad_censal": {
+        "id": "06515010",
+        "nombre": "Malvinas Argentinas"
+      },
+      "municipio": {
+        "id": "060515",
+        "nombre": "Malvinas Argentinas"
+      },
+      "nombre": "Ingeniero Adolfo Sourdeaux",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4894723154381,
+        "lon": -58.7060917266721
+      },
+      "departamento": {
+        "id": "06515",
+        "nombre": "Malvinas Argentinas"
+      },
+      "id": "0651501004",
+      "localidad_censal": {
+        "id": "06515010",
+        "nombre": "Malvinas Argentinas"
+      },
+      "municipio": {
+        "id": "060515",
+        "nombre": "Malvinas Argentinas"
+      },
+      "nombre": "Ingeniero Pablo Nogués",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5020886294655,
+        "lon": -58.6949943511423
+      },
+      "departamento": {
+        "id": "06515",
+        "nombre": "Malvinas Argentinas"
+      },
+      "id": "0651501005",
+      "localidad_censal": {
+        "id": "06515010",
+        "nombre": "Malvinas Argentinas"
+      },
+      "municipio": {
+        "id": "060515",
+        "nombre": "Malvinas Argentinas"
+      },
+      "nombre": "Los Polvorines",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4947444924354,
+        "lon": -58.6996332398151
+      },
+      "departamento": {
+        "id": "06515",
+        "nombre": "Malvinas Argentinas"
+      },
+      "id": "0651501006",
+      "localidad_censal": {
+        "id": "06515010",
+        "nombre": "Malvinas Argentinas"
+      },
+      "municipio": {
+        "id": "060515",
+        "nombre": "Malvinas Argentinas"
+      },
+      "nombre": "Malvinas Argentinas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4745167101605,
+        "lon": -58.7549456664352
+      },
+      "departamento": {
+        "id": "06515",
+        "nombre": "Malvinas Argentinas"
+      },
+      "id": "0651501007",
+      "localidad_censal": {
+        "id": "06515010",
+        "nombre": "Malvinas Argentinas"
+      },
+      "municipio": {
+        "id": "060515",
+        "nombre": "Malvinas Argentinas"
+      },
+      "nombre": "Tortuguitas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5066088363881,
+        "lon": -58.6789744017667
+      },
+      "departamento": {
+        "id": "06515",
+        "nombre": "Malvinas Argentinas"
+      },
+      "id": "0651501008",
+      "localidad_censal": {
+        "id": "06515010",
+        "nombre": "Malvinas Argentinas"
+      },
+      "municipio": {
+        "id": "060515",
+        "nombre": "Malvinas Argentinas"
+      },
+      "nombre": "Villa de Mayo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.4987952014085,
+        "lon": -58.7010876038761
+      },
+      "departamento": {
+        "id": "06515",
+        "nombre": "Malvinas Argentinas"
+      },
+      "id": "06515010",
+      "localidad_censal": {
+        "id": "06515010",
+        "nombre": "Malvinas Argentinas"
+      },
+      "municipio": {
+        "id": "060515",
+        "nombre": "Malvinas Argentinas"
+      },
+      "nombre": "Malvinas Argentinas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06515"
+    ]
+  },
+  "total": 9
+}

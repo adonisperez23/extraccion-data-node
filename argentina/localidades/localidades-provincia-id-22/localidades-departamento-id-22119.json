@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.998643134952,
+        "lon": -59.8463772779192
+      },
+      "departamento": {
+        "id": "22119",
+        "nombre": "Presidencia de la Plaza"
+      },
+      "id": "22119010",
+      "localidad_censal": {
+        "id": "22119010",
+        "nombre": "Presidencia de la Plaza"
+      },
+      "municipio": {
+        "id": "220357",
+        "nombre": "Presidencia de la Plaza"
+      },
+      "nombre": "Presidencia de la Plaza",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22119"
+    ]
+  },
+  "total": 1
+}

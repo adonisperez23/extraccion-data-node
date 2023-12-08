@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.3368119149466,
+        "lon": -57.0295357510231
+      },
+      "departamento": {
+        "id": "06868",
+        "nombre": "Villa Gesell"
+      },
+      "id": "0686801001",
+      "localidad_censal": {
+        "id": "06868010",
+        "nombre": "Mar Azul"
+      },
+      "municipio": {
+        "id": "060868",
+        "nombre": "Villa Gesell"
+      },
+      "nombre": "Mar Azul",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.3265635278993,
+        "lon": -57.0225364322731
+      },
+      "departamento": {
+        "id": "06868",
+        "nombre": "Villa Gesell"
+      },
+      "id": "0686801002",
+      "localidad_censal": {
+        "id": "06868010",
+        "nombre": "Mar Azul"
+      },
+      "municipio": {
+        "id": "060868",
+        "nombre": "Villa Gesell"
+      },
+      "nombre": "Mar de las Pampas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.3385187203624,
+        "lon": -57.0333166634527
+      },
+      "departamento": {
+        "id": "06868",
+        "nombre": "Villa Gesell"
+      },
+      "id": "06868010",
+      "localidad_censal": {
+        "id": "06868010",
+        "nombre": "Mar Azul"
+      },
+      "municipio": {
+        "id": "060868",
+        "nombre": "Villa Gesell"
+      },
+      "nombre": "Mar Azul",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.2632305079153,
+        "lon": -56.9745586090481
+      },
+      "departamento": {
+        "id": "06868",
+        "nombre": "Villa Gesell"
+      },
+      "id": "06868020",
+      "localidad_censal": {
+        "id": "06868020",
+        "nombre": "Villa Gesell"
+      },
+      "municipio": {
+        "id": "060868",
+        "nombre": "Villa Gesell"
+      },
+      "nombre": "Villa Gesell",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06868"
+    ]
+  },
+  "total": 4
+}

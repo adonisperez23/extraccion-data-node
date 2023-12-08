@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.722024053459,
+        "lon": -69.8416958969356
+      },
+      "departamento": {
+        "id": "62070",
+        "nombre": "Pilcaniyeu"
+      },
+      "id": "62070030",
+      "localidad_censal": {
+        "id": "62070030",
+        "nombre": "Laguna Blanca"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Laguna Blanca",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.8945603208293,
+        "lon": -71.036667452285
+      },
+      "departamento": {
+        "id": "62070",
+        "nombre": "Pilcaniyeu"
+      },
+      "id": "62070080",
+      "localidad_censal": {
+        "id": "62070080",
+        "nombre": "Villa Llanquín"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Villa Llanquín",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.0737198121699,
+        "lon": -71.157491154477
+      },
+      "departamento": {
+        "id": "62070",
+        "nombre": "Pilcaniyeu"
+      },
+      "id": "62070020",
+      "localidad_censal": {
+        "id": "62070020",
+        "nombre": "Dina Huapi"
+      },
+      "municipio": {
+        "id": "620273",
+        "nombre": "Dina Huapi"
+      },
+      "nombre": "Dina Huapi",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.8889541326296,
+        "lon": -70.0237673238993
+      },
+      "departamento": {
+        "id": "62070",
+        "nombre": "Pilcaniyeu"
+      },
+      "id": "62070005",
+      "localidad_censal": {
+        "id": "62070005",
+        "nombre": "Cañadón Chileno"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Cañadón Chileno",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.0300475922462,
+        "lon": -70.2693232296497
+      },
+      "departamento": {
+        "id": "62070",
+        "nombre": "Pilcaniyeu"
+      },
+      "id": "62070010",
+      "localidad_censal": {
+        "id": "62070010",
+        "nombre": "Comallo"
+      },
+      "municipio": {
+        "id": "620217",
+        "nombre": "Comallo"
+      },
+      "nombre": "Comallo",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.0873874578734,
+        "lon": -71.1417849860309
+      },
+      "departamento": {
+        "id": "62070",
+        "nombre": "Pilcaniyeu"
+      },
+      "id": "62070040",
+      "localidad_censal": {
+        "id": "62070040",
+        "nombre": "Ñirihuau"
+      },
+      "municipio": {
+        "id": "620273",
+        "nombre": "Dina Huapi"
+      },
+      "nombre": "Ñirihuau",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.12263949403,
+        "lon": -70.7215872840412
+      },
+      "departamento": {
+        "id": "62070",
+        "nombre": "Pilcaniyeu"
+      },
+      "id": "62070060",
+      "localidad_censal": {
+        "id": "62070060",
+        "nombre": "Pilcaniyeu"
+      },
+      "municipio": {
+        "id": "620224",
+        "nombre": "Pilcaniyeu"
+      },
+      "nombre": "Pilcaniyeu",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.5162311763236,
+        "lon": -70.0258499771369
+      },
+      "departamento": {
+        "id": "62070",
+        "nombre": "Pilcaniyeu"
+      },
+      "id": "62070070",
+      "localidad_censal": {
+        "id": "62070070",
+        "nombre": "Pilquiniyeu del Limay"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Pilquiniyeu del Limay",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "62070"
+    ]
+  },
+  "total": 8
+}

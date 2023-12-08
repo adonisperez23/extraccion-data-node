@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.5727465596669,
+        "lon": -66.237533257096
+      },
+      "departamento": {
+        "id": "46091",
+        "nombre": "General San Martín"
+      },
+      "id": "46091010",
+      "localidad_censal": {
+        "id": "46091010",
+        "nombre": "Ulapes"
+      },
+      "municipio": {
+        "id": "460091",
+        "nombre": "General San Martín"
+      },
+      "nombre": "Ulapes",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "46091"
+    ]
+  },
+  "total": 1
+}

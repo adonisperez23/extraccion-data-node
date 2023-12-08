@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.6210723556348,
+        "lon": -60.8828151033228
+      },
+      "departamento": {
+        "id": "06189",
+        "nombre": "Coronel Dorrego"
+      },
+      "id": "06189010",
+      "localidad_censal": {
+        "id": "06189010",
+        "nombre": "Aparicio"
+      },
+      "municipio": {
+        "id": "060189",
+        "nombre": "Coronel Dorrego"
+      },
+      "nombre": "Aparicio",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.9205119659931,
+        "lon": -60.5349933151085
+      },
+      "departamento": {
+        "id": "06189",
+        "nombre": "Coronel Dorrego"
+      },
+      "id": "06189020",
+      "localidad_censal": {
+        "id": "06189020",
+        "nombre": "Marisol"
+      },
+      "municipio": {
+        "id": "060189",
+        "nombre": "Coronel Dorrego"
+      },
+      "nombre": "Marisol",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.7187998746166,
+        "lon": -61.2883602472107
+      },
+      "departamento": {
+        "id": "06189",
+        "nombre": "Coronel Dorrego"
+      },
+      "id": "06189030",
+      "localidad_censal": {
+        "id": "06189030",
+        "nombre": "Coronel Dorrego"
+      },
+      "municipio": {
+        "id": "060189",
+        "nombre": "Coronel Dorrego"
+      },
+      "nombre": "Coronel Dorrego",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.6772596586861,
+        "lon": -61.0861791676287
+      },
+      "departamento": {
+        "id": "06189",
+        "nombre": "Coronel Dorrego"
+      },
+      "id": "06189040",
+      "localidad_censal": {
+        "id": "06189040",
+        "nombre": "El Perdido"
+      },
+      "municipio": {
+        "id": "060189",
+        "nombre": "Coronel Dorrego"
+      },
+      "nombre": "El Perdido",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.7965246047502,
+        "lon": -61.0703877087327
+      },
+      "departamento": {
+        "id": "06189",
+        "nombre": "Coronel Dorrego"
+      },
+      "id": "06189050",
+      "localidad_censal": {
+        "id": "06189050",
+        "nombre": "Faro"
+      },
+      "municipio": {
+        "id": "060189",
+        "nombre": "Coronel Dorrego"
+      },
+      "nombre": "Faro",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.5545755327377,
+        "lon": -60.6962982485661
+      },
+      "departamento": {
+        "id": "06189",
+        "nombre": "Coronel Dorrego"
+      },
+      "id": "06189060",
+      "localidad_censal": {
+        "id": "06189060",
+        "nombre": "Irene"
+      },
+      "municipio": {
+        "id": "060189",
+        "nombre": "Coronel Dorrego"
+      },
+      "nombre": "Irene",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.7443987891097,
+        "lon": -60.6093625770066
+      },
+      "departamento": {
+        "id": "06189",
+        "nombre": "Coronel Dorrego"
+      },
+      "id": "06189070",
+      "localidad_censal": {
+        "id": "06189070",
+        "nombre": "Oriente"
+      },
+      "municipio": {
+        "id": "060189",
+        "nombre": "Coronel Dorrego"
+      },
+      "nombre": "Oriente",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.7418099171263,
+        "lon": -61.5382786434217
+      },
+      "departamento": {
+        "id": "06189",
+        "nombre": "Coronel Dorrego"
+      },
+      "id": "06189080",
+      "localidad_censal": {
+        "id": "06189080",
+        "nombre": "Paraje La Ruta"
+      },
+      "municipio": {
+        "id": "060189",
+        "nombre": "Coronel Dorrego"
+      },
+      "nombre": "San Román",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06189"
+    ]
+  },
+  "total": 8
+}

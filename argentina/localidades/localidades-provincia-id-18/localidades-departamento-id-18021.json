@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4633450136008,
+        "lon": -58.8394728460849
+      },
+      "departamento": {
+        "id": "18021",
+        "nombre": "Capital"
+      },
+      "id": "18021020",
+      "localidad_censal": {
+        "id": "18021020",
+        "nombre": "Corrientes"
+      },
+      "municipio": {
+        "id": "180021",
+        "nombre": "Corrientes"
+      },
+      "nombre": "Corrientes",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5804349376368,
+        "lon": -58.7431168330177
+      },
+      "departamento": {
+        "id": "18021",
+        "nombre": "Capital"
+      },
+      "id": "18021040",
+      "localidad_censal": {
+        "id": "18021040",
+        "nombre": "Riachuelo"
+      },
+      "municipio": {
+        "id": "180028",
+        "nombre": "Riachuelo"
+      },
+      "nombre": "Riachuelo",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5712085908961,
+        "lon": -58.695878654331
+      },
+      "departamento": {
+        "id": "18021",
+        "nombre": "Capital"
+      },
+      "id": "18021050",
+      "localidad_censal": {
+        "id": "18021050",
+        "nombre": "San Cayetano"
+      },
+      "municipio": {
+        "id": "180028",
+        "nombre": "Riachuelo"
+      },
+      "nombre": "San Cayetano",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18021"
+    ]
+  },
+  "total": 3
+}

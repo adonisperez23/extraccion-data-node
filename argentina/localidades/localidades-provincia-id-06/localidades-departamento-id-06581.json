@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -38.5712233301397,
+        "lon": -58.7262420207665
+      },
+      "departamento": {
+        "id": "06581",
+        "nombre": "Necochea"
+      },
+      "id": "0658104001",
+      "localidad_censal": {
+        "id": "06581040",
+        "nombre": "Juan N. Fernández"
+      },
+      "municipio": {
+        "id": "060581",
+        "nombre": "Necochea"
+      },
+      "nombre": "Necochea",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -38.5661133487233,
+        "lon": -58.7061807944671
+      },
+      "departamento": {
+        "id": "06581",
+        "nombre": "Necochea"
+      },
+      "id": "0658104002",
+      "localidad_censal": {
+        "id": "06581040",
+        "nombre": "Juan N. Fernández"
+      },
+      "municipio": {
+        "id": "060581",
+        "nombre": "Necochea"
+      },
+      "nombre": "Quequén",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -38.5599736314668,
+        "lon": -58.6284817778164
+      },
+      "departamento": {
+        "id": "06581",
+        "nombre": "Necochea"
+      },
+      "id": "0658104003",
+      "localidad_censal": {
+        "id": "06581040",
+        "nombre": "Juan N. Fernández"
+      },
+      "municipio": {
+        "id": "060581",
+        "nombre": "Necochea"
+      },
+      "nombre": "Costa Bonita",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.8934304125645,
+        "lon": -59.2910695639294
+      },
+      "departamento": {
+        "id": "06581",
+        "nombre": "Necochea"
+      },
+      "id": "06581010",
+      "localidad_censal": {
+        "id": "06581010",
+        "nombre": "Claraz"
+      },
+      "municipio": {
+        "id": "060581",
+        "nombre": "Necochea"
+      },
+      "nombre": "Claraz",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.0055227969301,
+        "lon": -59.2639234559796
+      },
+      "departamento": {
+        "id": "06581",
+        "nombre": "Necochea"
+      },
+      "id": "06581030",
+      "localidad_censal": {
+        "id": "06581030",
+        "nombre": "Energí­a"
+      },
+      "municipio": {
+        "id": "060581",
+        "nombre": "Necochea"
+      },
+      "nombre": "Juan N. Fernández",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.5544601626934,
+        "lon": -58.7392368204408
+      },
+      "departamento": {
+        "id": "06581",
+        "nombre": "Necochea"
+      },
+      "id": "06581040",
+      "localidad_censal": {
+        "id": "06581040",
+        "nombre": "Juan N. Fernández"
+      },
+      "municipio": {
+        "id": "060581",
+        "nombre": "Necochea"
+      },
+      "nombre": "Necochea - Quequén",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.2830519080038,
+        "lon": -59.2027437728131
+      },
+      "departamento": {
+        "id": "06581",
+        "nombre": "Necochea"
+      },
+      "id": "06581050",
+      "localidad_censal": {
+        "id": "06581050",
+        "nombre": "Necochea - Quequen"
+      },
+      "municipio": {
+        "id": "060581",
+        "nombre": "Necochea"
+      },
+      "nombre": "Nicanor Olivera",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.449126631872,
+        "lon": -59.3305079863938
+      },
+      "departamento": {
+        "id": "06581",
+        "nombre": "Necochea"
+      },
+      "id": "06581060",
+      "localidad_censal": {
+        "id": "06581060",
+        "nombre": "Nicanor Olivera"
+      },
+      "municipio": {
+        "id": "060581",
+        "nombre": "Necochea"
+      },
+      "nombre": "Ramón Santamarina",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06581"
+    ]
+  },
+  "total": 8
+}

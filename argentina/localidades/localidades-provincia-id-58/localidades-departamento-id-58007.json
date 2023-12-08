@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.2384698023024,
+        "lon": -70.9159526192148
+      },
+      "departamento": {
+        "id": "58007",
+        "nombre": "Aluminé"
+      },
+      "id": "58007010",
+      "localidad_censal": {
+        "id": "58007010",
+        "nombre": "Aluminé"
+      },
+      "municipio": {
+        "id": "580007",
+        "nombre": "Aluminé"
+      },
+      "nombre": "Aluminé",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.9421192321447,
+        "lon": -71.3290119506701
+      },
+      "departamento": {
+        "id": "58007",
+        "nombre": "Aluminé"
+      },
+      "id": "58007015",
+      "localidad_censal": {
+        "id": "58007015",
+        "nombre": "Moquehue"
+      },
+      "municipio": {
+        "id": "580252",
+        "nombre": "Villa Pehuenia"
+      },
+      "nombre": "Moquehue",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.8820630274553,
+        "lon": -71.173153212253
+      },
+      "departamento": {
+        "id": "58007",
+        "nombre": "Aluminé"
+      },
+      "id": "58007020",
+      "localidad_censal": {
+        "id": "58007020",
+        "nombre": "Villa Pehuenia"
+      },
+      "municipio": {
+        "id": "580252",
+        "nombre": "Villa Pehuenia"
+      },
+      "nombre": "Villa Pehuenia",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "58007"
+    ]
+  },
+  "total": 3
+}

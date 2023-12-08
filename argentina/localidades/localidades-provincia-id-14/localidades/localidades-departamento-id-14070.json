@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.9598738194308,
+        "lon": -65.3103972669276
+      },
+      "departamento": {
+        "id": "14070",
+        "nombre": "Minas"
+      },
+      "id": "14070080",
+      "localidad_censal": {
+        "id": "14070080",
+        "nombre": "Tosno"
+      },
+      "municipio": {
+        "id": "142399",
+        "nombre": "Tosno"
+      },
+      "nombre": "Tosno",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.0096689758107,
+        "lon": -65.3612671996185
+      },
+      "departamento": {
+        "id": "14070",
+        "nombre": "Minas"
+      },
+      "id": "14070050",
+      "localidad_censal": {
+        "id": "14070050",
+        "nombre": "La Playa"
+      },
+      "municipio": {
+        "id": "142385",
+        "nombre": "La Playa"
+      },
+      "nombre": "La Playa",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.0424218865363,
+        "lon": -65.2835250950022
+      },
+      "departamento": {
+        "id": "14070",
+        "nombre": "Minas"
+      },
+      "id": "14070010",
+      "localidad_censal": {
+        "id": "14070010",
+        "nombre": "Ciénaga Del Coro"
+      },
+      "municipio": {
+        "id": "142357",
+        "nombre": "Ciénaga del Coro"
+      },
+      "nombre": "Ciénaga del Coro",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.8003826357539,
+        "lon": -65.65640422135
+      },
+      "departamento": {
+        "id": "14070",
+        "nombre": "Minas"
+      },
+      "id": "14070020",
+      "localidad_censal": {
+        "id": "14070020",
+        "nombre": "El Chacho"
+      },
+      "municipio": {
+        "id": "142364",
+        "nombre": "El Chacho"
+      },
+      "nombre": "El Chacho",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.1300757365706,
+        "lon": -65.2159754678766
+      },
+      "departamento": {
+        "id": "14070",
+        "nombre": "Minas"
+      },
+      "id": "14070030",
+      "localidad_censal": {
+        "id": "14070030",
+        "nombre": "Estancia de Guadalupe"
+      },
+      "municipio": {
+        "id": "142371",
+        "nombre": "Estancia de Guadalupe"
+      },
+      "nombre": "Estancia de Guadalupe",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.1015929485825,
+        "lon": -65.3292093453157
+      },
+      "departamento": {
+        "id": "14070",
+        "nombre": "Minas"
+      },
+      "id": "14070040",
+      "localidad_censal": {
+        "id": "14070040",
+        "nombre": "Guasapampa"
+      },
+      "municipio": {
+        "id": "142378",
+        "nombre": "Guasapampa"
+      },
+      "nombre": "Guasapampa",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.1765584414897,
+        "lon": -65.1018201177792
+      },
+      "departamento": {
+        "id": "14070",
+        "nombre": "Minas"
+      },
+      "id": "14070060",
+      "localidad_censal": {
+        "id": "14070060",
+        "nombre": "San Carlos Minas"
+      },
+      "municipio": {
+        "id": "140602",
+        "nombre": "San Carlos Minas"
+      },
+      "nombre": "San Carlos Minas",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.249850218493,
+        "lon": -65.1692870783873
+      },
+      "departamento": {
+        "id": "14070",
+        "nombre": "Minas"
+      },
+      "id": "14070070",
+      "localidad_censal": {
+        "id": "14070070",
+        "nombre": "Talaini"
+      },
+      "municipio": {
+        "id": "142392",
+        "nombre": "Talaini"
+      },
+      "nombre": "Talaini",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14070"
+    ]
+  },
+  "total": 8
+}

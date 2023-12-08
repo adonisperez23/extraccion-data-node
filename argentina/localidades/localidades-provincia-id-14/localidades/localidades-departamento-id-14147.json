@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.5376830055164,
+        "lon": -64.3034450668409
+      },
+      "departamento": {
+        "id": "14147",
+        "nombre": "Santa María"
+      },
+      "id": "1414719001",
+      "localidad_censal": {
+        "id": "14147190",
+        "nombre": "Los Cedros"
+      },
+      "municipio": {
+        "id": "143043",
+        "nombre": "Los Cedros"
+      },
+      "nombre": "Las Quintas",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.4416722128598,
+        "lon": -64.3180023506966
+      },
+      "departamento": {
+        "id": "14147",
+        "nombre": "Santa María"
+      },
+      "id": "1414703001",
+      "localidad_censal": {
+        "id": "14147030",
+        "nombre": "Barrio Gilbert (1º de Mayo)"
+      },
+      "municipio": {
+        "id": "141393",
+        "nombre": "Malagueño"
+      },
+      "nombre": "Barrio Gilbert",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.4402198498087,
+        "lon": -64.3146100635254
+      },
+      "departamento": {
+        "id": "14147",
+        "nombre": "Santa María"
+      },
+      "id": "1414703002",
+      "localidad_censal": {
+        "id": "14147030",
+        "nombre": "Barrio Gilbert (1º de Mayo)"
+      },
+      "municipio": {
+        "id": "141393",
+        "nombre": "Malagueño"
+      },
+      "nombre": "Tejas Tres",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.526484535565,
+        "lon": -64.2814214559366
+      },
+      "departamento": {
+        "id": "14147",
+        "nombre": "Santa María"
+      },
+      "id": "1414719002",
+      "localidad_censal": {
+        "id": "14147190",
+        "nombre": "Los Cedros"
+      },
+      "municipio": {
+        "id": "143043",
+        "nombre": "Los Cedros"
+      },
+      "nombre": "Los Cedros",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.7981315605128,
+        "lon": -64.5163862272189
+      },
+      "departamento": {
+        "id": "14147",
+        "nombre": "Santa María"
+      },
+      "id": "1414731001",
+      "localidad_censal": {
+        "id": "14147310",
+        "nombre": "Villa Ciudad de América"
+      },
+      "municipio": {
+        "id": "143078",
+        "nombre": "Villa Ciudad de América"
+      },
+      "nombre": "Barrio Villa del Parque",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.7832436719837,
+        "lon": -64.5305212730134
+      },
+      "departamento": {
+        "id": "14147",
+        "nombre": "Santa María"
+      },
+      "id": "1414731002",
+      "localidad_censal": {
+        "id": "14147310",
+        "nombre": "Villa Ciudad de América"
+      },
+      "municipio": {
+        "id": "143078",
+        "nombre": "Villa Ciudad de América"
+      },
+      "nombre": "Villa Ciudad de América",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.6184320255651,
+        "lon": -64.3912763902413
+      },
+      "departamento": {
+        "id": "14147",
+        "nombre": "Santa María"
+      },
+      "id": "1414732001",
+      "localidad_censal": {
+        "id": "14147320",
+        "nombre": "Villa del Prado"
+      },
+      "municipio": {
+        "id": "143085",
+        "nombre": "Villa del Prado"
+      },
+      "nombre": "Villa del Prado",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.6213166852746,
+        "lon": -64.3820519076151
+      },
+      "departamento": {
+        "id": "14147",
+        "nombre": "Santa María"
+      },
+      "id": "1414732002",
+      "localidad_censal": {
+        "id": "14147320",
+        "nombre": "Villa del Prado"
+      },
+      "municipio": {
+        "id": "143085",
+        "nombre": "Villa del Prado"
+      },
+      "nombre": "La Donosa",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.5844899986475,
+        "lon": -64.356257424977
+      },
+      "departamento": {
+        "id": "14147",
+        "nombre": "Santa María"
+      },
+      "id": "1414735001",
+      "localidad_censal": {
+        "id": "14147350",
+        "nombre": "Villa Parque Santa Ana"
+      },
+      "municipio": {
+        "id": "141410",
+        "nombre": "Villa Parque Santa Ana"
+      },
+      "nombre": "Mi Valle",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.5921586885257,
+        "lon": -64.3524357073455
+      },
+      "departamento": {
+        "id": "14147",
+        "nombre": "Santa María"
+      },
+      "id": "1414735002",
+      "localidad_censal": {
+        "id": "14147350",
+        "nombre": "Villa Parque Santa Ana"
+      },
+      "municipio": {
+        "id": "141410",
+        "nombre": "Villa Parque Santa Ana"
+      },
+      "nombre": "Villa Parque Santa Ana",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14147"
+    ]
+  },
+  "total": 40
+}

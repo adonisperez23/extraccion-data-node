@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0003485990211,
+        "lon": -67.510340476478
+      },
+      "departamento": {
+        "id": "50014",
+        "nombre": "General Alvear"
+      },
+      "id": "50014010",
+      "localidad_censal": {
+        "id": "50014010",
+        "nombre": "Bowen"
+      },
+      "municipio": {
+        "id": "500014",
+        "nombre": "General Alvear"
+      },
+      "nombre": "Bowen",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.1480810298595,
+        "lon": -67.6552749669987
+      },
+      "departamento": {
+        "id": "50014",
+        "nombre": "General Alvear"
+      },
+      "id": "50014020",
+      "localidad_censal": {
+        "id": "50014020",
+        "nombre": "Carmensa"
+      },
+      "municipio": {
+        "id": "500014",
+        "nombre": "General Alvear"
+      },
+      "nombre": "Carmensa",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.9774715840283,
+        "lon": -67.6961828096237
+      },
+      "departamento": {
+        "id": "50014",
+        "nombre": "General Alvear"
+      },
+      "id": "50014030",
+      "localidad_censal": {
+        "id": "50014030",
+        "nombre": "General Alvear"
+      },
+      "municipio": {
+        "id": "500014",
+        "nombre": "General Alvear"
+      },
+      "nombre": "General Alvear",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.97785862384,
+        "lon": -67.6511707013737
+      },
+      "departamento": {
+        "id": "50014",
+        "nombre": "General Alvear"
+      },
+      "id": "50014040",
+      "localidad_censal": {
+        "id": "50014040",
+        "nombre": "Los Compartos"
+      },
+      "municipio": {
+        "id": "500014",
+        "nombre": "General Alvear"
+      },
+      "nombre": "Los Compartos",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "50014"
+    ]
+  },
+  "total": 4
+}

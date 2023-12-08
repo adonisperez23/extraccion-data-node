@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.3665475995779,
+        "lon": -59.375480677999
+      },
+      "departamento": {
+        "id": "06728",
+        "nombre": "San Andrés de Giles"
+      },
+      "id": "06728010",
+      "localidad_censal": {
+        "id": "06728010",
+        "nombre": "Azcuénaga"
+      },
+      "municipio": {
+        "id": "060728",
+        "nombre": "San Andrés de Giles"
+      },
+      "nombre": "Azcuénaga",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.4433580630376,
+        "lon": -59.3602204172752
+      },
+      "departamento": {
+        "id": "06728",
+        "nombre": "San Andrés de Giles"
+      },
+      "id": "06728020",
+      "localidad_censal": {
+        "id": "06728020",
+        "nombre": "Cucullú"
+      },
+      "municipio": {
+        "id": "060728",
+        "nombre": "San Andrés de Giles"
+      },
+      "nombre": "Cucullú",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.6091166072699,
+        "lon": -59.6299350338081
+      },
+      "departamento": {
+        "id": "06728",
+        "nombre": "San Andrés de Giles"
+      },
+      "id": "06728030",
+      "localidad_censal": {
+        "id": "06728030",
+        "nombre": "Franklin"
+      },
+      "municipio": {
+        "id": "060728",
+        "nombre": "San Andrés de Giles"
+      },
+      "nombre": "Franklin",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.4423774190107,
+        "lon": -59.4475191783366
+      },
+      "departamento": {
+        "id": "06728",
+        "nombre": "San Andrés de Giles"
+      },
+      "id": "06728040",
+      "localidad_censal": {
+        "id": "06728040",
+        "nombre": "San Andrés de Giles"
+      },
+      "municipio": {
+        "id": "060728",
+        "nombre": "San Andrés de Giles"
+      },
+      "nombre": "San Andrés de Giles",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.2980408829155,
+        "lon": -59.3236816172608
+      },
+      "departamento": {
+        "id": "06728",
+        "nombre": "San Andrés de Giles"
+      },
+      "id": "06728050",
+      "localidad_censal": {
+        "id": "06728050",
+        "nombre": "Solís"
+      },
+      "municipio": {
+        "id": "060728",
+        "nombre": "San Andrés de Giles"
+      },
+      "nombre": "Solís",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.5053553124901,
+        "lon": -59.3383393878777
+      },
+      "departamento": {
+        "id": "06728",
+        "nombre": "San Andrés de Giles"
+      },
+      "id": "06728060",
+      "localidad_censal": {
+        "id": "06728060",
+        "nombre": "Villa Espil"
+      },
+      "municipio": {
+        "id": "060728",
+        "nombre": "San Andrés de Giles"
+      },
+      "nombre": "Villa Espil",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.4316782101746,
+        "lon": -59.2615521388936
+      },
+      "departamento": {
+        "id": "06728",
+        "nombre": "San Andrés de Giles"
+      },
+      "id": "06728070",
+      "localidad_censal": {
+        "id": "06728070",
+        "nombre": "Villa Ruiz"
+      },
+      "municipio": {
+        "id": "060728",
+        "nombre": "San Andrés de Giles"
+      },
+      "nombre": "Villa Ruiz",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06728"
+    ]
+  },
+  "total": 7
+}

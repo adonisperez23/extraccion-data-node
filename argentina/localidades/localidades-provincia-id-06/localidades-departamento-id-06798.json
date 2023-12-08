@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.5763630801619,
+        "lon": -60.1722007620684
+      },
+      "departamento": {
+        "id": "06798",
+        "nombre": "Tapalqué"
+      },
+      "id": "06798010",
+      "localidad_censal": {
+        "id": "06798010",
+        "nombre": "Crotto"
+      },
+      "municipio": {
+        "id": "060798",
+        "nombre": "Tapalqué"
+      },
+      "nombre": "Crotto",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.3562359765733,
+        "lon": -60.0251124032041
+      },
+      "departamento": {
+        "id": "06798",
+        "nombre": "Tapalqué"
+      },
+      "id": "06798020",
+      "localidad_censal": {
+        "id": "06798020",
+        "nombre": "Tapalqué"
+      },
+      "municipio": {
+        "id": "060798",
+        "nombre": "Tapalqué"
+      },
+      "nombre": "Tapalqué",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.120569720248,
+        "lon": -59.6518688348755
+      },
+      "departamento": {
+        "id": "06798",
+        "nombre": "Tapalqué"
+      },
+      "id": "06798030",
+      "localidad_censal": {
+        "id": "06798030",
+        "nombre": "Velloso"
+      },
+      "municipio": {
+        "id": "060798",
+        "nombre": "Tapalqué"
+      },
+      "nombre": "Velloso",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06798"
+    ]
+  },
+  "total": 3
+}

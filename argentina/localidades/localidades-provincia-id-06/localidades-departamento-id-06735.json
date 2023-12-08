@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.2073821857375,
+        "lon": -59.6370221823994
+      },
+      "departamento": {
+        "id": "06735",
+        "nombre": "San Antonio de Areco"
+      },
+      "id": "06735010",
+      "localidad_censal": {
+        "id": "06735010",
+        "nombre": "Duggan"
+      },
+      "municipio": {
+        "id": "060735",
+        "nombre": "San Antonio de Areco"
+      },
+      "nombre": "Duggan",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.2436381342556,
+        "lon": -59.4736523437539
+      },
+      "departamento": {
+        "id": "06735",
+        "nombre": "San Antonio de Areco"
+      },
+      "id": "06735020",
+      "localidad_censal": {
+        "id": "06735020",
+        "nombre": "San Antonio de Areco"
+      },
+      "municipio": {
+        "id": "060735",
+        "nombre": "San Antonio de Areco"
+      },
+      "nombre": "San Antonio de Areco",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.1232002564582,
+        "lon": -59.4304824481459
+      },
+      "departamento": {
+        "id": "06735",
+        "nombre": "San Antonio de Areco"
+      },
+      "id": "06735030",
+      "localidad_censal": {
+        "id": "06735030",
+        "nombre": "Villa Lía"
+      },
+      "municipio": {
+        "id": "060735",
+        "nombre": "San Antonio de Areco"
+      },
+      "nombre": "Villa Lía",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06735"
+    ]
+  },
+  "total": 3
+}

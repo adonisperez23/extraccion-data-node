@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.7577003509485,
+        "lon": -62.504382462784
+      },
+      "departamento": {
+        "id": "06399",
+        "nombre": "Guaminí"
+      },
+      "id": "06399020",
+      "localidad_censal": {
+        "id": "06399020",
+        "nombre": "Casbas"
+      },
+      "municipio": {
+        "id": "060399",
+        "nombre": "Guaminí"
+      },
+      "nombre": "Casbas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.0821572185976,
+        "lon": -62.5403088035724
+      },
+      "departamento": {
+        "id": "06399",
+        "nombre": "Guaminí"
+      },
+      "id": "06399010",
+      "localidad_censal": {
+        "id": "06399010",
+        "nombre": "Arroyo Venado"
+      },
+      "municipio": {
+        "id": "060399",
+        "nombre": "Guaminí"
+      },
+      "nombre": "Arroyo Venado",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.5618972268973,
+        "lon": -62.6044086067097
+      },
+      "departamento": {
+        "id": "06399",
+        "nombre": "Guaminí"
+      },
+      "id": "06399030",
+      "localidad_censal": {
+        "id": "06399030",
+        "nombre": "Garré"
+      },
+      "municipio": {
+        "id": "060399",
+        "nombre": "Guaminí"
+      },
+      "nombre": "Garré",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.0109209431129,
+        "lon": -62.4222497379496
+      },
+      "departamento": {
+        "id": "06399",
+        "nombre": "Guaminí"
+      },
+      "id": "06399040",
+      "localidad_censal": {
+        "id": "06399040",
+        "nombre": "Guaminí"
+      },
+      "municipio": {
+        "id": "060399",
+        "nombre": "Guaminí"
+      },
+      "nombre": "Guaminí",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.8075635644925,
+        "lon": -62.2479661210824
+      },
+      "departamento": {
+        "id": "06399",
+        "nombre": "Guaminí"
+      },
+      "id": "06399050",
+      "localidad_censal": {
+        "id": "06399050",
+        "nombre": "Laguna Alsina"
+      },
+      "municipio": {
+        "id": "060399",
+        "nombre": "Guaminí"
+      },
+      "nombre": "Laguna Alsina",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06399"
+    ]
+  },
+  "total": 5
+}

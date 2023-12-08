@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.1006289770766,
+        "lon": -65.8668223103029
+      },
+      "departamento": {
+        "id": "38077",
+        "nombre": "Santa Catalina"
+      },
+      "id": "38077030",
+      "localidad_censal": {
+        "id": "38077030",
+        "nombre": "Cieneguillas"
+      },
+      "municipio": {
+        "id": "386133",
+        "nombre": "Cieneguillas"
+      },
+      "nombre": "Cieneguillas",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.2599122435649,
+        "lon": -66.3679871670047
+      },
+      "departamento": {
+        "id": "38077",
+        "nombre": "Santa Catalina"
+      },
+      "id": "38077060",
+      "localidad_censal": {
+        "id": "38077060",
+        "nombre": "Misarrumi"
+      },
+      "municipio": {
+        "id": "386147",
+        "nombre": "Santa Catalina"
+      },
+      "nombre": "Misarrumi",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -21.977680937634,
+        "lon": -65.8960595231713
+      },
+      "departamento": {
+        "id": "38077",
+        "nombre": "Santa Catalina"
+      },
+      "id": "38077010",
+      "localidad_censal": {
+        "id": "38077010",
+        "nombre": "Casira"
+      },
+      "municipio": {
+        "id": "386133",
+        "nombre": "Cieneguillas"
+      },
+      "nombre": "Casira",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.1785618808579,
+        "lon": -66.4125691338766
+      },
+      "departamento": {
+        "id": "38077",
+        "nombre": "Santa Catalina"
+      },
+      "id": "38077020",
+      "localidad_censal": {
+        "id": "38077020",
+        "nombre": "Ciénega de Paicone"
+      },
+      "municipio": {
+        "id": "386147",
+        "nombre": "Santa Catalina"
+      },
+      "nombre": "Ciénega de Paicone",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.3403382716588,
+        "lon": -66.4934870925034
+      },
+      "departamento": {
+        "id": "38077",
+        "nombre": "Santa Catalina"
+      },
+      "id": "38077040",
+      "localidad_censal": {
+        "id": "38077040",
+        "nombre": "Cusi Cusi"
+      },
+      "municipio": {
+        "id": "386140",
+        "nombre": "Cusi Cusi"
+      },
+      "nombre": "Cusi Cusi",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -21.8768015341057,
+        "lon": -66.1885628101315
+      },
+      "departamento": {
+        "id": "38077",
+        "nombre": "Santa Catalina"
+      },
+      "id": "38077045",
+      "localidad_censal": {
+        "id": "38077045",
+        "nombre": "El Angosto"
+      },
+      "municipio": {
+        "id": "386147",
+        "nombre": "Santa Catalina"
+      },
+      "nombre": "El Angosto",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -21.9623000121514,
+        "lon": -66.2627416326443
+      },
+      "departamento": {
+        "id": "38077",
+        "nombre": "Santa Catalina"
+      },
+      "id": "38077050",
+      "localidad_censal": {
+        "id": "38077050",
+        "nombre": "La Ciénega"
+      },
+      "municipio": {
+        "id": "386147",
+        "nombre": "Santa Catalina"
+      },
+      "nombre": "La Ciénega",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.0989182117325,
+        "lon": -66.1324686554303
+      },
+      "departamento": {
+        "id": "38077",
+        "nombre": "Santa Catalina"
+      },
+      "id": "38077070",
+      "localidad_censal": {
+        "id": "38077070",
+        "nombre": "Oratorio"
+      },
+      "municipio": {
+        "id": "386147",
+        "nombre": "Santa Catalina"
+      },
+      "nombre": "Oratorio",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.2195467772738,
+        "lon": -66.424977403727
+      },
+      "departamento": {
+        "id": "38077",
+        "nombre": "Santa Catalina"
+      },
+      "id": "38077080",
+      "localidad_censal": {
+        "id": "38077080",
+        "nombre": "Paicone"
+      },
+      "municipio": {
+        "id": "386140",
+        "nombre": "Cusi Cusi"
+      },
+      "nombre": "Paicone",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.2256867005728,
+        "lon": -66.2487453854196
+      },
+      "departamento": {
+        "id": "38077",
+        "nombre": "Santa Catalina"
+      },
+      "id": "38077090",
+      "localidad_censal": {
+        "id": "38077090",
+        "nombre": "San Juan de Oros"
+      },
+      "municipio": {
+        "id": "386147",
+        "nombre": "Santa Catalina"
+      },
+      "nombre": "San Juan de Oros",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "38077"
+    ]
+  },
+  "total": 12
+}

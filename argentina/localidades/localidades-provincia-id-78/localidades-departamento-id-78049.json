@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -47.4431725014508,
+        "lon": -70.9268826726691
+      },
+      "departamento": {
+        "id": "78049",
+        "nombre": "Río Chico"
+      },
+      "id": "78049010",
+      "localidad_censal": {
+        "id": "78049010",
+        "nombre": "Bajo Caracoles"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Bajo Caracoles",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -48.7508973372058,
+        "lon": -70.2485196596237
+      },
+      "departamento": {
+        "id": "78049",
+        "nombre": "Río Chico"
+      },
+      "id": "78049020",
+      "localidad_censal": {
+        "id": "78049020",
+        "nombre": "Gobernador Gregores"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Gobernador Gregores",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -47.5656625192158,
+        "lon": -71.7428482472665
+      },
+      "departamento": {
+        "id": "78049",
+        "nombre": "Río Chico"
+      },
+      "id": "78049030",
+      "localidad_censal": {
+        "id": "78049030",
+        "nombre": "Lago Posadas"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Hipólito Yrigoyen",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "78049"
+    ]
+  },
+  "total": 3
+}

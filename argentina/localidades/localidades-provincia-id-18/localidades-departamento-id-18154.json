@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.7684268022989,
+        "lon": -57.2752518110706
+      },
+      "departamento": {
+        "id": "18154",
+        "nombre": "San Miguel"
+      },
+      "id": "18154010",
+      "localidad_censal": {
+        "id": "18154010",
+        "nombre": "Loreto"
+      },
+      "municipio": {
+        "id": "180385",
+        "nombre": "Loreto"
+      },
+      "nombre": "Loreto",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.998325926444,
+        "lon": -57.5873113031892
+      },
+      "departamento": {
+        "id": "18154",
+        "nombre": "San Miguel"
+      },
+      "id": "18154020",
+      "localidad_censal": {
+        "id": "18154020",
+        "nombre": "San Miguel"
+      },
+      "municipio": {
+        "id": "180392",
+        "nombre": "San Miguel"
+      },
+      "nombre": "San Miguel",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18154"
+    ]
+  },
+  "total": 2
+}

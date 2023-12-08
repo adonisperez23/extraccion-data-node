@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -44.7984548743215,
+        "lon": -65.7103327509875
+      },
+      "departamento": {
+        "id": "26028",
+        "nombre": "Florentino Ameghino"
+      },
+      "id": "26028010",
+      "localidad_censal": {
+        "id": "26028010",
+        "nombre": "Camarones"
+      },
+      "municipio": {
+        "id": "260063",
+        "nombre": "Camarones"
+      },
+      "nombre": "Camarones",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -44.6868450088092,
+        "lon": -66.6209399544842
+      },
+      "departamento": {
+        "id": "26028",
+        "nombre": "Florentino Ameghino"
+      },
+      "id": "26028020",
+      "localidad_censal": {
+        "id": "26028020",
+        "nombre": "Garayalde"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Garayalde",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "26028"
+    ]
+  },
+  "total": 2
+}

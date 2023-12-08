@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.4346390911775,
+        "lon": -58.0719424917441
+      },
+      "departamento": {
+        "id": "30015",
+        "nombre": "Concordia"
+      },
+      "id": "3001506001",
+      "localidad_censal": {
+        "id": "30015060",
+        "nombre": "Concordia"
+      },
+      "municipio": {
+        "id": "300042",
+        "nombre": "Concordia"
+      },
+      "nombre": "Benito Legerén",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.3982917145809,
+        "lon": -58.0697697974359
+      },
+      "departamento": {
+        "id": "30015",
+        "nombre": "Concordia"
+      },
+      "id": "3001506002",
+      "localidad_censal": {
+        "id": "30015060",
+        "nombre": "Concordia"
+      },
+      "municipio": {
+        "id": "300042",
+        "nombre": "Concordia"
+      },
+      "nombre": "Villa Adela",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.4111605940935,
+        "lon": -58.0792668875232
+      },
+      "departamento": {
+        "id": "30015",
+        "nombre": "Concordia"
+      },
+      "id": "3001506003",
+      "localidad_censal": {
+        "id": "30015060",
+        "nombre": "Concordia"
+      },
+      "municipio": {
+        "id": "300042",
+        "nombre": "Concordia"
+      },
+      "nombre": "Las Tejas",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.3974508914818,
+        "lon": -58.0172034297914
+      },
+      "departamento": {
+        "id": "30015",
+        "nombre": "Concordia"
+      },
+      "id": "3001506005",
+      "localidad_censal": {
+        "id": "30015060",
+        "nombre": "Concordia"
+      },
+      "municipio": {
+        "id": "300042",
+        "nombre": "Concordia"
+      },
+      "nombre": "Concordia",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.3218570608507,
+        "lon": -58.0144861434651
+      },
+      "departamento": {
+        "id": "30015",
+        "nombre": "Concordia"
+      },
+      "id": "3001506007",
+      "localidad_censal": {
+        "id": "30015060",
+        "nombre": "Concordia"
+      },
+      "municipio": {
+        "id": "300042",
+        "nombre": "Concordia"
+      },
+      "nombre": "Villa Zorraquín",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.5070034244042,
+        "lon": -58.1330469846132
+      },
+      "departamento": {
+        "id": "30015",
+        "nombre": "Concordia"
+      },
+      "id": "30015010",
+      "localidad_censal": {
+        "id": "30015010",
+        "nombre": "Calabacilla"
+      },
+      "municipio": {
+        "id": "300049",
+        "nombre": "Estancia Grande"
+      },
+      "nombre": "Calabacilla",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.5766676930595,
+        "lon": -58.1803339151731
+      },
+      "departamento": {
+        "id": "30015",
+        "nombre": "Concordia"
+      },
+      "id": "30015020",
+      "localidad_censal": {
+        "id": "30015020",
+        "nombre": "Clodomiro Ledesma"
+      },
+      "municipio": {
+        "id": "309035",
+        "nombre": "Clodomiro Ledesma"
+      },
+      "nombre": "Clodomiro Ledesma",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.2077200710886,
+        "lon": -58.0312441498482
+      },
+      "departamento": {
+        "id": "30015",
+        "nombre": "Concordia"
+      },
+      "id": "30015030",
+      "localidad_censal": {
+        "id": "30015030",
+        "nombre": "Colonia Ayuí"
+      },
+      "municipio": {
+        "id": "300035",
+        "nombre": "Colonia Ayuí"
+      },
+      "nombre": "Colonia Ayuí",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.3508509297983,
+        "lon": -58.0850767832094
+      },
+      "departamento": {
+        "id": "30015",
+        "nombre": "Concordia"
+      },
+      "id": "30015040",
+      "localidad_censal": {
+        "id": "30015040",
+        "nombre": "Colonia General Roca"
+      },
+      "municipio": {
+        "id": "302077",
+        "nombre": "General Roca"
+      },
+      "nombre": "Colonia General Roca",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.3919648167661,
+        "lon": -58.0170077848337
+      },
+      "departamento": {
+        "id": "30015",
+        "nombre": "Concordia"
+      },
+      "id": "30015060",
+      "localidad_censal": {
+        "id": "30015060",
+        "nombre": "Concordia"
+      },
+      "municipio": {
+        "id": "300042",
+        "nombre": "Concordia"
+      },
+      "nombre": "Concordia",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "30015"
+    ]
+  },
+  "total": 19
+}

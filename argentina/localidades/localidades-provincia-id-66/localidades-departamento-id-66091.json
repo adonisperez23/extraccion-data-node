@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.6505040789231,
+        "lon": -66.288571501695
+      },
+      "departamento": {
+        "id": "66091",
+        "nombre": "La Poma"
+      },
+      "id": "66091010",
+      "localidad_censal": {
+        "id": "66091010",
+        "nombre": "Cobres"
+      },
+      "municipio": {
+        "id": "660224",
+        "nombre": "La Poma"
+      },
+      "nombre": "Cobres",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.7225641679454,
+        "lon": -66.2005817047642
+      },
+      "departamento": {
+        "id": "66091",
+        "nombre": "La Poma"
+      },
+      "id": "66091020",
+      "localidad_censal": {
+        "id": "66091020",
+        "nombre": "La Poma"
+      },
+      "municipio": {
+        "id": "660224",
+        "nombre": "La Poma"
+      },
+      "nombre": "La Poma",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66091"
+    ]
+  },
+  "total": 2
+}

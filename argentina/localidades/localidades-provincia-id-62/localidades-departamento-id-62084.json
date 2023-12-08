@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.1905679142385,
+        "lon": -65.9761003352289
+      },
+      "departamento": {
+        "id": "62084",
+        "nombre": "Valcheta"
+      },
+      "id": "62084050",
+      "localidad_censal": {
+        "id": "62084050",
+        "nombre": "Sierra Pailemán"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Sierra Pailemán",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.4347362882526,
+        "lon": -66.1012324164542
+      },
+      "departamento": {
+        "id": "62084",
+        "nombre": "Valcheta"
+      },
+      "id": "62084020",
+      "localidad_censal": {
+        "id": "62084020",
+        "nombre": "Arroyo Los Berros"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Arroyo Los Berros",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.6763517072528,
+        "lon": -66.1665170291686
+      },
+      "departamento": {
+        "id": "62084",
+        "nombre": "Valcheta"
+      },
+      "id": "62084060",
+      "localidad_censal": {
+        "id": "62084060",
+        "nombre": "Valcheta"
+      },
+      "municipio": {
+        "id": "620245",
+        "nombre": "Valcheta"
+      },
+      "nombre": "Valcheta",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.6654413470312,
+        "lon": -66.0942475588998
+      },
+      "departamento": {
+        "id": "62084",
+        "nombre": "Valcheta"
+      },
+      "id": "62084030",
+      "localidad_censal": {
+        "id": "62084030",
+        "nombre": "Arroyo Ventana"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Arroyo Ventana",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.5041134790307,
+        "lon": -66.564687553536
+      },
+      "departamento": {
+        "id": "62084",
+        "nombre": "Valcheta"
+      },
+      "id": "62084040",
+      "localidad_censal": {
+        "id": "62084040",
+        "nombre": "Nahuel Niyeu"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Nahuel Niyeu",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.8489407181873,
+        "lon": -65.8424911267838
+      },
+      "departamento": {
+        "id": "62084",
+        "nombre": "Valcheta"
+      },
+      "id": "62084010",
+      "localidad_censal": {
+        "id": "62084010",
+        "nombre": "Aguada Cecilio"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Aguada Cecilio",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "62084"
+    ]
+  },
+  "total": 6
+}

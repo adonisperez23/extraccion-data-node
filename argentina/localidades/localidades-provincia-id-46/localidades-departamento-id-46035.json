@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.3594398835443,
+        "lon": -66.3126582781318
+      },
+      "departamento": {
+        "id": "46035",
+        "nombre": "Chamical"
+      },
+      "id": "46035010",
+      "localidad_censal": {
+        "id": "46035010",
+        "nombre": "Chamical"
+      },
+      "municipio": {
+        "id": "460035",
+        "nombre": "Chamical"
+      },
+      "nombre": "Chamical",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.4054215485116,
+        "lon": -66.3679936936504
+      },
+      "departamento": {
+        "id": "46035",
+        "nombre": "Chamical"
+      },
+      "id": "46035020",
+      "localidad_censal": {
+        "id": "46035020",
+        "nombre": "Polco"
+      },
+      "municipio": {
+        "id": "460035",
+        "nombre": "Chamical"
+      },
+      "nombre": "Polco",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "46035"
+    ]
+  },
+  "total": 2
+}

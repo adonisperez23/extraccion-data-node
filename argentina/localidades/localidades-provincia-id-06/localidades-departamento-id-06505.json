@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0242952172867,
+        "lon": -57.5354895064576
+      },
+      "departamento": {
+        "id": "06505",
+        "nombre": "Magdalena"
+      },
+      "id": "06505010",
+      "localidad_censal": {
+        "id": "06505010",
+        "nombre": "Atalaya"
+      },
+      "municipio": {
+        "id": "060505",
+        "nombre": "Magdalena"
+      },
+      "nombre": "Atalaya",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0797217208605,
+        "lon": -57.7468870241048
+      },
+      "departamento": {
+        "id": "06505",
+        "nombre": "Magdalena"
+      },
+      "id": "06505020",
+      "localidad_censal": {
+        "id": "06505020",
+        "nombre": "Bartolomé Bavio"
+      },
+      "municipio": {
+        "id": "060505",
+        "nombre": "Magdalena"
+      },
+      "nombre": "General Mansilla",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.9950990540733,
+        "lon": -57.7028446401551
+      },
+      "departamento": {
+        "id": "06505",
+        "nombre": "Magdalena"
+      },
+      "id": "06505030",
+      "localidad_censal": {
+        "id": "06505030",
+        "nombre": "Los Naranjos"
+      },
+      "municipio": {
+        "id": "060505",
+        "nombre": "Magdalena"
+      },
+      "nombre": "Los Naranjos",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0807393559898,
+        "lon": -57.5176018944185
+      },
+      "departamento": {
+        "id": "06505",
+        "nombre": "Magdalena"
+      },
+      "id": "06505040",
+      "localidad_censal": {
+        "id": "06505040",
+        "nombre": "Magdalena"
+      },
+      "municipio": {
+        "id": "060505",
+        "nombre": "Magdalena"
+      },
+      "nombre": "Magdalena",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.1810553376453,
+        "lon": -57.6535442867835
+      },
+      "departamento": {
+        "id": "06505",
+        "nombre": "Magdalena"
+      },
+      "id": "06505050",
+      "localidad_censal": {
+        "id": "06505050",
+        "nombre": "Vieytes"
+      },
+      "municipio": {
+        "id": "060505",
+        "nombre": "Magdalena"
+      },
+      "nombre": "Roberto J. Payró",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.2674644876688,
+        "lon": -57.5749197797454
+      },
+      "departamento": {
+        "id": "06505",
+        "nombre": "Magdalena"
+      },
+      "id": "06505060",
+      "localidad_censal": {
+        "id": "06505060",
+        "nombre": "Camping Magdalena"
+      },
+      "municipio": {
+        "id": "060505",
+        "nombre": "Magdalena"
+      },
+      "nombre": "Vieytes",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06505"
+    ]
+  },
+  "total": 6
+}

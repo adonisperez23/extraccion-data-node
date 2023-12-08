@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.5226529664273,
+        "lon": -65.5100280697885
+      },
+      "departamento": {
+        "id": "66063",
+        "nombre": "Guachipas"
+      },
+      "id": "66063010",
+      "localidad_censal": {
+        "id": "66063010",
+        "nombre": "Guachipas"
+      },
+      "municipio": {
+        "id": "660168",
+        "nombre": "Guachipas"
+      },
+      "nombre": "Guachipas",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66063"
+    ]
+  },
+  "total": 1
+}

@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.2309081628456,
+        "lon": -65.2834466386947
+      },
+      "departamento": {
+        "id": "90112",
+        "nombre": "Trancas"
+      },
+      "id": "90112030",
+      "localidad_censal": {
+        "id": "90112030",
+        "nombre": "Villa de Trancas"
+      },
+      "municipio": {
+        "id": "900126",
+        "nombre": "Trancas"
+      },
+      "nombre": "Villa de Trancas",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.2349608479324,
+        "lon": -65.4947657680462
+      },
+      "departamento": {
+        "id": "90112",
+        "nombre": "Trancas"
+      },
+      "id": "90112020",
+      "localidad_censal": {
+        "id": "90112020",
+        "nombre": "San Pedro de Colalao"
+      },
+      "municipio": {
+        "id": "908630",
+        "nombre": "San Pedro de Colalao"
+      },
+      "nombre": "San Pedro de Colalao",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.4112743003269,
+        "lon": -65.3199569940608
+      },
+      "departamento": {
+        "id": "90112",
+        "nombre": "Trancas"
+      },
+      "id": "90112010",
+      "localidad_censal": {
+        "id": "90112010",
+        "nombre": "Choromoro"
+      },
+      "municipio": {
+        "id": "908623",
+        "nombre": "Choromoro"
+      },
+      "nombre": "Choromoro",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "90112"
+    ]
+  },
+  "total": 3
+}

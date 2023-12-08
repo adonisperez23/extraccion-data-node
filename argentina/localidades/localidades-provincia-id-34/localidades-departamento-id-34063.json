@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.1624402104856,
+        "lon": -62.0089628640968
+      },
+      "departamento": {
+        "id": "34063",
+        "nombre": "Ramón Lista"
+      },
+      "id": "34063010",
+      "localidad_censal": {
+        "id": "34063010",
+        "nombre": "El Potrillo"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Potrillo",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.1838295308743,
+        "lon": -62.3065720147533
+      },
+      "departamento": {
+        "id": "34063",
+        "nombre": "Ramón Lista"
+      },
+      "id": "34063020",
+      "localidad_censal": {
+        "id": "34063020",
+        "nombre": "General Mosconi"
+      },
+      "municipio": {
+        "id": "340259",
+        "nombre": "El Chorro"
+      },
+      "nombre": "General Mosconi",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.3425178036286,
+        "lon": -61.8715840131706
+      },
+      "departamento": {
+        "id": "34063",
+        "nombre": "Ramón Lista"
+      },
+      "id": "34063030",
+      "localidad_censal": {
+        "id": "34063030",
+        "nombre": "El Quebracho"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Quebracho",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "34063"
+    ]
+  },
+  "total": 3
+}

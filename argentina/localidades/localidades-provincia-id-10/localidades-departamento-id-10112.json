@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.4601111014785,
+        "lon": -65.7120151705902
+      },
+      "departamento": {
+        "id": "10112",
+        "nombre": "Valle Viejo"
+      },
+      "id": "1011204001",
+      "localidad_censal": {
+        "id": "10112040",
+        "nombre": "San Isidro"
+      },
+      "municipio": {
+        "id": "100238",
+        "nombre": "Valle Viejo"
+      },
+      "nombre": "El Bañado",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.4372399562612,
+        "lon": -65.7207691590717
+      },
+      "departamento": {
+        "id": "10112",
+        "nombre": "Valle Viejo"
+      },
+      "id": "1011204002",
+      "localidad_censal": {
+        "id": "10112040",
+        "nombre": "San Isidro"
+      },
+      "municipio": {
+        "id": "100238",
+        "nombre": "Valle Viejo"
+      },
+      "nombre": "Polcos",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.4721164426195,
+        "lon": -65.7227588143713
+      },
+      "departamento": {
+        "id": "10112",
+        "nombre": "Valle Viejo"
+      },
+      "id": "1011204003",
+      "localidad_censal": {
+        "id": "10112040",
+        "nombre": "San Isidro"
+      },
+      "municipio": {
+        "id": "100238",
+        "nombre": "Valle Viejo"
+      },
+      "nombre": "Pozo del Mistol",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.4596664737849,
+        "lon": -65.7258927919472
+      },
+      "departamento": {
+        "id": "10112",
+        "nombre": "Valle Viejo"
+      },
+      "id": "1011204004",
+      "localidad_censal": {
+        "id": "10112040",
+        "nombre": "San Isidro"
+      },
+      "municipio": {
+        "id": "100238",
+        "nombre": "Valle Viejo"
+      },
+      "nombre": "San Isidro",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.4425610943667,
+        "lon": -65.710838370244
+      },
+      "departamento": {
+        "id": "10112",
+        "nombre": "Valle Viejo"
+      },
+      "id": "1011204005",
+      "localidad_censal": {
+        "id": "10112040",
+        "nombre": "San Isidro"
+      },
+      "municipio": {
+        "id": "100238",
+        "nombre": "Valle Viejo"
+      },
+      "nombre": "Santa Rosa",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.4749648388181,
+        "lon": -65.737589732477
+      },
+      "departamento": {
+        "id": "10112",
+        "nombre": "Valle Viejo"
+      },
+      "id": "1011204006",
+      "localidad_censal": {
+        "id": "10112040",
+        "nombre": "San Isidro"
+      },
+      "municipio": {
+        "id": "100238",
+        "nombre": "Valle Viejo"
+      },
+      "nombre": "Sumalao",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.4611661862365,
+        "lon": -65.7328190343883
+      },
+      "departamento": {
+        "id": "10112",
+        "nombre": "Valle Viejo"
+      },
+      "id": "1011204007",
+      "localidad_censal": {
+        "id": "10112040",
+        "nombre": "San Isidro"
+      },
+      "municipio": {
+        "id": "100238",
+        "nombre": "Valle Viejo"
+      },
+      "nombre": "Villa Dolores",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.4701033631654,
+        "lon": -65.6356019557086
+      },
+      "departamento": {
+        "id": "10112",
+        "nombre": "Valle Viejo"
+      },
+      "id": "10112010",
+      "localidad_censal": {
+        "id": "10112010",
+        "nombre": "El Portezuelo"
+      },
+      "municipio": {
+        "id": "100238",
+        "nombre": "Valle Viejo"
+      },
+      "nombre": "El Portezuelo",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.5172930868746,
+        "lon": -65.6765041696816
+      },
+      "departamento": {
+        "id": "10112",
+        "nombre": "Valle Viejo"
+      },
+      "id": "10112020",
+      "localidad_censal": {
+        "id": "10112020",
+        "nombre": "Huaycama"
+      },
+      "municipio": {
+        "id": "100238",
+        "nombre": "Valle Viejo"
+      },
+      "nombre": "Huaycama",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6586825818773,
+        "lon": -65.7838015450735
+      },
+      "departamento": {
+        "id": "10112",
+        "nombre": "Valle Viejo"
+      },
+      "id": "10112030",
+      "localidad_censal": {
+        "id": "10112030",
+        "nombre": "Las Tejas"
+      },
+      "municipio": {
+        "id": "100238",
+        "nombre": "Valle Viejo"
+      },
+      "nombre": "Las Tejas",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "10112"
+    ]
+  },
+  "total": 12
+}

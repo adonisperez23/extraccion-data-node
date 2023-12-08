@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -54.8074039816905,
+        "lon": -68.3037571781958
+      },
+      "departamento": {
+        "id": "94015",
+        "nombre": "Ushuaia"
+      },
+      "id": "94015020",
+      "localidad_censal": {
+        "id": "94015020",
+        "nombre": "Ushuaia"
+      },
+      "municipio": {
+        "id": "940014",
+        "nombre": "Ushuaia"
+      },
+      "nombre": "Ushuaia",
+      "provincia": {
+        "id": "94",
+        "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -54.6407832656577,
+        "lon": -67.7629045285789
+      },
+      "departamento": {
+        "id": "94015",
+        "nombre": "Ushuaia"
+      },
+      "id": "94015010",
+      "localidad_censal": {
+        "id": "94015010",
+        "nombre": "Laguna Escondida"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Laguna Escondida",
+      "provincia": {
+        "id": "94",
+        "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "94015"
+    ]
+  },
+  "total": 2
+}

@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0570468624299,
+        "lon": -64.5231627938074
+      },
+      "departamento": {
+        "id": "42126",
+        "nombre": "Rancul"
+      },
+      "id": "42126060",
+      "localidad_censal": {
+        "id": "42126060",
+        "nombre": "Quetrequén"
+      },
+      "municipio": {
+        "id": "425119",
+        "nombre": "Quetrequén"
+      },
+      "nombre": "Quetrequén",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.5944912182792,
+        "lon": -64.5586771612487
+      },
+      "departamento": {
+        "id": "42126",
+        "nombre": "Rancul"
+      },
+      "id": "42126010",
+      "localidad_censal": {
+        "id": "42126010",
+        "nombre": "Caleufú"
+      },
+      "municipio": {
+        "id": "420063",
+        "nombre": "Caleufú"
+      },
+      "nombre": "Caleufú",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.7034612221329,
+        "lon": -65.1029678622192
+      },
+      "departamento": {
+        "id": "42126",
+        "nombre": "Rancul"
+      },
+      "id": "42126020",
+      "localidad_censal": {
+        "id": "42126020",
+        "nombre": "Ingeniero Foster"
+      },
+      "municipio": {
+        "id": "420210",
+        "nombre": "La Maruja"
+      },
+      "nombre": "Ingeniero Foster",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.673878960176,
+        "lon": -64.942139647443
+      },
+      "departamento": {
+        "id": "42126",
+        "nombre": "Rancul"
+      },
+      "id": "42126030",
+      "localidad_censal": {
+        "id": "42126030",
+        "nombre": "La Maruja"
+      },
+      "municipio": {
+        "id": "420210",
+        "nombre": "La Maruja"
+      },
+      "nombre": "La Maruja",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.1467597216817,
+        "lon": -64.5023084091661
+      },
+      "departamento": {
+        "id": "42126",
+        "nombre": "Rancul"
+      },
+      "id": "42126040",
+      "localidad_censal": {
+        "id": "42126040",
+        "nombre": "Parera"
+      },
+      "municipio": {
+        "id": "420273",
+        "nombre": "Parera"
+      },
+      "nombre": "Parera",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.648606694329,
+        "lon": -64.7697819492676
+      },
+      "departamento": {
+        "id": "42126",
+        "nombre": "Rancul"
+      },
+      "id": "42126050",
+      "localidad_censal": {
+        "id": "42126050",
+        "nombre": "Pichi Huinca"
+      },
+      "municipio": {
+        "id": "425112",
+        "nombre": "Pichi Huinca"
+      },
+      "nombre": "Pichi Huinca",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0677697430794,
+        "lon": -64.6842161304454
+      },
+      "departamento": {
+        "id": "42126",
+        "nombre": "Rancul"
+      },
+      "id": "42126070",
+      "localidad_censal": {
+        "id": "42126070",
+        "nombre": "Rancul"
+      },
+      "municipio": {
+        "id": "420308",
+        "nombre": "Rancul"
+      },
+      "nombre": "Rancul",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42126"
+    ]
+  },
+  "total": 7
+}

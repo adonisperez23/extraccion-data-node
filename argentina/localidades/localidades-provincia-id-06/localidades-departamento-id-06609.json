@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.9124084633725,
+        "lon": -62.224227990124
+      },
+      "departamento": {
+        "id": "06609",
+        "nombre": "Pehuajó"
+      },
+      "id": "06609010",
+      "localidad_censal": {
+        "id": "06609010",
+        "nombre": "Capitán Castro"
+      },
+      "municipio": {
+        "id": "060609",
+        "nombre": "Pehuajó"
+      },
+      "nombre": "Capitán Castro",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.7315143138008,
+        "lon": -61.7422421588753
+      },
+      "departamento": {
+        "id": "06609",
+        "nombre": "Pehuajó"
+      },
+      "id": "06609020",
+      "localidad_censal": {
+        "id": "06609020",
+        "nombre": "Inocencio Sosa"
+      },
+      "municipio": {
+        "id": "060609",
+        "nombre": "Pehuajó"
+      },
+      "nombre": "San Esteban",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.8493979220261,
+        "lon": -62.0666472050596
+      },
+      "departamento": {
+        "id": "06609",
+        "nombre": "Pehuajó"
+      },
+      "id": "06609030",
+      "localidad_censal": {
+        "id": "06609030",
+        "nombre": "Juan José Paso"
+      },
+      "municipio": {
+        "id": "060609",
+        "nombre": "Pehuajó"
+      },
+      "nombre": "Francisco Madero",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.849370285201,
+        "lon": -62.2947176314047
+      },
+      "departamento": {
+        "id": "06609",
+        "nombre": "Pehuajó"
+      },
+      "id": "06609040",
+      "localidad_censal": {
+        "id": "06609040",
+        "nombre": "Magdala"
+      },
+      "municipio": {
+        "id": "060609",
+        "nombre": "Pehuajó"
+      },
+      "nombre": "Juan José Paso",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.084476688221,
+        "lon": -61.7223293921874
+      },
+      "departamento": {
+        "id": "06609",
+        "nombre": "Pehuajó"
+      },
+      "id": "06609050",
+      "localidad_censal": {
+        "id": "06609050",
+        "nombre": "Mones Cazón"
+      },
+      "municipio": {
+        "id": "060609",
+        "nombre": "Pehuajó"
+      },
+      "nombre": "Magdala",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.2277491251375,
+        "lon": -62.0067386213215
+      },
+      "departamento": {
+        "id": "06609",
+        "nombre": "Pehuajó"
+      },
+      "id": "06609060",
+      "localidad_censal": {
+        "id": "06609060",
+        "nombre": "Nueva Plata"
+      },
+      "municipio": {
+        "id": "060609",
+        "nombre": "Pehuajó"
+      },
+      "nombre": "Mones Cazón",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.9186496444174,
+        "lon": -61.8135475100609
+      },
+      "departamento": {
+        "id": "06609",
+        "nombre": "Pehuajó"
+      },
+      "id": "06609070",
+      "localidad_censal": {
+        "id": "06609070",
+        "nombre": "Pehuajo"
+      },
+      "municipio": {
+        "id": "060609",
+        "nombre": "Pehuajó"
+      },
+      "nombre": "Nueva Plata",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.8108053325158,
+        "lon": -61.8989682130088
+      },
+      "departamento": {
+        "id": "06609",
+        "nombre": "Pehuajó"
+      },
+      "id": "06609080",
+      "localidad_censal": {
+        "id": "06609080",
+        "nombre": "Francisco Madero"
+      },
+      "municipio": {
+        "id": "060609",
+        "nombre": "Pehuajó"
+      },
+      "nombre": "Pehuajó",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.7149184194011,
+        "lon": -61.6499689641487
+      },
+      "departamento": {
+        "id": "06609",
+        "nombre": "Pehuajó"
+      },
+      "id": "06609090",
+      "localidad_censal": {
+        "id": "06609090",
+        "nombre": "Guanaco"
+      },
+      "municipio": {
+        "id": "060609",
+        "nombre": "Pehuajó"
+      },
+      "nombre": "San Bernardo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06609"
+    ]
+  },
+  "total": 9
+}

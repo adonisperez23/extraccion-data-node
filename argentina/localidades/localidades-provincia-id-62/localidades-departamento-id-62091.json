@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.6673609820627,
+        "lon": -68.1613128686252
+      },
+      "departamento": {
+        "id": "62091",
+        "nombre": "25 de Mayo"
+      },
+      "id": "62091040",
+      "localidad_censal": {
+        "id": "62091040",
+        "nombre": "El Caín"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Caín",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.6685480374546,
+        "lon": -69.1066951692355
+      },
+      "departamento": {
+        "id": "62091",
+        "nombre": "25 de Mayo"
+      },
+      "id": "62091030",
+      "localidad_censal": {
+        "id": "62091030",
+        "nombre": "Colan Conhue"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Colan Conhue",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.0678866442303,
+        "lon": -68.3817264310118
+      },
+      "departamento": {
+        "id": "62091",
+        "nombre": "25 de Mayo"
+      },
+      "id": "62091010",
+      "localidad_censal": {
+        "id": "62091010",
+        "nombre": "Aguada de Guerra"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Aguada de Guerra",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.246399603798,
+        "lon": -70.0327101551176
+      },
+      "departamento": {
+        "id": "62091",
+        "nombre": "25 de Mayo"
+      },
+      "id": "62091020",
+      "localidad_censal": {
+        "id": "62091020",
+        "nombre": "Clemente Onelli"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Clemente Onelli",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.3305981447636,
+        "lon": -69.5470636210157
+      },
+      "departamento": {
+        "id": "62091",
+        "nombre": "25 de Mayo"
+      },
+      "id": "62091050",
+      "localidad_censal": {
+        "id": "62091050",
+        "nombre": "Ingeniero Jacobacci"
+      },
+      "municipio": {
+        "id": "620252",
+        "nombre": "Ingeniero Jacobacci"
+      },
+      "nombre": "Ingeniero Jacobacci",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.8317492600181,
+        "lon": -68.3512581772267
+      },
+      "departamento": {
+        "id": "62091",
+        "nombre": "25 de Mayo"
+      },
+      "id": "62091090",
+      "localidad_censal": {
+        "id": "62091090",
+        "nombre": "Pilquiniyeu"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Pilquiniyeu",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.8428099773832,
+        "lon": -68.0859200877061
+      },
+      "departamento": {
+        "id": "62091",
+        "nombre": "25 de Mayo"
+      },
+      "id": "62091060",
+      "localidad_censal": {
+        "id": "62091060",
+        "nombre": "Los Menucos"
+      },
+      "municipio": {
+        "id": "620259",
+        "nombre": "Los Menucos"
+      },
+      "nombre": "Los Menucos",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.2502258739988,
+        "lon": -68.6982547651825
+      },
+      "departamento": {
+        "id": "62091",
+        "nombre": "25 de Mayo"
+      },
+      "id": "62091070",
+      "localidad_censal": {
+        "id": "62091070",
+        "nombre": "Maquinchao"
+      },
+      "municipio": {
+        "id": "620266",
+        "nombre": "Maquinchao"
+      },
+      "nombre": "Maquinchao",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "62091"
+    ]
+  },
+  "total": 8
+}

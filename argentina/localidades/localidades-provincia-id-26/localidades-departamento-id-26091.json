@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -45.0761333499749,
+        "lon": -69.4588985693576
+      },
+      "departamento": {
+        "id": "26091",
+        "nombre": "Sarmiento"
+      },
+      "id": "26091010",
+      "localidad_censal": {
+        "id": "26091010",
+        "nombre": "Buen Pasto"
+      },
+      "municipio": {
+        "id": "268119",
+        "nombre": "Buen Pasto"
+      },
+      "nombre": "Buen Pasto",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -45.5868679096809,
+        "lon": -69.0689409610272
+      },
+      "departamento": {
+        "id": "26091",
+        "nombre": "Sarmiento"
+      },
+      "id": "26091020",
+      "localidad_censal": {
+        "id": "26091020",
+        "nombre": "Sarmiento"
+      },
+      "municipio": {
+        "id": "260140",
+        "nombre": "Sarmiento"
+      },
+      "nombre": "Sarmiento",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "26091"
+    ]
+  },
+  "total": 2
+}

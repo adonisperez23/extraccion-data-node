@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.9850752344204,
+        "lon": -63.4503997067801
+      },
+      "departamento": {
+        "id": "86168",
+        "nombre": "Salavina"
+      },
+      "id": "86168020",
+      "localidad_censal": {
+        "id": "86168020",
+        "nombre": "Los Telares"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Los Telares",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.8043169228177,
+        "lon": -63.4296505743647
+      },
+      "departamento": {
+        "id": "86168",
+        "nombre": "Salavina"
+      },
+      "id": "86168030",
+      "localidad_censal": {
+        "id": "86168030",
+        "nombre": "Villa Salavina"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Villa Salavina",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.7972018368304,
+        "lon": -63.5753442508143
+      },
+      "departamento": {
+        "id": "86168",
+        "nombre": "Salavina"
+      },
+      "id": "86168010",
+      "localidad_censal": {
+        "id": "86168010",
+        "nombre": "Chilca Juliana"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Chilca Juliana",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86168"
+    ]
+  },
+  "total": 3
+}

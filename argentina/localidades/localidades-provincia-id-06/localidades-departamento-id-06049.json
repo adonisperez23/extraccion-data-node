@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.5314223000046,
+        "lon": -59.921751903635
+      },
+      "departamento": {
+        "id": "06049",
+        "nombre": "Azul"
+      },
+      "id": "06049010",
+      "localidad_censal": {
+        "id": "06049010",
+        "nombre": "Ariel"
+      },
+      "municipio": {
+        "id": "060049",
+        "nombre": "Azul"
+      },
+      "nombre": "Ariel",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.777446999956,
+        "lon": -59.8634430458016
+      },
+      "departamento": {
+        "id": "06049",
+        "nombre": "Azul"
+      },
+      "id": "06049020",
+      "localidad_censal": {
+        "id": "06049020",
+        "nombre": "Azul"
+      },
+      "municipio": {
+        "id": "060049",
+        "nombre": "Azul"
+      },
+      "nombre": "Azul",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.3766730053896,
+        "lon": -59.5046042167331
+      },
+      "departamento": {
+        "id": "06049",
+        "nombre": "Azul"
+      },
+      "id": "06049030",
+      "localidad_censal": {
+        "id": "06049030",
+        "nombre": "Cacharí"
+      },
+      "municipio": {
+        "id": "060049",
+        "nombre": "Azul"
+      },
+      "nombre": "Cacharí",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.3128038441293,
+        "lon": -59.985165666911
+      },
+      "departamento": {
+        "id": "06049",
+        "nombre": "Azul"
+      },
+      "id": "06049040",
+      "localidad_censal": {
+        "id": "06049040",
+        "nombre": "Chillar"
+      },
+      "municipio": {
+        "id": "060049",
+        "nombre": "Azul"
+      },
+      "nombre": "Chillar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.2005149676994,
+        "lon": -60.1646533455059
+      },
+      "departamento": {
+        "id": "06049",
+        "nombre": "Azul"
+      },
+      "id": "06049050",
+      "localidad_censal": {
+        "id": "06049050",
+        "nombre": "16 de Julio"
+      },
+      "municipio": {
+        "id": "060049",
+        "nombre": "Azul"
+      },
+      "nombre": "16 de Julio",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06049"
+    ]
+  },
+  "total": 5
+}

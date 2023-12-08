@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.9602929716694,
+        "lon": -65.065810087943
+      },
+      "departamento": {
+        "id": "14133",
+        "nombre": "San Javier"
+      },
+      "id": "1413319001",
+      "localidad_censal": {
+        "id": "14133190",
+        "nombre": "Villa de las Rosas"
+      },
+      "municipio": {
+        "id": "141148",
+        "nombre": "Villa de las Rosas"
+      },
+      "nombre": "Alto Resbaloso - El Barrial",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.9578095999862,
+        "lon": -65.0744379982192
+      },
+      "departamento": {
+        "id": "14133",
+        "nombre": "San Javier"
+      },
+      "id": "1413319002",
+      "localidad_censal": {
+        "id": "14133190",
+        "nombre": "Villa de las Rosas"
+      },
+      "municipio": {
+        "id": "141148",
+        "nombre": "Villa de las Rosas"
+      },
+      "nombre": "El Pueblito",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.9451679685925,
+        "lon": -65.064491322343
+      },
+      "departamento": {
+        "id": "14133",
+        "nombre": "San Javier"
+      },
+      "id": "1413319003",
+      "localidad_censal": {
+        "id": "14133190",
+        "nombre": "Villa de las Rosas"
+      },
+      "municipio": {
+        "id": "141148",
+        "nombre": "Villa de las Rosas"
+      },
+      "nombre": "El Valle",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.9419650315312,
+        "lon": -65.0251247511244
+      },
+      "departamento": {
+        "id": "14133",
+        "nombre": "San Javier"
+      },
+      "id": "1413319004",
+      "localidad_censal": {
+        "id": "14133190",
+        "nombre": "Villa de las Rosas"
+      },
+      "municipio": {
+        "id": "141148",
+        "nombre": "Villa de las Rosas"
+      },
+      "nombre": "Las Chacras",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.9503622494173,
+        "lon": -65.0539943338809
+      },
+      "departamento": {
+        "id": "14133",
+        "nombre": "San Javier"
+      },
+      "id": "1413319005",
+      "localidad_censal": {
+        "id": "14133190",
+        "nombre": "Villa de las Rosas"
+      },
+      "municipio": {
+        "id": "141148",
+        "nombre": "Villa de las Rosas"
+      },
+      "nombre": "Villa de las Rosas",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0773534684113,
+        "lon": -65.2294604480298
+      },
+      "departamento": {
+        "id": "14133",
+        "nombre": "San Javier"
+      },
+      "id": "14133010",
+      "localidad_censal": {
+        "id": "14133010",
+        "nombre": "Conlara"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Conlara",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.2175253164184,
+        "lon": -65.0482645389526
+      },
+      "departamento": {
+        "id": "14133",
+        "nombre": "San Javier"
+      },
+      "id": "14133060",
+      "localidad_censal": {
+        "id": "14133060",
+        "nombre": "La Paz"
+      },
+      "municipio": {
+        "id": "141127",
+        "nombre": "La Paz"
+      },
+      "nombre": "La Paz",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0662526110844,
+        "lon": -65.0296172538922
+      },
+      "departamento": {
+        "id": "14133",
+        "nombre": "San Javier"
+      },
+      "id": "14133070",
+      "localidad_censal": {
+        "id": "14133070",
+        "nombre": "La Población"
+      },
+      "municipio": {
+        "id": "142896",
+        "nombre": "La Población"
+      },
+      "nombre": "La Población",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.1145572309961,
+        "lon": -65.04368346574
+      },
+      "departamento": {
+        "id": "14133",
+        "nombre": "San Javier"
+      },
+      "id": "14133090",
+      "localidad_censal": {
+        "id": "14133090",
+        "nombre": "La Travesí­a"
+      },
+      "municipio": {
+        "id": "142924",
+        "nombre": "Luyaba"
+      },
+      "nombre": "La Travesía",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -31.9530536443256,
+        "lon": -65.0979661107353
+      },
+      "departamento": {
+        "id": "14133",
+        "nombre": "San Javier"
+      },
+      "id": "14133100",
+      "localidad_censal": {
+        "id": "14133100",
+        "nombre": "Las Tapias"
+      },
+      "municipio": {
+        "id": "141130",
+        "nombre": "Las Tapias"
+      },
+      "nombre": "Las Tapias",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14133"
+    ]
+  },
+  "total": 18
+}

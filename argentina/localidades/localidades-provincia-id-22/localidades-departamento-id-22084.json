@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.5801424797738,
+        "lon": -59.6300338022635
+      },
+      "departamento": {
+        "id": "22084",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "22084010",
+      "localidad_censal": {
+        "id": "22084010",
+        "nombre": "Ciervo Petiso"
+      },
+      "municipio": {
+        "id": "220252",
+        "nombre": "Ciervo Petiso"
+      },
+      "nombre": "Ciervo Petiso",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.5363023600367,
+        "lon": -59.341321005154
+      },
+      "departamento": {
+        "id": "22084",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "22084020",
+      "localidad_censal": {
+        "id": "22084020",
+        "nombre": "General José de San Martín"
+      },
+      "municipio": {
+        "id": "220259",
+        "nombre": "General San Martín"
+      },
+      "nombre": "General José de San Martín",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.8364618120738,
+        "lon": -59.0623206203105
+      },
+      "departamento": {
+        "id": "22084",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "22084030",
+      "localidad_censal": {
+        "id": "22084030",
+        "nombre": "La Eduvigis"
+      },
+      "municipio": {
+        "id": "220266",
+        "nombre": "La Eduvigis"
+      },
+      "nombre": "La Eduvigis",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.4958399099606,
+        "lon": -59.680356876031
+      },
+      "departamento": {
+        "id": "22084",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "22084040",
+      "localidad_censal": {
+        "id": "22084040",
+        "nombre": "Laguna Limpia"
+      },
+      "municipio": {
+        "id": "220273",
+        "nombre": "Laguna Limpia"
+      },
+      "nombre": "Laguna Limpia",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.7011493406054,
+        "lon": -59.12404507586
+      },
+      "departamento": {
+        "id": "22084",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "22084050",
+      "localidad_censal": {
+        "id": "22084050",
+        "nombre": "Pampa Almirón"
+      },
+      "municipio": {
+        "id": "220280",
+        "nombre": "Pampa Almirón"
+      },
+      "nombre": "Pampa Almirón",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.0490249999348,
+        "lon": -59.9427535812383
+      },
+      "departamento": {
+        "id": "22084",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "22084060",
+      "localidad_censal": {
+        "id": "22084060",
+        "nombre": "Pampa del Indio"
+      },
+      "municipio": {
+        "id": "220287",
+        "nombre": "Pampa del Indio"
+      },
+      "nombre": "Pampa del Indio",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.1437153807833,
+        "lon": -59.5950291800733
+      },
+      "departamento": {
+        "id": "22084",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "22084070",
+      "localidad_censal": {
+        "id": "22084070",
+        "nombre": "Presidencia Roca"
+      },
+      "municipio": {
+        "id": "220294",
+        "nombre": "Presidencia Roca"
+      },
+      "nombre": "Presidencia Roca",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.8023527458967,
+        "lon": -58.9570266168189
+      },
+      "departamento": {
+        "id": "22084",
+        "nombre": "Libertador General San Martín"
+      },
+      "id": "22084080",
+      "localidad_censal": {
+        "id": "22084080",
+        "nombre": "Selvas del Río de Oro"
+      },
+      "municipio": {
+        "id": "220266",
+        "nombre": "La Eduvigis"
+      },
+      "nombre": "Selvas del Río de Oro",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22084"
+    ]
+  },
+  "total": 8
+}

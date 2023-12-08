@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -29.178242612745,
+        "lon": -67.4744219919575
+      },
+      "departamento": {
+        "id": "46042",
+        "nombre": "Chilecito"
+      },
+      "id": "4604201005",
+      "localidad_censal": {
+        "id": "46042010",
+        "nombre": "Chilecito"
+      },
+      "municipio": {
+        "id": "460042",
+        "nombre": "Chilecito"
+      },
+      "nombre": "San Miguel",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -29.1509299523349,
+        "lon": -67.4824676820837
+      },
+      "departamento": {
+        "id": "46042",
+        "nombre": "Chilecito"
+      },
+      "id": "4604201004",
+      "localidad_censal": {
+        "id": "46042010",
+        "nombre": "Chilecito"
+      },
+      "municipio": {
+        "id": "460042",
+        "nombre": "Chilecito"
+      },
+      "nombre": "Los Sarmientos",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -29.1990741866199,
+        "lon": -67.4621457728199
+      },
+      "departamento": {
+        "id": "46042",
+        "nombre": "Chilecito"
+      },
+      "id": "4604201001",
+      "localidad_censal": {
+        "id": "46042010",
+        "nombre": "Chilecito"
+      },
+      "municipio": {
+        "id": "460042",
+        "nombre": "Chilecito"
+      },
+      "nombre": "Anguinán",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -29.162385830377,
+        "lon": -67.4993074296546
+      },
+      "departamento": {
+        "id": "46042",
+        "nombre": "Chilecito"
+      },
+      "id": "4604201002",
+      "localidad_censal": {
+        "id": "46042010",
+        "nombre": "Chilecito"
+      },
+      "municipio": {
+        "id": "460042",
+        "nombre": "Chilecito"
+      },
+      "nombre": "Chilecito",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -29.1595993877494,
+        "lon": -67.4806003282644
+      },
+      "departamento": {
+        "id": "46042",
+        "nombre": "Chilecito"
+      },
+      "id": "4604201003",
+      "localidad_censal": {
+        "id": "46042010",
+        "nombre": "Chilecito"
+      },
+      "municipio": {
+        "id": "460042",
+        "nombre": "Chilecito"
+      },
+      "nombre": "La Puntilla",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.4495555812964,
+        "lon": -67.487670433792
+      },
+      "departamento": {
+        "id": "46042",
+        "nombre": "Chilecito"
+      },
+      "id": "46042050",
+      "localidad_censal": {
+        "id": "46042050",
+        "nombre": "Colonia Vichigasta"
+      },
+      "municipio": {
+        "id": "460042",
+        "nombre": "Chilecito"
+      },
+      "nombre": "Colonia Vichigasta",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.3022094416507,
+        "lon": -67.5061907656652
+      },
+      "departamento": {
+        "id": "46042",
+        "nombre": "Chilecito"
+      },
+      "id": "46042090",
+      "localidad_censal": {
+        "id": "46042090",
+        "nombre": "Nonogasta"
+      },
+      "municipio": {
+        "id": "460042",
+        "nombre": "Chilecito"
+      },
+      "nombre": "Nonogasta",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.1651050590164,
+        "lon": -67.4952152727143
+      },
+      "departamento": {
+        "id": "46042",
+        "nombre": "Chilecito"
+      },
+      "id": "46042010",
+      "localidad_censal": {
+        "id": "46042010",
+        "nombre": "Chilecito"
+      },
+      "municipio": {
+        "id": "460042",
+        "nombre": "Chilecito"
+      },
+      "nombre": "Chilecito",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.2505767387971,
+        "lon": -67.4438295295196
+      },
+      "departamento": {
+        "id": "46042",
+        "nombre": "Chilecito"
+      },
+      "id": "46042020",
+      "localidad_censal": {
+        "id": "46042020",
+        "nombre": "Colonia Anguinán"
+      },
+      "municipio": {
+        "id": "460042",
+        "nombre": "Chilecito"
+      },
+      "nombre": "Colonia Anguinán",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.1980640659613,
+        "lon": -67.3981725015383
+      },
+      "departamento": {
+        "id": "46042",
+        "nombre": "Chilecito"
+      },
+      "id": "46042040",
+      "localidad_censal": {
+        "id": "46042040",
+        "nombre": "Colonia Malligasta"
+      },
+      "municipio": {
+        "id": "460042",
+        "nombre": "Chilecito"
+      },
+      "nombre": "Colonia Malligasta",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "46042"
+    ]
+  },
+  "total": 18
+}

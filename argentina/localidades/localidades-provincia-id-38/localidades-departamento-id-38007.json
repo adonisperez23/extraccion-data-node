@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.7226922709668,
+        "lon": -65.6970391781325
+      },
+      "departamento": {
+        "id": "38007",
+        "nombre": "Cochinoca"
+      },
+      "id": "38007020",
+      "localidad_censal": {
+        "id": "38007020",
+        "nombre": "Abra Pampa"
+      },
+      "municipio": {
+        "id": "380014",
+        "nombre": "Abra Pampa"
+      },
+      "nombre": "Abra Pampa",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.1691469686509,
+        "lon": -65.793877601201
+      },
+      "departamento": {
+        "id": "38007",
+        "nombre": "Cochinoca"
+      },
+      "id": "38007030",
+      "localidad_censal": {
+        "id": "38007030",
+        "nombre": "Abralaite"
+      },
+      "municipio": {
+        "id": "386014",
+        "nombre": "Abralaite"
+      },
+      "nombre": "Abralaite",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.2175123011698,
+        "lon": -65.8068654624062
+      },
+      "departamento": {
+        "id": "38007",
+        "nombre": "Cochinoca"
+      },
+      "id": "38007035",
+      "localidad_censal": {
+        "id": "38007035",
+        "nombre": "Agua de Castilla"
+      },
+      "municipio": {
+        "id": "386014",
+        "nombre": "Abralaite"
+      },
+      "nombre": "Agua de Castilla",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.9868279163712,
+        "lon": -66.0329261502004
+      },
+      "departamento": {
+        "id": "38007",
+        "nombre": "Cochinoca"
+      },
+      "id": "38007040",
+      "localidad_censal": {
+        "id": "38007040",
+        "nombre": "Casabindo"
+      },
+      "municipio": {
+        "id": "380014",
+        "nombre": "Abra Pampa"
+      },
+      "nombre": "Casabindo",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.7453537739342,
+        "lon": -65.8960773363478
+      },
+      "departamento": {
+        "id": "38007",
+        "nombre": "Cochinoca"
+      },
+      "id": "38007050",
+      "localidad_censal": {
+        "id": "38007050",
+        "nombre": "Cochinoca"
+      },
+      "municipio": {
+        "id": "380014",
+        "nombre": "Abra Pampa"
+      },
+      "nombre": "Cochinoca",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.5288919293473,
+        "lon": -65.5222730667181
+      },
+      "departamento": {
+        "id": "38007",
+        "nombre": "Cochinoca"
+      },
+      "id": "38007055",
+      "localidad_censal": {
+        "id": "38007055",
+        "nombre": "La Redonda"
+      },
+      "municipio": {
+        "id": "386021",
+        "nombre": "Puesto del Marquez"
+      },
+      "nombre": "La Redonda",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.5369606645786,
+        "lon": -65.6974625005544
+      },
+      "departamento": {
+        "id": "38007",
+        "nombre": "Cochinoca"
+      },
+      "id": "38007060",
+      "localidad_censal": {
+        "id": "38007060",
+        "nombre": "Puesto del Marquéz"
+      },
+      "municipio": {
+        "id": "386021",
+        "nombre": "Puesto del Marquez"
+      },
+      "nombre": "Puesto del Marquéz",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.2862311682465,
+        "lon": -65.769884805452
+      },
+      "departamento": {
+        "id": "38007",
+        "nombre": "Cochinoca"
+      },
+      "id": "38007063",
+      "localidad_censal": {
+        "id": "38007063",
+        "nombre": "Quebraleña"
+      },
+      "municipio": {
+        "id": "386014",
+        "nombre": "Abralaite"
+      },
+      "nombre": "Quebraleña",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.1008268800709,
+        "lon": -65.7635759565657
+      },
+      "departamento": {
+        "id": "38007",
+        "nombre": "Cochinoca"
+      },
+      "id": "38007067",
+      "localidad_censal": {
+        "id": "38007067",
+        "nombre": "Quera"
+      },
+      "municipio": {
+        "id": "386014",
+        "nombre": "Abralaite"
+      },
+      "nombre": "Quera",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.3855012557895,
+        "lon": -65.9570523421046
+      },
+      "departamento": {
+        "id": "38007",
+        "nombre": "Cochinoca"
+      },
+      "id": "38007070",
+      "localidad_censal": {
+        "id": "38007070",
+        "nombre": "Rinconadillas"
+      },
+      "municipio": {
+        "id": "386007",
+        "nombre": "Abdón Castro Tolay"
+      },
+      "nombre": "Rinconadillas",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "38007"
+    ]
+  },
+  "total": 15
+}

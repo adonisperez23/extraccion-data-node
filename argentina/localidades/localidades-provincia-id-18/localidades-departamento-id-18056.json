@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.09883935098,
+        "lon": -56.5534358403365
+      },
+      "departamento": {
+        "id": "18056",
+        "nombre": "General Alvear"
+      },
+      "id": "18056010",
+      "localidad_censal": {
+        "id": "18056010",
+        "nombre": "Alvear"
+      },
+      "municipio": {
+        "id": "180098",
+        "nombre": "Alvear"
+      },
+      "nombre": "Alvear",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.8243613260553,
+        "lon": -56.469217050869
+      },
+      "departamento": {
+        "id": "18056",
+        "nombre": "General Alvear"
+      },
+      "id": "18056020",
+      "localidad_censal": {
+        "id": "18056020",
+        "nombre": "Estación Torrent"
+      },
+      "municipio": {
+        "id": "180105",
+        "nombre": "Estación Torrent"
+      },
+      "nombre": "Estación Torrent",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18056"
+    ]
+  },
+  "total": 2
+}

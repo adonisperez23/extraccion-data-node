@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5502192063956,
+        "lon": -57.5284147514388
+      },
+      "departamento": {
+        "id": "18014",
+        "nombre": "Berón de Astrada"
+      },
+      "id": "18014010",
+      "localidad_censal": {
+        "id": "18014010",
+        "nombre": "San Antonio de Itatí"
+      },
+      "municipio": {
+        "id": "180014",
+        "nombre": "San Antonio de Itatí"
+      },
+      "nombre": "Berón de Astrada",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.371446097571,
+        "lon": -57.6550373547485
+      },
+      "departamento": {
+        "id": "18014",
+        "nombre": "Berón de Astrada"
+      },
+      "id": "18014020",
+      "localidad_censal": {
+        "id": "18014020",
+        "nombre": "Yahapé"
+      },
+      "municipio": {
+        "id": "180014",
+        "nombre": "San Antonio de Itatí"
+      },
+      "nombre": "Yahapé",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18014"
+    ]
+  },
+  "total": 2
+}

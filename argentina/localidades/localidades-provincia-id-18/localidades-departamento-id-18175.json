@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.0855347172816,
+        "lon": -58.7872807765516
+      },
+      "departamento": {
+        "id": "18175",
+        "nombre": "Sauce"
+      },
+      "id": "18175010",
+      "localidad_censal": {
+        "id": "18175010",
+        "nombre": "Sauce"
+      },
+      "municipio": {
+        "id": "180455",
+        "nombre": "Sauce"
+      },
+      "nombre": "Sauce",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18175"
+    ]
+  },
+  "total": 1
+}

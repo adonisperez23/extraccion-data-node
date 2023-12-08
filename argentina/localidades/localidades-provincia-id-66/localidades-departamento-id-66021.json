@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.0730439668796,
+        "lon": -65.9759833821153
+      },
+      "departamento": {
+        "id": "66021",
+        "nombre": "Cafayate"
+      },
+      "id": "66021010",
+      "localidad_censal": {
+        "id": "66021010",
+        "nombre": "Cafayate"
+      },
+      "municipio": {
+        "id": "660056",
+        "nombre": "Cafayate"
+      },
+      "nombre": "Cafayate",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.1827139010479,
+        "lon": -65.9398143353876
+      },
+      "departamento": {
+        "id": "66021",
+        "nombre": "Cafayate"
+      },
+      "id": "66021020",
+      "localidad_censal": {
+        "id": "66021020",
+        "nombre": "Tolombón"
+      },
+      "municipio": {
+        "id": "660056",
+        "nombre": "Cafayate"
+      },
+      "nombre": "Tolombón",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66021"
+    ]
+  },
+  "total": 2
+}

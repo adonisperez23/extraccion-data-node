@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0166726511379,
+        "lon": -64.0353200737961
+      },
+      "departamento": {
+        "id": "42133",
+        "nombre": "Realicó"
+      },
+      "id": "42133010",
+      "localidad_censal": {
+        "id": "42133010",
+        "nombre": "Adolfo Van Praet"
+      },
+      "municipio": {
+        "id": "425007",
+        "nombre": "Adolfo Van Praet"
+      },
+      "nombre": "Adolfo Van Praet",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.3344236924485,
+        "lon": -64.1171414735618
+      },
+      "departamento": {
+        "id": "42133",
+        "nombre": "Realicó"
+      },
+      "id": "42133020",
+      "localidad_censal": {
+        "id": "42133020",
+        "nombre": "Alta Italia"
+      },
+      "municipio": {
+        "id": "420021",
+        "nombre": "Alta Italia"
+      },
+      "nombre": "Alta Italia",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0414276195447,
+        "lon": -64.3859123352225
+      },
+      "departamento": {
+        "id": "42133",
+        "nombre": "Realicó"
+      },
+      "id": "42133030",
+      "localidad_censal": {
+        "id": "42133030",
+        "nombre": "Damián Maisonave"
+      },
+      "municipio": {
+        "id": "425098",
+        "nombre": "Maisonave"
+      },
+      "nombre": "Damián Maisonave",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.3873484763632,
+        "lon": -64.2827669425504
+      },
+      "departamento": {
+        "id": "42133",
+        "nombre": "Realicó"
+      },
+      "id": "42133040",
+      "localidad_censal": {
+        "id": "42133040",
+        "nombre": "Embajador Martini"
+      },
+      "municipio": {
+        "id": "420126",
+        "nombre": "Embajador Martini"
+      },
+      "nombre": "Embajador Martini",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.1907264970461,
+        "lon": -64.1070652191117
+      },
+      "departamento": {
+        "id": "42133",
+        "nombre": "Realicó"
+      },
+      "id": "42133050",
+      "localidad_censal": {
+        "id": "42133050",
+        "nombre": "Falucho"
+      },
+      "municipio": {
+        "id": "425063",
+        "nombre": "Falucho"
+      },
+      "nombre": "Falucho",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.3884711486406,
+        "lon": -64.4673705684362
+      },
+      "departamento": {
+        "id": "42133",
+        "nombre": "Realicó"
+      },
+      "id": "42133060",
+      "localidad_censal": {
+        "id": "42133060",
+        "nombre": "Ingeniero Luiggi"
+      },
+      "municipio": {
+        "id": "420168",
+        "nombre": "Ingeniero Luiggi"
+      },
+      "nombre": "Ingeniero Luiggi",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.3069414204845,
+        "lon": -64.0060798931943
+      },
+      "departamento": {
+        "id": "42133",
+        "nombre": "Realicó"
+      },
+      "id": "42133070",
+      "localidad_censal": {
+        "id": "42133070",
+        "nombre": "Ojeda"
+      },
+      "municipio": {
+        "id": "420021",
+        "nombre": "Alta Italia"
+      },
+      "nombre": "Ojeda",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0382143738346,
+        "lon": -64.2463075218814
+      },
+      "departamento": {
+        "id": "42133",
+        "nombre": "Realicó"
+      },
+      "id": "42133080",
+      "localidad_censal": {
+        "id": "42133080",
+        "nombre": "Realicó"
+      },
+      "municipio": {
+        "id": "420315",
+        "nombre": "Realicó"
+      },
+      "nombre": "Realicó",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42133"
+    ]
+  },
+  "total": 8
+}

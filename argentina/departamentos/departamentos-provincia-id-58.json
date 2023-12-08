@@ -1,0 +1,203 @@
+{
+  "cantidad": 16,
+  "departamentos": [
+    {
+      "centroide": {
+        "lat": -39.4039652237483,
+        "lon": -69.427190720517
+      },
+      "id": "58098",
+      "nombre": "Picún Leufú",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -38.9221765260283,
+        "lon": -69.8223682005858
+      },
+      "id": "58112",
+      "nombre": "Zapala",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -39.1314863536249,
+        "lon": -71.0463179632078
+      },
+      "id": "58007",
+      "nombre": "Aluminé",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -40.314223088982,
+        "lon": -71.1842639628873
+      },
+      "id": "58056",
+      "nombre": "Lácar",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -39.4807942919835,
+        "lon": -70.4335593332114
+      },
+      "id": "58021",
+      "nombre": "Catán Lil",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -38.8322794945189,
+        "lon": -68.7940772839278
+      },
+      "id": "58035",
+      "nombre": "Confluencia",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -38.5742773422999,
+        "lon": -70.3729610459357
+      },
+      "id": "58105",
+      "nombre": "Picunches",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -38.0983759451619,
+        "lon": -69.0157147264732
+      },
+      "id": "58014",
+      "nombre": "Añelo",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -38.0659451614955,
+        "lon": -70.3142327793889
+      },
+      "id": "58063",
+      "nombre": "Loncopué",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -37.6381186650332,
+        "lon": -70.6780421229319
+      },
+      "id": "58084",
+      "nombre": "Ñorquín",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -37.3984094176891,
+        "lon": -69.4030432724945
+      },
+      "id": "58091",
+      "nombre": "Pehuenches",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -36.8585578940124,
+        "lon": -70.78364814983
+      },
+      "id": "58077",
+      "nombre": "Minas",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -36.8805641891102,
+        "lon": -70.2863793101158
+      },
+      "id": "58042",
+      "nombre": "Chos Malal",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -39.7946776781884,
+        "lon": -71.2590025540624
+      },
+      "id": "58049",
+      "nombre": "Huiliches",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -40.0529194288429,
+        "lon": -70.2813667759367
+      },
+      "id": "58028",
+      "nombre": "Collón Curá",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -40.7743503720999,
+        "lon": -71.4867232511371
+      },
+      "id": "58070",
+      "nombre": "Los Lagos",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    }
+  ],
+  "inicio": 0,
+  "parametros": {
+    "max": 200,
+    "provincia": "Neuquén"
+  },
+  "total": 16
+}

@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.4357740479997,
+        "lon": -59.0688572962096
+      },
+      "departamento": {
+        "id": "30063",
+        "nombre": "Islas del Ibicuy"
+      },
+      "id": "30063040",
+      "localidad_censal": {
+        "id": "30063040",
+        "nombre": "Médanos"
+      },
+      "municipio": {
+        "id": "309405",
+        "nombre": "Médanos"
+      },
+      "nombre": "Médanos",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.4994143415822,
+        "lon": -58.8003552616562
+      },
+      "departamento": {
+        "id": "30063",
+        "nombre": "Islas del Ibicuy"
+      },
+      "id": "30063020",
+      "localidad_censal": {
+        "id": "30063020",
+        "nombre": "Ceibas"
+      },
+      "municipio": {
+        "id": "300210",
+        "nombre": "Ceibas"
+      },
+      "nombre": "Ceibas",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.742476857164,
+        "lon": -59.157590207736
+      },
+      "departamento": {
+        "id": "30063",
+        "nombre": "Islas del Ibicuy"
+      },
+      "id": "30063030",
+      "localidad_censal": {
+        "id": "30063030",
+        "nombre": "Ibicuy"
+      },
+      "municipio": {
+        "id": "300217",
+        "nombre": "Ibicuy"
+      },
+      "nombre": "Ibicuy",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.7156034771624,
+        "lon": -58.6652644995763
+      },
+      "departamento": {
+        "id": "30063",
+        "nombre": "Islas del Ibicuy"
+      },
+      "id": "30063060",
+      "localidad_censal": {
+        "id": "30063060",
+        "nombre": "Villa Paranacito"
+      },
+      "municipio": {
+        "id": "300224",
+        "nombre": "Villa Paranacito"
+      },
+      "nombre": "Villa Paranacito",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "30063"
+    ]
+  },
+  "total": 4
+}

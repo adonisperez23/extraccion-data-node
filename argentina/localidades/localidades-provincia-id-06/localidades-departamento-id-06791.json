@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.1272865838688,
+        "lon": -59.1053808045858
+      },
+      "departamento": {
+        "id": "06791",
+        "nombre": "Tandil"
+      },
+      "id": "06791010",
+      "localidad_censal": {
+        "id": "06791010",
+        "nombre": "De la Canal"
+      },
+      "municipio": {
+        "id": "060791",
+        "nombre": "Tandil"
+      },
+      "nombre": "De la Canal",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.2797250332818,
+        "lon": -59.3628688181827
+      },
+      "departamento": {
+        "id": "06791",
+        "nombre": "Tandil"
+      },
+      "id": "06791030",
+      "localidad_censal": {
+        "id": "06791030",
+        "nombre": "Gardey"
+      },
+      "municipio": {
+        "id": "060791",
+        "nombre": "Tandil"
+      },
+      "nombre": "Gardey",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.4013842440147,
+        "lon": -59.5059287942189
+      },
+      "departamento": {
+        "id": "06791",
+        "nombre": "Tandil"
+      },
+      "id": "06791040",
+      "localidad_censal": {
+        "id": "06791040",
+        "nombre": "Marí­a Ignacia"
+      },
+      "municipio": {
+        "id": "060791",
+        "nombre": "Tandil"
+      },
+      "nombre": "María Ignacia",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.3286954825526,
+        "lon": -59.1368975569569
+      },
+      "departamento": {
+        "id": "06791",
+        "nombre": "Tandil"
+      },
+      "id": "06791050",
+      "localidad_censal": {
+        "id": "06791050",
+        "nombre": "Tandil"
+      },
+      "municipio": {
+        "id": "060791",
+        "nombre": "Tandil"
+      },
+      "nombre": "Tandil",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06791"
+    ]
+  },
+  "total": 4
+}

@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.3631073150374,
+        "lon": -65.9570675397677
+      },
+      "departamento": {
+        "id": "90098",
+        "nombre": "Tafí del Valle"
+      },
+      "id": "90098020",
+      "localidad_censal": {
+        "id": "90098020",
+        "nombre": "Colalao del Valle"
+      },
+      "municipio": {
+        "id": "908574",
+        "nombre": "Colalao del Valle"
+      },
+      "nombre": "Colalao del Valle",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.8519448937972,
+        "lon": -65.71069016081
+      },
+      "departamento": {
+        "id": "90098",
+        "nombre": "Tafí del Valle"
+      },
+      "id": "90098040",
+      "localidad_censal": {
+        "id": "90098040",
+        "nombre": "Tafí del Valle"
+      },
+      "municipio": {
+        "id": "900105",
+        "nombre": "Tafí del Valle"
+      },
+      "nombre": "Tafí del Valle",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.5936605204655,
+        "lon": -65.9200851656867
+      },
+      "departamento": {
+        "id": "90098",
+        "nombre": "Tafí del Valle"
+      },
+      "id": "90098010",
+      "localidad_censal": {
+        "id": "90098010",
+        "nombre": "Amaicha del Valle"
+      },
+      "municipio": {
+        "id": "908567",
+        "nombre": "Amaicha del Valle"
+      },
+      "nombre": "Amaicha del Valle",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.9397961578393,
+        "lon": -65.709194970895
+      },
+      "departamento": {
+        "id": "90098",
+        "nombre": "Tafí del Valle"
+      },
+      "id": "90098030",
+      "localidad_censal": {
+        "id": "90098030",
+        "nombre": "El Mollar"
+      },
+      "municipio": {
+        "id": "908581",
+        "nombre": "El Mollar"
+      },
+      "nombre": "El Mollar",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "90098"
+    ]
+  },
+  "total": 4
+}

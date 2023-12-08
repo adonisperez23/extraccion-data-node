@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.2060995361368,
+        "lon": -63.077533215168
+      },
+      "departamento": {
+        "id": "06616",
+        "nombre": "Pellegrini"
+      },
+      "id": "06616010",
+      "localidad_censal": {
+        "id": "06616010",
+        "nombre": "Bocayuva"
+      },
+      "municipio": {
+        "id": "060616",
+        "nombre": "Pellegrini"
+      },
+      "nombre": "Bocayuva",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.3405018944918,
+        "lon": -63.2596740754861
+      },
+      "departamento": {
+        "id": "06616",
+        "nombre": "Pellegrini"
+      },
+      "id": "06616020",
+      "localidad_censal": {
+        "id": "06616020",
+        "nombre": "De Bary"
+      },
+      "municipio": {
+        "id": "060616",
+        "nombre": "Pellegrini"
+      },
+      "nombre": "De Bary",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.2679141882286,
+        "lon": -63.164721899616
+      },
+      "departamento": {
+        "id": "06616",
+        "nombre": "Pellegrini"
+      },
+      "id": "06616030",
+      "localidad_censal": {
+        "id": "06616030",
+        "nombre": "Pellegrini"
+      },
+      "municipio": {
+        "id": "060616",
+        "nombre": "Pellegrini"
+      },
+      "nombre": "Pellegrini",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06616"
+    ]
+  },
+  "total": 3
+}

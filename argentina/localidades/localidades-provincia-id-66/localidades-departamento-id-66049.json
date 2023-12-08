@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.6598844220434,
+        "lon": -65.1064706284169
+      },
+      "departamento": {
+        "id": "66049",
+        "nombre": "General Güemes"
+      },
+      "id": "66049030",
+      "localidad_censal": {
+        "id": "66049030",
+        "nombre": "El Bordo"
+      },
+      "municipio": {
+        "id": "660112",
+        "nombre": "El Bordo"
+      },
+      "nombre": "El Bordo",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.7360098822115,
+        "lon": -65.0847261347695
+      },
+      "departamento": {
+        "id": "66049",
+        "nombre": "General Güemes"
+      },
+      "id": "66049020",
+      "localidad_censal": {
+        "id": "66049020",
+        "nombre": "Cobos"
+      },
+      "municipio": {
+        "id": "660105",
+        "nombre": "Campo Santo"
+      },
+      "nombre": "Cobos",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.6829667998746,
+        "lon": -65.1049447152193
+      },
+      "departamento": {
+        "id": "66049",
+        "nombre": "General Güemes"
+      },
+      "id": "66049010",
+      "localidad_censal": {
+        "id": "66049010",
+        "nombre": "Campo Santo"
+      },
+      "municipio": {
+        "id": "660105",
+        "nombre": "Campo Santo"
+      },
+      "nombre": "Campo Santo",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.6744472071112,
+        "lon": -65.0465979199562
+      },
+      "departamento": {
+        "id": "66049",
+        "nombre": "General Güemes"
+      },
+      "id": "66049040",
+      "localidad_censal": {
+        "id": "66049040",
+        "nombre": "General Güemes"
+      },
+      "municipio": {
+        "id": "660119",
+        "nombre": "General Güemes"
+      },
+      "nombre": "General Güemes",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66049"
+    ]
+  },
+  "total": 4
+}

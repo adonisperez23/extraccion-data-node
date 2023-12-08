@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.0675149078578,
+        "lon": -60.1086915850167
+      },
+      "departamento": {
+        "id": "06077",
+        "nombre": "Arrecifes"
+      },
+      "id": "06077010",
+      "localidad_censal": {
+        "id": "06077010",
+        "nombre": "Arrecifes"
+      },
+      "municipio": {
+        "id": "060077",
+        "nombre": "Arrecifes"
+      },
+      "nombre": "Arrecifes",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.0335541163485,
+        "lon": -60.1552705427843
+      },
+      "departamento": {
+        "id": "06077",
+        "nombre": "Arrecifes"
+      },
+      "id": "06077020",
+      "localidad_censal": {
+        "id": "06077020",
+        "nombre": "Todd"
+      },
+      "municipio": {
+        "id": "060077",
+        "nombre": "Arrecifes"
+      },
+      "nombre": "Todd",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.9923791495617,
+        "lon": -60.226418356914
+      },
+      "departamento": {
+        "id": "06077",
+        "nombre": "Arrecifes"
+      },
+      "id": "06077030",
+      "localidad_censal": {
+        "id": "06077030",
+        "nombre": "Viña"
+      },
+      "municipio": {
+        "id": "060077",
+        "nombre": "Arrecifes"
+      },
+      "nombre": "Viña",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06077"
+    ]
+  },
+  "total": 3
+}

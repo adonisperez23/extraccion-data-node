@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.9883385421435,
+        "lon": -62.1265995234417
+      },
+      "departamento": {
+        "id": "86042",
+        "nombre": "Belgrano"
+      },
+      "id": "86042040",
+      "localidad_censal": {
+        "id": "86042040",
+        "nombre": "Guardia Escolta"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Guardia Escolta",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.8642746592748,
+        "lon": -61.8575926545697
+      },
+      "departamento": {
+        "id": "86042",
+        "nombre": "Belgrano"
+      },
+      "id": "86042020",
+      "localidad_censal": {
+        "id": "86042020",
+        "nombre": "Cuatro Bocas"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Cuatro Bocas",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.8880917336272,
+        "lon": -62.2690252706593
+      },
+      "departamento": {
+        "id": "86042",
+        "nombre": "Belgrano"
+      },
+      "id": "86042010",
+      "localidad_censal": {
+        "id": "86042010",
+        "nombre": "Bandera"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Bandera",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.1274713887712,
+        "lon": -61.9344762646139
+      },
+      "departamento": {
+        "id": "86042",
+        "nombre": "Belgrano"
+      },
+      "id": "86042030",
+      "localidad_censal": {
+        "id": "86042030",
+        "nombre": "Fortí­n Inca"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Fortín Inca",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86042"
+    ]
+  },
+  "total": 4
+}

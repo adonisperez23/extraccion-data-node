@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.9669452664983,
+        "lon": -65.4890141819133
+      },
+      "departamento": {
+        "id": "66035",
+        "nombre": "Cerrillos"
+      },
+      "id": "66035020",
+      "localidad_censal": {
+        "id": "66035020",
+        "nombre": "La Merced"
+      },
+      "municipio": {
+        "id": "660084",
+        "nombre": "La Merced"
+      },
+      "nombre": "La Merced",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -24.8958125202419,
+        "lon": -65.4871448167518
+      },
+      "departamento": {
+        "id": "66035",
+        "nombre": "Cerrillos"
+      },
+      "id": "66035010",
+      "localidad_censal": {
+        "id": "66035010",
+        "nombre": "San José de los Cerrillos"
+      },
+      "municipio": {
+        "id": "660077",
+        "nombre": "San José de los Cerrillos"
+      },
+      "nombre": "Cerrillos",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.9959615891767,
+        "lon": -65.4408140237448
+      },
+      "departamento": {
+        "id": "66035",
+        "nombre": "Cerrillos"
+      },
+      "id": "66035030",
+      "localidad_censal": {
+        "id": "66035030",
+        "nombre": "San Agustín"
+      },
+      "municipio": {
+        "id": "660084",
+        "nombre": "La Merced"
+      },
+      "nombre": "San Agustín",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66035"
+    ]
+  },
+  "total": 3
+}

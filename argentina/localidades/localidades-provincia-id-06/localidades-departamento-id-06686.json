@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.1847259520637,
+        "lon": -60.6989875902975
+      },
+      "departamento": {
+        "id": "06686",
+        "nombre": "Rojas"
+      },
+      "id": "0668606001",
+      "localidad_censal": {
+        "id": "06686060",
+        "nombre": "Rojas"
+      },
+      "municipio": {
+        "id": "060686",
+        "nombre": "Rojas"
+      },
+      "nombre": "Barrio Las Margaritas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.2002062759896,
+        "lon": -60.72947907762
+      },
+      "departamento": {
+        "id": "06686",
+        "nombre": "Rojas"
+      },
+      "id": "0668606002",
+      "localidad_censal": {
+        "id": "06686060",
+        "nombre": "Rojas"
+      },
+      "municipio": {
+        "id": "060686",
+        "nombre": "Rojas"
+      },
+      "nombre": "Rojas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.1749470374961,
+        "lon": -60.6944299346838
+      },
+      "departamento": {
+        "id": "06686",
+        "nombre": "Rojas"
+      },
+      "id": "0668606003",
+      "localidad_censal": {
+        "id": "06686060",
+        "nombre": "Rojas"
+      },
+      "municipio": {
+        "id": "060686",
+        "nombre": "Rojas"
+      },
+      "nombre": "Villa Parque Cecir",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.197742429077,
+        "lon": -60.7337006950429
+      },
+      "departamento": {
+        "id": "06686",
+        "nombre": "Rojas"
+      },
+      "id": "06686060",
+      "localidad_censal": {
+        "id": "06686060",
+        "nombre": "Rojas"
+      },
+      "municipio": {
+        "id": "060686",
+        "nombre": "Rojas"
+      },
+      "nombre": "Rojas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.1541391001149,
+        "lon": -61.011284299162
+      },
+      "departamento": {
+        "id": "06686",
+        "nombre": "Rojas"
+      },
+      "id": "06686010",
+      "localidad_censal": {
+        "id": "06686010",
+        "nombre": "La Beba"
+      },
+      "municipio": {
+        "id": "060686",
+        "nombre": "Rojas"
+      },
+      "nombre": "La Beba",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.0368745251476,
+        "lon": -60.8676211940846
+      },
+      "departamento": {
+        "id": "06686",
+        "nombre": "Rojas"
+      },
+      "id": "06686020",
+      "localidad_censal": {
+        "id": "06686020",
+        "nombre": "Las Carabelas"
+      },
+      "municipio": {
+        "id": "060686",
+        "nombre": "Rojas"
+      },
+      "nombre": "Las Carabelas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.3718154854636,
+        "lon": -60.6540749236981
+      },
+      "departamento": {
+        "id": "06686",
+        "nombre": "Rojas"
+      },
+      "id": "06686030",
+      "localidad_censal": {
+        "id": "06686030",
+        "nombre": "Los Indios"
+      },
+      "municipio": {
+        "id": "060686",
+        "nombre": "Rojas"
+      },
+      "nombre": "Los Indios",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.3596457098675,
+        "lon": -60.7837899544284
+      },
+      "departamento": {
+        "id": "06686",
+        "nombre": "Rojas"
+      },
+      "id": "06686040",
+      "localidad_censal": {
+        "id": "06686040",
+        "nombre": "Rafael Obligado"
+      },
+      "municipio": {
+        "id": "060686",
+        "nombre": "Rojas"
+      },
+      "nombre": "Rafael Obligado",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.087718856831,
+        "lon": -60.6676797814963
+      },
+      "departamento": {
+        "id": "06686",
+        "nombre": "Rojas"
+      },
+      "id": "06686050",
+      "localidad_censal": {
+        "id": "06686050",
+        "nombre": "Roberto Cano"
+      },
+      "municipio": {
+        "id": "060686",
+        "nombre": "Rojas"
+      },
+      "nombre": "Roberto Cano",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.2689702155468,
+        "lon": -60.8722564717847
+      },
+      "departamento": {
+        "id": "06686",
+        "nombre": "Rojas"
+      },
+      "id": "06686070",
+      "localidad_censal": {
+        "id": "06686070",
+        "nombre": "Sol de Mayo"
+      },
+      "municipio": {
+        "id": "060686",
+        "nombre": "Rojas"
+      },
+      "nombre": "Sol de Mayo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06686"
+    ]
+  },
+  "total": 11
+}

@@ -1,0 +1,311 @@
+{
+  "cantidad": 25,
+  "departamentos": [
+    {
+      "centroide": {
+        "lat": -27.2556537688374,
+        "lon": -60.6799749172166
+      },
+      "id": "22112",
+      "nombre": "O'Higgins",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.3333760774448,
+        "lon": -61.4758065480051
+      },
+      "id": "22036",
+      "nombre": "12 de Octubre",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -25.212576905898,
+        "lon": -61.3344270231873
+      },
+      "id": "22063",
+      "nombre": "General Güemes",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.7997133020842,
+        "lon": -59.5191057139149
+      },
+      "id": "22154",
+      "nombre": "Sargento Cabral",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.6596299369227,
+        "lon": -59.827840211346
+      },
+      "id": "22161",
+      "nombre": "Tapenagá",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.0446247369186,
+        "lon": -59.7745640420007
+      },
+      "id": "22119",
+      "nombre": "Presidencia de la Plaza",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.6663185244379,
+        "lon": -60.1729742758302
+      },
+      "id": "22133",
+      "nombre": "Quitilipi",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.735179032354,
+        "lon": -60.7563736019567
+      },
+      "id": "22070",
+      "nombre": "Independencia",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.7429616104984,
+        "lon": -60.6567128818538
+      },
+      "id": "22098",
+      "nombre": "Mayor Luis J. Fontana",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.8647076723602,
+        "lon": -61.3012288739823
+      },
+      "id": "22043",
+      "nombre": "Fray Justo Santa María de Oro",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -25.7452119099225,
+        "lon": -61.9589813624119
+      },
+      "id": "22007",
+      "nombre": "Almirante Brown",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.9436383020752,
+        "lon": -61.264612522285
+      },
+      "id": "22105",
+      "nombre": "9 de Julio",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.3190099893669,
+        "lon": -60.4546439783309
+      },
+      "id": "22091",
+      "nombre": "Maipú",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.1153502635495,
+        "lon": -61.3088349505972
+      },
+      "id": "22028",
+      "nombre": "Chacabuco",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.6198551557059,
+        "lon": -61.3289519563791
+      },
+      "id": "22039",
+      "nombre": "2 de Abril",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.1388899905163,
+        "lon": -59.3467829351985
+      },
+      "id": "22056",
+      "nombre": "General Donovan",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.3775454900773,
+        "lon": -59.4877181570758
+      },
+      "id": "22084",
+      "nombre": "Libertador General San Martín",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.9580421515067,
+        "lon": -58.709116096044
+      },
+      "id": "22014",
+      "nombre": "Bermejo",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.1678037354366,
+        "lon": -58.9587415590109
+      },
+      "id": "22126",
+      "nombre": "1° de Mayo",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.7156982892704,
+        "lon": -59.1154439908292
+      },
+      "id": "22140",
+      "nombre": "San Fernando",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.3933734765875,
+        "lon": -60.3637302119912
+      },
+      "id": "22147",
+      "nombre": "San Lorenzo",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.8170406143405,
+        "lon": -60.0184594861944
+      },
+      "id": "22168",
+      "nombre": "25 de Mayo",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.8478157545068,
+        "lon": -61.0713338324887
+      },
+      "id": "22049",
+      "nombre": "General Belgrano",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.3493250970289,
+        "lon": -59.2597877694895
+      },
+      "id": "22077",
+      "nombre": "Libertad",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.7853900358381,
+        "lon": -60.4612869070114
+      },
+      "id": "22021",
+      "nombre": "Comandante Fernández",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "inicio": 0,
+  "parametros": {
+    "max": 200,
+    "provincia": "Chaco"
+  },
+  "total": 25
+}

@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.4629264335985,
+        "lon": -62.1102401741529
+      },
+      "departamento": {
+        "id": "86077",
+        "nombre": "General Taboada"
+      },
+      "id": "86077050",
+      "localidad_censal": {
+        "id": "86077050",
+        "nombre": "Los Juríes"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Los Juríes",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.7476147114581,
+        "lon": -62.4507013857217
+      },
+      "departamento": {
+        "id": "86077",
+        "nombre": "General Taboada"
+      },
+      "id": "86077020",
+      "localidad_censal": {
+        "id": "86077020",
+        "nombre": "Averías"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Averías",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6265382897834,
+        "lon": -62.6069180700138
+      },
+      "departamento": {
+        "id": "86077",
+        "nombre": "General Taboada"
+      },
+      "id": "86077030",
+      "localidad_censal": {
+        "id": "86077030",
+        "nombre": "Tacañitas"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Estación Tacañitas",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.4522996681141,
+        "lon": -61.8383159073048
+      },
+      "departamento": {
+        "id": "86077",
+        "nombre": "General Taboada"
+      },
+      "id": "86077040",
+      "localidad_censal": {
+        "id": "86077040",
+        "nombre": "La Nena"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "La Nena",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6005406928994,
+        "lon": -62.1826749134259
+      },
+      "departamento": {
+        "id": "86077",
+        "nombre": "General Taboada"
+      },
+      "id": "86077060",
+      "localidad_censal": {
+        "id": "86077060",
+        "nombre": "Tomás Young"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Tomás Young",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.4602033506379,
+        "lon": -62.8335424678454
+      },
+      "departamento": {
+        "id": "86077",
+        "nombre": "General Taboada"
+      },
+      "id": "86077010",
+      "localidad_censal": {
+        "id": "86077010",
+        "nombre": "Añatuya"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Añatuya",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86077"
+    ]
+  },
+  "total": 6
+}

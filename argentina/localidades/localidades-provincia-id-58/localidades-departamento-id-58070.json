@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.7629958391558,
+        "lon": -71.6410019215706
+      },
+      "departamento": {
+        "id": "58070",
+        "nombre": "Los Lagos"
+      },
+      "id": "58070010",
+      "localidad_censal": {
+        "id": "58070010",
+        "nombre": "Villa La Angostura"
+      },
+      "municipio": {
+        "id": "580133",
+        "nombre": "Villa La Angostura"
+      },
+      "nombre": "Villa La Angostura",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.6543581089371,
+        "lon": -71.4000391676733
+      },
+      "departamento": {
+        "id": "58070",
+        "nombre": "Los Lagos"
+      },
+      "id": "58070020",
+      "localidad_censal": {
+        "id": "58070020",
+        "nombre": "Villa Traful"
+      },
+      "municipio": {
+        "id": "585070",
+        "nombre": "Villa Traful"
+      },
+      "nombre": "Villa Traful",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "58070"
+    ]
+  },
+  "total": 2
+}

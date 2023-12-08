@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6300443485746,
+        "lon": -58.482519362214
+      },
+      "departamento": {
+        "id": "02070",
+        "nombre": "Comuna 10"
+      },
+      "id": "0207001001",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022070",
+        "nombre": "Comuna 10"
+      },
+      "nombre": "Floresta",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6198611230288,
+        "lon": -58.5059762733279
+      },
+      "departamento": {
+        "id": "02070",
+        "nombre": "Comuna 10"
+      },
+      "id": "0207001002",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022070",
+        "nombre": "Comuna 10"
+      },
+      "nombre": "Monte Castro",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6314718013146,
+        "lon": -58.4923733394048
+      },
+      "departamento": {
+        "id": "02070",
+        "nombre": "Comuna 10"
+      },
+      "id": "0207001003",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022070",
+        "nombre": "Comuna 10"
+      },
+      "nombre": "Vélez Sarsfield",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6300269461075,
+        "lon": -58.5239310745923
+      },
+      "departamento": {
+        "id": "02070",
+        "nombre": "Comuna 10"
+      },
+      "id": "0207001004",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022070",
+        "nombre": "Comuna 10"
+      },
+      "nombre": "Versalles",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6389291911315,
+        "lon": -58.5007771614355
+      },
+      "departamento": {
+        "id": "02070",
+        "nombre": "Comuna 10"
+      },
+      "id": "0207001005",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022070",
+        "nombre": "Comuna 10"
+      },
+      "nombre": "Villa Luro",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.620620502129,
+        "lon": -58.5268681823183
+      },
+      "departamento": {
+        "id": "02070",
+        "nombre": "Comuna 10"
+      },
+      "id": "0207001006",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022070",
+        "nombre": "Comuna 10"
+      },
+      "nombre": "Villa Real",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "02070"
+    ]
+  },
+  "total": 6
+}

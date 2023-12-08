@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.1486057205097,
+        "lon": -65.3569503045699
+      },
+      "departamento": {
+        "id": "90056",
+        "nombre": "Leales"
+      },
+      "id": "90056060",
+      "localidad_censal": {
+        "id": "90056060",
+        "nombre": "Río Colorado"
+      },
+      "municipio": {
+        "id": "908336",
+        "nombre": "Río Colorado"
+      },
+      "nombre": "Río Colorado",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2818366538138,
+        "lon": -65.0194383331167
+      },
+      "departamento": {
+        "id": "90056",
+        "nombre": "Leales"
+      },
+      "id": "90056030",
+      "localidad_censal": {
+        "id": "90056030",
+        "nombre": "Los Puestos"
+      },
+      "municipio": {
+        "id": "908315",
+        "nombre": "Los Puestos"
+      },
+      "nombre": "Los Puestos",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.1377140146604,
+        "lon": -65.2608688276066
+      },
+      "departamento": {
+        "id": "90056",
+        "nombre": "Leales"
+      },
+      "id": "90056070",
+      "localidad_censal": {
+        "id": "90056070",
+        "nombre": "Santa Rosa de Leales"
+      },
+      "municipio": {
+        "id": "908343",
+        "nombre": "Santa Rosa de Leales y Laguna Blanca"
+      },
+      "nombre": "Santa Rosa de Leales",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.0327919289339,
+        "lon": -65.3070898626718
+      },
+      "departamento": {
+        "id": "90056",
+        "nombre": "Leales"
+      },
+      "id": "90056010",
+      "localidad_censal": {
+        "id": "90056010",
+        "nombre": "Bella Vista"
+      },
+      "municipio": {
+        "id": "900070",
+        "nombre": "Bella Vista"
+      },
+      "nombre": "Bella Vista",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.0551485638297,
+        "lon": -64.9212945001276
+      },
+      "departamento": {
+        "id": "90056",
+        "nombre": "Leales"
+      },
+      "id": "90056020",
+      "localidad_censal": {
+        "id": "90056020",
+        "nombre": "Estación Aráoz"
+      },
+      "municipio": {
+        "id": "908294",
+        "nombre": "Estación Aráoz y Tacanas"
+      },
+      "nombre": "Estación Aráoz",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.1938307365674,
+        "lon": -65.3102425138808
+      },
+      "departamento": {
+        "id": "90056",
+        "nombre": "Leales"
+      },
+      "id": "90056090",
+      "localidad_censal": {
+        "id": "90056090",
+        "nombre": "Villa de Leales"
+      },
+      "municipio": {
+        "id": "908350",
+        "nombre": "Villa de Leales"
+      },
+      "nombre": "Villa de Leales",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.0677472403134,
+        "lon": -65.2354487523003
+      },
+      "departamento": {
+        "id": "90056",
+        "nombre": "Leales"
+      },
+      "id": "90056080",
+      "localidad_censal": {
+        "id": "90056080",
+        "nombre": "Villa Fiad - Ingenio Leales"
+      },
+      "municipio": {
+        "id": "908329",
+        "nombre": "Quilmes y Los Sueldos"
+      },
+      "nombre": "Villa Fiad - Ingenio Leales",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.9557033913379,
+        "lon": -65.272073063004
+      },
+      "departamento": {
+        "id": "90056",
+        "nombre": "Leales"
+      },
+      "id": "90056040",
+      "localidad_censal": {
+        "id": "90056040",
+        "nombre": "Manuel García Fernández"
+      },
+      "municipio": {
+        "id": "908322",
+        "nombre": "Manuel García Fernández"
+      },
+      "nombre": "Manuel García Fernández",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "90056"
+    ]
+  },
+  "total": 8
+}

@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2692166599188,
+        "lon": -58.2424212691191
+      },
+      "departamento": {
+        "id": "18077",
+        "nombre": "Itatí"
+      },
+      "id": "18077010",
+      "localidad_censal": {
+        "id": "18077010",
+        "nombre": "Itatí"
+      },
+      "municipio": {
+        "id": "180147",
+        "nombre": "Itatí"
+      },
+      "nombre": "Itatí",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3661839328388,
+        "lon": -58.2996240364452
+      },
+      "departamento": {
+        "id": "18077",
+        "nombre": "Itatí"
+      },
+      "id": "18077020",
+      "localidad_censal": {
+        "id": "18077020",
+        "nombre": "Ramada Paso"
+      },
+      "municipio": {
+        "id": "180154",
+        "nombre": "Ramada Paso"
+      },
+      "nombre": "Ramada Paso",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18077"
+    ]
+  },
+  "total": 2
+}

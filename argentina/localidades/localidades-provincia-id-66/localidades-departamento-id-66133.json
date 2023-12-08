@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.1536004116142,
+        "lon": -62.8086450385732
+      },
+      "departamento": {
+        "id": "66133",
+        "nombre": "Rivadavia"
+      },
+      "id": "66133080",
+      "localidad_censal": {
+        "id": "66133080",
+        "nombre": "Santa Marí­a"
+      },
+      "municipio": {
+        "id": "660343",
+        "nombre": "Santa Victoria Este"
+      },
+      "nombre": "Santa María",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.7399526150004,
+        "lon": -62.4980213163215
+      },
+      "departamento": {
+        "id": "66133",
+        "nombre": "Rivadavia"
+      },
+      "id": "66133010",
+      "localidad_censal": {
+        "id": "66133010",
+        "nombre": "Alto de la Sierra"
+      },
+      "municipio": {
+        "id": "660343",
+        "nombre": "Santa Victoria Este"
+      },
+      "nombre": "Alto de la Sierra",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.4704779613872,
+        "lon": -62.8879058681011
+      },
+      "departamento": {
+        "id": "66133",
+        "nombre": "Rivadavia"
+      },
+      "id": "66133030",
+      "localidad_censal": {
+        "id": "66133030",
+        "nombre": "Coronel Juan Solá"
+      },
+      "municipio": {
+        "id": "660329",
+        "nombre": "Rivadavia Banda Norte"
+      },
+      "nombre": "Coronel Juan Solá",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.3712416497348,
+        "lon": -63.0967227644216
+      },
+      "departamento": {
+        "id": "66133",
+        "nombre": "Rivadavia"
+      },
+      "id": "66133060",
+      "localidad_censal": {
+        "id": "66133060",
+        "nombre": "Pluma de Pato"
+      },
+      "municipio": {
+        "id": "660329",
+        "nombre": "Rivadavia Banda Norte"
+      },
+      "nombre": "Pluma de Pato",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.2727303661931,
+        "lon": -62.7125778795907
+      },
+      "departamento": {
+        "id": "66133",
+        "nombre": "Rivadavia"
+      },
+      "id": "66133100",
+      "localidad_censal": {
+        "id": "66133100",
+        "nombre": "Santa Victoria Este"
+      },
+      "municipio": {
+        "id": "660343",
+        "nombre": "Santa Victoria Este"
+      },
+      "nombre": "Santa Victoria Este",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.6883089923013,
+        "lon": -62.3762471272295
+      },
+      "departamento": {
+        "id": "66133",
+        "nombre": "Rivadavia"
+      },
+      "id": "66133020",
+      "localidad_censal": {
+        "id": "66133020",
+        "nombre": "Capitán Juan Pagé"
+      },
+      "municipio": {
+        "id": "660329",
+        "nombre": "Rivadavia Banda Norte"
+      },
+      "nombre": "Capitán Juan Pagé",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.6094152230202,
+        "lon": -62.594788379122
+      },
+      "departamento": {
+        "id": "66133",
+        "nombre": "Rivadavia"
+      },
+      "id": "66133050",
+      "localidad_censal": {
+        "id": "66133050",
+        "nombre": "Los Blancos"
+      },
+      "municipio": {
+        "id": "660329",
+        "nombre": "Rivadavia Banda Norte"
+      },
+      "nombre": "Los Blancos",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.0251788626155,
+        "lon": -63.0822483282419
+      },
+      "departamento": {
+        "id": "66133",
+        "nombre": "Rivadavia"
+      },
+      "id": "66133090",
+      "localidad_censal": {
+        "id": "66133090",
+        "nombre": "Santa Rosa"
+      },
+      "municipio": {
+        "id": "660336",
+        "nombre": "Rivadavia Banda Sur"
+      },
+      "nombre": "Santa Rosa",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.1849708502559,
+        "lon": -62.8883049139516
+      },
+      "departamento": {
+        "id": "66133",
+        "nombre": "Rivadavia"
+      },
+      "id": "66133070",
+      "localidad_censal": {
+        "id": "66133070",
+        "nombre": "Rivadavia"
+      },
+      "municipio": {
+        "id": "660336",
+        "nombre": "Rivadavia Banda Sur"
+      },
+      "nombre": "Rivadavia",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.8968918075922,
+        "lon": -63.197034765919
+      },
+      "departamento": {
+        "id": "66133",
+        "nombre": "Rivadavia"
+      },
+      "id": "66133040",
+      "localidad_censal": {
+        "id": "66133040",
+        "nombre": "La Unión"
+      },
+      "municipio": {
+        "id": "660336",
+        "nombre": "Rivadavia Banda Sur"
+      },
+      "nombre": "La Unión",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66133"
+    ]
+  },
+  "total": 11
+}

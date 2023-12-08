@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5548978526608,
+        "lon": -58.4863271154338
+      },
+      "departamento": {
+        "id": "02084",
+        "nombre": "Comuna 12"
+      },
+      "id": "0208401002",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022084",
+        "nombre": "Comuna 12"
+      },
+      "nombre": "Saavedra",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5720618151627,
+        "lon": -58.4892574610136
+      },
+      "departamento": {
+        "id": "02084",
+        "nombre": "Comuna 12"
+      },
+      "id": "0208401004",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022084",
+        "nombre": "Comuna 12"
+      },
+      "nombre": "Villa Urquiza",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5589246305648,
+        "lon": -58.4743752196504
+      },
+      "departamento": {
+        "id": "02084",
+        "nombre": "Comuna 12"
+      },
+      "id": "0208401001",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022084",
+        "nombre": "Comuna 12"
+      },
+      "nombre": "Coghlan",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5845247265906,
+        "lon": -58.5018361691821
+      },
+      "departamento": {
+        "id": "02084",
+        "nombre": "Comuna 12"
+      },
+      "id": "0208401003",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022084",
+        "nombre": "Comuna 12"
+      },
+      "nombre": "Villa Pueyrredón",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "02084"
+    ]
+  },
+  "total": 4
+}

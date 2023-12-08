@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6268216975629,
+        "lon": -58.3871881244988
+      },
+      "departamento": {
+        "id": "02007",
+        "nombre": "Comuna 1"
+      },
+      "id": "0200701001",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022007",
+        "nombre": "Comuna 1"
+      },
+      "nombre": "Constitución",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6132231680788,
+        "lon": -58.38305798244
+      },
+      "departamento": {
+        "id": "02007",
+        "nombre": "Comuna 1"
+      },
+      "id": "0200701002",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022007",
+        "nombre": "Comuna 1"
+      },
+      "nombre": "Monserrat",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5946029190836,
+        "lon": -58.3756602784231
+      },
+      "departamento": {
+        "id": "02007",
+        "nombre": "Comuna 1"
+      },
+      "id": "0200701004",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022007",
+        "nombre": "Comuna 1"
+      },
+      "nombre": "Retiro",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6037699996038,
+        "lon": -58.3815970890394
+      },
+      "departamento": {
+        "id": "02007",
+        "nombre": "Comuna 1"
+      },
+      "id": "0200701005",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022007",
+        "nombre": "Comuna 1"
+      },
+      "nombre": "San Nicolás",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6078186498038,
+        "lon": -58.362303066235
+      },
+      "departamento": {
+        "id": "02007",
+        "nombre": "Comuna 1"
+      },
+      "id": "0200701003",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022007",
+        "nombre": "Comuna 1"
+      },
+      "nombre": "Puerto Madero",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6205416708326,
+        "lon": -58.3717119138558
+      },
+      "departamento": {
+        "id": "02007",
+        "nombre": "Comuna 1"
+      },
+      "id": "0200701006",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022007",
+        "nombre": "Comuna 1"
+      },
+      "nombre": "San Telmo",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "02007"
+    ]
+  },
+  "total": 6
+}

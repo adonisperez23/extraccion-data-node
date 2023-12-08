@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.5546481170889,
+        "lon": -62.2367631095421
+      },
+      "departamento": {
+        "id": "06602",
+        "nombre": "Patagones"
+      },
+      "id": "06602010",
+      "localidad_censal": {
+        "id": "06602010",
+        "nombre": "Bahí­a San Blas"
+      },
+      "municipio": {
+        "id": "060602",
+        "nombre": "Patagones"
+      },
+      "nombre": "Bahía San Blas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.6501557795596,
+        "lon": -62.755627171392
+      },
+      "departamento": {
+        "id": "06602",
+        "nombre": "Patagones"
+      },
+      "id": "06602020",
+      "localidad_censal": {
+        "id": "06602020",
+        "nombre": "Cardenal Cagliero"
+      },
+      "municipio": {
+        "id": "060602",
+        "nombre": "Patagones"
+      },
+      "nombre": "Cardenal Cagliero",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -40.8025151532734,
+        "lon": -62.983602185804
+      },
+      "departamento": {
+        "id": "06602",
+        "nombre": "Patagones"
+      },
+      "id": "06602030",
+      "localidad_censal": {
+        "id": "06602030",
+        "nombre": "Carmen de Patagones"
+      },
+      "municipio": {
+        "id": "060602",
+        "nombre": "Patagones"
+      },
+      "nombre": "Carmen de Patagones",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.4353207016459,
+        "lon": -62.5441230494014
+      },
+      "departamento": {
+        "id": "06602",
+        "nombre": "Patagones"
+      },
+      "id": "06602040",
+      "localidad_censal": {
+        "id": "06602040",
+        "nombre": "José B. Casas"
+      },
+      "municipio": {
+        "id": "060602",
+        "nombre": "Patagones"
+      },
+      "nombre": "José B. Casas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.6024515767254,
+        "lon": -62.6527946396309
+      },
+      "departamento": {
+        "id": "06602",
+        "nombre": "Patagones"
+      },
+      "id": "06602050",
+      "localidad_censal": {
+        "id": "06602050",
+        "nombre": "Juan A. Pradere"
+      },
+      "municipio": {
+        "id": "060602",
+        "nombre": "Patagones"
+      },
+      "nombre": "Juan A. Pradere",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.1858292011627,
+        "lon": -62.6202476591912
+      },
+      "departamento": {
+        "id": "06602",
+        "nombre": "Patagones"
+      },
+      "id": "06602060",
+      "localidad_censal": {
+        "id": "06602060",
+        "nombre": "Stroeder"
+      },
+      "municipio": {
+        "id": "060602",
+        "nombre": "Patagones"
+      },
+      "nombre": "Stroeder",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.9175740352919,
+        "lon": -62.6187706882177
+      },
+      "departamento": {
+        "id": "06602",
+        "nombre": "Patagones"
+      },
+      "id": "06602070",
+      "localidad_censal": {
+        "id": "06602070",
+        "nombre": "Villalonga"
+      },
+      "municipio": {
+        "id": "060602",
+        "nombre": "Patagones"
+      },
+      "nombre": "Villalonga",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06602"
+    ]
+  },
+  "total": 7
+}

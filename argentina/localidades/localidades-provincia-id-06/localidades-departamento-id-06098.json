@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8742950475612,
+        "lon": -57.8547261229371
+      },
+      "departamento": {
+        "id": "06098",
+        "nombre": "Berisso"
+      },
+      "id": "0609801001",
+      "localidad_censal": {
+        "id": "06098010",
+        "nombre": "Berisso"
+      },
+      "municipio": {
+        "id": "060098",
+        "nombre": "Berisso"
+      },
+      "nombre": "Barrio Banco Provincia",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.9302812245063,
+        "lon": -57.8853110232107
+      },
+      "departamento": {
+        "id": "06098",
+        "nombre": "Berisso"
+      },
+      "id": "0609801002",
+      "localidad_censal": {
+        "id": "06098010",
+        "nombre": "Berisso"
+      },
+      "municipio": {
+        "id": "060098",
+        "nombre": "Berisso"
+      },
+      "nombre": "Barrio El Carmen Este",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.9023475254739,
+        "lon": -57.9248290975673
+      },
+      "departamento": {
+        "id": "06098",
+        "nombre": "Berisso"
+      },
+      "id": "0609801003",
+      "localidad_censal": {
+        "id": "06098010",
+        "nombre": "Berisso"
+      },
+      "municipio": {
+        "id": "060098",
+        "nombre": "Berisso"
+      },
+      "nombre": "Barrio Universitario",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8702937888262,
+        "lon": -57.8833253506658
+      },
+      "departamento": {
+        "id": "06098",
+        "nombre": "Berisso"
+      },
+      "id": "0609801004",
+      "localidad_censal": {
+        "id": "06098010",
+        "nombre": "Berisso"
+      },
+      "municipio": {
+        "id": "060098",
+        "nombre": "Berisso"
+      },
+      "nombre": "Berisso",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.9110238385634,
+        "lon": -57.7842688411965
+      },
+      "departamento": {
+        "id": "06098",
+        "nombre": "Berisso"
+      },
+      "id": "0609801005",
+      "localidad_censal": {
+        "id": "06098010",
+        "nombre": "Berisso"
+      },
+      "municipio": {
+        "id": "060098",
+        "nombre": "Berisso"
+      },
+      "nombre": "Los Talas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.9069331564209,
+        "lon": -57.9163481974945
+      },
+      "departamento": {
+        "id": "06098",
+        "nombre": "Berisso"
+      },
+      "id": "0609801006",
+      "localidad_censal": {
+        "id": "06098010",
+        "nombre": "Berisso"
+      },
+      "municipio": {
+        "id": "060098",
+        "nombre": "Berisso"
+      },
+      "nombre": "Villa Argüello",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8787305631142,
+        "lon": -57.8673760512396
+      },
+      "departamento": {
+        "id": "06098",
+        "nombre": "Berisso"
+      },
+      "id": "0609801007",
+      "localidad_censal": {
+        "id": "06098010",
+        "nombre": "Berisso"
+      },
+      "municipio": {
+        "id": "060098",
+        "nombre": "Berisso"
+      },
+      "nombre": "Villa Dolores",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8821680150728,
+        "lon": -57.8595091999308
+      },
+      "departamento": {
+        "id": "06098",
+        "nombre": "Berisso"
+      },
+      "id": "0609801008",
+      "localidad_censal": {
+        "id": "06098010",
+        "nombre": "Berisso"
+      },
+      "municipio": {
+        "id": "060098",
+        "nombre": "Berisso"
+      },
+      "nombre": "Villa Independencia",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8952719649896,
+        "lon": -57.9074962230535
+      },
+      "departamento": {
+        "id": "06098",
+        "nombre": "Berisso"
+      },
+      "id": "0609801009",
+      "localidad_censal": {
+        "id": "06098010",
+        "nombre": "Berisso"
+      },
+      "municipio": {
+        "id": "060098",
+        "nombre": "Berisso"
+      },
+      "nombre": "Villa Nueva",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.887154968699,
+        "lon": -57.8980863322648
+      },
+      "departamento": {
+        "id": "06098",
+        "nombre": "Berisso"
+      },
+      "id": "0609801010",
+      "localidad_censal": {
+        "id": "06098010",
+        "nombre": "Berisso"
+      },
+      "municipio": {
+        "id": "060098",
+        "nombre": "Berisso"
+      },
+      "nombre": "Villa Porteña",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06098"
+    ]
+  },
+  "total": 14
+}

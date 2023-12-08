@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.4676152734848,
+        "lon": -66.6735664588287
+      },
+      "departamento": {
+        "id": "66105",
+        "nombre": "Los Andes"
+      },
+      "id": "66105030",
+      "localidad_censal": {
+        "id": "66105030",
+        "nombre": "Santa Rosa de los Pastos Grandes"
+      },
+      "municipio": {
+        "id": "660245",
+        "nombre": "San Antonio de los Cobres"
+      },
+      "nombre": "Santa Rosa de los Pastos Grandes",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.1374864316847,
+        "lon": -66.7188264152385
+      },
+      "departamento": {
+        "id": "66105",
+        "nombre": "Los Andes"
+      },
+      "id": "66105010",
+      "localidad_censal": {
+        "id": "66105010",
+        "nombre": "Olacapato"
+      },
+      "municipio": {
+        "id": "660245",
+        "nombre": "San Antonio de los Cobres"
+      },
+      "nombre": "Olacapato",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.2161442771278,
+        "lon": -66.3210644859191
+      },
+      "departamento": {
+        "id": "66105",
+        "nombre": "Los Andes"
+      },
+      "id": "66105020",
+      "localidad_censal": {
+        "id": "66105020",
+        "nombre": "San Antonio de los Cobres"
+      },
+      "municipio": {
+        "id": "660245",
+        "nombre": "San Antonio de los Cobres"
+      },
+      "nombre": "San Antonio de los Cobres",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.5894007712769,
+        "lon": -67.3952047436907
+      },
+      "departamento": {
+        "id": "66105",
+        "nombre": "Los Andes"
+      },
+      "id": "66105040",
+      "localidad_censal": {
+        "id": "66105040",
+        "nombre": "Tolar Grande"
+      },
+      "municipio": {
+        "id": "660252",
+        "nombre": "Tolar Grande"
+      },
+      "nombre": "Tolar Grande",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66105"
+    ]
+  },
+  "total": 4
+}

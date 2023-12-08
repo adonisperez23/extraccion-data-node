@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.3704546755472,
+        "lon": -65.3316966194609
+      },
+      "departamento": {
+        "id": "38056",
+        "nombre": "San Antonio"
+      },
+      "id": "38056030",
+      "localidad_censal": {
+        "id": "38056030",
+        "nombre": "San Antonio"
+      },
+      "municipio": {
+        "id": "380161",
+        "nombre": "San Antonio"
+      },
+      "nombre": "San Antonio",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.298920017466,
+        "lon": -65.272248325969
+      },
+      "departamento": {
+        "id": "38056",
+        "nombre": "San Antonio"
+      },
+      "id": "38056010",
+      "localidad_censal": {
+        "id": "38056010",
+        "nombre": "El Ceibal"
+      },
+      "municipio": {
+        "id": "380161",
+        "nombre": "San Antonio"
+      },
+      "nombre": "El Ceibal",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.2685736314687,
+        "lon": -65.3002956637024
+      },
+      "departamento": {
+        "id": "38056",
+        "nombre": "San Antonio"
+      },
+      "id": "38056017",
+      "localidad_censal": {
+        "id": "38056017",
+        "nombre": "Los Alisos"
+      },
+      "municipio": {
+        "id": "380161",
+        "nombre": "San Antonio"
+      },
+      "nombre": "Los Alisos",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.270281626693,
+        "lon": -65.2756022753354
+      },
+      "departamento": {
+        "id": "38056",
+        "nombre": "San Antonio"
+      },
+      "id": "38056020",
+      "localidad_censal": {
+        "id": "38056020",
+        "nombre": "Loteo Navea"
+      },
+      "municipio": {
+        "id": "380161",
+        "nombre": "San Antonio"
+      },
+      "nombre": "Loteo Navea",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.3173741271886,
+        "lon": -65.4017422764751
+      },
+      "departamento": {
+        "id": "38056",
+        "nombre": "San Antonio"
+      },
+      "id": "38056025",
+      "localidad_censal": {
+        "id": "38056025",
+        "nombre": "Nuestra Señora del Rosario"
+      },
+      "municipio": {
+        "id": "380161",
+        "nombre": "San Antonio"
+      },
+      "nombre": "Nuestra Señora del Rosario",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "38056"
+    ]
+  },
+  "total": 5
+}

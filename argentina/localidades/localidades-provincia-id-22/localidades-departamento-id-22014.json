@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.9379341575218,
+        "lon": -58.6619702597662
+      },
+      "departamento": {
+        "id": "22014",
+        "nombre": "Bermejo"
+      },
+      "id": "22014010",
+      "localidad_censal": {
+        "id": "22014010",
+        "nombre": "General Vedia"
+      },
+      "municipio": {
+        "id": "220035",
+        "nombre": "General Vedia"
+      },
+      "nombre": "General Vedia",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2914991170767,
+        "lon": -58.6194294875231
+      },
+      "departamento": {
+        "id": "22014",
+        "nombre": "Bermejo"
+      },
+      "id": "22014020",
+      "localidad_censal": {
+        "id": "22014020",
+        "nombre": "Isla del Cerrito"
+      },
+      "municipio": {
+        "id": "220042",
+        "nombre": "Isla del Cerrito"
+      },
+      "nombre": "Isla del Cerrito",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.0381487234311,
+        "lon": -58.7072486236073
+      },
+      "departamento": {
+        "id": "22014",
+        "nombre": "Bermejo"
+      },
+      "id": "22014030",
+      "localidad_censal": {
+        "id": "22014030",
+        "nombre": "La Leonesa"
+      },
+      "municipio": {
+        "id": "220049",
+        "nombre": "La Leonesa"
+      },
+      "nombre": "La Leonesa",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.048750965144,
+        "lon": -58.6823960236933
+      },
+      "departamento": {
+        "id": "22014",
+        "nombre": "Bermejo"
+      },
+      "id": "22014040",
+      "localidad_censal": {
+        "id": "22014040",
+        "nombre": "Las Palmas"
+      },
+      "municipio": {
+        "id": "220056",
+        "nombre": "Las Palmas"
+      },
+      "nombre": "Las Palmas",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.9077863528558,
+        "lon": -58.5417008445514
+      },
+      "departamento": {
+        "id": "22014",
+        "nombre": "Bermejo"
+      },
+      "id": "22014050",
+      "localidad_censal": {
+        "id": "22014050",
+        "nombre": "Puerto Bermejo Nuevo"
+      },
+      "municipio": {
+        "id": "220063",
+        "nombre": "Puerto Bermejo"
+      },
+      "nombre": "Puerto Bermejo Nuevo",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.9269363002325,
+        "lon": -58.5091157065524
+      },
+      "departamento": {
+        "id": "22014",
+        "nombre": "Bermejo"
+      },
+      "id": "22014060",
+      "localidad_censal": {
+        "id": "22014060",
+        "nombre": "Puerto Bermejo Viejo"
+      },
+      "municipio": {
+        "id": "220063",
+        "nombre": "Puerto Bermejo"
+      },
+      "nombre": "Puerto Bermejo Viejo",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.6637000135185,
+        "lon": -58.6323972254936
+      },
+      "departamento": {
+        "id": "22014",
+        "nombre": "Bermejo"
+      },
+      "id": "22014070",
+      "localidad_censal": {
+        "id": "22014070",
+        "nombre": "Puerto Eva Perón"
+      },
+      "municipio": {
+        "id": "220070",
+        "nombre": "Puerto Eva Perón"
+      },
+      "nombre": "Puerto Eva Perón",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22014"
+    ]
+  },
+  "total": 7
+}

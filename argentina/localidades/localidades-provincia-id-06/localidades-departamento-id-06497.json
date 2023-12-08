@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5624048813532,
+        "lon": -59.1782599099431
+      },
+      "departamento": {
+        "id": "06497",
+        "nombre": "Luján"
+      },
+      "id": "0649706001",
+      "localidad_censal": {
+        "id": "06497060",
+        "nombre": "Club de Campo Los Puentes"
+      },
+      "municipio": {
+        "id": "060497",
+        "nombre": "Luján"
+      },
+      "nombre": "Barrio Las Casuarinas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.556551592138,
+        "lon": -59.2039851566143
+      },
+      "departamento": {
+        "id": "06497",
+        "nombre": "Luján"
+      },
+      "id": "0649706002",
+      "localidad_censal": {
+        "id": "06497060",
+        "nombre": "Club de Campo Los Puentes"
+      },
+      "municipio": {
+        "id": "060497",
+        "nombre": "Luján"
+      },
+      "nombre": "Cortines",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.585483315075,
+        "lon": -59.0582810577968
+      },
+      "departamento": {
+        "id": "06497",
+        "nombre": "Luján"
+      },
+      "id": "0649706003",
+      "localidad_censal": {
+        "id": "06497060",
+        "nombre": "Club de Campo Los Puentes"
+      },
+      "municipio": {
+        "id": "060497",
+        "nombre": "Luján"
+      },
+      "nombre": "Lezica y Torrezuri",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5668483579023,
+        "lon": -59.1145118021941
+      },
+      "departamento": {
+        "id": "06497",
+        "nombre": "Luján"
+      },
+      "id": "0649706004",
+      "localidad_censal": {
+        "id": "06497060",
+        "nombre": "Club de Campo Los Puentes"
+      },
+      "municipio": {
+        "id": "060497",
+        "nombre": "Luján"
+      },
+      "nombre": "Luján",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5749128692338,
+        "lon": -59.1795153909267
+      },
+      "departamento": {
+        "id": "06497",
+        "nombre": "Luján"
+      },
+      "id": "0649706005",
+      "localidad_censal": {
+        "id": "06497060",
+        "nombre": "Club de Campo Los Puentes"
+      },
+      "municipio": {
+        "id": "060497",
+        "nombre": "Luján"
+      },
+      "nombre": "Villa Flandria Norte",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5988546032712,
+        "lon": -59.1772915460468
+      },
+      "departamento": {
+        "id": "06497",
+        "nombre": "Luján"
+      },
+      "id": "0649706006",
+      "localidad_censal": {
+        "id": "06497060",
+        "nombre": "Club de Campo Los Puentes"
+      },
+      "municipio": {
+        "id": "060497",
+        "nombre": "Luján"
+      },
+      "nombre": "Villa Flandria Sur",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5182228509915,
+        "lon": -59.0925688618089
+      },
+      "departamento": {
+        "id": "06497",
+        "nombre": "Luján"
+      },
+      "id": "0649706007",
+      "localidad_censal": {
+        "id": "06497060",
+        "nombre": "Club de Campo Los Puentes"
+      },
+      "municipio": {
+        "id": "060497",
+        "nombre": "Luján"
+      },
+      "nombre": "Country Club Las Praderas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4914919706787,
+        "lon": -59.0775054640689
+      },
+      "departamento": {
+        "id": "06497",
+        "nombre": "Luján"
+      },
+      "id": "0649706008",
+      "localidad_censal": {
+        "id": "06497060",
+        "nombre": "Club de Campo Los Puentes"
+      },
+      "municipio": {
+        "id": "060497",
+        "nombre": "Luján"
+      },
+      "nombre": "Open Door",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.4867518260105,
+        "lon": -59.2195462147262
+      },
+      "departamento": {
+        "id": "06497",
+        "nombre": "Luján"
+      },
+      "id": "06497020",
+      "localidad_censal": {
+        "id": "06497020",
+        "nombre": "Luján"
+      },
+      "municipio": {
+        "id": "060497",
+        "nombre": "Luján"
+      },
+      "nombre": "Carlos Keen",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.5633574099768,
+        "lon": -59.1211183187438
+      },
+      "departamento": {
+        "id": "06497",
+        "nombre": "Luján"
+      },
+      "id": "06497060",
+      "localidad_censal": {
+        "id": "06497060",
+        "nombre": "Club de Campo Los Puentes"
+      },
+      "municipio": {
+        "id": "060497",
+        "nombre": "Luján"
+      },
+      "nombre": "Luján",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06497"
+    ]
+  },
+  "total": 12
+}

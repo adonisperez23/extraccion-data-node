@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6986375194331,
+        "lon": -58.6902324564792
+      },
+      "departamento": {
+        "id": "06539",
+        "nombre": "Merlo"
+      },
+      "id": "0653901001",
+      "localidad_censal": {
+        "id": "06539010",
+        "nombre": "Merlo"
+      },
+      "municipio": {
+        "id": "060539",
+        "nombre": "Merlo"
+      },
+      "nombre": "Libertad",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7229209217964,
+        "lon": -58.7954060298585
+      },
+      "departamento": {
+        "id": "06539",
+        "nombre": "Merlo"
+      },
+      "id": "0653901002",
+      "localidad_censal": {
+        "id": "06539010",
+        "nombre": "Merlo"
+      },
+      "municipio": {
+        "id": "060539",
+        "nombre": "Merlo"
+      },
+      "nombre": "Mariano Acosta",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6669700024931,
+        "lon": -58.7279503131722
+      },
+      "departamento": {
+        "id": "06539",
+        "nombre": "Merlo"
+      },
+      "id": "0653901003",
+      "localidad_censal": {
+        "id": "06539010",
+        "nombre": "Merlo"
+      },
+      "municipio": {
+        "id": "060539",
+        "nombre": "Merlo"
+      },
+      "nombre": "Merlo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7502592618593,
+        "lon": -58.7012570872713
+      },
+      "departamento": {
+        "id": "06539",
+        "nombre": "Merlo"
+      },
+      "id": "0653901004",
+      "localidad_censal": {
+        "id": "06539010",
+        "nombre": "Merlo"
+      },
+      "municipio": {
+        "id": "060539",
+        "nombre": "Merlo"
+      },
+      "nombre": "Pontevedra",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6626656411117,
+        "lon": -58.6981263626469
+      },
+      "departamento": {
+        "id": "06539",
+        "nombre": "Merlo"
+      },
+      "id": "0653901005",
+      "localidad_censal": {
+        "id": "06539010",
+        "nombre": "Merlo"
+      },
+      "municipio": {
+        "id": "060539",
+        "nombre": "Merlo"
+      },
+      "nombre": "San Antonio de Padua",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.6649832276464,
+        "lon": -58.7279481143737
+      },
+      "departamento": {
+        "id": "06539",
+        "nombre": "Merlo"
+      },
+      "id": "06539010",
+      "localidad_censal": {
+        "id": "06539010",
+        "nombre": "Merlo"
+      },
+      "municipio": {
+        "id": "060539",
+        "nombre": "Merlo"
+      },
+      "nombre": "Merlo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06539"
+    ]
+  },
+  "total": 6
+}

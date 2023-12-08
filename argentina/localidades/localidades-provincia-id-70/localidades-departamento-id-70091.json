@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.4948565471569,
+        "lon": -68.4168192057974
+      },
+      "departamento": {
+        "id": "70091",
+        "nombre": "San Martín"
+      },
+      "id": "70091020",
+      "localidad_censal": {
+        "id": "70091020",
+        "nombre": "Dos Acequias"
+      },
+      "municipio": {
+        "id": "700091",
+        "nombre": "San Martín"
+      },
+      "nombre": "Dos Acequias",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.5538160953949,
+        "lon": -68.3389754932514
+      },
+      "departamento": {
+        "id": "70091",
+        "nombre": "San Martín"
+      },
+      "id": "70091060",
+      "localidad_censal": {
+        "id": "70091060",
+        "nombre": "Villa Don Bosco"
+      },
+      "municipio": {
+        "id": "700091",
+        "nombre": "San Martín"
+      },
+      "nombre": "Villa Don Bosco",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.5591622983829,
+        "lon": -68.3005020600145
+      },
+      "departamento": {
+        "id": "70091",
+        "nombre": "San Martín"
+      },
+      "id": "70091050",
+      "localidad_censal": {
+        "id": "70091050",
+        "nombre": "Villa Dominguito"
+      },
+      "municipio": {
+        "id": "700091",
+        "nombre": "San Martín"
+      },
+      "nombre": "Villa Dominguito",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.5166850316001,
+        "lon": -68.3501194431075
+      },
+      "departamento": {
+        "id": "70091",
+        "nombre": "San Martín"
+      },
+      "id": "70091070",
+      "localidad_censal": {
+        "id": "70091070",
+        "nombre": "Villa San Martín"
+      },
+      "municipio": {
+        "id": "700091",
+        "nombre": "San Martín"
+      },
+      "nombre": "Villa San Martín",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.5342147802431,
+        "lon": -68.3984742648401
+      },
+      "departamento": {
+        "id": "70091",
+        "nombre": "San Martín"
+      },
+      "id": "70091010",
+      "localidad_censal": {
+        "id": "70091010",
+        "nombre": "Barrio Sadop - Bella Vista"
+      },
+      "municipio": {
+        "id": "700091",
+        "nombre": "San Martín"
+      },
+      "nombre": "Barrio Sadop - Bella Vista",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -31.4652807772362,
+        "lon": -68.4111576880256
+      },
+      "departamento": {
+        "id": "70091",
+        "nombre": "San Martín"
+      },
+      "id": "70091040",
+      "localidad_censal": {
+        "id": "70091040",
+        "nombre": "Villa del Salvador"
+      },
+      "municipio": {
+        "id": "700091",
+        "nombre": "San Martín"
+      },
+      "nombre": "Villa del Salvador",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.4871486162169,
+        "lon": -68.3247865269356
+      },
+      "departamento": {
+        "id": "70091",
+        "nombre": "San Martín"
+      },
+      "id": "70091030",
+      "localidad_censal": {
+        "id": "70091030",
+        "nombre": "San Isidro"
+      },
+      "municipio": {
+        "id": "700091",
+        "nombre": "San Martín"
+      },
+      "nombre": "San Isidro",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "70091"
+    ]
+  },
+  "total": 7
+}

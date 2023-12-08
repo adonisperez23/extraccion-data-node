@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.5208605076963,
+        "lon": -57.324938712347
+      },
+      "departamento": {
+        "id": "06812",
+        "nombre": "Tordillo"
+      },
+      "id": "06812010",
+      "localidad_censal": {
+        "id": "06812010",
+        "nombre": "General Conesa"
+      },
+      "municipio": {
+        "id": "060812",
+        "nombre": "Tordillo"
+      },
+      "nombre": "General Conesa",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06812"
+    ]
+  },
+  "total": 1
+}

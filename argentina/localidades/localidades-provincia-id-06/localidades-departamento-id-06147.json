@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.9166167731588,
+        "lon": -61.5341134960867
+      },
+      "departamento": {
+        "id": "06147",
+        "nombre": "Carlos Casares"
+      },
+      "id": "06147010",
+      "localidad_censal": {
+        "id": "06147010",
+        "nombre": "Bellocq"
+      },
+      "municipio": {
+        "id": "060147",
+        "nombre": "Carlos Casares"
+      },
+      "nombre": "Bellocq",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.7715500957092,
+        "lon": -61.3357772405074
+      },
+      "departamento": {
+        "id": "06147",
+        "nombre": "Carlos Casares"
+      },
+      "id": "06147020",
+      "localidad_censal": {
+        "id": "06147020",
+        "nombre": "Cadret"
+      },
+      "municipio": {
+        "id": "060147",
+        "nombre": "Carlos Casares"
+      },
+      "nombre": "Cadret",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.6224737481197,
+        "lon": -61.3654951307361
+      },
+      "departamento": {
+        "id": "06147",
+        "nombre": "Carlos Casares"
+      },
+      "id": "06147030",
+      "localidad_censal": {
+        "id": "06147030",
+        "nombre": "Carlos Casares"
+      },
+      "municipio": {
+        "id": "060147",
+        "nombre": "Carlos Casares"
+      },
+      "nombre": "Carlos Casares",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.5244413278434,
+        "lon": -61.437092533341
+      },
+      "departamento": {
+        "id": "06147",
+        "nombre": "Carlos Casares"
+      },
+      "id": "06147040",
+      "localidad_censal": {
+        "id": "06147040",
+        "nombre": "Colonia Mauricio"
+      },
+      "municipio": {
+        "id": "060147",
+        "nombre": "Carlos Casares"
+      },
+      "nombre": "Colonia Mauricio",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.9242331792084,
+        "lon": -61.2628507762325
+      },
+      "departamento": {
+        "id": "06147",
+        "nombre": "Carlos Casares"
+      },
+      "id": "06147050",
+      "localidad_censal": {
+        "id": "06147050",
+        "nombre": "Hortensia"
+      },
+      "municipio": {
+        "id": "060147",
+        "nombre": "Carlos Casares"
+      },
+      "nombre": "Hortensia",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.6993607609288,
+        "lon": -61.1694384949499
+      },
+      "departamento": {
+        "id": "06147",
+        "nombre": "Carlos Casares"
+      },
+      "id": "06147060",
+      "localidad_censal": {
+        "id": "06147060",
+        "nombre": "La Sofía"
+      },
+      "municipio": {
+        "id": "060147",
+        "nombre": "Carlos Casares"
+      },
+      "nombre": "La Sofía",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.5815738030148,
+        "lon": -61.5268355548562
+      },
+      "departamento": {
+        "id": "06147",
+        "nombre": "Carlos Casares"
+      },
+      "id": "06147070",
+      "localidad_censal": {
+        "id": "06147070",
+        "nombre": "Mauricio Hirsch"
+      },
+      "municipio": {
+        "id": "060147",
+        "nombre": "Carlos Casares"
+      },
+      "nombre": "Mauricio Hirsch",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.4779465108435,
+        "lon": -61.4957649156919
+      },
+      "departamento": {
+        "id": "06147",
+        "nombre": "Carlos Casares"
+      },
+      "id": "06147080",
+      "localidad_censal": {
+        "id": "06147080",
+        "nombre": "Moctezuma"
+      },
+      "municipio": {
+        "id": "060147",
+        "nombre": "Carlos Casares"
+      },
+      "nombre": "Moctezuma",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.8805704780124,
+        "lon": -61.1601648968635
+      },
+      "departamento": {
+        "id": "06147",
+        "nombre": "Carlos Casares"
+      },
+      "id": "06147090",
+      "localidad_censal": {
+        "id": "06147090",
+        "nombre": "Ordoqui"
+      },
+      "municipio": {
+        "id": "060147",
+        "nombre": "Carlos Casares"
+      },
+      "nombre": "Ordoqui",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.4953675166723,
+        "lon": -61.5925224282857
+      },
+      "departamento": {
+        "id": "06147",
+        "nombre": "Carlos Casares"
+      },
+      "id": "06147100",
+      "localidad_censal": {
+        "id": "06147100",
+        "nombre": "Santo Tomás"
+      },
+      "municipio": {
+        "id": "060147",
+        "nombre": "Carlos Casares"
+      },
+      "nombre": "Smith",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06147"
+    ]
+  },
+  "total": 10
+}

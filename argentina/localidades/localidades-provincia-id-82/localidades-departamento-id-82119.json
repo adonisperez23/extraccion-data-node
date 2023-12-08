@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.8793987837978,
+        "lon": -61.0276951551143
+      },
+      "departamento": {
+        "id": "82119",
+        "nombre": "San Lorenzo"
+      },
+      "id": "82119120",
+      "localidad_censal": {
+        "id": "82119120",
+        "nombre": "San Jerónimo Sud"
+      },
+      "municipio": {
+        "id": "824023",
+        "nombre": "San Jerónimo Sud"
+      },
+      "nombre": "San Jerónimo Sud",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.3119649556946,
+        "lon": -61.0562946555637
+      },
+      "departamento": {
+        "id": "82119",
+        "nombre": "San Lorenzo"
+      },
+      "id": "82119160",
+      "localidad_censal": {
+        "id": "82119160",
+        "nombre": "Villa Mugueta"
+      },
+      "municipio": {
+        "id": "824037",
+        "nombre": "Villa Mugueta"
+      },
+      "nombre": "Villa Mugueta",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -32.7472614035676,
+        "lon": -60.7356874598046
+      },
+      "departamento": {
+        "id": "82119",
+        "nombre": "San Lorenzo"
+      },
+      "id": "82119130",
+      "localidad_censal": {
+        "id": "82119130",
+        "nombre": "San Lorenzo"
+      },
+      "municipio": {
+        "id": "820301",
+        "nombre": "San Lorenzo"
+      },
+      "nombre": "San Lorenzo",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -32.6413382020188,
+        "lon": -60.8182757783376
+      },
+      "departamento": {
+        "id": "82119",
+        "nombre": "San Lorenzo"
+      },
+      "id": "82119150",
+      "localidad_censal": {
+        "id": "82119150",
+        "nombre": "Villa Elvira"
+      },
+      "municipio": {
+        "id": "824030",
+        "nombre": "Timbúes"
+      },
+      "nombre": "Villa Elvira",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.7706325511652,
+        "lon": -60.7840718821777
+      },
+      "departamento": {
+        "id": "82119",
+        "nombre": "San Lorenzo"
+      },
+      "id": "82119100",
+      "localidad_censal": {
+        "id": "82119100",
+        "nombre": "Ricardone"
+      },
+      "municipio": {
+        "id": "824016",
+        "nombre": "Ricardone"
+      },
+      "nombre": "Ricardone",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0176482197441,
+        "lon": -61.0430535409981
+      },
+      "departamento": {
+        "id": "82119",
+        "nombre": "San Lorenzo"
+      },
+      "id": "82119090",
+      "localidad_censal": {
+        "id": "82119090",
+        "nombre": "Pujato"
+      },
+      "municipio": {
+        "id": "824009",
+        "nombre": "Pujato"
+      },
+      "nombre": "Pujato",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -32.8264562379917,
+        "lon": -60.7161557546827
+      },
+      "departamento": {
+        "id": "82119",
+        "nombre": "San Lorenzo"
+      },
+      "id": "82119020",
+      "localidad_censal": {
+        "id": "82119020",
+        "nombre": "Capitán Bermúdez"
+      },
+      "municipio": {
+        "id": "820266",
+        "nombre": "Capitán Bermúdez"
+      },
+      "nombre": "Capitán Bermúdez",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.106020935608,
+        "lon": -60.9668096936994
+      },
+      "departamento": {
+        "id": "82119",
+        "nombre": "San Lorenzo"
+      },
+      "id": "82119040",
+      "localidad_censal": {
+        "id": "82119040",
+        "nombre": "Coronel Arnold"
+      },
+      "municipio": {
+        "id": "823988",
+        "nombre": "Coronel Arnold"
+      },
+      "nombre": "Coronel Arnold",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6678121550884,
+        "lon": -60.7936464408933
+      },
+      "departamento": {
+        "id": "82119",
+        "nombre": "San Lorenzo"
+      },
+      "id": "82119140",
+      "localidad_censal": {
+        "id": "82119140",
+        "nombre": "Timbúes"
+      },
+      "municipio": {
+        "id": "824030",
+        "nombre": "Timbúes"
+      },
+      "nombre": "Timbúes",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -32.7160386395288,
+        "lon": -60.7313938904008
+      },
+      "departamento": {
+        "id": "82119",
+        "nombre": "San Lorenzo"
+      },
+      "id": "82119080",
+      "localidad_censal": {
+        "id": "82119080",
+        "nombre": "Puerto General San Martín"
+      },
+      "municipio": {
+        "id": "820287",
+        "nombre": "Puerto General San Martín"
+      },
+      "nombre": "Puerto General San Martín",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "82119"
+    ]
+  },
+  "total": 16
+}

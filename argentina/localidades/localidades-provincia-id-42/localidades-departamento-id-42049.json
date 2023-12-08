@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.2301951511864,
+        "lon": -66.938973642145
+      },
+      "departamento": {
+        "id": "42049",
+        "nombre": "Chalileo"
+      },
+      "id": "42049010",
+      "localidad_censal": {
+        "id": "42049010",
+        "nombre": "Santa Isabel"
+      },
+      "municipio": {
+        "id": "420329",
+        "nombre": "Santa Isabel"
+      },
+      "nombre": "Santa Isabel",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42049"
+    ]
+  },
+  "total": 1
+}

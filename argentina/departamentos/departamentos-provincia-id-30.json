@@ -1,0 +1,215 @@
+{
+  "cantidad": 17,
+  "departamentos": [
+    {
+      "centroide": {
+        "lat": -31.2902983724746,
+        "lon": -58.2378696898985
+      },
+      "id": "30015",
+      "nombre": "Concordia",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -30.9924267798293,
+        "lon": -58.8918600477175
+      },
+      "id": "30035",
+      "nombre": "Federal",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -33.0223490410459,
+        "lon": -58.7858051710614
+      },
+      "id": "30056",
+      "nombre": "Gualeguaychú",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -33.6249961546235,
+        "lon": -58.9338958542555
+      },
+      "id": "30063",
+      "nombre": "Islas del Ibicuy",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -32.7839424597941,
+        "lon": -60.2180700308372
+      },
+      "id": "30105",
+      "nombre": "Victoria",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -32.228040549074,
+        "lon": -60.5239335893593
+      },
+      "id": "30021",
+      "nombre": "Diamante",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -32.4477599400377,
+        "lon": -58.5842252100111
+      },
+      "id": "30098",
+      "nombre": "Uruguay",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -31.6952294494901,
+        "lon": -60.0411744815271
+      },
+      "id": "30084",
+      "nombre": "Paraná",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -32.0114827530749,
+        "lon": -58.3699129592392
+      },
+      "id": "30008",
+      "nombre": "Colón",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -31.6477388964372,
+        "lon": -59.0594708103114
+      },
+      "id": "30113",
+      "nombre": "Villaguay",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -31.576883538854,
+        "lon": -58.4863728567569
+      },
+      "id": "30088",
+      "nombre": "San Salvador",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -32.2187123476403,
+        "lon": -59.7697019154662
+      },
+      "id": "30077",
+      "nombre": "Nogoyá",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -32.3174117218427,
+        "lon": -59.2672864854832
+      },
+      "id": "30091",
+      "nombre": "Tala",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -33.1192366285416,
+        "lon": -59.6014598265182
+      },
+      "id": "30049",
+      "nombre": "Gualeguay",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -30.7348532046962,
+        "lon": -58.1591551818899
+      },
+      "id": "30028",
+      "nombre": "Federación",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -30.8973573249588,
+        "lon": -59.5004308899395
+      },
+      "id": "30070",
+      "nombre": "La Paz",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -30.4138996015365,
+        "lon": -58.7288907563202
+      },
+      "id": "30042",
+      "nombre": "Feliciano",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    }
+  ],
+  "inicio": 0,
+  "parametros": {
+    "max": 200,
+    "provincia": "Entre Ríos"
+  },
+  "total": 17
+}

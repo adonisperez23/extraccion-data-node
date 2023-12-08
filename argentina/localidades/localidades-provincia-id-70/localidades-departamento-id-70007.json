@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.4482124626697,
+        "lon": -68.5412030086576
+      },
+      "departamento": {
+        "id": "70007",
+        "nombre": "Albardón"
+      },
+      "id": "70007010",
+      "localidad_censal": {
+        "id": "70007010",
+        "nombre": "El Rincón"
+      },
+      "municipio": {
+        "id": "700007",
+        "nombre": "Albardón"
+      },
+      "nombre": "El Rincón",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.4397847616832,
+        "lon": -68.5203866787607
+      },
+      "departamento": {
+        "id": "70007",
+        "nombre": "Albardón"
+      },
+      "id": "70007020",
+      "localidad_censal": {
+        "id": "70007020",
+        "nombre": "Villa General San Martín - Campo Afuera"
+      },
+      "municipio": {
+        "id": "700007",
+        "nombre": "Albardón"
+      },
+      "nombre": "Villa General San Martín - Campo Afuera",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "70007"
+    ]
+  },
+  "total": 2
+}

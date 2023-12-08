@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.3454707314612,
+        "lon": -58.7928104368433
+      },
+      "departamento": {
+        "id": "06252",
+        "nombre": "Escobar"
+      },
+      "id": "0625201001",
+      "localidad_censal": {
+        "id": "06252010",
+        "nombre": "Escobar"
+      },
+      "municipio": {
+        "id": "060252",
+        "nombre": "Escobar"
+      },
+      "nombre": "Belén de Escobar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.3115230240373,
+        "lon": -58.7643460148419
+      },
+      "departamento": {
+        "id": "06252",
+        "nombre": "Escobar"
+      },
+      "id": "0625201002",
+      "localidad_censal": {
+        "id": "06252010",
+        "nombre": "Escobar"
+      },
+      "municipio": {
+        "id": "060252",
+        "nombre": "Escobar"
+      },
+      "nombre": "El Cazador",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4230339103436,
+        "lon": -58.7394613036842
+      },
+      "departamento": {
+        "id": "06252",
+        "nombre": "Escobar"
+      },
+      "id": "0625201003",
+      "localidad_censal": {
+        "id": "06252010",
+        "nombre": "Escobar"
+      },
+      "municipio": {
+        "id": "060252",
+        "nombre": "Escobar"
+      },
+      "nombre": "Garín",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.3892350663582,
+        "lon": -58.7378666055156
+      },
+      "departamento": {
+        "id": "06252",
+        "nombre": "Escobar"
+      },
+      "id": "0625201004",
+      "localidad_censal": {
+        "id": "06252010",
+        "nombre": "Escobar"
+      },
+      "municipio": {
+        "id": "060252",
+        "nombre": "Escobar"
+      },
+      "nombre": "Ingeniero Maschwitz",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.3307009506977,
+        "lon": -58.8458079535386
+      },
+      "departamento": {
+        "id": "06252",
+        "nombre": "Escobar"
+      },
+      "id": "0625201005",
+      "localidad_censal": {
+        "id": "06252010",
+        "nombre": "Escobar"
+      },
+      "municipio": {
+        "id": "060252",
+        "nombre": "Escobar"
+      },
+      "nombre": "Loma Verde",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.3852450911802,
+        "lon": -58.8278056477923
+      },
+      "departamento": {
+        "id": "06252",
+        "nombre": "Escobar"
+      },
+      "id": "0625201006",
+      "localidad_censal": {
+        "id": "06252010",
+        "nombre": "Escobar"
+      },
+      "municipio": {
+        "id": "060252",
+        "nombre": "Escobar"
+      },
+      "nombre": "Matheu",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4006498402276,
+        "lon": -58.7762915155144
+      },
+      "departamento": {
+        "id": "06252",
+        "nombre": "Escobar"
+      },
+      "id": "0625201007",
+      "localidad_censal": {
+        "id": "06252010",
+        "nombre": "Escobar"
+      },
+      "municipio": {
+        "id": "060252",
+        "nombre": "Escobar"
+      },
+      "nombre": "Maquinista F. Savio Este",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.3460457336529,
+        "lon": -58.7944154645154
+      },
+      "departamento": {
+        "id": "06252",
+        "nombre": "Escobar"
+      },
+      "id": "06252010",
+      "localidad_censal": {
+        "id": "06252010",
+        "nombre": "Escobar"
+      },
+      "municipio": {
+        "id": "060252",
+        "nombre": "Escobar"
+      },
+      "nombre": "Escobar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06252"
+    ]
+  },
+  "total": 8
+}

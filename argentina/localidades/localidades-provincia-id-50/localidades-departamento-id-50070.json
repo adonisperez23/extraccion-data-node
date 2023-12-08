@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.9709296458884,
+        "lon": -68.7567309374964
+      },
+      "departamento": {
+        "id": "50070",
+        "nombre": "Maipú"
+      },
+      "id": "5007006002",
+      "localidad_censal": {
+        "id": "50070060",
+        "nombre": "Maipú"
+      },
+      "municipio": {
+        "id": "500070",
+        "nombre": "Maipú"
+      },
+      "nombre": "Coquimbito",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.9604074494578,
+        "lon": -68.7874652844763
+      },
+      "departamento": {
+        "id": "50070",
+        "nombre": "Maipú"
+      },
+      "id": "5007006003",
+      "localidad_censal": {
+        "id": "50070060",
+        "nombre": "Maipú"
+      },
+      "municipio": {
+        "id": "500070",
+        "nombre": "Maipú"
+      },
+      "nombre": "General Gutiérrez",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.9445820388825,
+        "lon": -68.807002419649
+      },
+      "departamento": {
+        "id": "50070",
+        "nombre": "Maipú"
+      },
+      "id": "5007006004",
+      "localidad_censal": {
+        "id": "50070060",
+        "nombre": "Maipú"
+      },
+      "municipio": {
+        "id": "500070",
+        "nombre": "Maipú"
+      },
+      "nombre": "Luzuriaga",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.9811590584922,
+        "lon": -68.7951731079071
+      },
+      "departamento": {
+        "id": "50070",
+        "nombre": "Maipú"
+      },
+      "id": "5007006001",
+      "localidad_censal": {
+        "id": "50070060",
+        "nombre": "Maipú"
+      },
+      "municipio": {
+        "id": "500070",
+        "nombre": "Maipú"
+      },
+      "nombre": "Ciudad de Maipú",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0818328680819,
+        "lon": -68.7276151941116
+      },
+      "departamento": {
+        "id": "50070",
+        "nombre": "Maipú"
+      },
+      "id": "50070010",
+      "localidad_censal": {
+        "id": "50070010",
+        "nombre": "Barrancas"
+      },
+      "municipio": {
+        "id": "500070",
+        "nombre": "Maipú"
+      },
+      "nombre": "Barrancas",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0095657296522,
+        "lon": -68.716108548455
+      },
+      "departamento": {
+        "id": "50070",
+        "nombre": "Maipú"
+      },
+      "id": "50070020",
+      "localidad_censal": {
+        "id": "50070020",
+        "nombre": "Barrio Jesús de Nazaret"
+      },
+      "municipio": {
+        "id": "500070",
+        "nombre": "Maipú"
+      },
+      "nombre": "Barrio Jesús de Nazaret",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.8584966216671,
+        "lon": -68.6497657300625
+      },
+      "departamento": {
+        "id": "50070",
+        "nombre": "Maipú"
+      },
+      "id": "50070040",
+      "localidad_censal": {
+        "id": "50070040",
+        "nombre": "El Pedregal"
+      },
+      "municipio": {
+        "id": "500070",
+        "nombre": "Maipú"
+      },
+      "nombre": "El Pedregal",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0039959793783,
+        "lon": -68.6644514558642
+      },
+      "departamento": {
+        "id": "50070",
+        "nombre": "Maipú"
+      },
+      "id": "50070050",
+      "localidad_censal": {
+        "id": "50070050",
+        "nombre": "Fray Luis Beltrán"
+      },
+      "municipio": {
+        "id": "500070",
+        "nombre": "Maipú"
+      },
+      "nombre": "Fray Luis Beltrán",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -32.9846197818192,
+        "lon": -68.7882090175496
+      },
+      "departamento": {
+        "id": "50070",
+        "nombre": "Maipú"
+      },
+      "id": "50070060",
+      "localidad_censal": {
+        "id": "50070060",
+        "nombre": "Maipú"
+      },
+      "municipio": {
+        "id": "500070",
+        "nombre": "Maipú"
+      },
+      "nombre": "Maipú",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.9948684303252,
+        "lon": -68.6859659559504
+      },
+      "departamento": {
+        "id": "50070",
+        "nombre": "Maipú"
+      },
+      "id": "50070070",
+      "localidad_censal": {
+        "id": "50070070",
+        "nombre": "Rodeo del Medio"
+      },
+      "municipio": {
+        "id": "500070",
+        "nombre": "Maipú"
+      },
+      "nombre": "Rodeo del Medio",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "50070"
+    ]
+  },
+  "total": 13
+}

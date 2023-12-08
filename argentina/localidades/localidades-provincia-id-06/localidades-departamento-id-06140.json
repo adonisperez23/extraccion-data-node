@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.1712798488744,
+        "lon": -59.7935986802151
+      },
+      "departamento": {
+        "id": "06140",
+        "nombre": "Capitán Sarmiento"
+      },
+      "id": "06140010",
+      "localidad_censal": {
+        "id": "06140010",
+        "nombre": "Capitán Sarmiento"
+      },
+      "municipio": {
+        "id": "060140",
+        "nombre": "Capitán Sarmiento"
+      },
+      "nombre": "Capitán Sarmiento",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.1295652785123,
+        "lon": -59.9264182117769
+      },
+      "departamento": {
+        "id": "06140",
+        "nombre": "Capitán Sarmiento"
+      },
+      "id": "06140020",
+      "localidad_censal": {
+        "id": "06140020",
+        "nombre": "La Luisa"
+      },
+      "municipio": {
+        "id": "060140",
+        "nombre": "Capitán Sarmiento"
+      },
+      "nombre": "La Luisa",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06140"
+    ]
+  },
+  "total": 2
+}

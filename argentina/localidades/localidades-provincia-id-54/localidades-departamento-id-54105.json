@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.6336169442892,
+        "lon": -55.0855260883891
+      },
+      "departamento": {
+        "id": "54105",
+        "nombre": "San Javier"
+      },
+      "id": "54105010",
+      "localidad_censal": {
+        "id": "54105010",
+        "nombre": "Florentino Ameghino"
+      },
+      "municipio": {
+        "id": "540476",
+        "nombre": "Florentino Ameghino"
+      },
+      "nombre": "Florentino Ameghino",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.8714005672072,
+        "lon": -55.262214014731
+      },
+      "departamento": {
+        "id": "54105",
+        "nombre": "San Javier"
+      },
+      "id": "54105020",
+      "localidad_censal": {
+        "id": "54105020",
+        "nombre": "Itacaruaré"
+      },
+      "municipio": {
+        "id": "540483",
+        "nombre": "Itacaruaré"
+      },
+      "nombre": "Itacaruaré",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.7120413813374,
+        "lon": -55.1574339761207
+      },
+      "departamento": {
+        "id": "54105",
+        "nombre": "San Javier"
+      },
+      "id": "54105030",
+      "localidad_censal": {
+        "id": "54105030",
+        "nombre": "Mojón Grande"
+      },
+      "municipio": {
+        "id": "540490",
+        "nombre": "Mojón Grande"
+      },
+      "nombre": "Mojón Grande",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.8694801169929,
+        "lon": -55.1387152363081
+      },
+      "departamento": {
+        "id": "54105",
+        "nombre": "San Javier"
+      },
+      "id": "54105040",
+      "localidad_censal": {
+        "id": "54105040",
+        "nombre": "San Javier"
+      },
+      "municipio": {
+        "id": "540497",
+        "nombre": "San Javier"
+      },
+      "nombre": "San Javier",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "54105"
+    ]
+  },
+  "total": 4
+}

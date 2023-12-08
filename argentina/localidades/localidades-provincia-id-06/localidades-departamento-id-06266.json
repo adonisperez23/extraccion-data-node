@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.3897717062025,
+        "lon": -59.0807782961489
+      },
+      "departamento": {
+        "id": "06266",
+        "nombre": "Exaltación de la Cruz"
+      },
+      "id": "0626606001",
+      "localidad_censal": {
+        "id": "06266060",
+        "nombre": "Diego Gaynor"
+      },
+      "municipio": {
+        "id": "060266",
+        "nombre": "Exaltación de la Cruz"
+      },
+      "nombre": "El Remanso",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.3718922819947,
+        "lon": -59.1246837768692
+      },
+      "departamento": {
+        "id": "06266",
+        "nombre": "Exaltación de la Cruz"
+      },
+      "id": "0626606002",
+      "localidad_censal": {
+        "id": "06266060",
+        "nombre": "Diego Gaynor"
+      },
+      "municipio": {
+        "id": "060266",
+        "nombre": "Exaltación de la Cruz"
+      },
+      "nombre": "Parada Robles",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.3931798584401,
+        "lon": -59.034704046908
+      },
+      "departamento": {
+        "id": "06266",
+        "nombre": "Exaltación de la Cruz"
+      },
+      "id": "0626606003",
+      "localidad_censal": {
+        "id": "06266060",
+        "nombre": "Diego Gaynor"
+      },
+      "municipio": {
+        "id": "060266",
+        "nombre": "Exaltación de la Cruz"
+      },
+      "nombre": "Pavón",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.3302149358773,
+        "lon": -59.1139730882325
+      },
+      "departamento": {
+        "id": "06266",
+        "nombre": "Exaltación de la Cruz"
+      },
+      "id": "06266010",
+      "localidad_censal": {
+        "id": "06266010",
+        "nombre": "Arroyo de la Cruz"
+      },
+      "municipio": {
+        "id": "060266",
+        "nombre": "Exaltación de la Cruz"
+      },
+      "nombre": "Arroyo de la Cruz",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.3265099562553,
+        "lon": -59.0767486441091
+      },
+      "departamento": {
+        "id": "06266",
+        "nombre": "Exaltación de la Cruz"
+      },
+      "id": "06266050",
+      "localidad_censal": {
+        "id": "06266050",
+        "nombre": "Capilla del Señor"
+      },
+      "municipio": {
+        "id": "060266",
+        "nombre": "Exaltación de la Cruz"
+      },
+      "nombre": "Parada Orlando",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.3750874893638,
+        "lon": -59.1232039224888
+      },
+      "departamento": {
+        "id": "06266",
+        "nombre": "Exaltación de la Cruz"
+      },
+      "id": "06266060",
+      "localidad_censal": {
+        "id": "06266060",
+        "nombre": "Diego Gaynor"
+      },
+      "municipio": {
+        "id": "060266",
+        "nombre": "Exaltación de la Cruz"
+      },
+      "nombre": "Parada Robles - Pavón",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06266"
+    ]
+  },
+  "total": 6
+}

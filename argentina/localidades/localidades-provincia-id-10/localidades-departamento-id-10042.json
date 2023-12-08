@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.4591443322475,
+        "lon": -65.9488234034564
+      },
+      "departamento": {
+        "id": "10042",
+        "nombre": "Capayán"
+      },
+      "id": "1004211001",
+      "localidad_censal": {
+        "id": "10042110",
+        "nombre": "Los Angeles"
+      },
+      "municipio": {
+        "id": "100133",
+        "nombre": "Huillapima"
+      },
+      "nombre": "Los Ángeles Norte",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.4829836288114,
+        "lon": -65.950615432131
+      },
+      "departamento": {
+        "id": "10042",
+        "nombre": "Capayán"
+      },
+      "id": "1004211002",
+      "localidad_censal": {
+        "id": "10042110",
+        "nombre": "Los Angeles"
+      },
+      "municipio": {
+        "id": "100133",
+        "nombre": "Huillapima"
+      },
+      "nombre": "Los Ángeles Sur",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.7745953259886,
+        "lon": -66.0464851077306
+      },
+      "departamento": {
+        "id": "10042",
+        "nombre": "Capayán"
+      },
+      "id": "10042030",
+      "localidad_censal": {
+        "id": "10042030",
+        "nombre": "Capayán"
+      },
+      "municipio": {
+        "id": "100126",
+        "nombre": "Capayán"
+      },
+      "nombre": "Capayán",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.8531930322117,
+        "lon": -66.2375625171686
+      },
+      "departamento": {
+        "id": "10042",
+        "nombre": "Capayán"
+      },
+      "id": "10042040",
+      "localidad_censal": {
+        "id": "10042040",
+        "nombre": "Chumbicha"
+      },
+      "municipio": {
+        "id": "100126",
+        "nombre": "Capayán"
+      },
+      "nombre": "Chumbicha",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6536070700741,
+        "lon": -65.8678577009283
+      },
+      "departamento": {
+        "id": "10042",
+        "nombre": "Capayán"
+      },
+      "id": "10042050",
+      "localidad_censal": {
+        "id": "10042050",
+        "nombre": "Colonia del Valle"
+      },
+      "municipio": {
+        "id": "100133",
+        "nombre": "Huillapima"
+      },
+      "nombre": "Colonia del Valle",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.5787147136839,
+        "lon": -65.83646106419
+      },
+      "departamento": {
+        "id": "10042",
+        "nombre": "Capayán"
+      },
+      "id": "10042060",
+      "localidad_censal": {
+        "id": "10042060",
+        "nombre": "Colonia Nueva Coneta"
+      },
+      "municipio": {
+        "id": "100133",
+        "nombre": "Huillapima"
+      },
+      "nombre": "Colonia Nueva Coneta",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6870984940716,
+        "lon": -66.0658875426961
+      },
+      "departamento": {
+        "id": "10042",
+        "nombre": "Capayán"
+      },
+      "id": "10042070",
+      "localidad_censal": {
+        "id": "10042070",
+        "nombre": "Concepción"
+      },
+      "municipio": {
+        "id": "100133",
+        "nombre": "Huillapima"
+      },
+      "nombre": "Concepción",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.5792992293533,
+        "lon": -65.8877987003735
+      },
+      "departamento": {
+        "id": "10042",
+        "nombre": "Capayán"
+      },
+      "id": "10042080",
+      "localidad_censal": {
+        "id": "10042080",
+        "nombre": "Coneta"
+      },
+      "municipio": {
+        "id": "100133",
+        "nombre": "Huillapima"
+      },
+      "nombre": "Coneta",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6214877581312,
+        "lon": -65.8564782819331
+      },
+      "departamento": {
+        "id": "10042",
+        "nombre": "Capayán"
+      },
+      "id": "10042090",
+      "localidad_censal": {
+        "id": "10042090",
+        "nombre": "El Bañado"
+      },
+      "municipio": {
+        "id": "100133",
+        "nombre": "Huillapima"
+      },
+      "nombre": "El Bañado",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.7260731000394,
+        "lon": -65.9787475665555
+      },
+      "departamento": {
+        "id": "10042",
+        "nombre": "Capayán"
+      },
+      "id": "10042100",
+      "localidad_censal": {
+        "id": "10042100",
+        "nombre": "Huillapima"
+      },
+      "municipio": {
+        "id": "100133",
+        "nombre": "Huillapima"
+      },
+      "nombre": "Huillapima",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "10042"
+    ]
+  },
+  "total": 15
+}

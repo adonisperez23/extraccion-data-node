@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.3623962022824,
+        "lon": -66.1597557408836
+      },
+      "departamento": {
+        "id": "10084",
+        "nombre": "Pomán"
+      },
+      "id": "10084020",
+      "localidad_censal": {
+        "id": "10084020",
+        "nombre": "Colana"
+      },
+      "municipio": {
+        "id": "100189",
+        "nombre": "Pomán"
+      },
+      "nombre": "Colana",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.0586376131505,
+        "lon": -66.1976605707736
+      },
+      "departamento": {
+        "id": "10084",
+        "nombre": "Pomán"
+      },
+      "id": "10084030",
+      "localidad_censal": {
+        "id": "10084030",
+        "nombre": "Colpes"
+      },
+      "municipio": {
+        "id": "100196",
+        "nombre": "Saujil"
+      },
+      "nombre": "Colpes",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.3721410500963,
+        "lon": -66.2950864577145
+      },
+      "departamento": {
+        "id": "10084",
+        "nombre": "Pomán"
+      },
+      "id": "10084040",
+      "localidad_censal": {
+        "id": "10084040",
+        "nombre": "El Pajonal"
+      },
+      "municipio": {
+        "id": "100189",
+        "nombre": "Pomán"
+      },
+      "nombre": "El Pajonal",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.3148469539552,
+        "lon": -66.1490141867256
+      },
+      "departamento": {
+        "id": "10084",
+        "nombre": "Pomán"
+      },
+      "id": "10084060",
+      "localidad_censal": {
+        "id": "10084060",
+        "nombre": "Mutquin"
+      },
+      "municipio": {
+        "id": "100185",
+        "nombre": "Mutquin"
+      },
+      "nombre": "Mutquin",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.3952811443403,
+        "lon": -66.2182866315867
+      },
+      "departamento": {
+        "id": "10084",
+        "nombre": "Pomán"
+      },
+      "id": "10084070",
+      "localidad_censal": {
+        "id": "10084070",
+        "nombre": "Pomán"
+      },
+      "municipio": {
+        "id": "100189",
+        "nombre": "Pomán"
+      },
+      "nombre": "Pomán",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.2213443852426,
+        "lon": -66.1433422047159
+      },
+      "departamento": {
+        "id": "10084",
+        "nombre": "Pomán"
+      },
+      "id": "10084080",
+      "localidad_censal": {
+        "id": "10084080",
+        "nombre": "Rincón"
+      },
+      "municipio": {
+        "id": "100196",
+        "nombre": "Saujil"
+      },
+      "nombre": "Rincón",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.1400948610386,
+        "lon": -66.2025536295595
+      },
+      "departamento": {
+        "id": "10084",
+        "nombre": "Pomán"
+      },
+      "id": "10084090",
+      "localidad_censal": {
+        "id": "10084090",
+        "nombre": "San Miguel"
+      },
+      "municipio": {
+        "id": "100196",
+        "nombre": "Saujil"
+      },
+      "nombre": "San Miguel",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.1747062346767,
+        "lon": -66.2160450415187
+      },
+      "departamento": {
+        "id": "10084",
+        "nombre": "Pomán"
+      },
+      "id": "10084100",
+      "localidad_censal": {
+        "id": "10084100",
+        "nombre": "Saujil"
+      },
+      "municipio": {
+        "id": "100196",
+        "nombre": "Saujil"
+      },
+      "nombre": "Saujil",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.2614932193968,
+        "lon": -66.2242784976376
+      },
+      "departamento": {
+        "id": "10084",
+        "nombre": "Pomán"
+      },
+      "id": "10084110",
+      "localidad_censal": {
+        "id": "10084110",
+        "nombre": "Siján"
+      },
+      "municipio": {
+        "id": "100196",
+        "nombre": "Saujil"
+      },
+      "nombre": "Siján",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "10084"
+    ]
+  },
+  "total": 9
+}

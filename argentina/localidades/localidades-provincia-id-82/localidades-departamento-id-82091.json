@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.534423803072,
+        "lon": -61.9610054265374
+      },
+      "departamento": {
+        "id": "82091",
+        "nombre": "San Cristóbal"
+      },
+      "id": "82091260",
+      "localidad_censal": {
+        "id": "82091260",
+        "nombre": "Suardi"
+      },
+      "municipio": {
+        "id": "820235",
+        "nombre": "Suardi"
+      },
+      "nombre": "Suardi",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.715584856026,
+        "lon": -61.4695077989661
+      },
+      "departamento": {
+        "id": "82091",
+        "nombre": "San Cristóbal"
+      },
+      "id": "82091180",
+      "localidad_censal": {
+        "id": "82091180",
+        "nombre": "Moisés Ville"
+      },
+      "municipio": {
+        "id": "823603",
+        "nombre": "Moisés Ville"
+      },
+      "nombre": "Moisés Ville",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.459709764108,
+        "lon": -61.27115306531
+      },
+      "departamento": {
+        "id": "82091",
+        "nombre": "San Cristóbal"
+      },
+      "id": "82091050",
+      "localidad_censal": {
+        "id": "82091050",
+        "nombre": "Capivara"
+      },
+      "municipio": {
+        "id": "823498",
+        "nombre": "Capivara"
+      },
+      "nombre": "Capivara",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.8964173793999,
+        "lon": -61.2880673055215
+      },
+      "departamento": {
+        "id": "82091",
+        "nombre": "San Cristóbal"
+      },
+      "id": "82091160",
+      "localidad_censal": {
+        "id": "82091160",
+        "nombre": "Las Avispas"
+      },
+      "municipio": {
+        "id": "823589",
+        "nombre": "Las Avispas"
+      },
+      "nombre": "Las Avispas",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.5408409369612,
+        "lon": -60.7467789752981
+      },
+      "departamento": {
+        "id": "82091",
+        "nombre": "San Cristóbal"
+      },
+      "id": "82091270",
+      "localidad_censal": {
+        "id": "82091270",
+        "nombre": "Villa Saralegui"
+      },
+      "municipio": {
+        "id": "823673",
+        "nombre": "Villa Saralegui"
+      },
+      "nombre": "Villa Saralegui",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.2161084399834,
+        "lon": -61.8770920891158
+      },
+      "departamento": {
+        "id": "82091",
+        "nombre": "San Cristóbal"
+      },
+      "id": "82091280",
+      "localidad_censal": {
+        "id": "82091280",
+        "nombre": "Villa Trinidad"
+      },
+      "municipio": {
+        "id": "823680",
+        "nombre": "Villa Trinidad"
+      },
+      "nombre": "Villa Trinidad",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.3003827175452,
+        "lon": -61.9838181025651
+      },
+      "departamento": {
+        "id": "82091",
+        "nombre": "San Cristóbal"
+      },
+      "id": "82091090",
+      "localidad_censal": {
+        "id": "82091090",
+        "nombre": "Colonia Rosa"
+      },
+      "municipio": {
+        "id": "823519",
+        "nombre": "Colonia Rosa"
+      },
+      "nombre": "Colonia Rosa",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.7085842464352,
+        "lon": -61.6226524252804
+      },
+      "departamento": {
+        "id": "82091",
+        "nombre": "San Cristóbal"
+      },
+      "id": "82091210",
+      "localidad_censal": {
+        "id": "82091210",
+        "nombre": "Palacios"
+      },
+      "municipio": {
+        "id": "823631",
+        "nombre": "Palacios"
+      },
+      "nombre": "Palacios",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.0119939026675,
+        "lon": -61.2184652472247
+      },
+      "departamento": {
+        "id": "82091",
+        "nombre": "San Cristóbal"
+      },
+      "id": "82091130",
+      "localidad_censal": {
+        "id": "82091130",
+        "nombre": "Huanqueros"
+      },
+      "municipio": {
+        "id": "823554",
+        "nombre": "Huanqueros"
+      },
+      "nombre": "Huanqueros",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.0868012011416,
+        "lon": -61.1783339619544
+      },
+      "departamento": {
+        "id": "82091",
+        "nombre": "San Cristóbal"
+      },
+      "id": "82091140",
+      "localidad_censal": {
+        "id": "82091140",
+        "nombre": "La Cabral"
+      },
+      "municipio": {
+        "id": "823561",
+        "nombre": "La Cabral"
+      },
+      "nombre": "La Cabral",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "82091"
+    ]
+  },
+  "total": 29
+}

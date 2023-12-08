@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.0674801596128,
+        "lon": -64.0507018106629
+      },
+      "departamento": {
+        "id": "14154",
+        "nombre": "Sobremonte"
+      },
+      "id": "14154010",
+      "localidad_censal": {
+        "id": "14154010",
+        "nombre": "Caminiaga"
+      },
+      "municipio": {
+        "id": "143120",
+        "nombre": "Caminiaga"
+      },
+      "nombre": "Caminiaga",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.9337075949931,
+        "lon": -64.1125603513905
+      },
+      "departamento": {
+        "id": "14154",
+        "nombre": "Sobremonte"
+      },
+      "id": "14154030",
+      "localidad_censal": {
+        "id": "14154030",
+        "nombre": "Chuña Huasi"
+      },
+      "municipio": {
+        "id": "143127",
+        "nombre": "Chuña Huasi"
+      },
+      "nombre": "Chuña Huasi",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.5787363086334,
+        "lon": -64.10149444853
+      },
+      "departamento": {
+        "id": "14154",
+        "nombre": "Sobremonte"
+      },
+      "id": "14154040",
+      "localidad_censal": {
+        "id": "14154040",
+        "nombre": "Pozo Nuevo"
+      },
+      "municipio": {
+        "id": "143134",
+        "nombre": "Pozo Nuevo"
+      },
+      "nombre": "Pozo Nuevo",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.7863529092312,
+        "lon": -63.9416977616648
+      },
+      "departamento": {
+        "id": "14154",
+        "nombre": "Sobremonte"
+      },
+      "id": "14154050",
+      "localidad_censal": {
+        "id": "14154050",
+        "nombre": "San Francisco del Chanar"
+      },
+      "municipio": {
+        "id": "141414",
+        "nombre": "San Francisco del Chañar"
+      },
+      "nombre": "San Francisco del Chañar",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14154"
+    ]
+  },
+  "total": 4
+}

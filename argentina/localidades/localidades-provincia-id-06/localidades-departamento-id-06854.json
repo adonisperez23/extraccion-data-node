@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.7403170506186,
+        "lon": -60.557071200522
+      },
+      "departamento": {
+        "id": "06854",
+        "nombre": "25 de Mayo"
+      },
+      "id": "06854010",
+      "localidad_censal": {
+        "id": "06854010",
+        "nombre": "Agustí­n Mosconi"
+      },
+      "municipio": {
+        "id": "060854",
+        "nombre": "25 de Mayo"
+      },
+      "nombre": "Agustín Mosconi",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.8998918047927,
+        "lon": -60.7302753701018
+      },
+      "departamento": {
+        "id": "06854",
+        "nombre": "25 de Mayo"
+      },
+      "id": "06854020",
+      "localidad_censal": {
+        "id": "06854020",
+        "nombre": "Del Valle"
+      },
+      "municipio": {
+        "id": "060854",
+        "nombre": "25 de Mayo"
+      },
+      "nombre": "Del Valle",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.268920909582,
+        "lon": -59.5571323199126
+      },
+      "departamento": {
+        "id": "06854",
+        "nombre": "25 de Mayo"
+      },
+      "id": "06854030",
+      "localidad_censal": {
+        "id": "06854030",
+        "nombre": "Ernestina"
+      },
+      "municipio": {
+        "id": "060854",
+        "nombre": "25 de Mayo"
+      },
+      "nombre": "Ernestina",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.1638916110581,
+        "lon": -60.0789192444737
+      },
+      "departamento": {
+        "id": "06854",
+        "nombre": "25 de Mayo"
+      },
+      "id": "06854040",
+      "localidad_censal": {
+        "id": "06854040",
+        "nombre": "Gobernador Ugarte"
+      },
+      "municipio": {
+        "id": "060854",
+        "nombre": "25 de Mayo"
+      },
+      "nombre": "Gobernador Ugarte",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.4823627488065,
+        "lon": -59.985834587543
+      },
+      "departamento": {
+        "id": "06854",
+        "nombre": "25 de Mayo"
+      },
+      "id": "06854050",
+      "localidad_censal": {
+        "id": "06854050",
+        "nombre": "Lucas Monteverde"
+      },
+      "municipio": {
+        "id": "060854",
+        "nombre": "25 de Mayo"
+      },
+      "nombre": "Lucas Monteverde",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.2733314174213,
+        "lon": -59.7755530665071
+      },
+      "departamento": {
+        "id": "06854",
+        "nombre": "25 de Mayo"
+      },
+      "id": "06854060",
+      "localidad_censal": {
+        "id": "06854060",
+        "nombre": "Norberto de la Riestra"
+      },
+      "municipio": {
+        "id": "060854",
+        "nombre": "25 de Mayo"
+      },
+      "nombre": "Norberto de la Riestra",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.2623626567541,
+        "lon": -59.6306762449241
+      },
+      "departamento": {
+        "id": "06854",
+        "nombre": "25 de Mayo"
+      },
+      "id": "06854070",
+      "localidad_censal": {
+        "id": "06854070",
+        "nombre": "Pedernales"
+      },
+      "municipio": {
+        "id": "060854",
+        "nombre": "25 de Mayo"
+      },
+      "nombre": "Pedernales",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.7698421793855,
+        "lon": -60.350450153264
+      },
+      "departamento": {
+        "id": "06854",
+        "nombre": "25 de Mayo"
+      },
+      "id": "06854080",
+      "localidad_censal": {
+        "id": "06854080",
+        "nombre": "San Enrique"
+      },
+      "municipio": {
+        "id": "060854",
+        "nombre": "25 de Mayo"
+      },
+      "nombre": "San Enrique",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.6480414274632,
+        "lon": -60.4656761416649
+      },
+      "departamento": {
+        "id": "06854",
+        "nombre": "25 de Mayo"
+      },
+      "id": "06854090",
+      "localidad_censal": {
+        "id": "06854090",
+        "nombre": "Valdés"
+      },
+      "municipio": {
+        "id": "060854",
+        "nombre": "25 de Mayo"
+      },
+      "nombre": "Valdés",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.4324710829424,
+        "lon": -60.1715593507727
+      },
+      "departamento": {
+        "id": "06854",
+        "nombre": "25 de Mayo"
+      },
+      "id": "06854100",
+      "localidad_censal": {
+        "id": "06854100",
+        "nombre": "25 de Mayo"
+      },
+      "municipio": {
+        "id": "060854",
+        "nombre": "25 de Mayo"
+      },
+      "nombre": "25 de Mayo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06854"
+    ]
+  },
+  "total": 10
+}

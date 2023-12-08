@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.3788549787042,
+        "lon": -64.4971277806815
+      },
+      "departamento": {
+        "id": "14035",
+        "nombre": "General Roca"
+      },
+      "id": "14035010",
+      "localidad_censal": {
+        "id": "14035010",
+        "nombre": "Del Campillo"
+      },
+      "municipio": {
+        "id": "140217",
+        "nombre": "Del Campillo"
+      },
+      "nombre": "Del Campillo",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.4960896298253,
+        "lon": -64.8106844722385
+      },
+      "departamento": {
+        "id": "14035",
+        "nombre": "General Roca"
+      },
+      "id": "14035020",
+      "localidad_censal": {
+        "id": "14035020",
+        "nombre": "Estación Lecueder"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Estación Lecueder",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.7238744309592,
+        "lon": -63.5072646744416
+      },
+      "departamento": {
+        "id": "14035",
+        "nombre": "General Roca"
+      },
+      "id": "14035030",
+      "localidad_censal": {
+        "id": "14035030",
+        "nombre": "Buchardo"
+      },
+      "municipio": {
+        "id": "140210",
+        "nombre": "Buchardo"
+      },
+      "nombre": "Hipólito Bouchard",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.8413182092657,
+        "lon": -64.374674241684
+      },
+      "departamento": {
+        "id": "14035",
+        "nombre": "General Roca"
+      },
+      "id": "14035040",
+      "localidad_censal": {
+        "id": "14035040",
+        "nombre": "Huinca Renancó"
+      },
+      "municipio": {
+        "id": "140224",
+        "nombre": "Huinca Renancó"
+      },
+      "nombre": "Huinca Renancó",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.7908061221694,
+        "lon": -63.7803573874566
+      },
+      "departamento": {
+        "id": "14035",
+        "nombre": "General Roca"
+      },
+      "id": "14035050",
+      "localidad_censal": {
+        "id": "14035050",
+        "nombre": "Italó"
+      },
+      "municipio": {
+        "id": "140231",
+        "nombre": "Italó"
+      },
+      "nombre": "Italó",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.4812565933205,
+        "lon": -64.1706963757217
+      },
+      "departamento": {
+        "id": "14035",
+        "nombre": "General Roca"
+      },
+      "id": "14035060",
+      "localidad_censal": {
+        "id": "14035060",
+        "nombre": "Mattaldi"
+      },
+      "municipio": {
+        "id": "140245",
+        "nombre": "Mattaldi"
+      },
+      "nombre": "Mattaldi",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.4404202357062,
+        "lon": -64.3416413140051
+      },
+      "departamento": {
+        "id": "14035",
+        "nombre": "General Roca"
+      },
+      "id": "14035070",
+      "localidad_censal": {
+        "id": "14035070",
+        "nombre": "Nicolás Bruzzone"
+      },
+      "municipio": {
+        "id": "142224",
+        "nombre": "Nicolás Bruzzone"
+      },
+      "nombre": "Nicolás Bruzzone",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.7726306535037,
+        "lon": -63.6721545267546
+      },
+      "departamento": {
+        "id": "14035",
+        "nombre": "General Roca"
+      },
+      "id": "14035080",
+      "localidad_censal": {
+        "id": "14035080",
+        "nombre": "Onagoity"
+      },
+      "municipio": {
+        "id": "142231",
+        "nombre": "Onagoity"
+      },
+      "nombre": "Onagoity",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.838183614786,
+        "lon": -63.9165630450065
+      },
+      "departamento": {
+        "id": "14035",
+        "nombre": "General Roca"
+      },
+      "id": "14035090",
+      "localidad_censal": {
+        "id": "14035090",
+        "nombre": "Pincén"
+      },
+      "municipio": {
+        "id": "142238",
+        "nombre": "Pincén"
+      },
+      "nombre": "Pincén",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.8426586423884,
+        "lon": -64.100317162126
+      },
+      "departamento": {
+        "id": "14035",
+        "nombre": "General Roca"
+      },
+      "id": "14035100",
+      "localidad_censal": {
+        "id": "14035100",
+        "nombre": "Ranqueles"
+      },
+      "municipio": {
+        "id": "142245",
+        "nombre": "Ranqueles"
+      },
+      "nombre": "Ranqueles",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14035"
+    ]
+  },
+  "total": 14
+}

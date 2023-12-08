@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.5511845454801,
+        "lon": -66.2271088648992
+      },
+      "departamento": {
+        "id": "42091",
+        "nombre": "Limay Mahuida"
+      },
+      "id": "42091010",
+      "localidad_censal": {
+        "id": "42091010",
+        "nombre": "La Reforma"
+      },
+      "municipio": {
+        "id": "425077",
+        "nombre": "La Reforma"
+      },
+      "nombre": "La Reforma",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.1598303700809,
+        "lon": -66.6751236820745
+      },
+      "departamento": {
+        "id": "42091",
+        "nombre": "Limay Mahuida"
+      },
+      "id": "42091020",
+      "localidad_censal": {
+        "id": "42091020",
+        "nombre": "Limay Mahuida"
+      },
+      "municipio": {
+        "id": "425084",
+        "nombre": "Limay Mahuida"
+      },
+      "nombre": "Limay Mahuida",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42091"
+    ]
+  },
+  "total": 2
+}

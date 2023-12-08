@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.4197846057917,
+        "lon": -69.1642676734883
+      },
+      "departamento": {
+        "id": "26070",
+        "nombre": "Paso de Indios"
+      },
+      "id": "26070010",
+      "localidad_censal": {
+        "id": "26070010",
+        "nombre": "Cerro Cóndor"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Cerro Cóndor",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.8861146804746,
+        "lon": -68.4116439963048
+      },
+      "departamento": {
+        "id": "26070",
+        "nombre": "Paso de Indios"
+      },
+      "id": "26070020",
+      "localidad_censal": {
+        "id": "26070020",
+        "nombre": "Los Altares"
+      },
+      "municipio": {
+        "id": "268084",
+        "nombre": "Los Altares"
+      },
+      "nombre": "Los Altares",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.8643860057353,
+        "lon": -69.0465861742933
+      },
+      "departamento": {
+        "id": "26070",
+        "nombre": "Paso de Indios"
+      },
+      "id": "26070030",
+      "localidad_censal": {
+        "id": "26070030",
+        "nombre": "Paso de Indios"
+      },
+      "municipio": {
+        "id": "265021",
+        "nombre": "Paso de Indios"
+      },
+      "nombre": "Paso de Indios",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "26070"
+    ]
+  },
+  "total": 3
+}

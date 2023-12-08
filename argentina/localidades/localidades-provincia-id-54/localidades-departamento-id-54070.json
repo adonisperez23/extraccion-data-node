@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5081178906152,
+        "lon": -55.4035236654766
+      },
+      "departamento": {
+        "id": "54070",
+        "nombre": "Leandro N. Alem"
+      },
+      "id": "54070010",
+      "localidad_censal": {
+        "id": "54070010",
+        "nombre": "Almafuerte"
+      },
+      "municipio": {
+        "id": "540238",
+        "nombre": "Almafuerte"
+      },
+      "nombre": "Almafuerte",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4848753058028,
+        "lon": -55.2989609617802
+      },
+      "departamento": {
+        "id": "54070",
+        "nombre": "Leandro N. Alem"
+      },
+      "id": "54070030",
+      "localidad_censal": {
+        "id": "54070030",
+        "nombre": "Caá - Yarí"
+      },
+      "municipio": {
+        "id": "540252",
+        "nombre": "Caá Yarí"
+      },
+      "nombre": "Caá - Yarí",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.6335752411436,
+        "lon": -55.4974159907849
+      },
+      "departamento": {
+        "id": "54070",
+        "nombre": "Leandro N. Alem"
+      },
+      "id": "54070040",
+      "localidad_censal": {
+        "id": "54070040",
+        "nombre": "Cerro Azul"
+      },
+      "municipio": {
+        "id": "540259",
+        "nombre": "Cerro Azul"
+      },
+      "nombre": "Cerro Azul",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.6990752244098,
+        "lon": -55.251821768321
+      },
+      "departamento": {
+        "id": "54070",
+        "nombre": "Leandro N. Alem"
+      },
+      "id": "54070050",
+      "localidad_censal": {
+        "id": "54070050",
+        "nombre": "Dos Arroyos"
+      },
+      "municipio": {
+        "id": "540266",
+        "nombre": "Dos Arroyos"
+      },
+      "nombre": "Dos Arroyos",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.6663565740309,
+        "lon": -55.2134709752043
+      },
+      "departamento": {
+        "id": "54070",
+        "nombre": "Leandro N. Alem"
+      },
+      "id": "54070060",
+      "localidad_censal": {
+        "id": "54070060",
+        "nombre": "Gobernador López"
+      },
+      "municipio": {
+        "id": "540273",
+        "nombre": "Gobernador López"
+      },
+      "nombre": "Gobernador López",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.6037316512863,
+        "lon": -55.3236193379634
+      },
+      "departamento": {
+        "id": "54070",
+        "nombre": "Leandro N. Alem"
+      },
+      "id": "54070070",
+      "localidad_censal": {
+        "id": "54070070",
+        "nombre": "Leandro N. Alem"
+      },
+      "municipio": {
+        "id": "540280",
+        "nombre": "Leandro N. Alem"
+      },
+      "nombre": "Leandro N. Alem",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5675867451281,
+        "lon": -55.5022799674985
+      },
+      "departamento": {
+        "id": "54070",
+        "nombre": "Leandro N. Alem"
+      },
+      "id": "54070080",
+      "localidad_censal": {
+        "id": "54070080",
+        "nombre": "Olegario V. Andrade"
+      },
+      "municipio": {
+        "id": "540287",
+        "nombre": "Olegario V. Andrade"
+      },
+      "nombre": "Olegario V. Andrade",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.5654351670216,
+        "lon": -55.3201980962383
+      },
+      "departamento": {
+        "id": "54070",
+        "nombre": "Leandro N. Alem"
+      },
+      "id": "54070090",
+      "localidad_censal": {
+        "id": "54070090",
+        "nombre": "Villa Libertad"
+      },
+      "municipio": {
+        "id": "540280",
+        "nombre": "Leandro N. Alem"
+      },
+      "nombre": "Villa Libertad",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.6982566288122,
+        "lon": -55.4048641020127
+      },
+      "departamento": {
+        "id": "54070",
+        "nombre": "Leandro N. Alem"
+      },
+      "id": "54070020",
+      "localidad_censal": {
+        "id": "54070020",
+        "nombre": "Arroyo del Medio"
+      },
+      "municipio": {
+        "id": "540245",
+        "nombre": "Arroyo del Medio"
+      },
+      "nombre": "Arroyo del Medio",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "54070"
+    ]
+  },
+  "total": 9
+}

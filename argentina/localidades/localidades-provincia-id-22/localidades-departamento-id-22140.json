@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.485106065975,
+        "lon": -58.9307362641928
+      },
+      "departamento": {
+        "id": "22140",
+        "nombre": "San Fernando"
+      },
+      "id": "22140010",
+      "localidad_censal": {
+        "id": "22140010",
+        "nombre": "Barranqueras"
+      },
+      "municipio": {
+        "id": "220385",
+        "nombre": "Barranqueras"
+      },
+      "nombre": "Barranqueras",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.887604311928,
+        "lon": -59.2814720308718
+      },
+      "departamento": {
+        "id": "22140",
+        "nombre": "San Fernando"
+      },
+      "id": "22140020",
+      "localidad_censal": {
+        "id": "22140020",
+        "nombre": "Basail"
+      },
+      "municipio": {
+        "id": "220392",
+        "nombre": "Basail"
+      },
+      "nombre": "Basail",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.559706609019,
+        "lon": -59.307924278637
+      },
+      "departamento": {
+        "id": "22140",
+        "nombre": "San Fernando"
+      },
+      "id": "22140030",
+      "localidad_censal": {
+        "id": "22140030",
+        "nombre": "Colonia Baranda"
+      },
+      "municipio": {
+        "id": "220413",
+        "nombre": "Resistencia"
+      },
+      "nombre": "Colonia Baranda",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.4202374033126,
+        "lon": -59.0373912551351
+      },
+      "departamento": {
+        "id": "22140",
+        "nombre": "San Fernando"
+      },
+      "id": "22140040",
+      "localidad_censal": {
+        "id": "22140040",
+        "nombre": "Fontana"
+      },
+      "municipio": {
+        "id": "220399",
+        "nombre": "Fontana"
+      },
+      "nombre": "Fontana",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.5108391447737,
+        "lon": -58.9417159117382
+      },
+      "departamento": {
+        "id": "22140",
+        "nombre": "San Fernando"
+      },
+      "id": "22140050",
+      "localidad_censal": {
+        "id": "22140050",
+        "nombre": "Puerto Vilelas"
+      },
+      "municipio": {
+        "id": "220406",
+        "nombre": "Puerto Vilelas"
+      },
+      "nombre": "Puerto Vilelas",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.4510757112285,
+        "lon": -58.9864835287395
+      },
+      "departamento": {
+        "id": "22140",
+        "nombre": "San Fernando"
+      },
+      "id": "22140060",
+      "localidad_censal": {
+        "id": "22140060",
+        "nombre": "Resistencia"
+      },
+      "municipio": {
+        "id": "220413",
+        "nombre": "Resistencia"
+      },
+      "nombre": "Resistencia",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22140"
+    ]
+  },
+  "total": 6
+}

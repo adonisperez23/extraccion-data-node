@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.0795683976378,
+        "lon": -65.3930915193853
+      },
+      "departamento": {
+        "id": "66084",
+        "nombre": "La Candelaria"
+      },
+      "id": "66084010",
+      "localidad_censal": {
+        "id": "66084010",
+        "nombre": "El Jardí­n"
+      },
+      "municipio": {
+        "id": "660203",
+        "nombre": "El Jardín"
+      },
+      "nombre": "El Jardín",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.1122115954183,
+        "lon": -65.277838620521
+      },
+      "departamento": {
+        "id": "66084",
+        "nombre": "La Candelaria"
+      },
+      "id": "66084020",
+      "localidad_censal": {
+        "id": "66084020",
+        "nombre": "El Tala"
+      },
+      "municipio": {
+        "id": "660210",
+        "nombre": "El Tala"
+      },
+      "nombre": "El Tala",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.1273433014677,
+        "lon": -65.0513221032961
+      },
+      "departamento": {
+        "id": "66084",
+        "nombre": "La Candelaria"
+      },
+      "id": "66084030",
+      "localidad_censal": {
+        "id": "66084030",
+        "nombre": "La Candelaria"
+      },
+      "municipio": {
+        "id": "660217",
+        "nombre": "La Candelaria"
+      },
+      "nombre": "La Candelaria",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66084"
+    ]
+  },
+  "total": 3
+}

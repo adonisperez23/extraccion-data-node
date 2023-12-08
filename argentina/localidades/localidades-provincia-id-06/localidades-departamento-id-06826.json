@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.8526319389224,
+        "lon": -62.5123780756247
+      },
+      "departamento": {
+        "id": "06826",
+        "nombre": "Trenque Lauquen"
+      },
+      "id": "06826010",
+      "localidad_censal": {
+        "id": "06826010",
+        "nombre": "Berutti"
+      },
+      "municipio": {
+        "id": "060826",
+        "nombre": "Trenque Lauquen"
+      },
+      "nombre": "Berutti",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.3657483912208,
+        "lon": -62.3580799980758
+      },
+      "departamento": {
+        "id": "06826",
+        "nombre": "Trenque Lauquen"
+      },
+      "id": "06826020",
+      "localidad_censal": {
+        "id": "06826020",
+        "nombre": "Girodias"
+      },
+      "municipio": {
+        "id": "060826",
+        "nombre": "Trenque Lauquen"
+      },
+      "nombre": "Girodias",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.2037313602021,
+        "lon": -62.2354636261776
+      },
+      "departamento": {
+        "id": "06826",
+        "nombre": "Trenque Lauquen"
+      },
+      "id": "06826030",
+      "localidad_censal": {
+        "id": "06826030",
+        "nombre": "La Carreta"
+      },
+      "municipio": {
+        "id": "060826",
+        "nombre": "Trenque Lauquen"
+      },
+      "nombre": "La Carreta",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.2786476447172,
+        "lon": -62.5452240043378
+      },
+      "departamento": {
+        "id": "06826",
+        "nombre": "Trenque Lauquen"
+      },
+      "id": "06826040",
+      "localidad_censal": {
+        "id": "06826040",
+        "nombre": "30 de Agosto"
+      },
+      "municipio": {
+        "id": "060826",
+        "nombre": "Trenque Lauquen"
+      },
+      "nombre": "30 de Agosto",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.9733358976997,
+        "lon": -62.7327450532285
+      },
+      "departamento": {
+        "id": "06826",
+        "nombre": "Trenque Lauquen"
+      },
+      "id": "06826050",
+      "localidad_censal": {
+        "id": "06826050",
+        "nombre": "Trenque Lauquen"
+      },
+      "municipio": {
+        "id": "060826",
+        "nombre": "Trenque Lauquen"
+      },
+      "nombre": "Trenque Lauquen",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.4631732121695,
+        "lon": -62.4847272635948
+      },
+      "departamento": {
+        "id": "06826",
+        "nombre": "Trenque Lauquen"
+      },
+      "id": "06826060",
+      "localidad_censal": {
+        "id": "06826060",
+        "nombre": "Trongé"
+      },
+      "municipio": {
+        "id": "060826",
+        "nombre": "Trenque Lauquen"
+      },
+      "nombre": "Trongé",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06826"
+    ]
+  },
+  "total": 6
+}

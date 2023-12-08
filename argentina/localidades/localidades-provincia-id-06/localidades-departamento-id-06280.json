@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.1105497829762,
+        "lon": -57.8412456081091
+      },
+      "departamento": {
+        "id": "06280",
+        "nombre": "General Alvarado"
+      },
+      "id": "06280010",
+      "localidad_censal": {
+        "id": "06280010",
+        "nombre": "Comandante Nicanor Otamendi"
+      },
+      "municipio": {
+        "id": "060280",
+        "nombre": "General Alvarado"
+      },
+      "nombre": "Comandante Nicanor Otamendi",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.3436564818437,
+        "lon": -57.9922085405886
+      },
+      "departamento": {
+        "id": "06280",
+        "nombre": "General Alvarado"
+      },
+      "id": "06280020",
+      "localidad_censal": {
+        "id": "06280020",
+        "nombre": "Mar del Sur"
+      },
+      "municipio": {
+        "id": "060280",
+        "nombre": "General Alvarado"
+      },
+      "nombre": "Mar del Sur",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.1462221837222,
+        "lon": -58.2292434320568
+      },
+      "departamento": {
+        "id": "06280",
+        "nombre": "General Alvarado"
+      },
+      "id": "06280030",
+      "localidad_censal": {
+        "id": "06280030",
+        "nombre": "Mechongué"
+      },
+      "municipio": {
+        "id": "060280",
+        "nombre": "General Alvarado"
+      },
+      "nombre": "Mechongué",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -38.2704610177891,
+        "lon": -57.8398544548104
+      },
+      "departamento": {
+        "id": "06280",
+        "nombre": "General Alvarado"
+      },
+      "id": "06280040",
+      "localidad_censal": {
+        "id": "06280040",
+        "nombre": "Miramar"
+      },
+      "municipio": {
+        "id": "060280",
+        "nombre": "General Alvarado"
+      },
+      "nombre": "Miramar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06280"
+    ]
+  },
+  "total": 4
+}

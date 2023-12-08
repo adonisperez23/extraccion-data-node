@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4610600630558,
+        "lon": -58.8675740610966
+      },
+      "departamento": {
+        "id": "22126",
+        "nombre": "1° de Mayo"
+      },
+      "id": "22126010",
+      "localidad_censal": {
+        "id": "22126010",
+        "nombre": "Barrio de los Pescadores"
+      },
+      "municipio": {
+        "id": "220364",
+        "nombre": "Colonia Benítez"
+      },
+      "nombre": "Barrio de los Pescadores",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3326007424094,
+        "lon": -58.9463894200742
+      },
+      "departamento": {
+        "id": "22126",
+        "nombre": "1° de Mayo"
+      },
+      "id": "22126020",
+      "localidad_censal": {
+        "id": "22126020",
+        "nombre": "Colonia Benítez"
+      },
+      "municipio": {
+        "id": "220364",
+        "nombre": "Colonia Benítez"
+      },
+      "nombre": "Colonia Benítez",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2590568299922,
+        "lon": -58.9705547398788
+      },
+      "departamento": {
+        "id": "22126",
+        "nombre": "1° de Mayo"
+      },
+      "id": "22126030",
+      "localidad_censal": {
+        "id": "22126030",
+        "nombre": "Margarita Belén"
+      },
+      "municipio": {
+        "id": "220371",
+        "nombre": "Margarita Belén"
+      },
+      "nombre": "Margarita Belén",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22126"
+    ]
+  },
+  "total": 3
+}

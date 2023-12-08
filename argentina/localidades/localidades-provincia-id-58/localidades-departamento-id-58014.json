@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.9986747837372,
+        "lon": -68.9229085970042
+      },
+      "departamento": {
+        "id": "58014",
+        "nombre": "Añelo"
+      },
+      "id": "58014005",
+      "localidad_censal": {
+        "id": "58014005",
+        "nombre": "Aguada San Roque"
+      },
+      "municipio": {
+        "id": "585014",
+        "nombre": "Aguada San Roque"
+      },
+      "nombre": "Aguada San Roque",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.3542558992197,
+        "lon": -68.7875430769173
+      },
+      "departamento": {
+        "id": "58014",
+        "nombre": "Añelo"
+      },
+      "id": "58014010",
+      "localidad_censal": {
+        "id": "58014010",
+        "nombre": "Añelo"
+      },
+      "municipio": {
+        "id": "580014",
+        "nombre": "Añelo"
+      },
+      "nombre": "Añelo",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.6258755330047,
+        "lon": -68.2998950009414
+      },
+      "departamento": {
+        "id": "58014",
+        "nombre": "Añelo"
+      },
+      "id": "58014020",
+      "localidad_censal": {
+        "id": "58014020",
+        "nombre": "San Patricio del Chañar"
+      },
+      "municipio": {
+        "id": "580021",
+        "nombre": "San Patricio del Chañar"
+      },
+      "nombre": "San Patricio del Chañar",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "58014"
+    ]
+  },
+  "total": 3
+}

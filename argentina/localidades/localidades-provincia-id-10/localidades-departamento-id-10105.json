@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.1754144915285,
+        "lon": -67.488040108495
+      },
+      "departamento": {
+        "id": "10105",
+        "nombre": "Tinogasta"
+      },
+      "id": "1010505001",
+      "localidad_censal": {
+        "id": "10105050",
+        "nombre": "Copacabana"
+      },
+      "municipio": {
+        "id": "100231",
+        "nombre": "Tinogasta"
+      },
+      "nombre": "Copacabana",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.1293308829888,
+        "lon": -67.4997563754494
+      },
+      "departamento": {
+        "id": "10105",
+        "nombre": "Tinogasta"
+      },
+      "id": "1010505002",
+      "localidad_censal": {
+        "id": "10105050",
+        "nombre": "Copacabana"
+      },
+      "municipio": {
+        "id": "100231",
+        "nombre": "Tinogasta"
+      },
+      "nombre": "La Puntilla",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -27.689455422133,
+        "lon": -67.6191480212882
+      },
+      "departamento": {
+        "id": "10105",
+        "nombre": "Tinogasta"
+      },
+      "id": "1010511001",
+      "localidad_censal": {
+        "id": "10105110",
+        "nombre": "Fiambalá"
+      },
+      "municipio": {
+        "id": "100224",
+        "nombre": "Fiambalá"
+      },
+      "nombre": "Fiambalá",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -27.684459770281,
+        "lon": -67.6194392541928
+      },
+      "departamento": {
+        "id": "10105",
+        "nombre": "Tinogasta"
+      },
+      "id": "1010511002",
+      "localidad_censal": {
+        "id": "10105110",
+        "nombre": "Fiambalá"
+      },
+      "municipio": {
+        "id": "100224",
+        "nombre": "Fiambalá"
+      },
+      "nombre": "La Ramadita",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -27.6525269917378,
+        "lon": -67.6147649623261
+      },
+      "departamento": {
+        "id": "10105",
+        "nombre": "Tinogasta"
+      },
+      "id": "1010511003",
+      "localidad_censal": {
+        "id": "10105110",
+        "nombre": "Fiambalá"
+      },
+      "municipio": {
+        "id": "100224",
+        "nombre": "Fiambalá"
+      },
+      "nombre": "Pampa Blanca",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9088142529684,
+        "lon": -67.6219226179066
+      },
+      "departamento": {
+        "id": "10105",
+        "nombre": "Tinogasta"
+      },
+      "id": "10105010",
+      "localidad_censal": {
+        "id": "10105010",
+        "nombre": "Anillaco"
+      },
+      "municipio": {
+        "id": "100231",
+        "nombre": "Tinogasta"
+      },
+      "nombre": "Anillaco",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.176530983121,
+        "lon": -67.4880187051839
+      },
+      "departamento": {
+        "id": "10105",
+        "nombre": "Tinogasta"
+      },
+      "id": "10105050",
+      "localidad_censal": {
+        "id": "10105050",
+        "nombre": "Copacabana"
+      },
+      "municipio": {
+        "id": "100231",
+        "nombre": "Tinogasta"
+      },
+      "nombre": "Copacabana",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9550333468616,
+        "lon": -67.6336797895228
+      },
+      "departamento": {
+        "id": "10105",
+        "nombre": "Tinogasta"
+      },
+      "id": "10105090",
+      "localidad_censal": {
+        "id": "10105090",
+        "nombre": "El Puesto"
+      },
+      "municipio": {
+        "id": "100231",
+        "nombre": "Tinogasta"
+      },
+      "nombre": "El Puesto",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.3045192414539,
+        "lon": -67.2473765659508
+      },
+      "departamento": {
+        "id": "10105",
+        "nombre": "Tinogasta"
+      },
+      "id": "10105100",
+      "localidad_censal": {
+        "id": "10105100",
+        "nombre": "El Salado"
+      },
+      "municipio": {
+        "id": "100231",
+        "nombre": "Tinogasta"
+      },
+      "nombre": "El Salado",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.6921933516025,
+        "lon": -67.6189063888481
+      },
+      "departamento": {
+        "id": "10105",
+        "nombre": "Tinogasta"
+      },
+      "id": "10105110",
+      "localidad_censal": {
+        "id": "10105110",
+        "nombre": "Fiambalá"
+      },
+      "municipio": {
+        "id": "100224",
+        "nombre": "Fiambalá"
+      },
+      "nombre": "Fiambalá",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "10105"
+    ]
+  },
+  "total": 14
+}

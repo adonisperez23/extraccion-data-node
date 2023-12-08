@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.3153891841286,
+        "lon": -57.6754615550973
+      },
+      "departamento": {
+        "id": "06238",
+        "nombre": "Dolores"
+      },
+      "id": "06238010",
+      "localidad_censal": {
+        "id": "06238010",
+        "nombre": "Dolores"
+      },
+      "municipio": {
+        "id": "060238",
+        "nombre": "Dolores"
+      },
+      "nombre": "Dolores",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.20692525136,
+        "lon": -57.7426997674509
+      },
+      "departamento": {
+        "id": "06238",
+        "nombre": "Dolores"
+      },
+      "id": "06238020",
+      "localidad_censal": {
+        "id": "06238020",
+        "nombre": "Sevigné"
+      },
+      "municipio": {
+        "id": "060238",
+        "nombre": "Dolores"
+      },
+      "nombre": "Sevigne",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06238"
+    ]
+  },
+  "total": 2
+}

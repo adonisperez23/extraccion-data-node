@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7109020476087,
+        "lon": -58.2833921197232
+      },
+      "departamento": {
+        "id": "06658",
+        "nombre": "Quilmes"
+      },
+      "id": "0665801001",
+      "localidad_censal": {
+        "id": "06658010",
+        "nombre": "Quilmes"
+      },
+      "municipio": {
+        "id": "060658",
+        "nombre": "Quilmes"
+      },
+      "nombre": "Bernal",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7262969677185,
+        "lon": -58.3179142977182
+      },
+      "departamento": {
+        "id": "06658",
+        "nombre": "Quilmes"
+      },
+      "id": "0665801002",
+      "localidad_censal": {
+        "id": "06658010",
+        "nombre": "Quilmes"
+      },
+      "municipio": {
+        "id": "060658",
+        "nombre": "Quilmes"
+      },
+      "nombre": "Bernal Oeste",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7044652823354,
+        "lon": -58.297585163768
+      },
+      "departamento": {
+        "id": "06658",
+        "nombre": "Quilmes"
+      },
+      "id": "0665801003",
+      "localidad_censal": {
+        "id": "06658010",
+        "nombre": "Quilmes"
+      },
+      "municipio": {
+        "id": "060658",
+        "nombre": "Quilmes"
+      },
+      "nombre": "Don Bosco",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7459431286802,
+        "lon": -58.2347948365317
+      },
+      "departamento": {
+        "id": "06658",
+        "nombre": "Quilmes"
+      },
+      "id": "0665801004",
+      "localidad_censal": {
+        "id": "06658010",
+        "nombre": "Quilmes"
+      },
+      "municipio": {
+        "id": "060658",
+        "nombre": "Quilmes"
+      },
+      "nombre": "Ezpeleta",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7572131736828,
+        "lon": -58.2639566525405
+      },
+      "departamento": {
+        "id": "06658",
+        "nombre": "Quilmes"
+      },
+      "id": "0665801005",
+      "localidad_censal": {
+        "id": "06658010",
+        "nombre": "Quilmes"
+      },
+      "municipio": {
+        "id": "060658",
+        "nombre": "Quilmes"
+      },
+      "nombre": "Ezpeleta Oeste",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7200676236621,
+        "lon": -58.254346982141
+      },
+      "departamento": {
+        "id": "06658",
+        "nombre": "Quilmes"
+      },
+      "id": "0665801006",
+      "localidad_censal": {
+        "id": "06658010",
+        "nombre": "Quilmes"
+      },
+      "municipio": {
+        "id": "060658",
+        "nombre": "Quilmes"
+      },
+      "nombre": "Quilmes",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7460539876027,
+        "lon": -58.2991252702126
+      },
+      "departamento": {
+        "id": "06658",
+        "nombre": "Quilmes"
+      },
+      "id": "0665801007",
+      "localidad_censal": {
+        "id": "06658010",
+        "nombre": "Quilmes"
+      },
+      "municipio": {
+        "id": "060658",
+        "nombre": "Quilmes"
+      },
+      "nombre": "Quilmes Oeste",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.779761074641,
+        "lon": -58.3111614659955
+      },
+      "departamento": {
+        "id": "06658",
+        "nombre": "Quilmes"
+      },
+      "id": "0665801008",
+      "localidad_censal": {
+        "id": "06658010",
+        "nombre": "Quilmes"
+      },
+      "municipio": {
+        "id": "060658",
+        "nombre": "Quilmes"
+      },
+      "nombre": "San Francisco Solano",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7722703998346,
+        "lon": -58.292930614461
+      },
+      "departamento": {
+        "id": "06658",
+        "nombre": "Quilmes"
+      },
+      "id": "0665801009",
+      "localidad_censal": {
+        "id": "06658010",
+        "nombre": "Quilmes"
+      },
+      "municipio": {
+        "id": "060658",
+        "nombre": "Quilmes"
+      },
+      "nombre": "Villa La Florida",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.7188582530574,
+        "lon": -58.2603653095576
+      },
+      "departamento": {
+        "id": "06658",
+        "nombre": "Quilmes"
+      },
+      "id": "06658010",
+      "localidad_censal": {
+        "id": "06658010",
+        "nombre": "Quilmes"
+      },
+      "municipio": {
+        "id": "060658",
+        "nombre": "Quilmes"
+      },
+      "nombre": "Quilmes",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06658"
+    ]
+  },
+  "total": 10
+}

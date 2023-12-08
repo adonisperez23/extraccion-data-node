@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0302817532627,
+        "lon": -61.2243286280213
+      },
+      "departamento": {
+        "id": "82105",
+        "nombre": "San Jerónimo"
+      },
+      "id": "82105130",
+      "localidad_censal": {
+        "id": "82105130",
+        "nombre": "Gálvez"
+      },
+      "municipio": {
+        "id": "820252",
+        "nombre": "Gálvez"
+      },
+      "nombre": "Gálvez",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.874298950578,
+        "lon": -61.1268640195101
+      },
+      "departamento": {
+        "id": "82105",
+        "nombre": "San Jerónimo"
+      },
+      "id": "82105140",
+      "localidad_censal": {
+        "id": "82105140",
+        "nombre": "Gessler"
+      },
+      "municipio": {
+        "id": "823785",
+        "nombre": "Gessler"
+      },
+      "nombre": "Gessler",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.2429521983324,
+        "lon": -60.9233125810172
+      },
+      "departamento": {
+        "id": "82105",
+        "nombre": "San Jerónimo"
+      },
+      "id": "82105210",
+      "localidad_censal": {
+        "id": "82105210",
+        "nombre": "Puerto Aragón"
+      },
+      "municipio": {
+        "id": "823729",
+        "nombre": "Barrancas"
+      },
+      "nombre": "Puerto Aragón",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.360370426828,
+        "lon": -60.9428302735559
+      },
+      "departamento": {
+        "id": "82105",
+        "nombre": "San Jerónimo"
+      },
+      "id": "82105200",
+      "localidad_censal": {
+        "id": "82105200",
+        "nombre": "Monje"
+      },
+      "municipio": {
+        "id": "823827",
+        "nombre": "Monje"
+      },
+      "nombre": "Monje",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.9354149257383,
+        "lon": -61.0457516456142
+      },
+      "departamento": {
+        "id": "82105",
+        "nombre": "San Jerónimo"
+      },
+      "id": "82105160",
+      "localidad_censal": {
+        "id": "82105160",
+        "nombre": "Larrechea"
+      },
+      "municipio": {
+        "id": "823799",
+        "nombre": "Larrechea"
+      },
+      "nombre": "Larrechea",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0761717565379,
+        "lon": -61.1157987861191
+      },
+      "departamento": {
+        "id": "82105",
+        "nombre": "San Jerónimo"
+      },
+      "id": "82105220",
+      "localidad_censal": {
+        "id": "82105220",
+        "nombre": "San Eugenio"
+      },
+      "municipio": {
+        "id": "823834",
+        "nombre": "San Eugenio"
+      },
+      "nombre": "San Eugenio",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.9744848131131,
+        "lon": -60.9160919168416
+      },
+      "departamento": {
+        "id": "82105",
+        "nombre": "San Jerónimo"
+      },
+      "id": "82105090",
+      "localidad_censal": {
+        "id": "82105090",
+        "nombre": "Coronda"
+      },
+      "municipio": {
+        "id": "820245",
+        "nombre": "Coronda"
+      },
+      "nombre": "Coronda",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -32.3716513477851,
+        "lon": -61.3599440342638
+      },
+      "departamento": {
+        "id": "82105",
+        "nombre": "San Jerónimo"
+      },
+      "id": "82105240",
+      "localidad_censal": {
+        "id": "82105240",
+        "nombre": "San Genaro"
+      },
+      "municipio": {
+        "id": "820256",
+        "nombre": "San Genaro"
+      },
+      "nombre": "San Genaro",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.4568417564494,
+        "lon": -60.8924601993888
+      },
+      "departamento": {
+        "id": "82105",
+        "nombre": "San Jerónimo"
+      },
+      "id": "82105190",
+      "localidad_censal": {
+        "id": "82105190",
+        "nombre": "Maciel"
+      },
+      "municipio": {
+        "id": "823820",
+        "nombre": "Maciel"
+      },
+      "nombre": "Maciel",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.8705513326584,
+        "lon": -60.8892460452894
+      },
+      "departamento": {
+        "id": "82105",
+        "nombre": "San Jerónimo"
+      },
+      "id": "82105100",
+      "localidad_censal": {
+        "id": "82105100",
+        "nombre": "Desvío Arijón"
+      },
+      "municipio": {
+        "id": "823764",
+        "nombre": "Desvío Arijón"
+      },
+      "nombre": "Desvío Arijón",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "82105"
+    ]
+  },
+  "total": 25
+}

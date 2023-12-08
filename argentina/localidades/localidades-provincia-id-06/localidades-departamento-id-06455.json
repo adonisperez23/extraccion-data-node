@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.9404610890436,
+        "lon": -59.0680868874242
+      },
+      "departamento": {
+        "id": "06455",
+        "nombre": "Las Flores"
+      },
+      "id": "06455010",
+      "localidad_censal": {
+        "id": "06455010",
+        "nombre": "Coronel Boerr"
+      },
+      "municipio": {
+        "id": "060455",
+        "nombre": "Las Flores"
+      },
+      "nombre": "Coronel Boerr",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.8802756225975,
+        "lon": -59.4060705269642
+      },
+      "departamento": {
+        "id": "06455",
+        "nombre": "Las Flores"
+      },
+      "id": "06455020",
+      "localidad_censal": {
+        "id": "06455020",
+        "nombre": "El Trigo"
+      },
+      "municipio": {
+        "id": "060455",
+        "nombre": "Las Flores"
+      },
+      "nombre": "El Trigo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.0142687533086,
+        "lon": -59.0998639774757
+      },
+      "departamento": {
+        "id": "06455",
+        "nombre": "Las Flores"
+      },
+      "id": "06455030",
+      "localidad_censal": {
+        "id": "06455030",
+        "nombre": "Las Flores"
+      },
+      "municipio": {
+        "id": "060455",
+        "nombre": "Las Flores"
+      },
+      "nombre": "Las Flores",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.2450411112589,
+        "lon": -59.3650350514132
+      },
+      "departamento": {
+        "id": "06455",
+        "nombre": "Las Flores"
+      },
+      "id": "06455040",
+      "localidad_censal": {
+        "id": "06455040",
+        "nombre": "Pardo"
+      },
+      "municipio": {
+        "id": "060455",
+        "nombre": "Las Flores"
+      },
+      "nombre": "Pardo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06455"
+    ]
+  },
+  "total": 4
+}

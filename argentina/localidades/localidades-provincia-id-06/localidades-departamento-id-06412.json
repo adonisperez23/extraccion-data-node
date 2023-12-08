@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4760818203661,
+        "lon": -58.799352148364
+      },
+      "departamento": {
+        "id": "06412",
+        "nombre": "José C. Paz"
+      },
+      "id": "0641201001",
+      "localidad_censal": {
+        "id": "06412010",
+        "nombre": "Jose C. Paz"
+      },
+      "municipio": {
+        "id": "060412",
+        "nombre": "José C. Paz"
+      },
+      "nombre": "Del Viso",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5217463442325,
+        "lon": -58.7553740815986
+      },
+      "departamento": {
+        "id": "06412",
+        "nombre": "José C. Paz"
+      },
+      "id": "0641201002",
+      "localidad_censal": {
+        "id": "06412010",
+        "nombre": "Jose C. Paz"
+      },
+      "municipio": {
+        "id": "060412",
+        "nombre": "José C. Paz"
+      },
+      "nombre": "José C. Paz",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4882149333314,
+        "lon": -58.7782682636295
+      },
+      "departamento": {
+        "id": "06412",
+        "nombre": "José C. Paz"
+      },
+      "id": "0641201003",
+      "localidad_censal": {
+        "id": "06412010",
+        "nombre": "Jose C. Paz"
+      },
+      "municipio": {
+        "id": "060412",
+        "nombre": "José C. Paz"
+      },
+      "nombre": "Tortuguitas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.5231938431692,
+        "lon": -58.7519435027779
+      },
+      "departamento": {
+        "id": "06412",
+        "nombre": "José C. Paz"
+      },
+      "id": "06412010",
+      "localidad_censal": {
+        "id": "06412010",
+        "nombre": "Jose C. Paz"
+      },
+      "municipio": {
+        "id": "060412",
+        "nombre": "José C. Paz"
+      },
+      "nombre": "José C. Paz",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06412"
+    ]
+  },
+  "total": 4
+}

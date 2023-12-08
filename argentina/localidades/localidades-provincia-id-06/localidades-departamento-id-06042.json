@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.1527609912759,
+        "lon": -58.4883791747028
+      },
+      "departamento": {
+        "id": "06042",
+        "nombre": "Ayacucho"
+      },
+      "id": "06042010",
+      "localidad_censal": {
+        "id": "06042010",
+        "nombre": "Ayacucho"
+      },
+      "municipio": {
+        "id": "060042",
+        "nombre": "Ayacucho"
+      },
+      "nombre": "Ayacucho",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.2263465989733,
+        "lon": -58.7601044130598
+      },
+      "departamento": {
+        "id": "06042",
+        "nombre": "Ayacucho"
+      },
+      "id": "06042020",
+      "localidad_censal": {
+        "id": "06042020",
+        "nombre": "La Constancia"
+      },
+      "municipio": {
+        "id": "060042",
+        "nombre": "Ayacucho"
+      },
+      "nombre": "La Constancia",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.8428748553363,
+        "lon": -58.5081675690146
+      },
+      "departamento": {
+        "id": "06042",
+        "nombre": "Ayacucho"
+      },
+      "id": "06042030",
+      "localidad_censal": {
+        "id": "06042030",
+        "nombre": "Solanet"
+      },
+      "municipio": {
+        "id": "060042",
+        "nombre": "Ayacucho"
+      },
+      "nombre": "Solanet",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.5623679036851,
+        "lon": -58.5346963188253
+      },
+      "departamento": {
+        "id": "06042",
+        "nombre": "Ayacucho"
+      },
+      "id": "06042040",
+      "localidad_censal": {
+        "id": "06042040",
+        "nombre": "Udaquiola"
+      },
+      "municipio": {
+        "id": "060042",
+        "nombre": "Ayacucho"
+      },
+      "nombre": "Udaquiola",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06042"
+    ]
+  },
+  "total": 4
+}

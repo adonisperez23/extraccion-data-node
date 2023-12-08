@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.7700103267584,
+        "lon": -65.5884413470692
+      },
+      "departamento": {
+        "id": "90049",
+        "nombre": "La Cocha"
+      },
+      "id": "90049010",
+      "localidad_censal": {
+        "id": "90049010",
+        "nombre": "La Cocha"
+      },
+      "municipio": {
+        "id": "900063",
+        "nombre": "La Cocha"
+      },
+      "nombre": "La Cocha",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.7312204812804,
+        "lon": -65.5836838149417
+      },
+      "departamento": {
+        "id": "90049",
+        "nombre": "La Cocha"
+      },
+      "id": "90049020",
+      "localidad_censal": {
+        "id": "90049020",
+        "nombre": "San José de La Cocha"
+      },
+      "municipio": {
+        "id": "908259",
+        "nombre": "San José de la Cocha"
+      },
+      "nombre": "San José de La Cocha",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "90049"
+    ]
+  },
+  "total": 2
+}

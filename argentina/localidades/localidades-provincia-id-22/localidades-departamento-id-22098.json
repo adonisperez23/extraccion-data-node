@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.6822134077665,
+        "lon": -60.9043422133531
+      },
+      "departamento": {
+        "id": "22098",
+        "nombre": "Mayor Luis J. Fontana"
+      },
+      "id": "22098010",
+      "localidad_censal": {
+        "id": "22098010",
+        "nombre": "Coronel Du Graty"
+      },
+      "municipio": {
+        "id": "220308",
+        "nombre": "Coronel Du Graty"
+      },
+      "nombre": "Coronel Du Graty",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5566723947607,
+        "lon": -60.5269673722272
+      },
+      "departamento": {
+        "id": "22098",
+        "nombre": "Mayor Luis J. Fontana"
+      },
+      "id": "22098020",
+      "localidad_censal": {
+        "id": "22098020",
+        "nombre": "Enrique Urien"
+      },
+      "municipio": {
+        "id": "220315",
+        "nombre": "Enrique Urién"
+      },
+      "nombre": "Enrique Urien",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5768775556817,
+        "lon": -60.7111256657117
+      },
+      "departamento": {
+        "id": "22098",
+        "nombre": "Mayor Luis J. Fontana"
+      },
+      "id": "22098030",
+      "localidad_censal": {
+        "id": "22098030",
+        "nombre": "Villa Angela"
+      },
+      "municipio": {
+        "id": "220322",
+        "nombre": "Villa Ángela"
+      },
+      "nombre": "Villa Angela",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22098"
+    ]
+  },
+  "total": 3
+}

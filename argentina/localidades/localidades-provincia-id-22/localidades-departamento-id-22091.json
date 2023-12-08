@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.3403245622113,
+        "lon": -60.4312615293597
+      },
+      "departamento": {
+        "id": "22091",
+        "nombre": "Maipú"
+      },
+      "id": "22091010",
+      "localidad_censal": {
+        "id": "22091010",
+        "nombre": "Tres Isletas"
+      },
+      "municipio": {
+        "id": "220301",
+        "nombre": "Tres Isletas"
+      },
+      "nombre": "Tres Isletas",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22091"
+    ]
+  },
+  "total": 1
+}

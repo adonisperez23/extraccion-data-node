@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4258760157694,
+        "lon": -57.3381268072242
+      },
+      "departamento": {
+        "id": "18063",
+        "nombre": "General Paz"
+      },
+      "id": "18063010",
+      "localidad_censal": {
+        "id": "18063010",
+        "nombre": "Itá Ibaté"
+      },
+      "municipio": {
+        "id": "180119",
+        "nombre": "Itá Ibaté"
+      },
+      "nombre": "Itá Ibaté",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.7378846270323,
+        "lon": -57.9198968960182
+      },
+      "departamento": {
+        "id": "18063",
+        "nombre": "General Paz"
+      },
+      "id": "18063020",
+      "localidad_censal": {
+        "id": "18063020",
+        "nombre": "Lomas de Vallejos"
+      },
+      "municipio": {
+        "id": "180126",
+        "nombre": "Lomas de Vallejos"
+      },
+      "nombre": "Lomas de Vallejos",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.7521508451429,
+        "lon": -57.6219981561066
+      },
+      "departamento": {
+        "id": "18063",
+        "nombre": "General Paz"
+      },
+      "id": "18063030",
+      "localidad_censal": {
+        "id": "18063030",
+        "nombre": "Nuestra Señora del Rosario de Caá Catí"
+      },
+      "municipio": {
+        "id": "180112",
+        "nombre": "Caá Catí"
+      },
+      "nombre": "Nuestra Señora del Rosario de Caá Catí",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9412672870758,
+        "lon": -57.9009582059555
+      },
+      "departamento": {
+        "id": "18063",
+        "nombre": "General Paz"
+      },
+      "id": "18063040",
+      "localidad_censal": {
+        "id": "18063040",
+        "nombre": "Palmar Grande"
+      },
+      "municipio": {
+        "id": "180133",
+        "nombre": "Palmar Grande"
+      },
+      "nombre": "Palmar Grande",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18063"
+    ]
+  },
+  "total": 4
+}

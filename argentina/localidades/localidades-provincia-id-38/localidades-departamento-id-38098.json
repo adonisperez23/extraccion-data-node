@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.9822347118108,
+        "lon": -65.4524460878126
+      },
+      "departamento": {
+        "id": "38098",
+        "nombre": "Tumbaya"
+      },
+      "id": "38098010",
+      "localidad_censal": {
+        "id": "38098010",
+        "nombre": "Bárcena"
+      },
+      "municipio": {
+        "id": "386203",
+        "nombre": "Volcán"
+      },
+      "nombre": "Bárcena",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.8537061175809,
+        "lon": -65.8317966305947
+      },
+      "departamento": {
+        "id": "38098",
+        "nombre": "Tumbaya"
+      },
+      "id": "38098020",
+      "localidad_censal": {
+        "id": "38098020",
+        "nombre": "El Moreno"
+      },
+      "municipio": {
+        "id": "386179",
+        "nombre": "El Moreno"
+      },
+      "nombre": "El Moreno",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.5710031471094,
+        "lon": -65.6971246616178
+      },
+      "departamento": {
+        "id": "38098",
+        "nombre": "Tumbaya"
+      },
+      "id": "38098025",
+      "localidad_censal": {
+        "id": "38098025",
+        "nombre": "Puerta de Colorados"
+      },
+      "municipio": {
+        "id": "386179",
+        "nombre": "El Moreno"
+      },
+      "nombre": "Puerta de Colorados",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.7465944886986,
+        "lon": -65.4992001420397
+      },
+      "departamento": {
+        "id": "38098",
+        "nombre": "Tumbaya"
+      },
+      "id": "38098030",
+      "localidad_censal": {
+        "id": "38098030",
+        "nombre": "Purmamarca"
+      },
+      "municipio": {
+        "id": "386189",
+        "nombre": "Purmamarca"
+      },
+      "nombre": "Purmamarca",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.8576990380299,
+        "lon": -65.4675585233032
+      },
+      "departamento": {
+        "id": "38098",
+        "nombre": "Tumbaya"
+      },
+      "id": "38098040",
+      "localidad_censal": {
+        "id": "38098040",
+        "nombre": "Tumbaya"
+      },
+      "municipio": {
+        "id": "386196",
+        "nombre": "Tumbaya"
+      },
+      "nombre": "Tumbaya",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.91715334158,
+        "lon": -65.4640476047747
+      },
+      "departamento": {
+        "id": "38098",
+        "nombre": "Tumbaya"
+      },
+      "id": "38098050",
+      "localidad_censal": {
+        "id": "38098050",
+        "nombre": "Volcán"
+      },
+      "municipio": {
+        "id": "386203",
+        "nombre": "Volcán"
+      },
+      "nombre": "Volcán",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "38098"
+    ]
+  },
+  "total": 6
+}

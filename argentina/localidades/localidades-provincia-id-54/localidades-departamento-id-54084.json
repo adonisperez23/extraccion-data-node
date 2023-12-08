@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.5502969535792,
+        "lon": -54.6805451702411
+      },
+      "departamento": {
+        "id": "54084",
+        "nombre": "Montecarlo"
+      },
+      "id": "54084003",
+      "localidad_censal": {
+        "id": "54084003",
+        "nombre": "Barrio Cuatro Bocas"
+      },
+      "municipio": {
+        "id": "540343",
+        "nombre": "Montecarlo"
+      },
+      "nombre": "Barrio Cuatro Bocas",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.6055240102251,
+        "lon": -54.6987074403571
+      },
+      "departamento": {
+        "id": "54084",
+        "nombre": "Montecarlo"
+      },
+      "id": "54084005",
+      "localidad_censal": {
+        "id": "54084005",
+        "nombre": "Barrio Guatambu"
+      },
+      "municipio": {
+        "id": "540343",
+        "nombre": "Montecarlo"
+      },
+      "nombre": "Barrio Guatambu",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.5295241003043,
+        "lon": -54.7068049181182
+      },
+      "departamento": {
+        "id": "54084",
+        "nombre": "Montecarlo"
+      },
+      "id": "54084007",
+      "localidad_censal": {
+        "id": "54084007",
+        "nombre": "Bario Ita"
+      },
+      "municipio": {
+        "id": "540343",
+        "nombre": "Montecarlo"
+      },
+      "nombre": "Bario Ita",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.535391180415,
+        "lon": -54.6497388775023
+      },
+      "departamento": {
+        "id": "54084",
+        "nombre": "Montecarlo"
+      },
+      "id": "54084020",
+      "localidad_censal": {
+        "id": "54084020",
+        "nombre": "Laharrague"
+      },
+      "municipio": {
+        "id": "540343",
+        "nombre": "Montecarlo"
+      },
+      "nombre": "Laharrague",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.5666537204477,
+        "lon": -54.7661267981311
+      },
+      "departamento": {
+        "id": "54084",
+        "nombre": "Montecarlo"
+      },
+      "id": "54084030",
+      "localidad_censal": {
+        "id": "54084030",
+        "nombre": "Montecarlo"
+      },
+      "municipio": {
+        "id": "540343",
+        "nombre": "Montecarlo"
+      },
+      "nombre": "Montecarlo",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.5160511065749,
+        "lon": -54.591418605974
+      },
+      "departamento": {
+        "id": "54084",
+        "nombre": "Montecarlo"
+      },
+      "id": "54084040",
+      "localidad_censal": {
+        "id": "54084040",
+        "nombre": "Piray Kilómetro 18"
+      },
+      "municipio": {
+        "id": "540350",
+        "nombre": "Puerto Piray"
+      },
+      "nombre": "Piray Kilómetro 18",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.7174357097755,
+        "lon": -54.7200614261087
+      },
+      "departamento": {
+        "id": "54084",
+        "nombre": "Montecarlo"
+      },
+      "id": "54084060",
+      "localidad_censal": {
+        "id": "54084060",
+        "nombre": "Tarumá"
+      },
+      "municipio": {
+        "id": "540336",
+        "nombre": "Caraguatay"
+      },
+      "nombre": "Tarumá",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.498904586753,
+        "lon": -54.6783012691844
+      },
+      "departamento": {
+        "id": "54084",
+        "nombre": "Montecarlo"
+      },
+      "id": "54084070",
+      "localidad_censal": {
+        "id": "54084070",
+        "nombre": "Villa Parodi"
+      },
+      "municipio": {
+        "id": "540343",
+        "nombre": "Montecarlo"
+      },
+      "nombre": "Villa Parodi",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.4673386069983,
+        "lon": -54.7180267487723
+      },
+      "departamento": {
+        "id": "54084",
+        "nombre": "Montecarlo"
+      },
+      "id": "54084050",
+      "localidad_censal": {
+        "id": "54084050",
+        "nombre": "Puerto Piray"
+      },
+      "municipio": {
+        "id": "540350",
+        "nombre": "Puerto Piray"
+      },
+      "nombre": "Puerto Piray",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.6572810012338,
+        "lon": -54.7391795233471
+      },
+      "departamento": {
+        "id": "54084",
+        "nombre": "Montecarlo"
+      },
+      "id": "54084010",
+      "localidad_censal": {
+        "id": "54084010",
+        "nombre": "Caraguatay"
+      },
+      "municipio": {
+        "id": "540336",
+        "nombre": "Caraguatay"
+      },
+      "nombre": "Caraguatay",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "54084"
+    ]
+  },
+  "total": 10
+}

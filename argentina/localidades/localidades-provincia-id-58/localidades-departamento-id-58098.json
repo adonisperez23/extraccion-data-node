@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.4798147468487,
+        "lon": -69.5311486475001
+      },
+      "departamento": {
+        "id": "58098",
+        "nombre": "Picún Leufú"
+      },
+      "id": "58098005",
+      "localidad_censal": {
+        "id": "58098005",
+        "nombre": "El Sauce"
+      },
+      "municipio": {
+        "id": "585112",
+        "nombre": "El Sauce"
+      },
+      "nombre": "El Sauce",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.338783703078,
+        "lon": -69.8435966962213
+      },
+      "departamento": {
+        "id": "58098",
+        "nombre": "Picún Leufú"
+      },
+      "id": "58098010",
+      "localidad_censal": {
+        "id": "58098010",
+        "nombre": "Paso Aguerre"
+      },
+      "municipio": {
+        "id": "585119",
+        "nombre": "Paso Aguerre"
+      },
+      "nombre": "Paso Aguerre",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.5186278649278,
+        "lon": -69.2910611349608
+      },
+      "departamento": {
+        "id": "58098",
+        "nombre": "Picún Leufú"
+      },
+      "id": "58098020",
+      "localidad_censal": {
+        "id": "58098020",
+        "nombre": "Picún Leufú"
+      },
+      "municipio": {
+        "id": "580217",
+        "nombre": "Picún Leufú"
+      },
+      "nombre": "Picún Leufú",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "58098"
+    ]
+  },
+  "total": 3
+}

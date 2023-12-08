@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.2309523254859,
+        "lon": -63.4742542795496
+      },
+      "departamento": {
+        "id": "86140",
+        "nombre": "Quebrachos"
+      },
+      "id": "86140010",
+      "localidad_censal": {
+        "id": "86140010",
+        "nombre": "Ramí­rez de Velazco"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Ramírez de Velazco",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.385103821086,
+        "lon": -63.4342936114385
+      },
+      "departamento": {
+        "id": "86140",
+        "nombre": "Quebrachos"
+      },
+      "id": "86140030",
+      "localidad_censal": {
+        "id": "86140030",
+        "nombre": "Sumampa Viejo"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Sumampa Viejo",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.3825568019414,
+        "lon": -63.4748371614104
+      },
+      "departamento": {
+        "id": "86140",
+        "nombre": "Quebrachos"
+      },
+      "id": "86140020",
+      "localidad_censal": {
+        "id": "86140020",
+        "nombre": "Sumampa"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Sumampa",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86140"
+    ]
+  },
+  "total": 3
+}

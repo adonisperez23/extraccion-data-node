@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.617774866545,
+        "lon": -68.3356449365043
+      },
+      "departamento": {
+        "id": "50105",
+        "nombre": "San Rafael"
+      },
+      "id": "5010521002",
+      "localidad_censal": {
+        "id": "50105210",
+        "nombre": "San Rafael"
+      },
+      "municipio": {
+        "id": "500105",
+        "nombre": "San Rafael"
+      },
+      "nombre": "San Rafael",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6171378885148,
+        "lon": -68.2753742994292
+      },
+      "departamento": {
+        "id": "50105",
+        "nombre": "San Rafael"
+      },
+      "id": "5010521001",
+      "localidad_censal": {
+        "id": "50105210",
+        "nombre": "San Rafael"
+      },
+      "municipio": {
+        "id": "500105",
+        "nombre": "San Rafael"
+      },
+      "nombre": "Cuadro Nacional",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.7881368521339,
+        "lon": -67.9799976205166
+      },
+      "departamento": {
+        "id": "50105",
+        "nombre": "San Rafael"
+      },
+      "id": "50105020",
+      "localidad_censal": {
+        "id": "50105020",
+        "nombre": "Barrio El Nevado"
+      },
+      "municipio": {
+        "id": "500105",
+        "nombre": "San Rafael"
+      },
+      "nombre": "Barrio El Nevado",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.5557448506522,
+        "lon": -68.3018330458584
+      },
+      "departamento": {
+        "id": "50105",
+        "nombre": "San Rafael"
+      },
+      "id": "50105030",
+      "localidad_censal": {
+        "id": "50105030",
+        "nombre": "Barrio Empleados de Comercio"
+      },
+      "municipio": {
+        "id": "500105",
+        "nombre": "San Rafael"
+      },
+      "nombre": "Barrio Empleados de Comercio",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.6468691024787,
+        "lon": -68.2649912036625
+      },
+      "departamento": {
+        "id": "50105",
+        "nombre": "San Rafael"
+      },
+      "id": "50105040",
+      "localidad_censal": {
+        "id": "50105040",
+        "nombre": "Barrio Intendencia"
+      },
+      "municipio": {
+        "id": "500105",
+        "nombre": "San Rafael"
+      },
+      "nombre": "Barrio Intendencia",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.5823082025568,
+        "lon": -68.4576001438883
+      },
+      "departamento": {
+        "id": "50105",
+        "nombre": "San Rafael"
+      },
+      "id": "50105050",
+      "localidad_censal": {
+        "id": "50105050",
+        "nombre": "Capitán Montoya"
+      },
+      "municipio": {
+        "id": "500105",
+        "nombre": "San Rafael"
+      },
+      "nombre": "Capitán Montoya",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0272928802229,
+        "lon": -68.6728123125633
+      },
+      "departamento": {
+        "id": "50105",
+        "nombre": "San Rafael"
+      },
+      "id": "50105070",
+      "localidad_censal": {
+        "id": "50105070",
+        "nombre": "El Nihuil"
+      },
+      "municipio": {
+        "id": "500105",
+        "nombre": "San Rafael"
+      },
+      "nombre": "El Nihuil",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0809852761248,
+        "lon": -69.582519436686
+      },
+      "departamento": {
+        "id": "50105",
+        "nombre": "San Rafael"
+      },
+      "id": "50105080",
+      "localidad_censal": {
+        "id": "50105080",
+        "nombre": "El Sosneado"
+      },
+      "municipio": {
+        "id": "500105",
+        "nombre": "San Rafael"
+      },
+      "nombre": "El Sosneado",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.6839084352162,
+        "lon": -68.2778978002988
+      },
+      "departamento": {
+        "id": "50105",
+        "nombre": "San Rafael"
+      },
+      "id": "50105090",
+      "localidad_censal": {
+        "id": "50105090",
+        "nombre": "El Tropezón"
+      },
+      "municipio": {
+        "id": "500105",
+        "nombre": "San Rafael"
+      },
+      "nombre": "El Tropezón",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.9102915791426,
+        "lon": -67.8204773210877
+      },
+      "departamento": {
+        "id": "50105",
+        "nombre": "San Rafael"
+      },
+      "id": "50105110",
+      "localidad_censal": {
+        "id": "50105110",
+        "nombre": "Jaime Prats"
+      },
+      "municipio": {
+        "id": "500105",
+        "nombre": "San Rafael"
+      },
+      "nombre": "Jaime Prats",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "50105"
+    ]
+  },
+  "total": 25
+}

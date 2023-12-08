@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6556554748548,
+        "lon": -67.6522496517698
+      },
+      "departamento": {
+        "id": "46049",
+        "nombre": "Famatina"
+      },
+      "id": "46049020",
+      "localidad_censal": {
+        "id": "46049020",
+        "nombre": "Angulos"
+      },
+      "municipio": {
+        "id": "460049",
+        "nombre": "Famatina"
+      },
+      "nombre": "Angulos",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.603193692864,
+        "lon": -67.5831795395154
+      },
+      "departamento": {
+        "id": "46049",
+        "nombre": "Famatina"
+      },
+      "id": "46049060",
+      "localidad_censal": {
+        "id": "46049060",
+        "nombre": "Chañarmuyo"
+      },
+      "municipio": {
+        "id": "460049",
+        "nombre": "Famatina"
+      },
+      "nombre": "Chañarmuyo",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.866735553767,
+        "lon": -67.5714198029277
+      },
+      "departamento": {
+        "id": "46049",
+        "nombre": "Famatina"
+      },
+      "id": "46049010",
+      "localidad_censal": {
+        "id": "46049010",
+        "nombre": "Alto Carrizal"
+      },
+      "municipio": {
+        "id": "460049",
+        "nombre": "Famatina"
+      },
+      "nombre": "Alto Carrizal",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.819342176429,
+        "lon": -67.3148550386389
+      },
+      "departamento": {
+        "id": "46049",
+        "nombre": "Famatina"
+      },
+      "id": "46049030",
+      "localidad_censal": {
+        "id": "46049030",
+        "nombre": "Antinaco"
+      },
+      "municipio": {
+        "id": "460049",
+        "nombre": "Famatina"
+      },
+      "nombre": "Antinaco",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.8880640961243,
+        "lon": -67.5641329966256
+      },
+      "departamento": {
+        "id": "46049",
+        "nombre": "Famatina"
+      },
+      "id": "46049040",
+      "localidad_censal": {
+        "id": "46049040",
+        "nombre": "Bajo Carrizal"
+      },
+      "municipio": {
+        "id": "460049",
+        "nombre": "Famatina"
+      },
+      "nombre": "Bajo Carrizal",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.5525800933789,
+        "lon": -67.6278819820331
+      },
+      "departamento": {
+        "id": "46049",
+        "nombre": "Famatina"
+      },
+      "id": "46049050",
+      "localidad_censal": {
+        "id": "46049050",
+        "nombre": "Campanas"
+      },
+      "municipio": {
+        "id": "460049",
+        "nombre": "Famatina"
+      },
+      "nombre": "Campanas",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.9250493583203,
+        "lon": -67.5195931708555
+      },
+      "departamento": {
+        "id": "46049",
+        "nombre": "Famatina"
+      },
+      "id": "46049070",
+      "localidad_censal": {
+        "id": "46049070",
+        "nombre": "Famatina"
+      },
+      "municipio": {
+        "id": "460049",
+        "nombre": "Famatina"
+      },
+      "nombre": "Famatina",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.4682454487129,
+        "lon": -67.6923081826358
+      },
+      "departamento": {
+        "id": "46049",
+        "nombre": "Famatina"
+      },
+      "id": "46049080",
+      "localidad_censal": {
+        "id": "46049080",
+        "nombre": "La Cuadra"
+      },
+      "municipio": {
+        "id": "460049",
+        "nombre": "Famatina"
+      },
+      "nombre": "La Cuadra",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.5759782477155,
+        "lon": -67.4490937047696
+      },
+      "departamento": {
+        "id": "46049",
+        "nombre": "Famatina"
+      },
+      "id": "46049090",
+      "localidad_censal": {
+        "id": "46049090",
+        "nombre": "Pituil"
+      },
+      "municipio": {
+        "id": "460049",
+        "nombre": "Famatina"
+      },
+      "nombre": "Pituil",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.965459530816,
+        "lon": -67.5162365519924
+      },
+      "departamento": {
+        "id": "46049",
+        "nombre": "Famatina"
+      },
+      "id": "46049100",
+      "localidad_censal": {
+        "id": "46049100",
+        "nombre": "Plaza Vieja"
+      },
+      "municipio": {
+        "id": "460049",
+        "nombre": "Famatina"
+      },
+      "nombre": "Plaza Vieja",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "46049"
+    ]
+  },
+  "total": 12
+}

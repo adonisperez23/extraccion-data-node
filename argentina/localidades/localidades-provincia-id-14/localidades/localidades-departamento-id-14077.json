@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.4159636346356,
+        "lon": -65.4512532371259
+      },
+      "departamento": {
+        "id": "14077",
+        "nombre": "Pocho"
+      },
+      "id": "14077010",
+      "localidad_censal": {
+        "id": "14077010",
+        "nombre": "Chancani"
+      },
+      "municipio": {
+        "id": "142406",
+        "nombre": "Chancani"
+      },
+      "nombre": "Chancani",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.3777759391536,
+        "lon": -65.2898362313984
+      },
+      "departamento": {
+        "id": "14077",
+        "nombre": "Pocho"
+      },
+      "id": "14077020",
+      "localidad_censal": {
+        "id": "14077020",
+        "nombre": "Las Palmas"
+      },
+      "municipio": {
+        "id": "142413",
+        "nombre": "Las Palmas"
+      },
+      "nombre": "Las Palmas",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.4071472476818,
+        "lon": -65.0470184171855
+      },
+      "departamento": {
+        "id": "14077",
+        "nombre": "Pocho"
+      },
+      "id": "14077030",
+      "localidad_censal": {
+        "id": "14077030",
+        "nombre": "Los Talares"
+      },
+      "municipio": {
+        "id": "142420",
+        "nombre": "Los Talares"
+      },
+      "nombre": "Los Talares",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.3178575767975,
+        "lon": -65.0895253076512
+      },
+      "departamento": {
+        "id": "14077",
+        "nombre": "Pocho"
+      },
+      "id": "14077040",
+      "localidad_censal": {
+        "id": "14077040",
+        "nombre": "Salsacate"
+      },
+      "municipio": {
+        "id": "140609",
+        "nombre": "Salsacate"
+      },
+      "nombre": "Salsacate",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.3441844922836,
+        "lon": -64.9190482748753
+      },
+      "departamento": {
+        "id": "14077",
+        "nombre": "Pocho"
+      },
+      "id": "14077050",
+      "localidad_censal": {
+        "id": "14077050",
+        "nombre": "San Geronimo"
+      },
+      "municipio": {
+        "id": "142427",
+        "nombre": "San Gerónimo"
+      },
+      "nombre": "San Gerónimo",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.3544884840507,
+        "lon": -64.9759061303191
+      },
+      "departamento": {
+        "id": "14077",
+        "nombre": "Pocho"
+      },
+      "id": "14077060",
+      "localidad_censal": {
+        "id": "14077060",
+        "nombre": "Tala Cañada"
+      },
+      "municipio": {
+        "id": "142434",
+        "nombre": "Tala Cañada"
+      },
+      "nombre": "Tala Cañada",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.4901575769203,
+        "lon": -65.2809505456354
+      },
+      "departamento": {
+        "id": "14077",
+        "nombre": "Pocho"
+      },
+      "id": "14077080",
+      "localidad_censal": {
+        "id": "14077080",
+        "nombre": "Villa de Pocho"
+      },
+      "municipio": {
+        "id": "142441",
+        "nombre": "Villa de Pocho"
+      },
+      "nombre": "Villa de Pocho",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14077"
+    ]
+  },
+  "total": 7
+}

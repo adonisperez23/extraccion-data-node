@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.8350683836867,
+        "lon": -65.1946017699559
+      },
+      "departamento": {
+        "id": "90035",
+        "nombre": "Graneros"
+      },
+      "id": "90035030",
+      "localidad_censal": {
+        "id": "90035030",
+        "nombre": "Taco Ralo"
+      },
+      "municipio": {
+        "id": "908210",
+        "nombre": "Taco Ralo"
+      },
+      "nombre": "Taco Ralo",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.6494921665183,
+        "lon": -65.4394284896125
+      },
+      "departamento": {
+        "id": "90035",
+        "nombre": "Graneros"
+      },
+      "id": "90035010",
+      "localidad_censal": {
+        "id": "90035010",
+        "nombre": "Graneros"
+      },
+      "municipio": {
+        "id": "900049",
+        "nombre": "Graneros"
+      },
+      "nombre": "Graneros",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.6450650550248,
+        "lon": -65.2468503244712
+      },
+      "departamento": {
+        "id": "90035",
+        "nombre": "Graneros"
+      },
+      "id": "90035020",
+      "localidad_censal": {
+        "id": "90035020",
+        "nombre": "Lamadrid"
+      },
+      "municipio": {
+        "id": "908203",
+        "nombre": "Lamadrid"
+      },
+      "nombre": "Lamadrid",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "90035"
+    ]
+  },
+  "total": 3
+}

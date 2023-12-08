@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.3336870242994,
+        "lon": -54.6246096255617
+      },
+      "departamento": {
+        "id": "54042",
+        "nombre": "Eldorado"
+      },
+      "id": "54042010",
+      "localidad_censal": {
+        "id": "54042010",
+        "nombre": "Colonia Victoria"
+      },
+      "municipio": {
+        "id": "540147",
+        "nombre": "Colonia Victoria"
+      },
+      "nombre": "Colonia Victoria",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.2372829535012,
+        "lon": -54.6028964192686
+      },
+      "departamento": {
+        "id": "54042",
+        "nombre": "Eldorado"
+      },
+      "id": "54042030",
+      "localidad_censal": {
+        "id": "54042030",
+        "nombre": "María Magdalena"
+      },
+      "municipio": {
+        "id": "540140",
+        "nombre": "Colonia Delicia"
+      },
+      "nombre": "María Magdalena",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.1817287082965,
+        "lon": -54.5912164492971
+      },
+      "departamento": {
+        "id": "54042",
+        "nombre": "Eldorado"
+      },
+      "id": "54042035",
+      "localidad_censal": {
+        "id": "54042035",
+        "nombre": "Nueva Delicia"
+      },
+      "municipio": {
+        "id": "540140",
+        "nombre": "Colonia Delicia"
+      },
+      "nombre": "Nueva Delicia",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.4302805288504,
+        "lon": -54.4664724264768
+      },
+      "departamento": {
+        "id": "54042",
+        "nombre": "Eldorado"
+      },
+      "id": "54042040",
+      "localidad_censal": {
+        "id": "54042040",
+        "nombre": "9 de Julio Kilómetro 28"
+      },
+      "municipio": {
+        "id": "540161",
+        "nombre": "9 de Julio"
+      },
+      "nombre": "9 de Julio Kilómetro 28",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.4147164146002,
+        "lon": -54.495858793798
+      },
+      "departamento": {
+        "id": "54042",
+        "nombre": "Eldorado"
+      },
+      "id": "54042050",
+      "localidad_censal": {
+        "id": "54042050",
+        "nombre": "9 de Julio Kilómetro 20"
+      },
+      "municipio": {
+        "id": "540161",
+        "nombre": "9 de Julio"
+      },
+      "nombre": "9 de Julio Kilómetro 20",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.2434147442071,
+        "lon": -54.5912229687966
+      },
+      "departamento": {
+        "id": "54042",
+        "nombre": "Eldorado"
+      },
+      "id": "54042055",
+      "localidad_censal": {
+        "id": "54042055",
+        "nombre": "Pueblo Nuevo"
+      },
+      "municipio": {
+        "id": "540140",
+        "nombre": "Colonia Delicia"
+      },
+      "nombre": "Pueblo Nuevo",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.2297441722291,
+        "lon": -54.623547911127
+      },
+      "departamento": {
+        "id": "54042",
+        "nombre": "Eldorado"
+      },
+      "id": "54042060",
+      "localidad_censal": {
+        "id": "54042060",
+        "nombre": "Puerto Mado"
+      },
+      "municipio": {
+        "id": "540140",
+        "nombre": "Colonia Delicia"
+      },
+      "nombre": "Puerto Mado",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.4273389693379,
+        "lon": -54.6829642579317
+      },
+      "departamento": {
+        "id": "54042",
+        "nombre": "Eldorado"
+      },
+      "id": "54042070",
+      "localidad_censal": {
+        "id": "54042070",
+        "nombre": "Puerto Pinares"
+      },
+      "municipio": {
+        "id": "540154",
+        "nombre": "Eldorado"
+      },
+      "nombre": "Puerto Pinares",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.3844224331976,
+        "lon": -54.4634621731852
+      },
+      "departamento": {
+        "id": "54042",
+        "nombre": "Eldorado"
+      },
+      "id": "54042090",
+      "localidad_censal": {
+        "id": "54042090",
+        "nombre": "Valle Hermoso"
+      },
+      "municipio": {
+        "id": "540161",
+        "nombre": "9 de Julio"
+      },
+      "nombre": "Valle Hermoso",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.4423688186645,
+        "lon": -54.6404687715455
+      },
+      "departamento": {
+        "id": "54042",
+        "nombre": "Eldorado"
+      },
+      "id": "54042100",
+      "localidad_censal": {
+        "id": "54042100",
+        "nombre": "Villa Roulet"
+      },
+      "municipio": {
+        "id": "540154",
+        "nombre": "Eldorado"
+      },
+      "nombre": "Villa Roulet",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "54042"
+    ]
+  },
+  "total": 12
+}

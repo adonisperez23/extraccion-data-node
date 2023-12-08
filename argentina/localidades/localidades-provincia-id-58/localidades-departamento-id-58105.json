@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.4074381401439,
+        "lon": -70.0331055913877
+      },
+      "departamento": {
+        "id": "58105",
+        "nombre": "Picunches"
+      },
+      "id": "58105010",
+      "localidad_censal": {
+        "id": "58105010",
+        "nombre": "Bajada del Agrio"
+      },
+      "municipio": {
+        "id": "580224",
+        "nombre": "Bajada del Agrio"
+      },
+      "nombre": "Bajada del Agrio",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.5522303881069,
+        "lon": -70.3694309610101
+      },
+      "departamento": {
+        "id": "58105",
+        "nombre": "Picunches"
+      },
+      "id": "58105020",
+      "localidad_censal": {
+        "id": "58105020",
+        "nombre": "La Buitrera"
+      },
+      "municipio": {
+        "id": "580231",
+        "nombre": "Las Lajas"
+      },
+      "nombre": "La Buitrera",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.5234149456937,
+        "lon": -70.361640644378
+      },
+      "departamento": {
+        "id": "58105",
+        "nombre": "Picunches"
+      },
+      "id": "58105030",
+      "localidad_censal": {
+        "id": "58105030",
+        "nombre": "Las Lajas"
+      },
+      "municipio": {
+        "id": "580231",
+        "nombre": "Las Lajas"
+      },
+      "nombre": "Las Lajas",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.3261499357308,
+        "lon": -69.8135410990433
+      },
+      "departamento": {
+        "id": "58105",
+        "nombre": "Picunches"
+      },
+      "id": "58105040",
+      "localidad_censal": {
+        "id": "58105040",
+        "nombre": "Quili Malal"
+      },
+      "municipio": {
+        "id": "585126",
+        "nombre": "Quili Malal"
+      },
+      "nombre": "Quili Malal",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "58105"
+    ]
+  },
+  "total": 4
+}

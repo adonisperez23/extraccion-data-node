@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6757351167715,
+        "lon": -58.4751123265209
+      },
+      "departamento": {
+        "id": "02056",
+        "nombre": "Comuna 8"
+      },
+      "id": "0205601001",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022056",
+        "nombre": "Comuna 8"
+      },
+      "nombre": "Villa Lugano",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6935522313625,
+        "lon": -58.4689385001104
+      },
+      "departamento": {
+        "id": "02056",
+        "nombre": "Comuna 8"
+      },
+      "id": "0205601002",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022056",
+        "nombre": "Comuna 8"
+      },
+      "nombre": "Villa Riachuelo",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6638875390919,
+        "lon": -58.4445372043618
+      },
+      "departamento": {
+        "id": "02056",
+        "nombre": "Comuna 8"
+      },
+      "id": "0205601003",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022056",
+        "nombre": "Comuna 8"
+      },
+      "nombre": "Villa Soldati",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "02056"
+    ]
+  },
+  "total": 3
+}

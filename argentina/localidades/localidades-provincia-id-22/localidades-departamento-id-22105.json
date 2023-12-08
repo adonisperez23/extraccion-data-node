@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.0864384535522,
+        "lon": -61.0858228220695
+      },
+      "departamento": {
+        "id": "22105",
+        "nombre": "9 de Julio"
+      },
+      "id": "22105010",
+      "localidad_censal": {
+        "id": "22105010",
+        "nombre": "Las Breñas"
+      },
+      "municipio": {
+        "id": "220329",
+        "nombre": "Las Breñas"
+      },
+      "nombre": "Las Breñas",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22105"
+    ]
+  },
+  "total": 1
+}

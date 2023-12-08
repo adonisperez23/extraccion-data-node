@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -44.6876393507589,
+        "lon": -70.8529129101379
+      },
+      "departamento": {
+        "id": "26084",
+        "nombre": "Río Senguer"
+      },
+      "id": "26084010",
+      "localidad_censal": {
+        "id": "26084010",
+        "nombre": "Aldea Apeleg"
+      },
+      "municipio": {
+        "id": "260126",
+        "nombre": "Alto Río Senguer"
+      },
+      "nombre": "Aldea Apeleg",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -45.5532682101788,
+        "lon": -71.5226366677746
+      },
+      "departamento": {
+        "id": "26084",
+        "nombre": "Río Senguer"
+      },
+      "id": "26084020",
+      "localidad_censal": {
+        "id": "26084020",
+        "nombre": "Aldea Beleiro"
+      },
+      "municipio": {
+        "id": "268091",
+        "nombre": "Aldea Beleiro"
+      },
+      "nombre": "Aldea Beleiro",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -45.0418822725479,
+        "lon": -70.8233836026475
+      },
+      "departamento": {
+        "id": "26084",
+        "nombre": "Río Senguer"
+      },
+      "id": "26084030",
+      "localidad_censal": {
+        "id": "26084030",
+        "nombre": "Alto Río Senguer"
+      },
+      "municipio": {
+        "id": "260126",
+        "nombre": "Alto Río Senguer"
+      },
+      "nombre": "Alto Río Senguer",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -45.5756640605724,
+        "lon": -71.0350530145017
+      },
+      "departamento": {
+        "id": "26084",
+        "nombre": "Río Senguer"
+      },
+      "id": "26084040",
+      "localidad_censal": {
+        "id": "26084040",
+        "nombre": "Doctor Ricardo Rojas"
+      },
+      "municipio": {
+        "id": "268098",
+        "nombre": "Doctor Ricardo Rojas"
+      },
+      "nombre": "Doctor Ricardo Rojas",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -45.3086428835566,
+        "lon": -69.9748624907449
+      },
+      "departamento": {
+        "id": "26084",
+        "nombre": "Río Senguer"
+      },
+      "id": "26084050",
+      "localidad_censal": {
+        "id": "26084050",
+        "nombre": "Facundo"
+      },
+      "municipio": {
+        "id": "268105",
+        "nombre": "Facundo"
+      },
+      "nombre": "Facundo",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -45.9369835437361,
+        "lon": -71.2682429484838
+      },
+      "departamento": {
+        "id": "26084",
+        "nombre": "Río Senguer"
+      },
+      "id": "26084060",
+      "localidad_censal": {
+        "id": "26084060",
+        "nombre": "Lago Blanco"
+      },
+      "municipio": {
+        "id": "268112",
+        "nombre": "Lago Blanco"
+      },
+      "nombre": "Lago Blanco",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -45.6861769975897,
+        "lon": -70.2566379579333
+      },
+      "departamento": {
+        "id": "26084",
+        "nombre": "Río Senguer"
+      },
+      "id": "26084070",
+      "localidad_censal": {
+        "id": "26084070",
+        "nombre": "Río Mayo"
+      },
+      "municipio": {
+        "id": "260133",
+        "nombre": "Río Mayo"
+      },
+      "nombre": "Río Mayo",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "26084"
+    ]
+  },
+  "total": 7
+}

@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5309297947479,
+        "lon": -65.6158042491924
+      },
+      "departamento": {
+        "id": "90042",
+        "nombre": "Juan Bautista Alberdi"
+      },
+      "id": "90042020",
+      "localidad_censal": {
+        "id": "90042020",
+        "nombre": "Villa Belgrano"
+      },
+      "municipio": {
+        "id": "908224",
+        "nombre": "Villa Belgrano"
+      },
+      "nombre": "Villa Belgrano",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5858729205735,
+        "lon": -65.6172967193819
+      },
+      "departamento": {
+        "id": "90042",
+        "nombre": "Juan Bautista Alberdi"
+      },
+      "id": "90042010",
+      "localidad_censal": {
+        "id": "90042010",
+        "nombre": "Juan Bautista Alberdi"
+      },
+      "municipio": {
+        "id": "900056",
+        "nombre": "Juan Bautista Alberdi"
+      },
+      "nombre": "Juan Bautista Alberdi",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "90042"
+    ]
+  },
+  "total": 2
+}

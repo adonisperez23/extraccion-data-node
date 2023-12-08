@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.4856392097213,
+        "lon": -59.0997695658079
+      },
+      "departamento": {
+        "id": "06693",
+        "nombre": "Roque Pérez"
+      },
+      "id": "06693010",
+      "localidad_censal": {
+        "id": "06693010",
+        "nombre": "Carlos Beguerie"
+      },
+      "municipio": {
+        "id": "060693",
+        "nombre": "Roque Pérez"
+      },
+      "nombre": "Carlos Beguerie",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.4005763060432,
+        "lon": -59.3348321510909
+      },
+      "departamento": {
+        "id": "06693",
+        "nombre": "Roque Pérez"
+      },
+      "id": "06693020",
+      "localidad_censal": {
+        "id": "06693020",
+        "nombre": "Roque Pérez"
+      },
+      "municipio": {
+        "id": "060693",
+        "nombre": "Roque Pérez"
+      },
+      "nombre": "Roque Pérez",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06693"
+    ]
+  },
+  "total": 2
+}

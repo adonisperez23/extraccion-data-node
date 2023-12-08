@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.6084349698063,
+        "lon": -59.7501662841433
+      },
+      "departamento": {
+        "id": "06784",
+        "nombre": "Suipacha"
+      },
+      "id": "06784010",
+      "localidad_censal": {
+        "id": "06784010",
+        "nombre": "General Rivas"
+      },
+      "municipio": {
+        "id": "060784",
+        "nombre": "Suipacha"
+      },
+      "nombre": "General Rivas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.7688145882031,
+        "lon": -59.6868293545249
+      },
+      "departamento": {
+        "id": "06784",
+        "nombre": "Suipacha"
+      },
+      "id": "06784020",
+      "localidad_censal": {
+        "id": "06784020",
+        "nombre": "Suipacha"
+      },
+      "municipio": {
+        "id": "060784",
+        "nombre": "Suipacha"
+      },
+      "nombre": "Suipacha",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06784"
+    ]
+  },
+  "total": 2
+}

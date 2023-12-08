@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.908551726803,
+        "lon": -59.2612327187785
+      },
+      "departamento": {
+        "id": "30113",
+        "nombre": "Villaguay"
+      },
+      "id": "30113010",
+      "localidad_censal": {
+        "id": "30113010",
+        "nombre": "Estación Raíces"
+      },
+      "municipio": {
+        "id": "309920",
+        "nombre": "Estación Raíces"
+      },
+      "nombre": "Estación Raíces",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.9568859928899,
+        "lon": -58.8494887790939
+      },
+      "departamento": {
+        "id": "30113",
+        "nombre": "Villaguay"
+      },
+      "id": "30113020",
+      "localidad_censal": {
+        "id": "30113020",
+        "nombre": "Ingeniero Sajaroff"
+      },
+      "municipio": {
+        "id": "303273",
+        "nombre": "Ingeniero Sajaroff"
+      },
+      "nombre": "Ingeniero Miguel Sajaroff",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.7312076592228,
+        "lon": -58.6357175685439
+      },
+      "departamento": {
+        "id": "30113",
+        "nombre": "Villaguay"
+      },
+      "id": "30113030",
+      "localidad_censal": {
+        "id": "30113030",
+        "nombre": "Jubileo"
+      },
+      "municipio": {
+        "id": "303280",
+        "nombre": "Jubileo"
+      },
+      "nombre": "Jubileo",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.8035204523501,
+        "lon": -59.159807934769
+      },
+      "departamento": {
+        "id": "30113",
+        "nombre": "Villaguay"
+      },
+      "id": "30113050",
+      "localidad_censal": {
+        "id": "30113050",
+        "nombre": "Paso de la Laguna"
+      },
+      "municipio": {
+        "id": "303329",
+        "nombre": "Paso de La Laguna"
+      },
+      "nombre": "Paso de la Laguna",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.8297990342603,
+        "lon": -58.8216098979307
+      },
+      "departamento": {
+        "id": "30113",
+        "nombre": "Villaguay"
+      },
+      "id": "30113060",
+      "localidad_censal": {
+        "id": "30113060",
+        "nombre": "Villa Clara"
+      },
+      "municipio": {
+        "id": "300476",
+        "nombre": "Villa Clara"
+      },
+      "nombre": "Villa Clara",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.9862888949547,
+        "lon": -58.9615328469183
+      },
+      "departamento": {
+        "id": "30113",
+        "nombre": "Villaguay"
+      },
+      "id": "30113070",
+      "localidad_censal": {
+        "id": "30113070",
+        "nombre": "Villa Domínguez"
+      },
+      "municipio": {
+        "id": "300483",
+        "nombre": "Villa Domínguez"
+      },
+      "nombre": "Villa Domínguez",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.8676375710354,
+        "lon": -59.0268852125777
+      },
+      "departamento": {
+        "id": "30113",
+        "nombre": "Villaguay"
+      },
+      "id": "30113080",
+      "localidad_censal": {
+        "id": "30113080",
+        "nombre": "Villaguay"
+      },
+      "municipio": {
+        "id": "300490",
+        "nombre": "Villaguay"
+      },
+      "nombre": "Villaguay",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "30113"
+    ]
+  },
+  "total": 7
+}

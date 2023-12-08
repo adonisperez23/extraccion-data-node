@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.9215851673876,
+        "lon": -59.542229637721
+      },
+      "departamento": {
+        "id": "06574",
+        "nombre": "Navarro"
+      },
+      "id": "06574010",
+      "localidad_censal": {
+        "id": "06574010",
+        "nombre": "José Juan Almeyra"
+      },
+      "municipio": {
+        "id": "060574",
+        "nombre": "Navarro"
+      },
+      "nombre": "José Juan Almeyra",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0529402662696,
+        "lon": -59.5127026169849
+      },
+      "departamento": {
+        "id": "06574",
+        "nombre": "Navarro"
+      },
+      "id": "06574020",
+      "localidad_censal": {
+        "id": "06574020",
+        "nombre": "Las Marianas"
+      },
+      "municipio": {
+        "id": "060574",
+        "nombre": "Navarro"
+      },
+      "nombre": "Las Marianas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0059067153277,
+        "lon": -59.2782839828002
+      },
+      "departamento": {
+        "id": "06574",
+        "nombre": "Navarro"
+      },
+      "id": "06574030",
+      "localidad_censal": {
+        "id": "06574030",
+        "nombre": "Navarro"
+      },
+      "municipio": {
+        "id": "060574",
+        "nombre": "Navarro"
+      },
+      "nombre": "Navarro",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0779501871778,
+        "lon": -59.6518705433013
+      },
+      "departamento": {
+        "id": "06574",
+        "nombre": "Navarro"
+      },
+      "id": "06574040",
+      "localidad_censal": {
+        "id": "06574040",
+        "nombre": "Villa Moll"
+      },
+      "municipio": {
+        "id": "060574",
+        "nombre": "Navarro"
+      },
+      "nombre": "Villa Moll",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06574"
+    ]
+  },
+  "total": 4
+}

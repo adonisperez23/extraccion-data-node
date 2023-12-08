@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.588043854884,
+        "lon": -58.3971817497302
+      },
+      "departamento": {
+        "id": "02014",
+        "nombre": "Comuna 2"
+      },
+      "id": "0201401001",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022014",
+        "nombre": "Comuna 2"
+      },
+      "nombre": "Recoleta",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.608416378045,
+        "lon": -58.3721346807736
+      },
+      "departamento": {
+        "id": "02014",
+        "nombre": "Comuna 2"
+      },
+      "id": "02014010",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022007",
+        "nombre": "Comuna 1"
+      },
+      "nombre": "Ciudad de Buenos Aires",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "02014"
+    ]
+  },
+  "total": 2
+}

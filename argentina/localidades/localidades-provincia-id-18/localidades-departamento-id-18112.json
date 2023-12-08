@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.0433033963297,
+        "lon": -57.8217083171902
+      },
+      "departamento": {
+        "id": "18112",
+        "nombre": "Monte Caseros"
+      },
+      "id": "18112010",
+      "localidad_censal": {
+        "id": "18112010",
+        "nombre": "Colonia Libertad"
+      },
+      "municipio": {
+        "id": "180252",
+        "nombre": "Colonia Libertad"
+      },
+      "nombre": "Colonia Libertad",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.0132954607257,
+        "lon": -57.859334503744
+      },
+      "departamento": {
+        "id": "18112",
+        "nombre": "Monte Caseros"
+      },
+      "id": "18112020",
+      "localidad_censal": {
+        "id": "18112020",
+        "nombre": "Estación Libertad"
+      },
+      "municipio": {
+        "id": "180252",
+        "nombre": "Colonia Libertad"
+      },
+      "nombre": "Estación Libertad",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.4193217435637,
+        "lon": -57.8558925692433
+      },
+      "departamento": {
+        "id": "18112",
+        "nombre": "Monte Caseros"
+      },
+      "id": "18112030",
+      "localidad_censal": {
+        "id": "18112030",
+        "nombre": "Juan Pujol"
+      },
+      "municipio": {
+        "id": "180259",
+        "nombre": "Juan Pujol"
+      },
+      "nombre": "Juan Pujol",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.6166771623996,
+        "lon": -57.9753625741667
+      },
+      "departamento": {
+        "id": "18112",
+        "nombre": "Monte Caseros"
+      },
+      "id": "18112040",
+      "localidad_censal": {
+        "id": "18112040",
+        "nombre": "Mocoretá"
+      },
+      "municipio": {
+        "id": "180266",
+        "nombre": "Mocoretá"
+      },
+      "nombre": "Mocoretá",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.2494229600191,
+        "lon": -57.6294817667543
+      },
+      "departamento": {
+        "id": "18112",
+        "nombre": "Monte Caseros"
+      },
+      "id": "18112050",
+      "localidad_censal": {
+        "id": "18112050",
+        "nombre": "Monte Caseros"
+      },
+      "municipio": {
+        "id": "180273",
+        "nombre": "Monte Caseros"
+      },
+      "nombre": "Monte Caseros",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.9088415707249,
+        "lon": -57.9588655544584
+      },
+      "departamento": {
+        "id": "18112",
+        "nombre": "Monte Caseros"
+      },
+      "id": "18112060",
+      "localidad_censal": {
+        "id": "18112060",
+        "nombre": "Parada Acuña"
+      },
+      "municipio": {
+        "id": "180252",
+        "nombre": "Colonia Libertad"
+      },
+      "nombre": "Parada Acuña",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.3190129970515,
+        "lon": -57.7296875439557
+      },
+      "departamento": {
+        "id": "18112",
+        "nombre": "Monte Caseros"
+      },
+      "id": "18112070",
+      "localidad_censal": {
+        "id": "18112070",
+        "nombre": "Parada Labougle"
+      },
+      "municipio": {
+        "id": "180273",
+        "nombre": "Monte Caseros"
+      },
+      "nombre": "Parada Labougle",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18112"
+    ]
+  },
+  "total": 7
+}

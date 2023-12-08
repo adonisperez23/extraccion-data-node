@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.3081359127144,
+        "lon": -58.2868656335838
+      },
+      "departamento": {
+        "id": "18028",
+        "nombre": "Concepción"
+      },
+      "id": "18028030",
+      "localidad_censal": {
+        "id": "18028030",
+        "nombre": "Tabay"
+      },
+      "municipio": {
+        "id": "180049",
+        "nombre": "Tabay"
+      },
+      "nombre": "Tabay",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.3932008623293,
+        "lon": -57.8869168616331
+      },
+      "departamento": {
+        "id": "18028",
+        "nombre": "Concepción"
+      },
+      "id": "18028010",
+      "localidad_censal": {
+        "id": "18028010",
+        "nombre": "Concepción del Yaguareté Corá"
+      },
+      "municipio": {
+        "id": "180042",
+        "nombre": "Concepción del Yaguareté Corá"
+      },
+      "nombre": "Concepción",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.2672789123962,
+        "lon": -58.122724375144
+      },
+      "departamento": {
+        "id": "18028",
+        "nombre": "Concepción"
+      },
+      "id": "18028020",
+      "localidad_censal": {
+        "id": "18028020",
+        "nombre": "Santa Rosa"
+      },
+      "municipio": {
+        "id": "180035",
+        "nombre": "Colonia Santa Rosa"
+      },
+      "nombre": "Santa Rosa",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.3759194197758,
+        "lon": -58.3211361606206
+      },
+      "departamento": {
+        "id": "18028",
+        "nombre": "Concepción"
+      },
+      "id": "18028040",
+      "localidad_censal": {
+        "id": "18028040",
+        "nombre": "Tatacuá"
+      },
+      "municipio": {
+        "id": "180056",
+        "nombre": "Tatacuá"
+      },
+      "nombre": "Tatacua",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18028"
+    ]
+  },
+  "total": 4
+}

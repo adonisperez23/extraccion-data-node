@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.8728655657998,
+        "lon": -57.89698433938
+      },
+      "departamento": {
+        "id": "06466",
+        "nombre": "Lezama"
+      },
+      "id": "06466020",
+      "localidad_censal": {
+        "id": "06466020",
+        "nombre": "El Destino"
+      },
+      "municipio": {
+        "id": "060466",
+        "nombre": "Lezama"
+      },
+      "nombre": "Manuel J. Cobo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06466"
+    ]
+  },
+  "total": 1
+}

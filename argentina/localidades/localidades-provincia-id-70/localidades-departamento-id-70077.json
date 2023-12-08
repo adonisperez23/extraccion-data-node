@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.5830609581602,
+        "lon": -68.504724344984
+      },
+      "departamento": {
+        "id": "70077",
+        "nombre": "Rawson"
+      },
+      "id": "7007701001",
+      "localidad_censal": {
+        "id": "70077010",
+        "nombre": "Rawson"
+      },
+      "municipio": {
+        "id": "700077",
+        "nombre": "Rawson"
+      },
+      "nombre": "El Medanito",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.569169129647,
+        "lon": -68.5417501769497
+      },
+      "departamento": {
+        "id": "70077",
+        "nombre": "Rawson"
+      },
+      "id": "7007701002",
+      "localidad_censal": {
+        "id": "70077010",
+        "nombre": "Rawson"
+      },
+      "municipio": {
+        "id": "700077",
+        "nombre": "Rawson"
+      },
+      "nombre": "Rawson",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -31.581887285788,
+        "lon": -68.5421138590753
+      },
+      "departamento": {
+        "id": "70077",
+        "nombre": "Rawson"
+      },
+      "id": "70077010",
+      "localidad_censal": {
+        "id": "70077010",
+        "nombre": "Rawson"
+      },
+      "municipio": {
+        "id": "700077",
+        "nombre": "Rawson"
+      },
+      "nombre": "Rawson",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.6289356743606,
+        "lon": -68.4803773058198
+      },
+      "departamento": {
+        "id": "70077",
+        "nombre": "Rawson"
+      },
+      "id": "70077020",
+      "localidad_censal": {
+        "id": "70077020",
+        "nombre": "Villa Bolaños (Médano de Oro)"
+      },
+      "municipio": {
+        "id": "700077",
+        "nombre": "Rawson"
+      },
+      "nombre": "Villa Bolaños (Médano de Oro)",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "70077"
+    ]
+  },
+  "total": 4
+}

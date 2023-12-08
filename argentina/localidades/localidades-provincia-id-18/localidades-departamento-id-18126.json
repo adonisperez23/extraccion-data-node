@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.2550670289585,
+        "lon": -58.6237267469976
+      },
+      "departamento": {
+        "id": "18126",
+        "nombre": "Saladas"
+      },
+      "id": "18126010",
+      "localidad_censal": {
+        "id": "18126010",
+        "nombre": "Saladas"
+      },
+      "municipio": {
+        "id": "180308",
+        "nombre": "Saladas"
+      },
+      "nombre": "Saladas",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.1380987971767,
+        "lon": -58.7681324143266
+      },
+      "departamento": {
+        "id": "18126",
+        "nombre": "Saladas"
+      },
+      "id": "18126020",
+      "localidad_censal": {
+        "id": "18126020",
+        "nombre": "San Lorenzo"
+      },
+      "municipio": {
+        "id": "180315",
+        "nombre": "San Lorenzo"
+      },
+      "nombre": "San Lorenzo",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18126"
+    ]
+  },
+  "total": 2
+}

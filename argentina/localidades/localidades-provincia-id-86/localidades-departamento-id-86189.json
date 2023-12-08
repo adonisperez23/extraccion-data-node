@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.1084637432615,
+        "lon": -64.149598741784
+      },
+      "departamento": {
+        "id": "86189",
+        "nombre": "Silípica"
+      },
+      "id": "86189050",
+      "localidad_censal": {
+        "id": "86189050",
+        "nombre": "Villa Silí­pica"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Villa Silípica",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.1693983525651,
+        "lon": -64.0988944329918
+      },
+      "departamento": {
+        "id": "86189",
+        "nombre": "Silípica"
+      },
+      "id": "86189040",
+      "localidad_censal": {
+        "id": "86189040",
+        "nombre": "Sumamao"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Sumamao",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.0512916906588,
+        "lon": -64.2237913816297
+      },
+      "departamento": {
+        "id": "86189",
+        "nombre": "Silípica"
+      },
+      "id": "86189010",
+      "localidad_censal": {
+        "id": "86189010",
+        "nombre": "Árraga"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Árraga",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.1010690397827,
+        "lon": -64.2135705216372
+      },
+      "departamento": {
+        "id": "86189",
+        "nombre": "Silípica"
+      },
+      "id": "86189030",
+      "localidad_censal": {
+        "id": "86189030",
+        "nombre": "Simbol"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Simbol",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.1737647701175,
+        "lon": -64.1999830235659
+      },
+      "departamento": {
+        "id": "86189",
+        "nombre": "Silípica"
+      },
+      "id": "86189020",
+      "localidad_censal": {
+        "id": "86189020",
+        "nombre": "Nueva Francia"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Nueva Francia",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86189"
+    ]
+  },
+  "total": 5
+}

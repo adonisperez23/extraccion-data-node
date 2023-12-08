@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.37215997874,
+        "lon": -58.8786718167317
+      },
+      "departamento": {
+        "id": "30098",
+        "nombre": "Uruguay"
+      },
+      "id": "30098010",
+      "localidad_censal": {
+        "id": "30098010",
+        "nombre": "Basavilbaso"
+      },
+      "municipio": {
+        "id": "300413",
+        "nombre": "Basavilbaso"
+      },
+      "nombre": "Basavilbaso",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.4621188922836,
+        "lon": -58.4793213231488
+      },
+      "departamento": {
+        "id": "30098",
+        "nombre": "Uruguay"
+      },
+      "id": "30098020",
+      "localidad_censal": {
+        "id": "30098020",
+        "nombre": "Caseros"
+      },
+      "municipio": {
+        "id": "300420",
+        "nombre": "Caseros"
+      },
+      "nombre": "Caseros",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6704033344325,
+        "lon": -58.3253513587223
+      },
+      "departamento": {
+        "id": "30098",
+        "nombre": "Uruguay"
+      },
+      "id": "30098030",
+      "localidad_censal": {
+        "id": "30098030",
+        "nombre": "Colonia Elía"
+      },
+      "municipio": {
+        "id": "300423",
+        "nombre": "Colonia Elía"
+      },
+      "nombre": "Colonia Elía",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.4846612655344,
+        "lon": -58.2321207793941
+      },
+      "departamento": {
+        "id": "30098",
+        "nombre": "Uruguay"
+      },
+      "id": "30098040",
+      "localidad_censal": {
+        "id": "30098040",
+        "nombre": "Concepción del Uruguay"
+      },
+      "municipio": {
+        "id": "300427",
+        "nombre": "Concepción del Uruguay"
+      },
+      "nombre": "Concepción del Uruguay",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.4337844748277,
+        "lon": -58.6346532355727
+      },
+      "departamento": {
+        "id": "30098",
+        "nombre": "Uruguay"
+      },
+      "id": "30098060",
+      "localidad_censal": {
+        "id": "30098060",
+        "nombre": "Herrera"
+      },
+      "municipio": {
+        "id": "300434",
+        "nombre": "Herrera"
+      },
+      "nombre": "Herrera",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0921032659486,
+        "lon": -58.9575146484023
+      },
+      "departamento": {
+        "id": "30098",
+        "nombre": "Uruguay"
+      },
+      "id": "30098070",
+      "localidad_censal": {
+        "id": "30098070",
+        "nombre": "Las Moscas"
+      },
+      "municipio": {
+        "id": "303161",
+        "nombre": "Las Moscas"
+      },
+      "nombre": "Las Moscas",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.2618954398159,
+        "lon": -58.9069528897268
+      },
+      "departamento": {
+        "id": "30098",
+        "nombre": "Uruguay"
+      },
+      "id": "30098080",
+      "localidad_censal": {
+        "id": "30098080",
+        "nombre": "Líbaros"
+      },
+      "municipio": {
+        "id": "303168",
+        "nombre": "Líbaros"
+      },
+      "nombre": "Líbaros",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.2553731709224,
+        "lon": -58.4226001926306
+      },
+      "departamento": {
+        "id": "30098",
+        "nombre": "Uruguay"
+      },
+      "id": "30098090",
+      "localidad_censal": {
+        "id": "30098090",
+        "nombre": "1º de Mayo"
+      },
+      "municipio": {
+        "id": "300437",
+        "nombre": "1º de Mayo"
+      },
+      "nombre": "1º de Mayo",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.3460070616066,
+        "lon": -58.4441779122741
+      },
+      "departamento": {
+        "id": "30098",
+        "nombre": "Uruguay"
+      },
+      "id": "30098100",
+      "localidad_censal": {
+        "id": "30098100",
+        "nombre": "Pronunciamiento"
+      },
+      "municipio": {
+        "id": "300441",
+        "nombre": "Pronunciamiento"
+      },
+      "nombre": "Pronunciamiento",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.3446636290147,
+        "lon": -58.9730096688976
+      },
+      "departamento": {
+        "id": "30098",
+        "nombre": "Uruguay"
+      },
+      "id": "30098110",
+      "localidad_censal": {
+        "id": "30098110",
+        "nombre": "Rocamora"
+      },
+      "municipio": {
+        "id": "303175",
+        "nombre": "Rocamora"
+      },
+      "nombre": "Rocamora",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "30098"
+    ]
+  },
+  "total": 14
+}

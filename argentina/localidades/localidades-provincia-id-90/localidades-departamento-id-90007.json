@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.6865581454241,
+        "lon": -64.9481443548845
+      },
+      "departamento": {
+        "id": "90007",
+        "nombre": "Burruyacú"
+      },
+      "id": "90007050",
+      "localidad_censal": {
+        "id": "90007050",
+        "nombre": "La Ramada"
+      },
+      "municipio": {
+        "id": "908056",
+        "nombre": "La Ramada y La Cruz"
+      },
+      "nombre": "La Ramada",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.5004734484514,
+        "lon": -64.7436722531663
+      },
+      "departamento": {
+        "id": "90007",
+        "nombre": "Burruyacú"
+      },
+      "id": "90007100",
+      "localidad_censal": {
+        "id": "90007100",
+        "nombre": "Villa Burruyacú"
+      },
+      "municipio": {
+        "id": "900007",
+        "nombre": "Burruyacú"
+      },
+      "nombre": "Villa Burruyacú",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.7304610862501,
+        "lon": -65.0107233516743
+      },
+      "departamento": {
+        "id": "90007",
+        "nombre": "Burruyacú"
+      },
+      "id": "90007060",
+      "localidad_censal": {
+        "id": "90007060",
+        "nombre": "Macomitas"
+      },
+      "municipio": {
+        "id": "908014",
+        "nombre": "El Chañar"
+      },
+      "nombre": "Macomitas",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.6617418425936,
+        "lon": -65.0488046208754
+      },
+      "departamento": {
+        "id": "90007",
+        "nombre": "Burruyacú"
+      },
+      "id": "90007030",
+      "localidad_censal": {
+        "id": "90007030",
+        "nombre": "El Naranjo"
+      },
+      "municipio": {
+        "id": "908021",
+        "nombre": "El Naranjo y El Sunchal"
+      },
+      "nombre": "El Naranjo",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.7383473342522,
+        "lon": -64.648161100962
+      },
+      "departamento": {
+        "id": "90007",
+        "nombre": "Burruyacú"
+      },
+      "id": "90007070",
+      "localidad_censal": {
+        "id": "90007070",
+        "nombre": "Gobernador Piedrabuena"
+      },
+      "municipio": {
+        "id": "908049",
+        "nombre": "Gobernador Piedrabuena"
+      },
+      "nombre": "Piedrabuena",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.7573584986974,
+        "lon": -65.0679645328724
+      },
+      "departamento": {
+        "id": "90007",
+        "nombre": "Burruyacú"
+      },
+      "id": "90007020",
+      "localidad_censal": {
+        "id": "90007020",
+        "nombre": "El Chañar"
+      },
+      "municipio": {
+        "id": "908014",
+        "nombre": "El Chañar"
+      },
+      "nombre": "El Chañar",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.5105349312037,
+        "lon": -64.994619007927
+      },
+      "departamento": {
+        "id": "90007",
+        "nombre": "Burruyacú"
+      },
+      "id": "90007110",
+      "localidad_censal": {
+        "id": "90007110",
+        "nombre": "Villa Padre Monti"
+      },
+      "municipio": {
+        "id": "908070",
+        "nombre": "Villa Padre Monti"
+      },
+      "nombre": "Villa Padre Monti",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.6768508292566,
+        "lon": -65.0456957222533
+      },
+      "departamento": {
+        "id": "90007",
+        "nombre": "Burruyacú"
+      },
+      "id": "90007010",
+      "localidad_censal": {
+        "id": "90007010",
+        "nombre": "Barrio San Jorge"
+      },
+      "municipio": {
+        "id": "908021",
+        "nombre": "El Naranjo y El Sunchal"
+      },
+      "nombre": "Barrio San Jorge",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.5685396128214,
+        "lon": -64.5575273272658
+      },
+      "departamento": {
+        "id": "90007",
+        "nombre": "Burruyacú"
+      },
+      "id": "90007040",
+      "localidad_censal": {
+        "id": "90007040",
+        "nombre": "Garmendia"
+      },
+      "municipio": {
+        "id": "908042",
+        "nombre": "Garmendia"
+      },
+      "nombre": "Garmendia",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.5560599880469,
+        "lon": -64.797717571888
+      },
+      "departamento": {
+        "id": "90007",
+        "nombre": "Burruyacú"
+      },
+      "id": "90007090",
+      "localidad_censal": {
+        "id": "90007090",
+        "nombre": "Villa Benjamín Aráoz"
+      },
+      "municipio": {
+        "id": "908063",
+        "nombre": "Benjamín Aráoz y El Tajamar"
+      },
+      "nombre": "Villa Benjamín Aráoz",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "90007"
+    ]
+  },
+  "total": 10
+}

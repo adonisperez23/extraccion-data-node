@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.1166982283608,
+        "lon": -55.5815159939001
+      },
+      "departamento": {
+        "id": "54035",
+        "nombre": "Concepción"
+      },
+      "id": "54035010",
+      "localidad_censal": {
+        "id": "54035010",
+        "nombre": "Barra Concepción"
+      },
+      "municipio": {
+        "id": "540126",
+        "nombre": "Concepción de la Sierra"
+      },
+      "nombre": "Barra Concepción",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9805783904721,
+        "lon": -55.5215882217731
+      },
+      "departamento": {
+        "id": "54035",
+        "nombre": "Concepción"
+      },
+      "id": "54035020",
+      "localidad_censal": {
+        "id": "54035020",
+        "nombre": "Concepción de la Sierra"
+      },
+      "municipio": {
+        "id": "540126",
+        "nombre": "Concepción de la Sierra"
+      },
+      "nombre": "Concepción de la Sierra",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.8925337769167,
+        "lon": -55.3555548841936
+      },
+      "departamento": {
+        "id": "54035",
+        "nombre": "Concepción"
+      },
+      "id": "54035030",
+      "localidad_censal": {
+        "id": "54035030",
+        "nombre": "La Corita"
+      },
+      "municipio": {
+        "id": "540133",
+        "nombre": "Santa María"
+      },
+      "nombre": "La Corita",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.9345141293085,
+        "lon": -55.407334404252
+      },
+      "departamento": {
+        "id": "54035",
+        "nombre": "Concepción"
+      },
+      "id": "54035040",
+      "localidad_censal": {
+        "id": "54035040",
+        "nombre": "Santa María"
+      },
+      "municipio": {
+        "id": "540133",
+        "nombre": "Santa María"
+      },
+      "nombre": "Santa María",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "54035"
+    ]
+  },
+  "total": 4
+}

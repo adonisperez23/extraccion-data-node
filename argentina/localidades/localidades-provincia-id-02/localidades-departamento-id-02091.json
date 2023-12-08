@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.562072555153,
+        "lon": -58.4565546074252
+      },
+      "departamento": {
+        "id": "02091",
+        "nombre": "Comuna 13"
+      },
+      "id": "0209101001",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022091",
+        "nombre": "Comuna 13"
+      },
+      "nombre": "Belgrano",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5758228647208,
+        "lon": -58.4486190117511
+      },
+      "departamento": {
+        "id": "02091",
+        "nombre": "Comuna 13"
+      },
+      "id": "0209101002",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022091",
+        "nombre": "Comuna 13"
+      },
+      "nombre": "Colegiales",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5488070972405,
+        "lon": -58.4632284537955
+      },
+      "departamento": {
+        "id": "02091",
+        "nombre": "Comuna 13"
+      },
+      "id": "0209101003",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022091",
+        "nombre": "Comuna 13"
+      },
+      "nombre": "Nuñez",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "02091"
+    ]
+  },
+  "total": 3
+}

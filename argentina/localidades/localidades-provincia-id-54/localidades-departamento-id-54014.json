@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -27.0221009167187,
+        "lon": -54.6856072222935
+      },
+      "departamento": {
+        "id": "54014",
+        "nombre": "Cainguás"
+      },
+      "id": "5401403001",
+      "localidad_censal": {
+        "id": "54014030",
+        "nombre": "Dos de Mayo"
+      },
+      "municipio": {
+        "id": "540049",
+        "nombre": "Dos de Mayo"
+      },
+      "nombre": "Dos de Mayo Núcleo I",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -27.0318614590439,
+        "lon": -54.6649126897402
+      },
+      "departamento": {
+        "id": "54014",
+        "nombre": "Cainguás"
+      },
+      "id": "5401403002",
+      "localidad_censal": {
+        "id": "54014030",
+        "nombre": "Dos de Mayo"
+      },
+      "municipio": {
+        "id": "540049",
+        "nombre": "Dos de Mayo"
+      },
+      "nombre": "Dos de Mayo Núcleo II",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.095675650663,
+        "lon": -54.8934176144238
+      },
+      "departamento": {
+        "id": "54014",
+        "nombre": "Cainguás"
+      },
+      "id": "54014010",
+      "localidad_censal": {
+        "id": "54014010",
+        "nombre": "Aristóbulo del Valle"
+      },
+      "municipio": {
+        "id": "540035",
+        "nombre": "Aristóbulo del Valle"
+      },
+      "nombre": "Aristóbulo del Valle",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2079594757129,
+        "lon": -54.9797023999934
+      },
+      "departamento": {
+        "id": "54014",
+        "nombre": "Cainguás"
+      },
+      "id": "54014020",
+      "localidad_censal": {
+        "id": "54014020",
+        "nombre": "Campo Grande"
+      },
+      "municipio": {
+        "id": "540042",
+        "nombre": "Campo Grande"
+      },
+      "nombre": "Campo Grande",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.013338352247,
+        "lon": -54.6081561343144
+      },
+      "departamento": {
+        "id": "54014",
+        "nombre": "Cainguás"
+      },
+      "id": "54014050",
+      "localidad_censal": {
+        "id": "54014050",
+        "nombre": "Bº Bernardino Rivadavia"
+      },
+      "municipio": {
+        "id": "540049",
+        "nombre": "Dos de Mayo"
+      },
+      "nombre": "Dos de Mayo Nucleo III (Bº Bernardino Rivadavia)",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.1679908455962,
+        "lon": -55.0290627050208
+      },
+      "departamento": {
+        "id": "54014",
+        "nombre": "Cainguás"
+      },
+      "id": "54014060",
+      "localidad_censal": {
+        "id": "54014060",
+        "nombre": "1º de Mayo"
+      },
+      "municipio": {
+        "id": "540042",
+        "nombre": "Campo Grande"
+      },
+      "nombre": "1º de Mayo",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.1525774961752,
+        "lon": -54.5607361918512
+      },
+      "departamento": {
+        "id": "54014",
+        "nombre": "Cainguás"
+      },
+      "id": "54014070",
+      "localidad_censal": {
+        "id": "54014070",
+        "nombre": "Pueblo Illia"
+      },
+      "municipio": {
+        "id": "540049",
+        "nombre": "Dos de Mayo"
+      },
+      "nombre": "Pueblo Illia",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.0873225759686,
+        "lon": -54.8333673267174
+      },
+      "departamento": {
+        "id": "54014",
+        "nombre": "Cainguás"
+      },
+      "id": "54014080",
+      "localidad_censal": {
+        "id": "54014080",
+        "nombre": "Salto Encantado"
+      },
+      "municipio": {
+        "id": "540035",
+        "nombre": "Aristóbulo del Valle"
+      },
+      "nombre": "Salto Encantado",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3157401414387,
+        "lon": -54.9027258895434
+      },
+      "departamento": {
+        "id": "54014",
+        "nombre": "Cainguás"
+      },
+      "id": "54014055",
+      "localidad_censal": {
+        "id": "54014055",
+        "nombre": "Kilómetro 17"
+      },
+      "municipio": {
+        "id": "540042",
+        "nombre": "Campo Grande"
+      },
+      "nombre": "Kilómetro 17",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.0199367725495,
+        "lon": -54.6845309683247
+      },
+      "departamento": {
+        "id": "54014",
+        "nombre": "Cainguás"
+      },
+      "id": "54014030",
+      "localidad_censal": {
+        "id": "54014030",
+        "nombre": "Dos de Mayo"
+      },
+      "municipio": {
+        "id": "540049",
+        "nombre": "Dos de Mayo"
+      },
+      "nombre": "Dos de Mayo",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "54014"
+    ]
+  },
+  "total": 10
+}

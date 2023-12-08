@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.2303186276078,
+        "lon": -55.7844099938525
+      },
+      "departamento": {
+        "id": "18168",
+        "nombre": "Santo Tomé"
+      },
+      "id": "18168010",
+      "localidad_censal": {
+        "id": "18168010",
+        "nombre": "Garaví"
+      },
+      "municipio": {
+        "id": "180441",
+        "nombre": "Garaví"
+      },
+      "nombre": "José Rafael Gómez",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.1737410217252,
+        "lon": -55.6506443276322
+      },
+      "departamento": {
+        "id": "18168",
+        "nombre": "Santo Tomé"
+      },
+      "id": "18168020",
+      "localidad_censal": {
+        "id": "18168020",
+        "nombre": "Garruchos"
+      },
+      "municipio": {
+        "id": "180427",
+        "nombre": "Garruchos"
+      },
+      "nombre": "Garruchos",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.0468079831449,
+        "lon": -56.0096324855253
+      },
+      "departamento": {
+        "id": "18168",
+        "nombre": "Santo Tomé"
+      },
+      "id": "18168030",
+      "localidad_censal": {
+        "id": "18168030",
+        "nombre": "Gobernador Virasoro"
+      },
+      "municipio": {
+        "id": "180434",
+        "nombre": "Gobernador Virasoro"
+      },
+      "nombre": "Gobernador Igr. Valentín Virasoro",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.5498158069218,
+        "lon": -56.0348110765932
+      },
+      "departamento": {
+        "id": "18168",
+        "nombre": "Santo Tomé"
+      },
+      "id": "18168040",
+      "localidad_censal": {
+        "id": "18168040",
+        "nombre": "Santo Tomé"
+      },
+      "municipio": {
+        "id": "180448",
+        "nombre": "Santo Tomé"
+      },
+      "nombre": "Santo Tomé",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18168"
+    ]
+  },
+  "total": 4
+}

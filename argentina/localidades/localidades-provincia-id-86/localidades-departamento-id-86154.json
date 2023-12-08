@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.7682479528835,
+        "lon": -62.0475324441514
+      },
+      "departamento": {
+        "id": "86154",
+        "nombre": "Rivadavia"
+      },
+      "id": "86154030",
+      "localidad_censal": {
+        "id": "86154030",
+        "nombre": "Selva"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Selva",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.0600971965697,
+        "lon": -62.1033916786959
+      },
+      "departamento": {
+        "id": "86154",
+        "nombre": "Rivadavia"
+      },
+      "id": "86154010",
+      "localidad_censal": {
+        "id": "86154010",
+        "nombre": "Colonia Alpina"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Colonia Alpina",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.6750721838322,
+        "lon": -62.1356230496784
+      },
+      "departamento": {
+        "id": "86154",
+        "nombre": "Rivadavia"
+      },
+      "id": "86154020",
+      "localidad_censal": {
+        "id": "86154020",
+        "nombre": "Palo Negro"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Palo Negro",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86154"
+    ]
+  },
+  "total": 3
+}

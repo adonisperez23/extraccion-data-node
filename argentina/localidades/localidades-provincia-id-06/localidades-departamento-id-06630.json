@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.3163608052112,
+        "lon": -58.5514293687728
+      },
+      "departamento": {
+        "id": "06630",
+        "nombre": "Pila"
+      },
+      "id": "06630010",
+      "localidad_censal": {
+        "id": "06630010",
+        "nombre": "Pila"
+      },
+      "municipio": {
+        "id": "060630",
+        "nombre": "Pila"
+      },
+      "nombre": "Casalins",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.0041852414953,
+        "lon": -58.141067696489
+      },
+      "departamento": {
+        "id": "06630",
+        "nombre": "Pila"
+      },
+      "id": "06630020",
+      "localidad_censal": {
+        "id": "06630020",
+        "nombre": "Casalins"
+      },
+      "municipio": {
+        "id": "060630",
+        "nombre": "Pila"
+      },
+      "nombre": "Pila",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06630"
+    ]
+  },
+  "total": 2
+}

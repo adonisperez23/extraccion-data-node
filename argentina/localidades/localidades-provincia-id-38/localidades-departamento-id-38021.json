@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -24.1169028293777,
+        "lon": -65.4033777204213
+      },
+      "departamento": {
+        "id": "38021",
+        "nombre": "Dr. Manuel Belgrano"
+      },
+      "id": "3802107001",
+      "localidad_censal": {
+        "id": "38021070",
+        "nombre": "Yala"
+      },
+      "municipio": {
+        "id": "380042",
+        "nombre": "Yala"
+      },
+      "nombre": "Los Nogales",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -24.1468540136486,
+        "lon": -65.3939437454147
+      },
+      "departamento": {
+        "id": "38021",
+        "nombre": "Dr. Manuel Belgrano"
+      },
+      "id": "3802107002",
+      "localidad_censal": {
+        "id": "38021070",
+        "nombre": "Yala"
+      },
+      "municipio": {
+        "id": "380042",
+        "nombre": "Yala"
+      },
+      "nombre": "San Pablo de Reyes",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -24.1223616451894,
+        "lon": -65.4015758458617
+      },
+      "departamento": {
+        "id": "38021",
+        "nombre": "Dr. Manuel Belgrano"
+      },
+      "id": "3802107003",
+      "localidad_censal": {
+        "id": "38021070",
+        "nombre": "Yala"
+      },
+      "municipio": {
+        "id": "380042",
+        "nombre": "Yala"
+      },
+      "nombre": "Yala",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.1864512579727,
+        "lon": -65.4489481631763
+      },
+      "departamento": {
+        "id": "38021",
+        "nombre": "Dr. Manuel Belgrano"
+      },
+      "id": "38021010",
+      "localidad_censal": {
+        "id": "38021010",
+        "nombre": "Guerrero"
+      },
+      "municipio": {
+        "id": "380035",
+        "nombre": "San Salvador de Jujuy"
+      },
+      "nombre": "Guerrero",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.2593428790766,
+        "lon": -65.3939570750952
+      },
+      "departamento": {
+        "id": "38021",
+        "nombre": "Dr. Manuel Belgrano"
+      },
+      "id": "38021020",
+      "localidad_censal": {
+        "id": "38021020",
+        "nombre": "La Almona"
+      },
+      "municipio": {
+        "id": "380035",
+        "nombre": "San Salvador de Jujuy"
+      },
+      "nombre": "La Almona",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.0352420315057,
+        "lon": -65.431831855935
+      },
+      "departamento": {
+        "id": "38021",
+        "nombre": "Dr. Manuel Belgrano"
+      },
+      "id": "38021030",
+      "localidad_censal": {
+        "id": "38021030",
+        "nombre": "León"
+      },
+      "municipio": {
+        "id": "380042",
+        "nombre": "Yala"
+      },
+      "nombre": "León",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.0776055082901,
+        "lon": -65.4087089137146
+      },
+      "departamento": {
+        "id": "38021",
+        "nombre": "Dr. Manuel Belgrano"
+      },
+      "id": "38021040",
+      "localidad_censal": {
+        "id": "38021040",
+        "nombre": "Lozano"
+      },
+      "municipio": {
+        "id": "380042",
+        "nombre": "Yala"
+      },
+      "nombre": "Lozano",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.9441100407681,
+        "lon": -65.2317019309515
+      },
+      "departamento": {
+        "id": "38021",
+        "nombre": "Dr. Manuel Belgrano"
+      },
+      "id": "38021050",
+      "localidad_censal": {
+        "id": "38021050",
+        "nombre": "Ocloyas"
+      },
+      "municipio": {
+        "id": "380042",
+        "nombre": "Yala"
+      },
+      "nombre": "Ocloyas",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -24.1858286711634,
+        "lon": -65.2994830799205
+      },
+      "departamento": {
+        "id": "38021",
+        "nombre": "Dr. Manuel Belgrano"
+      },
+      "id": "38021060",
+      "localidad_censal": {
+        "id": "38021060",
+        "nombre": "San Salvador de Jujuy"
+      },
+      "municipio": {
+        "id": "380035",
+        "nombre": "San Salvador de Jujuy"
+      },
+      "nombre": "San Salvador de Jujuy",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.9480051826533,
+        "lon": -65.2995631246957
+      },
+      "departamento": {
+        "id": "38021",
+        "nombre": "Dr. Manuel Belgrano"
+      },
+      "id": "38021065",
+      "localidad_censal": {
+        "id": "38021065",
+        "nombre": "Tesorero"
+      },
+      "municipio": {
+        "id": "380042",
+        "nombre": "Yala"
+      },
+      "nombre": "Tesorero",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "38021"
+    ]
+  },
+  "total": 11
+}

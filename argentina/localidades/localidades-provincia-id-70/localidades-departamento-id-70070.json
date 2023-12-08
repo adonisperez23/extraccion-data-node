@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.595508846803,
+        "lon": -68.5356375150039
+      },
+      "departamento": {
+        "id": "70070",
+        "nombre": "Pocito"
+      },
+      "id": "7007005002",
+      "localidad_censal": {
+        "id": "70070050",
+        "nombre": "Villa Barboza - Villa Nacusi"
+      },
+      "municipio": {
+        "id": "700070",
+        "nombre": "Pocito"
+      },
+      "nombre": "Villa Nacusi",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.6904636145299,
+        "lon": -68.5866340026227
+      },
+      "departamento": {
+        "id": "70070",
+        "nombre": "Pocito"
+      },
+      "id": "7007004001",
+      "localidad_censal": {
+        "id": "70070040",
+        "nombre": "Villa Aberastain - La Rinconada"
+      },
+      "municipio": {
+        "id": "700070",
+        "nombre": "Pocito"
+      },
+      "nombre": "La Rinconada",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.6538304185602,
+        "lon": -68.5759955169046
+      },
+      "departamento": {
+        "id": "70070",
+        "nombre": "Pocito"
+      },
+      "id": "7007004002",
+      "localidad_censal": {
+        "id": "70070040",
+        "nombre": "Villa Aberastain - La Rinconada"
+      },
+      "municipio": {
+        "id": "700070",
+        "nombre": "Pocito"
+      },
+      "nombre": "Villa Aberastain",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.592897329482,
+        "lon": -68.5571289097553
+      },
+      "departamento": {
+        "id": "70070",
+        "nombre": "Pocito"
+      },
+      "id": "7007005001",
+      "localidad_censal": {
+        "id": "70070050",
+        "nombre": "Villa Barboza - Villa Nacusi"
+      },
+      "municipio": {
+        "id": "700070",
+        "nombre": "Pocito"
+      },
+      "nombre": "Villa Barboza",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.6950552630901,
+        "lon": -68.5732539734051
+      },
+      "departamento": {
+        "id": "70070",
+        "nombre": "Pocito"
+      },
+      "id": "70070060",
+      "localidad_censal": {
+        "id": "70070060",
+        "nombre": "Villa Centenario"
+      },
+      "municipio": {
+        "id": "700070",
+        "nombre": "Pocito"
+      },
+      "nombre": "Villa Centenario",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.8590422981302,
+        "lon": -68.5369454492431
+      },
+      "departamento": {
+        "id": "70070",
+        "nombre": "Pocito"
+      },
+      "id": "70070010",
+      "localidad_censal": {
+        "id": "70070010",
+        "nombre": "Barrio Ruta 40"
+      },
+      "municipio": {
+        "id": "700070",
+        "nombre": "Pocito"
+      },
+      "nombre": "Barrio Ruta 40",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.6580425701643,
+        "lon": -68.5794134313953
+      },
+      "departamento": {
+        "id": "70070",
+        "nombre": "Pocito"
+      },
+      "id": "70070040",
+      "localidad_censal": {
+        "id": "70070040",
+        "nombre": "Villa Aberastain - La Rinconada"
+      },
+      "municipio": {
+        "id": "700070",
+        "nombre": "Pocito"
+      },
+      "nombre": "Villa Aberastain - La Rinconada",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.8192198785918,
+        "lon": -68.5413447853139
+      },
+      "departamento": {
+        "id": "70070",
+        "nombre": "Pocito"
+      },
+      "id": "70070020",
+      "localidad_censal": {
+        "id": "70070020",
+        "nombre": "Carpintería"
+      },
+      "municipio": {
+        "id": "700070",
+        "nombre": "Pocito"
+      },
+      "nombre": "Carpintería",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -31.5964362379647,
+        "lon": -68.5426327578732
+      },
+      "departamento": {
+        "id": "70070",
+        "nombre": "Pocito"
+      },
+      "id": "70070050",
+      "localidad_censal": {
+        "id": "70070050",
+        "nombre": "Villa Barboza - Villa Nacusi"
+      },
+      "municipio": {
+        "id": "700070",
+        "nombre": "Pocito"
+      },
+      "nombre": "Villa Barboza - Villa Nacusi",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.6133215264759,
+        "lon": -68.6012031059672
+      },
+      "departamento": {
+        "id": "70070",
+        "nombre": "Pocito"
+      },
+      "id": "70070030",
+      "localidad_censal": {
+        "id": "70070030",
+        "nombre": "Quinto Cuartel"
+      },
+      "municipio": {
+        "id": "700070",
+        "nombre": "Pocito"
+      },
+      "nombre": "Quinto Cuartel",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "70070"
+    ]
+  },
+  "total": 11
+}

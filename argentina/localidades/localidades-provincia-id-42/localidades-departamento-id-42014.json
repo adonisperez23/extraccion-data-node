@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.963052676569,
+        "lon": -63.8608882456791
+      },
+      "departamento": {
+        "id": "42014",
+        "nombre": "Caleu Caleu"
+      },
+      "id": "42014010",
+      "localidad_censal": {
+        "id": "42014010",
+        "nombre": "Anzoátegui"
+      },
+      "municipio": {
+        "id": "420189",
+        "nombre": "La Adela"
+      },
+      "nombre": "Anzoátegui",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -38.9853302670111,
+        "lon": -64.0905343177588
+      },
+      "departamento": {
+        "id": "42014",
+        "nombre": "Caleu Caleu"
+      },
+      "id": "42014020",
+      "localidad_censal": {
+        "id": "42014020",
+        "nombre": "La Adela"
+      },
+      "municipio": {
+        "id": "420189",
+        "nombre": "La Adela"
+      },
+      "nombre": "La Adela",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42014"
+    ]
+  },
+  "total": 2
+}

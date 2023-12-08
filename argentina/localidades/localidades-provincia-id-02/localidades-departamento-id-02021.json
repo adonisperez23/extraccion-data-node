@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6087869818085,
+        "lon": -58.4017842965106
+      },
+      "departamento": {
+        "id": "02021",
+        "nombre": "Comuna 3"
+      },
+      "id": "0202101001",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022021",
+        "nombre": "Comuna 3"
+      },
+      "nombre": "Balvanera",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6237838538611,
+        "lon": -58.4021224824851
+      },
+      "departamento": {
+        "id": "02021",
+        "nombre": "Comuna 3"
+      },
+      "id": "0202101002",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022021",
+        "nombre": "Comuna 3"
+      },
+      "nombre": "San Cristóbal",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "02021"
+    ]
+  },
+  "total": 2
+}

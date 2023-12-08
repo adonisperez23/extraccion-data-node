@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.0020643354201,
+        "lon": -60.855489814834
+      },
+      "departamento": {
+        "id": "06105",
+        "nombre": "Bolívar"
+      },
+      "id": "06105010",
+      "localidad_censal": {
+        "id": "06105010",
+        "nombre": "Hale"
+      },
+      "municipio": {
+        "id": "060105",
+        "nombre": "Bolívar"
+      },
+      "nombre": "Hale",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.3471482703942,
+        "lon": -61.2540350435255
+      },
+      "departamento": {
+        "id": "06105",
+        "nombre": "Bolívar"
+      },
+      "id": "06105020",
+      "localidad_censal": {
+        "id": "06105020",
+        "nombre": "Juan F. Ibarra"
+      },
+      "municipio": {
+        "id": "060105",
+        "nombre": "Bolívar"
+      },
+      "nombre": "Juan F. Ibarra",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.5035708180565,
+        "lon": -61.0248313843972
+      },
+      "departamento": {
+        "id": "06105",
+        "nombre": "Bolívar"
+      },
+      "id": "06105040",
+      "localidad_censal": {
+        "id": "06105040",
+        "nombre": "Paula"
+      },
+      "municipio": {
+        "id": "060105",
+        "nombre": "Bolívar"
+      },
+      "nombre": "Paula",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.5101574870878,
+        "lon": -61.5555189951424
+      },
+      "departamento": {
+        "id": "06105",
+        "nombre": "Bolívar"
+      },
+      "id": "06105050",
+      "localidad_censal": {
+        "id": "06105050",
+        "nombre": "Pirovano"
+      },
+      "municipio": {
+        "id": "060105",
+        "nombre": "Bolívar"
+      },
+      "nombre": "Pirovano",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.2298792668243,
+        "lon": -61.1139170844785
+      },
+      "departamento": {
+        "id": "06105",
+        "nombre": "Bolívar"
+      },
+      "id": "06105060",
+      "localidad_censal": {
+        "id": "06105060",
+        "nombre": "San Carlos de Bolívar"
+      },
+      "municipio": {
+        "id": "060105",
+        "nombre": "Bolívar"
+      },
+      "nombre": "San Carlos de Bolívar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.4316190704842,
+        "lon": -61.420100225322
+      },
+      "departamento": {
+        "id": "06105",
+        "nombre": "Bolívar"
+      },
+      "id": "06105070",
+      "localidad_censal": {
+        "id": "06105070",
+        "nombre": "Urdampilleta"
+      },
+      "municipio": {
+        "id": "060105",
+        "nombre": "Bolívar"
+      },
+      "nombre": "Urdampilleta",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.6015315731939,
+        "lon": -61.3636659844575
+      },
+      "departamento": {
+        "id": "06105",
+        "nombre": "Bolívar"
+      },
+      "id": "06105080",
+      "localidad_censal": {
+        "id": "06105080",
+        "nombre": "Villa Lynch Pueyrredón"
+      },
+      "municipio": {
+        "id": "060105",
+        "nombre": "Bolívar"
+      },
+      "nombre": "Villa Lynch Pueyrredón",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06105"
+    ]
+  },
+  "total": 7
+}

@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2751918731914,
+        "lon": -59.1514756922
+      },
+      "departamento": {
+        "id": "22077",
+        "nombre": "Libertad"
+      },
+      "id": "22077010",
+      "localidad_censal": {
+        "id": "22077010",
+        "nombre": "Colonia Popular"
+      },
+      "municipio": {
+        "id": "220231",
+        "nombre": "Colonia Popular"
+      },
+      "nombre": "Colonia Popular",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4116262609828,
+        "lon": -59.4193459037811
+      },
+      "departamento": {
+        "id": "22077",
+        "nombre": "Libertad"
+      },
+      "id": "22077020",
+      "localidad_censal": {
+        "id": "22077020",
+        "nombre": "Estación General Obligado"
+      },
+      "municipio": {
+        "id": "220245",
+        "nombre": "Puerto Tirol"
+      },
+      "nombre": "Estación General Obligado",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2554304381034,
+        "lon": -59.2330158035774
+      },
+      "departamento": {
+        "id": "22077",
+        "nombre": "Libertad"
+      },
+      "id": "22077030",
+      "localidad_censal": {
+        "id": "22077030",
+        "nombre": "Laguna Blanca"
+      },
+      "municipio": {
+        "id": "220238",
+        "nombre": "Laguna Blanca"
+      },
+      "nombre": "Laguna Blanca",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3740411914358,
+        "lon": -59.0892761648709
+      },
+      "departamento": {
+        "id": "22077",
+        "nombre": "Libertad"
+      },
+      "id": "22077040",
+      "localidad_censal": {
+        "id": "22077040",
+        "nombre": "Puerto Tirol"
+      },
+      "municipio": {
+        "id": "220245",
+        "nombre": "Puerto Tirol"
+      },
+      "nombre": "Puerto Tirol",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22077"
+    ]
+  },
+  "total": 4
+}

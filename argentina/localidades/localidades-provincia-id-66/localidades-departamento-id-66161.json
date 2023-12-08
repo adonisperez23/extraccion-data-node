@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.2838302400171,
+        "lon": -65.0176745792452
+      },
+      "departamento": {
+        "id": "66161",
+        "nombre": "Santa Victoria"
+      },
+      "id": "66161010",
+      "localidad_censal": {
+        "id": "66161010",
+        "nombre": "Acoyte"
+      },
+      "municipio": {
+        "id": "660413",
+        "nombre": "Santa Victoria Oeste"
+      },
+      "nombre": "Acoyte",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.2803696174661,
+        "lon": -64.6989208869293
+      },
+      "departamento": {
+        "id": "66161",
+        "nombre": "Santa Victoria"
+      },
+      "id": "66161030",
+      "localidad_censal": {
+        "id": "66161030",
+        "nombre": "Los Toldos"
+      },
+      "municipio": {
+        "id": "660399",
+        "nombre": "Los Toldos"
+      },
+      "nombre": "Los Toldos",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.2504442194025,
+        "lon": -64.9647848032761
+      },
+      "departamento": {
+        "id": "66161",
+        "nombre": "Santa Victoria"
+      },
+      "id": "66161070",
+      "localidad_censal": {
+        "id": "66161070",
+        "nombre": "Santa Victoria"
+      },
+      "municipio": {
+        "id": "660413",
+        "nombre": "Santa Victoria Oeste"
+      },
+      "nombre": "Santa Victoria",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.454405758897,
+        "lon": -65.0832217655474
+      },
+      "departamento": {
+        "id": "66161",
+        "nombre": "Santa Victoria"
+      },
+      "id": "66161050",
+      "localidad_censal": {
+        "id": "66161050",
+        "nombre": "Poscaya"
+      },
+      "municipio": {
+        "id": "660406",
+        "nombre": "Nazareno"
+      },
+      "nombre": "Poscaya",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.5094767962962,
+        "lon": -65.1023763829106
+      },
+      "departamento": {
+        "id": "66161",
+        "nombre": "Santa Victoria"
+      },
+      "id": "66161040",
+      "localidad_censal": {
+        "id": "66161040",
+        "nombre": "Nazareno"
+      },
+      "municipio": {
+        "id": "660406",
+        "nombre": "Nazareno"
+      },
+      "nombre": "Nazareno",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.5154418096975,
+        "lon": -65.1123239010026
+      },
+      "departamento": {
+        "id": "66161",
+        "nombre": "Santa Victoria"
+      },
+      "id": "66161060",
+      "localidad_censal": {
+        "id": "66161060",
+        "nombre": "San Marcos"
+      },
+      "municipio": {
+        "id": "660406",
+        "nombre": "Nazareno"
+      },
+      "nombre": "San Marcos",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.4988923351335,
+        "lon": -65.0980183274628
+      },
+      "departamento": {
+        "id": "66161",
+        "nombre": "Santa Victoria"
+      },
+      "id": "66161020",
+      "localidad_censal": {
+        "id": "66161020",
+        "nombre": "Campo La Cruz"
+      },
+      "municipio": {
+        "id": "660406",
+        "nombre": "Nazareno"
+      },
+      "nombre": "Campo La Cruz",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66161"
+    ]
+  },
+  "total": 7
+}

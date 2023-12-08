@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.8361238233681,
+        "lon": -59.0060051399177
+      },
+      "departamento": {
+        "id": "18091",
+        "nombre": "Lavalle"
+      },
+      "id": "18091010",
+      "localidad_censal": {
+        "id": "18091010",
+        "nombre": "Cruz de los Milagros"
+      },
+      "municipio": {
+        "id": "180189",
+        "nombre": "Cruz de los Milagros"
+      },
+      "nombre": "Cruz de los Milagros",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.912338712049,
+        "lon": -58.9361031061952
+      },
+      "departamento": {
+        "id": "18091",
+        "nombre": "Lavalle"
+      },
+      "id": "18091020",
+      "localidad_censal": {
+        "id": "18091020",
+        "nombre": "Gobernador Martínez"
+      },
+      "municipio": {
+        "id": "180196",
+        "nombre": "Gobernador Martínez"
+      },
+      "nombre": "Gobernador Juan E. Martínez",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.0233312186356,
+        "lon": -59.1791542656857
+      },
+      "departamento": {
+        "id": "18091",
+        "nombre": "Lavalle"
+      },
+      "id": "18091030",
+      "localidad_censal": {
+        "id": "18091030",
+        "nombre": "Lavalle"
+      },
+      "municipio": {
+        "id": "180203",
+        "nombre": "Lavalle"
+      },
+      "nombre": "Lavalle",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.9898522481525,
+        "lon": -59.1007625543369
+      },
+      "departamento": {
+        "id": "18091",
+        "nombre": "Lavalle"
+      },
+      "id": "18091040",
+      "localidad_censal": {
+        "id": "18091040",
+        "nombre": "Santa Lucí­a"
+      },
+      "municipio": {
+        "id": "180210",
+        "nombre": "Santa Lucía"
+      },
+      "nombre": "Santa Lucía",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.9916565448754,
+        "lon": -59.0751889970417
+      },
+      "departamento": {
+        "id": "18091",
+        "nombre": "Lavalle"
+      },
+      "id": "18091050",
+      "localidad_censal": {
+        "id": "18091050",
+        "nombre": "Villa Córdoba"
+      },
+      "municipio": {
+        "id": "180210",
+        "nombre": "Santa Lucía"
+      },
+      "nombre": "Villa Córdoba",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.0283125663823,
+        "lon": -58.912232686265
+      },
+      "departamento": {
+        "id": "18091",
+        "nombre": "Lavalle"
+      },
+      "id": "18091060",
+      "localidad_censal": {
+        "id": "18091060",
+        "nombre": "Yatay Ti Calle"
+      },
+      "municipio": {
+        "id": "180217",
+        "nombre": "Yatay Ti Calle"
+      },
+      "nombre": "Yatayti Calle",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18091"
+    ]
+  },
+  "total": 6
+}

@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.8026057230127,
+        "lon": -65.2679320128139
+      },
+      "departamento": {
+        "id": "90119",
+        "nombre": "Yerba Buena"
+      },
+      "id": "9011903001",
+      "localidad_censal": {
+        "id": "90119030",
+        "nombre": "Yerba Buena - Marcos Paz"
+      },
+      "municipio": {
+        "id": "900133",
+        "nombre": "Yerba Buena"
+      },
+      "nombre": "Ex Ingenio San José",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -26.810819983931,
+        "lon": -65.2834322486714
+      },
+      "departamento": {
+        "id": "90119",
+        "nombre": "Yerba Buena"
+      },
+      "id": "9011903002",
+      "localidad_censal": {
+        "id": "90119030",
+        "nombre": "Yerba Buena - Marcos Paz"
+      },
+      "municipio": {
+        "id": "900133",
+        "nombre": "Yerba Buena"
+      },
+      "nombre": "Yerba Buena - Marcos Paz",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.7679727530668,
+        "lon": -65.2724090630554
+      },
+      "departamento": {
+        "id": "90119",
+        "nombre": "Yerba Buena"
+      },
+      "id": "90119020",
+      "localidad_censal": {
+        "id": "90119020",
+        "nombre": "Cevil Redondo"
+      },
+      "municipio": {
+        "id": "908644",
+        "nombre": "Cevil Redondo"
+      },
+      "nombre": "Villa Carmela",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -26.8160416854849,
+        "lon": -65.2925383061096
+      },
+      "departamento": {
+        "id": "90119",
+        "nombre": "Yerba Buena"
+      },
+      "id": "90119030",
+      "localidad_censal": {
+        "id": "90119030",
+        "nombre": "Yerba Buena - Marcos Paz"
+      },
+      "municipio": {
+        "id": "900133",
+        "nombre": "Yerba Buena"
+      },
+      "nombre": "Yerba Buena - Marcos Paz",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "90119"
+    ]
+  },
+  "total": 4
+}

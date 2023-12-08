@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.1665794947261,
+        "lon": -63.415025085628
+      },
+      "departamento": {
+        "id": "42007",
+        "nombre": "Atreucó"
+      },
+      "id": "42007040",
+      "localidad_censal": {
+        "id": "42007040",
+        "nombre": "Rolón"
+      },
+      "municipio": {
+        "id": "420322",
+        "nombre": "Rolón"
+      },
+      "nombre": "Rolón",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.1504702596751,
+        "lon": -64.0115253755499
+      },
+      "departamento": {
+        "id": "42007",
+        "nombre": "Atreucó"
+      },
+      "id": "42007010",
+      "localidad_censal": {
+        "id": "42007010",
+        "nombre": "Doblas"
+      },
+      "municipio": {
+        "id": "420112",
+        "nombre": "Doblas"
+      },
+      "nombre": "Doblas",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.1369791302669,
+        "lon": -63.6667388462847
+      },
+      "departamento": {
+        "id": "42007",
+        "nombre": "Atreucó"
+      },
+      "id": "42007020",
+      "localidad_censal": {
+        "id": "42007020",
+        "nombre": "Macachín"
+      },
+      "municipio": {
+        "id": "420231",
+        "nombre": "Macachín"
+      },
+      "nombre": "Macachín",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.8563949352294,
+        "lon": -63.6878256059741
+      },
+      "departamento": {
+        "id": "42007",
+        "nombre": "Atreucó"
+      },
+      "id": "42007030",
+      "localidad_censal": {
+        "id": "42007030",
+        "nombre": "Miguel Riglos"
+      },
+      "municipio": {
+        "id": "420259",
+        "nombre": "Miguel Riglos"
+      },
+      "nombre": "Miguel Riglos",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.8403408637171,
+        "lon": -63.5248220159942
+      },
+      "departamento": {
+        "id": "42007",
+        "nombre": "Atreucó"
+      },
+      "id": "42007050",
+      "localidad_censal": {
+        "id": "42007050",
+        "nombre": "Tomás M. Anchorena"
+      },
+      "municipio": {
+        "id": "420364",
+        "nombre": "Tomás M. Anchorena"
+      },
+      "nombre": "Tomás M. Anchorena",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42007"
+    ]
+  },
+  "total": 5
+}

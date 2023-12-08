@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.8463826227702,
+        "lon": -58.2554911688579
+      },
+      "departamento": {
+        "id": "06063",
+        "nombre": "Balcarce"
+      },
+      "id": "06063010",
+      "localidad_censal": {
+        "id": "06063010",
+        "nombre": "Balcarce"
+      },
+      "municipio": {
+        "id": "060063",
+        "nombre": "Balcarce"
+      },
+      "nombre": "Balcarce",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.9427097517635,
+        "lon": -58.3242767397677
+      },
+      "departamento": {
+        "id": "06063",
+        "nombre": "Balcarce"
+      },
+      "id": "06063020",
+      "localidad_censal": {
+        "id": "06063020",
+        "nombre": "Los Pinos"
+      },
+      "municipio": {
+        "id": "060063",
+        "nombre": "Balcarce"
+      },
+      "nombre": "Los Pinos",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.6230706699026,
+        "lon": -58.7463685072656
+      },
+      "departamento": {
+        "id": "06063",
+        "nombre": "Balcarce"
+      },
+      "id": "06063030",
+      "localidad_censal": {
+        "id": "06063030",
+        "nombre": "Napaleofú"
+      },
+      "municipio": {
+        "id": "060063",
+        "nombre": "Balcarce"
+      },
+      "nombre": "Napaleofú",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.5408949196846,
+        "lon": -58.3406051189223
+      },
+      "departamento": {
+        "id": "06063",
+        "nombre": "Balcarce"
+      },
+      "id": "06063040",
+      "localidad_censal": {
+        "id": "06063040",
+        "nombre": "Ramos Otero"
+      },
+      "municipio": {
+        "id": "060063",
+        "nombre": "Balcarce"
+      },
+      "nombre": "Ramos Otero",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.014111278487,
+        "lon": -58.3559342499123
+      },
+      "departamento": {
+        "id": "06063",
+        "nombre": "Balcarce"
+      },
+      "id": "06063050",
+      "localidad_censal": {
+        "id": "06063050",
+        "nombre": "San Agustín"
+      },
+      "municipio": {
+        "id": "060063",
+        "nombre": "Balcarce"
+      },
+      "nombre": "San Agustín",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.8612230791642,
+        "lon": -57.9810120239183
+      },
+      "departamento": {
+        "id": "06063",
+        "nombre": "Balcarce"
+      },
+      "id": "06063060",
+      "localidad_censal": {
+        "id": "06063060",
+        "nombre": "Villa Laguna La Brava"
+      },
+      "municipio": {
+        "id": "060063",
+        "nombre": "Balcarce"
+      },
+      "nombre": "Villa Laguna La Brava",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06063"
+    ]
+  },
+  "total": 6
+}

@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.7478044778318,
+        "lon": -60.9883860604869
+      },
+      "departamento": {
+        "id": "06385",
+        "nombre": "General Viamonte"
+      },
+      "id": "06385010",
+      "localidad_censal": {
+        "id": "06385010",
+        "nombre": "Baigorrita"
+      },
+      "municipio": {
+        "id": "060385",
+        "nombre": "General Viamonte"
+      },
+      "nombre": "Baigorrita",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.9432556421346,
+        "lon": -61.1586608696719
+      },
+      "departamento": {
+        "id": "06385",
+        "nombre": "General Viamonte"
+      },
+      "id": "06385020",
+      "localidad_censal": {
+        "id": "06385020",
+        "nombre": "La Delfina"
+      },
+      "municipio": {
+        "id": "060385",
+        "nombre": "General Viamonte"
+      },
+      "nombre": "La Delfina",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.9999708295541,
+        "lon": -61.0387400078081
+      },
+      "departamento": {
+        "id": "06385",
+        "nombre": "General Viamonte"
+      },
+      "id": "06385030",
+      "localidad_censal": {
+        "id": "06385030",
+        "nombre": "Los Toldos"
+      },
+      "municipio": {
+        "id": "060385",
+        "nombre": "General Viamonte"
+      },
+      "nombre": "Los Toldos",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0304075257497,
+        "lon": -60.8660730503346
+      },
+      "departamento": {
+        "id": "06385",
+        "nombre": "General Viamonte"
+      },
+      "id": "06385040",
+      "localidad_censal": {
+        "id": "06385040",
+        "nombre": "San Emilio"
+      },
+      "municipio": {
+        "id": "060385",
+        "nombre": "General Viamonte"
+      },
+      "nombre": "San Emilio",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.8950855612262,
+        "lon": -61.005615922588
+      },
+      "departamento": {
+        "id": "06385",
+        "nombre": "General Viamonte"
+      },
+      "id": "06385050",
+      "localidad_censal": {
+        "id": "06385050",
+        "nombre": "Zavalía"
+      },
+      "municipio": {
+        "id": "060385",
+        "nombre": "General Viamonte"
+      },
+      "nombre": "Zavalía",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06385"
+    ]
+  },
+  "total": 5
+}

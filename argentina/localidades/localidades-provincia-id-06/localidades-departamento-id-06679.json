@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.4891640479858,
+        "lon": -62.9758916831348
+      },
+      "departamento": {
+        "id": "06679",
+        "nombre": "Rivadavia"
+      },
+      "id": "06679010",
+      "localidad_censal": {
+        "id": "06679010",
+        "nombre": "Fortí­n Olavarría"
+      },
+      "municipio": {
+        "id": "060679",
+        "nombre": "Rivadavia"
+      },
+      "nombre": "América",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.7026243197771,
+        "lon": -63.0240574481296
+      },
+      "departamento": {
+        "id": "06679",
+        "nombre": "Rivadavia"
+      },
+      "id": "06679020",
+      "localidad_censal": {
+        "id": "06679020",
+        "nombre": "González Moreno"
+      },
+      "municipio": {
+        "id": "060679",
+        "nombre": "Rivadavia"
+      },
+      "nombre": "Fortín Olavarría",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.5552866415641,
+        "lon": -63.3802912122609
+      },
+      "departamento": {
+        "id": "06679",
+        "nombre": "Rivadavia"
+      },
+      "id": "06679030",
+      "localidad_censal": {
+        "id": "06679030",
+        "nombre": "Mira Pampa"
+      },
+      "municipio": {
+        "id": "060679",
+        "nombre": "Rivadavia"
+      },
+      "nombre": "González Moreno",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.8701943036054,
+        "lon": -63.3736716297124
+      },
+      "departamento": {
+        "id": "06679",
+        "nombre": "Rivadavia"
+      },
+      "id": "06679040",
+      "localidad_censal": {
+        "id": "06679040",
+        "nombre": "América"
+      },
+      "municipio": {
+        "id": "060679",
+        "nombre": "Rivadavia"
+      },
+      "nombre": "Mira Pampa",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.8468999842255,
+        "lon": -63.2909563505954
+      },
+      "departamento": {
+        "id": "06679",
+        "nombre": "Rivadavia"
+      },
+      "id": "06679050",
+      "localidad_censal": {
+        "id": "06679050",
+        "nombre": "Roosevelt"
+      },
+      "municipio": {
+        "id": "060679",
+        "nombre": "Rivadavia"
+      },
+      "nombre": "Roosevelt",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.5107731942751,
+        "lon": -63.1882852945036
+      },
+      "departamento": {
+        "id": "06679",
+        "nombre": "Rivadavia"
+      },
+      "id": "06679060",
+      "localidad_censal": {
+        "id": "06679060",
+        "nombre": "San Mauricio"
+      },
+      "municipio": {
+        "id": "060679",
+        "nombre": "Rivadavia"
+      },
+      "nombre": "San Mauricio",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.2743908183915,
+        "lon": -63.2143255753942
+      },
+      "departamento": {
+        "id": "06679",
+        "nombre": "Rivadavia"
+      },
+      "id": "06679070",
+      "localidad_censal": {
+        "id": "06679070",
+        "nombre": "Sansinena"
+      },
+      "municipio": {
+        "id": "060679",
+        "nombre": "Rivadavia"
+      },
+      "nombre": "Sansinena",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.7645483584805,
+        "lon": -63.1402093438199
+      },
+      "departamento": {
+        "id": "06679",
+        "nombre": "Rivadavia"
+      },
+      "id": "06679080",
+      "localidad_censal": {
+        "id": "06679080",
+        "nombre": "Sundblad"
+      },
+      "municipio": {
+        "id": "060679",
+        "nombre": "Rivadavia"
+      },
+      "nombre": "Sundblad",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06679"
+    ]
+  },
+  "total": 8
+}

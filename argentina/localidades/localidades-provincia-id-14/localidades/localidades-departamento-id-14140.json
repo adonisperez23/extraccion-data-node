@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.9388472282911,
+        "lon": -62.4642457689622
+      },
+      "departamento": {
+        "id": "14140",
+        "nombre": "San Justo"
+      },
+      "id": "14140010",
+      "localidad_censal": {
+        "id": "14140010",
+        "nombre": "Alicia"
+      },
+      "municipio": {
+        "id": "141162",
+        "nombre": "Alicia"
+      },
+      "nombre": "Alicia",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.9571805127438,
+        "lon": -62.3383686273189
+      },
+      "departamento": {
+        "id": "14140",
+        "nombre": "San Justo"
+      },
+      "id": "14140020",
+      "localidad_censal": {
+        "id": "14140020",
+        "nombre": "Altos de Chipión"
+      },
+      "municipio": {
+        "id": "141169",
+        "nombre": "Altos de Chipión"
+      },
+      "nombre": "Altos de Chipión",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.4192297658795,
+        "lon": -63.0507025887566
+      },
+      "departamento": {
+        "id": "14140",
+        "nombre": "San Justo"
+      },
+      "id": "14140030",
+      "localidad_censal": {
+        "id": "14140030",
+        "nombre": "Arroyito"
+      },
+      "municipio": {
+        "id": "141176",
+        "nombre": "Arroyito"
+      },
+      "nombre": "Arroyito",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.0128513966305,
+        "lon": -62.6653740889213
+      },
+      "departamento": {
+        "id": "14140",
+        "nombre": "San Justo"
+      },
+      "id": "14140040",
+      "localidad_censal": {
+        "id": "14140040",
+        "nombre": "Balnearia"
+      },
+      "municipio": {
+        "id": "141183",
+        "nombre": "Balnearia"
+      },
+      "nombre": "Balnearia",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.8664795793171,
+        "lon": -62.0431067348053
+      },
+      "departamento": {
+        "id": "14140",
+        "nombre": "San Justo"
+      },
+      "id": "14140050",
+      "localidad_censal": {
+        "id": "14140050",
+        "nombre": "Brinkmann"
+      },
+      "municipio": {
+        "id": "141190",
+        "nombre": "Brinkmann"
+      },
+      "nombre": "Brinkmann",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.1199281862336,
+        "lon": -62.2343229967618
+      },
+      "departamento": {
+        "id": "14140",
+        "nombre": "San Justo"
+      },
+      "id": "14140060",
+      "localidad_censal": {
+        "id": "14140060",
+        "nombre": "Colonia Anita"
+      },
+      "municipio": {
+        "id": "142931",
+        "nombre": "Colonia Anita"
+      },
+      "nombre": "Colonia Anita",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.5252374883065,
+        "lon": -62.1124344158168
+      },
+      "departamento": {
+        "id": "14140",
+        "nombre": "San Justo"
+      },
+      "id": "14140070",
+      "localidad_censal": {
+        "id": "14140070",
+        "nombre": "Colonia 10 de Julio"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Colonia 10 de Julio",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.2456220192228,
+        "lon": -62.9253190838096
+      },
+      "departamento": {
+        "id": "14140",
+        "nombre": "San Justo"
+      },
+      "id": "14140080",
+      "localidad_censal": {
+        "id": "14140080",
+        "nombre": "Colonia Las Pichanas"
+      },
+      "municipio": {
+        "id": "142945",
+        "nombre": "Colonia Las Pichanas"
+      },
+      "nombre": "Colonia Las Pichanas",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.2487600057487,
+        "lon": -62.3639059540432
+      },
+      "departamento": {
+        "id": "14140",
+        "nombre": "San Justo"
+      },
+      "id": "14140090",
+      "localidad_censal": {
+        "id": "14140090",
+        "nombre": "Colonia Marina"
+      },
+      "municipio": {
+        "id": "141197",
+        "nombre": "Colonia Marina"
+      },
+      "nombre": "Colonia Marina",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.628704305652,
+        "lon": -62.3653398615241
+      },
+      "departamento": {
+        "id": "14140",
+        "nombre": "San Justo"
+      },
+      "id": "14140100",
+      "localidad_censal": {
+        "id": "14140100",
+        "nombre": "Colonia Prosperidad"
+      },
+      "municipio": {
+        "id": "141204",
+        "nombre": "Colonia Prosperidad"
+      },
+      "nombre": "Colonia Prosperidad",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14140"
+    ]
+  },
+  "total": 44
+}

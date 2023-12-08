@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.0546374920666,
+        "lon": -67.5044362947149
+      },
+      "departamento": {
+        "id": "46105",
+        "nombre": "Independencia"
+      },
+      "id": "46105010",
+      "localidad_censal": {
+        "id": "46105010",
+        "nombre": "Amaná"
+      },
+      "municipio": {
+        "id": "460105",
+        "nombre": "Independencia"
+      },
+      "nombre": "Amaná",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.0481465231574,
+        "lon": -66.8797165622639
+      },
+      "departamento": {
+        "id": "46105",
+        "nombre": "Independencia"
+      },
+      "id": "46105020",
+      "localidad_censal": {
+        "id": "46105020",
+        "nombre": "Patquía"
+      },
+      "municipio": {
+        "id": "460105",
+        "nombre": "Independencia"
+      },
+      "nombre": "Patquía",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "46105"
+    ]
+  },
+  "total": 2
+}

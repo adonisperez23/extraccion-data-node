@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.2813242498373,
+        "lon": -58.8027833581267
+      },
+      "departamento": {
+        "id": "06547",
+        "nombre": "Monte"
+      },
+      "id": "06547010",
+      "localidad_censal": {
+        "id": "06547010",
+        "nombre": "Abbott"
+      },
+      "municipio": {
+        "id": "060547",
+        "nombre": "Monte"
+      },
+      "nombre": "Abbott",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.4410438810578,
+        "lon": -58.8034514480508
+      },
+      "departamento": {
+        "id": "06547",
+        "nombre": "Monte"
+      },
+      "id": "06547020",
+      "localidad_censal": {
+        "id": "06547020",
+        "nombre": "San Miguel del Monte"
+      },
+      "municipio": {
+        "id": "060547",
+        "nombre": "Monte"
+      },
+      "nombre": "San Miguel del Monte",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.5420844897832,
+        "lon": -58.8864507537748
+      },
+      "departamento": {
+        "id": "06547",
+        "nombre": "Monte"
+      },
+      "id": "06547030",
+      "localidad_censal": {
+        "id": "06547030",
+        "nombre": "Zenón Videla Dorna"
+      },
+      "municipio": {
+        "id": "060547",
+        "nombre": "Monte"
+      },
+      "nombre": "Zenón Videla Dorna",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06547"
+    ]
+  },
+  "total": 3
+}

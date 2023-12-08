@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.321734804158,
+        "lon": -57.4539642083357
+      },
+      "departamento": {
+        "id": "06655",
+        "nombre": "Punta Indio"
+      },
+      "id": "06655010",
+      "localidad_censal": {
+        "id": "06655010",
+        "nombre": "Álvarez Jonte"
+      },
+      "municipio": {
+        "id": "060655",
+        "nombre": "Punta Indio"
+      },
+      "nombre": "Alvarez Jonte",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.5301976285515,
+        "lon": -57.3283242927271
+      },
+      "departamento": {
+        "id": "06655",
+        "nombre": "Punta Indio"
+      },
+      "id": "06655030",
+      "localidad_censal": {
+        "id": "06655030",
+        "nombre": "Punta Indio"
+      },
+      "municipio": {
+        "id": "060655",
+        "nombre": "Punta Indio"
+      },
+      "nombre": "Pipinas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.2685627801267,
+        "lon": -57.2474704888542
+      },
+      "departamento": {
+        "id": "06655",
+        "nombre": "Punta Indio"
+      },
+      "id": "06655040",
+      "localidad_censal": {
+        "id": "06655040",
+        "nombre": "Verónica"
+      },
+      "municipio": {
+        "id": "060655",
+        "nombre": "Punta Indio"
+      },
+      "nombre": "Punta Indio",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.3874096593697,
+        "lon": -57.3381716096861
+      },
+      "departamento": {
+        "id": "06655",
+        "nombre": "Punta Indio"
+      },
+      "id": "06655050",
+      "localidad_censal": {
+        "id": "06655050",
+        "nombre": "Base Aeronaval Punta Indio"
+      },
+      "municipio": {
+        "id": "060655",
+        "nombre": "Punta Indio"
+      },
+      "nombre": "Verónica",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06655"
+    ]
+  },
+  "total": 4
+}

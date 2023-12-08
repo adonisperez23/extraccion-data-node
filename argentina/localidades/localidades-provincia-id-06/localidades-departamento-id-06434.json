@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6908323695067,
+        "lon": -58.3819322387066
+      },
+      "departamento": {
+        "id": "06434",
+        "nombre": "Lanús"
+      },
+      "id": "0643401001",
+      "localidad_censal": {
+        "id": "06434010",
+        "nombre": "Lanus"
+      },
+      "municipio": {
+        "id": "060434",
+        "nombre": "Lanús"
+      },
+      "nombre": "Gerli",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7141603772546,
+        "lon": -58.3743055982995
+      },
+      "departamento": {
+        "id": "06434",
+        "nombre": "Lanús"
+      },
+      "id": "0643401002",
+      "localidad_censal": {
+        "id": "06434010",
+        "nombre": "Lanus"
+      },
+      "municipio": {
+        "id": "060434",
+        "nombre": "Lanús"
+      },
+      "nombre": "Lanús Este",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7037709376997,
+        "lon": -58.4005603089343
+      },
+      "departamento": {
+        "id": "06434",
+        "nombre": "Lanús"
+      },
+      "id": "0643401003",
+      "localidad_censal": {
+        "id": "06434010",
+        "nombre": "Lanus"
+      },
+      "municipio": {
+        "id": "060434",
+        "nombre": "Lanús"
+      },
+      "nombre": "Lanús Oeste",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7295854826249,
+        "lon": -58.3542214969464
+      },
+      "departamento": {
+        "id": "06434",
+        "nombre": "Lanús"
+      },
+      "id": "0643401004",
+      "localidad_censal": {
+        "id": "06434010",
+        "nombre": "Lanus"
+      },
+      "municipio": {
+        "id": "060434",
+        "nombre": "Lanús"
+      },
+      "nombre": "Monte Chingolo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7259102843799,
+        "lon": -58.3967018532792
+      },
+      "departamento": {
+        "id": "06434",
+        "nombre": "Lanús"
+      },
+      "id": "0643401005",
+      "localidad_censal": {
+        "id": "06434010",
+        "nombre": "Lanus"
+      },
+      "municipio": {
+        "id": "060434",
+        "nombre": "Lanús"
+      },
+      "nombre": "Remedios de Escalada de San Martín",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6714140127777,
+        "lon": -58.4090486458359
+      },
+      "departamento": {
+        "id": "06434",
+        "nombre": "Lanús"
+      },
+      "id": "0643401006",
+      "localidad_censal": {
+        "id": "06434010",
+        "nombre": "Lanus"
+      },
+      "municipio": {
+        "id": "060434",
+        "nombre": "Lanús"
+      },
+      "nombre": "Valentín Alsina",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.7075553436926,
+        "lon": -58.3911277281302
+      },
+      "departamento": {
+        "id": "06434",
+        "nombre": "Lanús"
+      },
+      "id": "06434010",
+      "localidad_censal": {
+        "id": "06434010",
+        "nombre": "Lanus"
+      },
+      "municipio": {
+        "id": "060434",
+        "nombre": "Lanús"
+      },
+      "nombre": "Lanús",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06434"
+    ]
+  },
+  "total": 7
+}

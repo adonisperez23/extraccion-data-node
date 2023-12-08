@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.7716100804643,
+        "lon": -57.4473118294385
+      },
+      "departamento": {
+        "id": "06518",
+        "nombre": "Mar Chiquita"
+      },
+      "id": "0651805001",
+      "localidad_censal": {
+        "id": "06518050",
+        "nombre": "Mar de Cobo"
+      },
+      "municipio": {
+        "id": "060518",
+        "nombre": "Mar Chiquita"
+      },
+      "nombre": "La Baliza",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.7826448217598,
+        "lon": -57.4598549284262
+      },
+      "departamento": {
+        "id": "06518",
+        "nombre": "Mar Chiquita"
+      },
+      "id": "0651805002",
+      "localidad_censal": {
+        "id": "06518050",
+        "nombre": "Mar de Cobo"
+      },
+      "municipio": {
+        "id": "060518",
+        "nombre": "Mar Chiquita"
+      },
+      "nombre": "La Caleta",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.7762894782296,
+        "lon": -57.4511483919747
+      },
+      "departamento": {
+        "id": "06518",
+        "nombre": "Mar Chiquita"
+      },
+      "id": "0651805003",
+      "localidad_censal": {
+        "id": "06518050",
+        "nombre": "Mar de Cobo"
+      },
+      "municipio": {
+        "id": "060518",
+        "nombre": "Mar Chiquita"
+      },
+      "nombre": "Mar de Cobo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.8477075092505,
+        "lon": -57.513264752301
+      },
+      "departamento": {
+        "id": "06518",
+        "nombre": "Mar Chiquita"
+      },
+      "id": "0651806001",
+      "localidad_censal": {
+        "id": "06518060",
+        "nombre": "Santa Clara del Mar"
+      },
+      "municipio": {
+        "id": "060518",
+        "nombre": "Mar Chiquita"
+      },
+      "nombre": "Atlántida",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.8244829233582,
+        "lon": -57.4918495062702
+      },
+      "departamento": {
+        "id": "06518",
+        "nombre": "Mar Chiquita"
+      },
+      "id": "0651806002",
+      "localidad_censal": {
+        "id": "06518060",
+        "nombre": "Santa Clara del Mar"
+      },
+      "municipio": {
+        "id": "060518",
+        "nombre": "Mar Chiquita"
+      },
+      "nombre": "Camet Norte",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.8588472563325,
+        "lon": -57.5134774219646
+      },
+      "departamento": {
+        "id": "06518",
+        "nombre": "Mar Chiquita"
+      },
+      "id": "0651806003",
+      "localidad_censal": {
+        "id": "06518060",
+        "nombre": "Santa Clara del Mar"
+      },
+      "municipio": {
+        "id": "060518",
+        "nombre": "Mar Chiquita"
+      },
+      "nombre": "Frente Mar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.8734909293914,
+        "lon": -57.519182373008
+      },
+      "departamento": {
+        "id": "06518",
+        "nombre": "Mar Chiquita"
+      },
+      "id": "0651806004",
+      "localidad_censal": {
+        "id": "06518060",
+        "nombre": "Santa Clara del Mar"
+      },
+      "municipio": {
+        "id": "060518",
+        "nombre": "Mar Chiquita"
+      },
+      "nombre": "Playa Dorada",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.8374444618433,
+        "lon": -57.5019980900645
+      },
+      "departamento": {
+        "id": "06518",
+        "nombre": "Mar Chiquita"
+      },
+      "id": "0651806005",
+      "localidad_censal": {
+        "id": "06518060",
+        "nombre": "Santa Clara del Mar"
+      },
+      "municipio": {
+        "id": "060518",
+        "nombre": "Mar Chiquita"
+      },
+      "nombre": "Santa Clara del Mar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.8636154583608,
+        "lon": -57.5171498429115
+      },
+      "departamento": {
+        "id": "06518",
+        "nombre": "Mar Chiquita"
+      },
+      "id": "0651806006",
+      "localidad_censal": {
+        "id": "06518060",
+        "nombre": "Santa Clara del Mar"
+      },
+      "municipio": {
+        "id": "060518",
+        "nombre": "Mar Chiquita"
+      },
+      "nombre": "Santa Elena",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.446516203999,
+        "lon": -57.7293917658395
+      },
+      "departamento": {
+        "id": "06518",
+        "nombre": "Mar Chiquita"
+      },
+      "id": "06518010",
+      "localidad_censal": {
+        "id": "06518010",
+        "nombre": "Coronel Vidal"
+      },
+      "municipio": {
+        "id": "060518",
+        "nombre": "Mar Chiquita"
+      },
+      "nombre": "Coronel Vidal",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06518"
+    ]
+  },
+  "total": 16
+}

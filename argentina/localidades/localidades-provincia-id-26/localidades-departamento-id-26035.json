@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.1330196007827,
+        "lon": -71.5509828278272
+      },
+      "departamento": {
+        "id": "26035",
+        "nombre": "Futaleufú"
+      },
+      "id": "26035010",
+      "localidad_censal": {
+        "id": "26035010",
+        "nombre": "Aldea Escolar (Los Rápidos)"
+      },
+      "municipio": {
+        "id": "260084",
+        "nombre": "Trevelin"
+      },
+      "nombre": "Aldea Escolar (Los Rápidos)",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.5393021853837,
+        "lon": -71.4688553319904
+      },
+      "departamento": {
+        "id": "26035",
+        "nombre": "Futaleufú"
+      },
+      "id": "26035020",
+      "localidad_censal": {
+        "id": "26035020",
+        "nombre": "Corcovado"
+      },
+      "municipio": {
+        "id": "260070",
+        "nombre": "Corcovado"
+      },
+      "nombre": "Corcovado",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.9173207104894,
+        "lon": -71.3215725535306
+      },
+      "departamento": {
+        "id": "26035",
+        "nombre": "Futaleufú"
+      },
+      "id": "26035030",
+      "localidad_censal": {
+        "id": "26035030",
+        "nombre": "Esquel"
+      },
+      "municipio": {
+        "id": "260077",
+        "nombre": "Esquel"
+      },
+      "nombre": "Esquel",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.2471603987484,
+        "lon": -71.3489468113621
+      },
+      "departamento": {
+        "id": "26035",
+        "nombre": "Futaleufú"
+      },
+      "id": "26035040",
+      "localidad_censal": {
+        "id": "26035040",
+        "nombre": "Lago Rosario"
+      },
+      "municipio": {
+        "id": "260084",
+        "nombre": "Trevelin"
+      },
+      "nombre": "Lago Rosario",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.1833583618938,
+        "lon": -71.6416035359141
+      },
+      "departamento": {
+        "id": "26035",
+        "nombre": "Futaleufú"
+      },
+      "id": "26035050",
+      "localidad_censal": {
+        "id": "26035050",
+        "nombre": "Los Cipreses"
+      },
+      "municipio": {
+        "id": "260084",
+        "nombre": "Trevelin"
+      },
+      "nombre": "Los Cipreses",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.0791613523395,
+        "lon": -71.4640329212327
+      },
+      "departamento": {
+        "id": "26035",
+        "nombre": "Futaleufú"
+      },
+      "id": "26035060",
+      "localidad_censal": {
+        "id": "26035060",
+        "nombre": "Trevelín"
+      },
+      "municipio": {
+        "id": "260084",
+        "nombre": "Trevelin"
+      },
+      "nombre": "Trevelín",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.8938496103952,
+        "lon": -71.6174894440326
+      },
+      "departamento": {
+        "id": "26035",
+        "nombre": "Futaleufú"
+      },
+      "id": "26035070",
+      "localidad_censal": {
+        "id": "26035070",
+        "nombre": "Villa Futalaufquen"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Villa Futalaufquen",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "26035"
+    ]
+  },
+  "total": 7
+}

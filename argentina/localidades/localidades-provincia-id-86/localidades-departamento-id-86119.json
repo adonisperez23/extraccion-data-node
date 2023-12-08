@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.592326630772,
+        "lon": -61.9437296789356
+      },
+      "departamento": {
+        "id": "86119",
+        "nombre": "Moreno"
+      },
+      "id": "86119110",
+      "localidad_censal": {
+        "id": "86119110",
+        "nombre": "Roversi"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Roversi",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.1771837611278,
+        "lon": -62.4696501851274
+      },
+      "departamento": {
+        "id": "86119",
+        "nombre": "Moreno"
+      },
+      "id": "86119040",
+      "localidad_censal": {
+        "id": "86119040",
+        "nombre": "Hernán Mejía Miraval"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Hernán Mejía Miraval",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3278150053657,
+        "lon": -62.2251929182752
+      },
+      "departamento": {
+        "id": "86119",
+        "nombre": "Moreno"
+      },
+      "id": "86119090",
+      "localidad_censal": {
+        "id": "86119090",
+        "nombre": "Otumpa"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Pueblo Pablo Torelo",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.9387807202499,
+        "lon": -62.9572695563442
+      },
+      "departamento": {
+        "id": "86119",
+        "nombre": "Moreno"
+      },
+      "id": "86119070",
+      "localidad_censal": {
+        "id": "86119070",
+        "nombre": "Lilo Viejo"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Lilo Viejo",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.1275461643185,
+        "lon": -62.5475991444354
+      },
+      "departamento": {
+        "id": "86119",
+        "nombre": "Moreno"
+      },
+      "id": "86119020",
+      "localidad_censal": {
+        "id": "86119020",
+        "nombre": "Alhuampa"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Alhuampa",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.8400036660809,
+        "lon": -62.9305196363882
+      },
+      "departamento": {
+        "id": "86119",
+        "nombre": "Moreno"
+      },
+      "id": "86119080",
+      "localidad_censal": {
+        "id": "86119080",
+        "nombre": "Patay"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Patay",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4657166524371,
+        "lon": -62.9179656623378
+      },
+      "departamento": {
+        "id": "86119",
+        "nombre": "Moreno"
+      },
+      "id": "86119050",
+      "localidad_censal": {
+        "id": "86119050",
+        "nombre": "Las Tinajas"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Las Tinajas",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.0668334738991,
+        "lon": -62.6472456721472
+      },
+      "departamento": {
+        "id": "86119",
+        "nombre": "Moreno"
+      },
+      "id": "86119030",
+      "localidad_censal": {
+        "id": "86119030",
+        "nombre": "Hasse"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Hasse",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3189012100363,
+        "lon": -62.5850420164749
+      },
+      "departamento": {
+        "id": "86119",
+        "nombre": "Moreno"
+      },
+      "id": "86119130",
+      "localidad_censal": {
+        "id": "86119130",
+        "nombre": "Weisburd"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Weisburd",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2341968806573,
+        "lon": -62.3787656753851
+      },
+      "departamento": {
+        "id": "86119",
+        "nombre": "Moreno"
+      },
+      "id": "86119010",
+      "localidad_censal": {
+        "id": "86119010",
+        "nombre": "Aerolito"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Aerolito",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86119"
+    ]
+  },
+  "total": 13
+}

@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.0288907651328,
+        "lon": -64.6115269592915
+      },
+      "departamento": {
+        "id": "86091",
+        "nombre": "Jiménez"
+      },
+      "id": "86091050",
+      "localidad_censal": {
+        "id": "86091050",
+        "nombre": "Isca Yacu"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Isca Yacu",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.2966305499754,
+        "lon": -64.6102809492155
+      },
+      "departamento": {
+        "id": "86091",
+        "nombre": "Jiménez"
+      },
+      "id": "86091040",
+      "localidad_censal": {
+        "id": "86091040",
+        "nombre": "Gramilla"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Gramilla",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -27.2257680209397,
+        "lon": -64.7003027141659
+      },
+      "departamento": {
+        "id": "86091",
+        "nombre": "Jiménez"
+      },
+      "id": "86091020",
+      "localidad_censal": {
+        "id": "86091020",
+        "nombre": "El Charco"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Charco",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.7240419064587,
+        "lon": -64.3963648827359
+      },
+      "departamento": {
+        "id": "86091",
+        "nombre": "Jiménez"
+      },
+      "id": "86091010",
+      "localidad_censal": {
+        "id": "86091010",
+        "nombre": "El Bobadal"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Bobadal",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.7706923237205,
+        "lon": -64.6028744748111
+      },
+      "departamento": {
+        "id": "86091",
+        "nombre": "Jiménez"
+      },
+      "id": "86091005",
+      "localidad_censal": {
+        "id": "86091005",
+        "nombre": "El Arenal"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Arenal",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.1670653565919,
+        "lon": -64.4907628147839
+      },
+      "departamento": {
+        "id": "86091",
+        "nombre": "Jiménez"
+      },
+      "id": "86091070",
+      "localidad_censal": {
+        "id": "86091070",
+        "nombre": "Pozo Hondo"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Pozo Hondo",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.7236441164626,
+        "lon": -64.4455918317201
+      },
+      "departamento": {
+        "id": "86091",
+        "nombre": "Jiménez"
+      },
+      "id": "86091030",
+      "localidad_censal": {
+        "id": "86091030",
+        "nombre": "El Rincón"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Rincón",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.0469117165937,
+        "lon": -64.6183947967884
+      },
+      "departamento": {
+        "id": "86091",
+        "nombre": "Jiménez"
+      },
+      "id": "86091060",
+      "localidad_censal": {
+        "id": "86091060",
+        "nombre": "Isca Yacu Semaul"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Isca Yacu Semaul",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.7436197382704,
+        "lon": -64.391226926578
+      },
+      "departamento": {
+        "id": "86091",
+        "nombre": "Jiménez"
+      },
+      "id": "86091080",
+      "localidad_censal": {
+        "id": "86091080",
+        "nombre": "San Pedro"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "San Pedro",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86091"
+    ]
+  },
+  "total": 9
+}

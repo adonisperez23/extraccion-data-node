@@ -1,0 +1,193 @@
+{
+  "cantidad": 15,
+  "departamentos": [
+    {
+      "centroide": {
+        "lat": -34.6168433901026,
+        "lon": -58.4435682279951
+      },
+      "id": "02042",
+      "nombre": "Comuna 6",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -34.6064435423382,
+        "lon": -58.3715117424742
+      },
+      "id": "02007",
+      "nombre": "Comuna 1",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -34.6421128950646,
+        "lon": -58.3875614030278
+      },
+      "id": "02028",
+      "nombre": "Comuna 4",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -34.6173699237915,
+        "lon": -58.4205721902504
+      },
+      "id": "02035",
+      "nombre": "Comuna 5",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -34.5662276068999,
+        "lon": -58.4904280414968
+      },
+      "id": "02084",
+      "nombre": "Comuna 12",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -34.636554414358,
+        "lon": -58.4518868569654
+      },
+      "id": "02049",
+      "nombre": "Comuna 7",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -34.6278517920976,
+        "lon": -58.5028178465965
+      },
+      "id": "02070",
+      "nombre": "Comuna 10",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -34.6061370106731,
+        "lon": -58.4967420076817
+      },
+      "id": "02077",
+      "nombre": "Comuna 11",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -34.6138430816924,
+        "lon": -58.4026514511807
+      },
+      "id": "02021",
+      "nombre": "Comuna 3",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -34.5857888788086,
+        "lon": -58.3949035422527
+      },
+      "id": "02014",
+      "nombre": "Comuna 2",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -34.6745664758358,
+        "lon": -58.461948060155
+      },
+      "id": "02056",
+      "nombre": "Comuna 8",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -34.5541262964697,
+        "lon": -58.4540029618054
+      },
+      "id": "02091",
+      "nombre": "Comuna 13",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -34.573874740768,
+        "lon": -58.4222940810483
+      },
+      "id": "02098",
+      "nombre": "Comuna 14",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -34.6517887970418,
+        "lon": -58.4991751735853
+      },
+      "id": "02063",
+      "nombre": "Comuna 9",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -34.5918836701535,
+        "lon": -58.4627740218465
+      },
+      "id": "02105",
+      "nombre": "Comuna 15",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    }
+  ],
+  "inicio": 0,
+  "parametros": {
+    "max": 200,
+    "provincia": [
+      "02"
+    ]
+  },
+  "total": 15
+}

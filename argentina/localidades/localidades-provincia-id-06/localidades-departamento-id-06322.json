@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.2496672843438,
+        "lon": -61.2621992088509
+      },
+      "departamento": {
+        "id": "06322",
+        "nombre": "General La Madrid"
+      },
+      "id": "06322010",
+      "localidad_censal": {
+        "id": "06322010",
+        "nombre": "General La Madrid"
+      },
+      "municipio": {
+        "id": "060322",
+        "nombre": "General La Madrid"
+      },
+      "nombre": "General La Madrid",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.3593869063237,
+        "lon": -61.5357449066946
+      },
+      "departamento": {
+        "id": "06322",
+        "nombre": "General La Madrid"
+      },
+      "id": "06322020",
+      "localidad_censal": {
+        "id": "06322020",
+        "nombre": "La Colina"
+      },
+      "municipio": {
+        "id": "060322",
+        "nombre": "General La Madrid"
+      },
+      "nombre": "La Colina",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.1991985887987,
+        "lon": -61.1225497444096
+      },
+      "departamento": {
+        "id": "06322",
+        "nombre": "General La Madrid"
+      },
+      "id": "06322030",
+      "localidad_censal": {
+        "id": "06322030",
+        "nombre": "Las Martinetas"
+      },
+      "municipio": {
+        "id": "060322",
+        "nombre": "General La Madrid"
+      },
+      "nombre": "Las Martinetas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.532154726257,
+        "lon": -61.2852666208524
+      },
+      "departamento": {
+        "id": "06322",
+        "nombre": "General La Madrid"
+      },
+      "id": "06322040",
+      "localidad_censal": {
+        "id": "06322040",
+        "nombre": "Líbano"
+      },
+      "municipio": {
+        "id": "060322",
+        "nombre": "General La Madrid"
+      },
+      "nombre": "Líbano",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.7317498535758,
+        "lon": -61.3236071513497
+      },
+      "departamento": {
+        "id": "06322",
+        "nombre": "General La Madrid"
+      },
+      "id": "06322050",
+      "localidad_censal": {
+        "id": "06322050",
+        "nombre": "Pontaut"
+      },
+      "municipio": {
+        "id": "060322",
+        "nombre": "General La Madrid"
+      },
+      "nombre": "Pontaut",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06322"
+    ]
+  },
+  "total": 5
+}

@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.8931666483173,
+        "lon": -65.9290576404045
+      },
+      "departamento": {
+        "id": "66154",
+        "nombre": "San Carlos"
+      },
+      "id": "66154040",
+      "localidad_censal": {
+        "id": "66154040",
+        "nombre": "San Carlos"
+      },
+      "municipio": {
+        "id": "660392",
+        "nombre": "San Carlos"
+      },
+      "nombre": "San Carlos",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.9694836427137,
+        "lon": -65.9489952304346
+      },
+      "departamento": {
+        "id": "66154",
+        "nombre": "San Carlos"
+      },
+      "id": "66154020",
+      "localidad_censal": {
+        "id": "66154020",
+        "nombre": "Animaná"
+      },
+      "municipio": {
+        "id": "660385",
+        "nombre": "Animaná"
+      },
+      "nombre": "Animaná",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.6909487628881,
+        "lon": -66.1670201407088
+      },
+      "departamento": {
+        "id": "66154",
+        "nombre": "San Carlos"
+      },
+      "id": "66154010",
+      "localidad_censal": {
+        "id": "66154010",
+        "nombre": "Angastaco"
+      },
+      "municipio": {
+        "id": "660378",
+        "nombre": "Angastaco"
+      },
+      "nombre": "Angastaco",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66154"
+    ]
+  },
+  "total": 3
+}

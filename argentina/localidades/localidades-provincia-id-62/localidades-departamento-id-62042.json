@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -38.8248893488532,
+        "lon": -68.0617688136538
+      },
+      "departamento": {
+        "id": "62042",
+        "nombre": "General Roca"
+      },
+      "id": "6204239002",
+      "localidad_censal": {
+        "id": "62042390",
+        "nombre": "Cinco Saltos"
+      },
+      "municipio": {
+        "id": "620126",
+        "nombre": "Cinco Saltos"
+      },
+      "nombre": "Cinco Saltos",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -39.031513068627,
+        "lon": -67.5779901574242
+      },
+      "departamento": {
+        "id": "62042",
+        "nombre": "General Roca"
+      },
+      "id": "6204245002",
+      "localidad_censal": {
+        "id": "62042450",
+        "nombre": "General Roca"
+      },
+      "municipio": {
+        "id": "620161",
+        "nombre": "General Roca"
+      },
+      "nombre": "General Roca",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -38.8008452873057,
+        "lon": -68.0736580257466
+      },
+      "departamento": {
+        "id": "62042",
+        "nombre": "General Roca"
+      },
+      "id": "6204239001",
+      "localidad_censal": {
+        "id": "62042390",
+        "nombre": "Cinco Saltos"
+      },
+      "municipio": {
+        "id": "620126",
+        "nombre": "Cinco Saltos"
+      },
+      "nombre": "Barrio Presidente Perón",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -38.9347652546681,
+        "lon": -68.0017852777819
+      },
+      "departamento": {
+        "id": "62042",
+        "nombre": "General Roca"
+      },
+      "id": "6204240002",
+      "localidad_censal": {
+        "id": "62042400",
+        "nombre": "Cipolletti"
+      },
+      "municipio": {
+        "id": "620133",
+        "nombre": "Cipolletti"
+      },
+      "nombre": "Cipolletti",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -39.0590846776688,
+        "lon": -67.5848147263396
+      },
+      "departamento": {
+        "id": "62042",
+        "nombre": "General Roca"
+      },
+      "id": "6204245001",
+      "localidad_censal": {
+        "id": "62042450",
+        "nombre": "General Roca"
+      },
+      "municipio": {
+        "id": "620161",
+        "nombre": "General Roca"
+      },
+      "nombre": "Barrio Pino Azul",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -38.9351395882714,
+        "lon": -68.0282525382075
+      },
+      "departamento": {
+        "id": "62042",
+        "nombre": "General Roca"
+      },
+      "id": "6204240001",
+      "localidad_censal": {
+        "id": "62042400",
+        "nombre": "Cipolletti"
+      },
+      "municipio": {
+        "id": "620133",
+        "nombre": "Cipolletti"
+      },
+      "nombre": "Barrio La Lor",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.7066953758787,
+        "lon": -68.173093820289
+      },
+      "departamento": {
+        "id": "62042",
+        "nombre": "General Roca"
+      },
+      "id": "62042570",
+      "localidad_censal": {
+        "id": "62042570",
+        "nombre": "Villa San Isidro"
+      },
+      "municipio": {
+        "id": "620098",
+        "nombre": "Campo Grande"
+      },
+      "nombre": "Villa San Isidro",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -39.106782381166,
+        "lon": -67.6273702123931
+      },
+      "departamento": {
+        "id": "62042",
+        "nombre": "General Roca"
+      },
+      "id": "62042490",
+      "localidad_censal": {
+        "id": "62042490",
+        "nombre": "Paso Córdova"
+      },
+      "municipio": {
+        "id": "620161",
+        "nombre": "General Roca"
+      },
+      "nombre": "Paso Córdova",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.0784477162384,
+        "lon": -67.15745191765
+      },
+      "departamento": {
+        "id": "62042",
+        "nombre": "General Roca"
+      },
+      "id": "62042430",
+      "localidad_censal": {
+        "id": "62042430",
+        "nombre": "General Enrique Godoy"
+      },
+      "municipio": {
+        "id": "620147",
+        "nombre": "General Enrique Godoy"
+      },
+      "nombre": "General Enrique Godoy",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.0173211191915,
+        "lon": -67.7184353319822
+      },
+      "departamento": {
+        "id": "62042",
+        "nombre": "General Roca"
+      },
+      "id": "62042160",
+      "localidad_censal": {
+        "id": "62042160",
+        "nombre": "Barrio Guerrico"
+      },
+      "municipio": {
+        "id": "620091",
+        "nombre": "Allen"
+      },
+      "nombre": "Barrio Guerrico",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "62042"
+    ]
+  },
+  "total": 61
+}

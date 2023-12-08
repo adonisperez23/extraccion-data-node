@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.6393730456478,
+        "lon": -59.6311412076099
+      },
+      "departamento": {
+        "id": "06707",
+        "nombre": "Saladillo"
+      },
+      "id": "06707010",
+      "localidad_censal": {
+        "id": "06707010",
+        "nombre": "Álvarez de Toledo"
+      },
+      "municipio": {
+        "id": "060707",
+        "nombre": "Saladillo"
+      },
+      "nombre": "Álvarez de Toledo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.5770988512804,
+        "lon": -59.6619477131897
+      },
+      "departamento": {
+        "id": "06707",
+        "nombre": "Saladillo"
+      },
+      "id": "06707030",
+      "localidad_censal": {
+        "id": "06707030",
+        "nombre": "Del Carril"
+      },
+      "municipio": {
+        "id": "060707",
+        "nombre": "Saladillo"
+      },
+      "nombre": "Cazón",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.5080172172452,
+        "lon": -59.5137164479448
+      },
+      "departamento": {
+        "id": "06707",
+        "nombre": "Saladillo"
+      },
+      "id": "06707040",
+      "localidad_censal": {
+        "id": "06707040",
+        "nombre": "Polvaredas"
+      },
+      "municipio": {
+        "id": "060707",
+        "nombre": "Saladillo"
+      },
+      "nombre": "Del Carril",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.5945542362794,
+        "lon": -59.5069645738994
+      },
+      "departamento": {
+        "id": "06707",
+        "nombre": "Saladillo"
+      },
+      "id": "06707050",
+      "localidad_censal": {
+        "id": "06707050",
+        "nombre": "Saladillo"
+      },
+      "municipio": {
+        "id": "060707",
+        "nombre": "Saladillo"
+      },
+      "nombre": "Polvaredas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06707"
+    ]
+  },
+  "total": 4
+}

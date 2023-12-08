@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6387095680666,
+        "lon": -58.521239458825
+      },
+      "departamento": {
+        "id": "02063",
+        "nombre": "Comuna 9"
+      },
+      "id": "0206301001",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022063",
+        "nombre": "Comuna 9"
+      },
+      "nombre": "Liniers",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6601136982634,
+        "lon": -58.502933557561
+      },
+      "departamento": {
+        "id": "02063",
+        "nombre": "Comuna 9"
+      },
+      "id": "0206301002",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022063",
+        "nombre": "Comuna 9"
+      },
+      "nombre": "Mataderos",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6474471131029,
+        "lon": -58.4840287287104
+      },
+      "departamento": {
+        "id": "02063",
+        "nombre": "Comuna 9"
+      },
+      "id": "0206301003",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022063",
+        "nombre": "Comuna 9"
+      },
+      "nombre": "Parque Avellaneda",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "02063"
+    ]
+  },
+  "total": 3
+}

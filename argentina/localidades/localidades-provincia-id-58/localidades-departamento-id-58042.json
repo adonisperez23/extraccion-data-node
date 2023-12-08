@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.3748278814013,
+        "lon": -70.2763310746376
+      },
+      "departamento": {
+        "id": "58042",
+        "nombre": "Chos Malal"
+      },
+      "id": "58042010",
+      "localidad_censal": {
+        "id": "58042010",
+        "nombre": "Chos Malal"
+      },
+      "municipio": {
+        "id": "580098",
+        "nombre": "Chos Malal"
+      },
+      "nombre": "Chos Malal",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.0447367305766,
+        "lon": -70.3248202602473
+      },
+      "departamento": {
+        "id": "58042",
+        "nombre": "Chos Malal"
+      },
+      "id": "58042020",
+      "localidad_censal": {
+        "id": "58042020",
+        "nombre": "Tricao Malal"
+      },
+      "municipio": {
+        "id": "580105",
+        "nombre": "Tricao Malal"
+      },
+      "nombre": "Tricao Malal",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.1311433834686,
+        "lon": -70.3977338224825
+      },
+      "departamento": {
+        "id": "58042",
+        "nombre": "Chos Malal"
+      },
+      "id": "58042030",
+      "localidad_censal": {
+        "id": "58042030",
+        "nombre": "Los Menucos"
+      },
+      "municipio": {
+        "id": "585056",
+        "nombre": "Villa Curi Leuvú"
+      },
+      "nombre": "Villa del Curi Leuvú",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "58042"
+    ]
+  },
+  "total": 3
+}

@@ -1,0 +1,215 @@
+{
+  "cantidad": 17,
+  "departamentos": [
+    {
+      "centroide": {
+        "lat": -26.8332209186353,
+        "lon": -65.2170208037282
+      },
+      "id": "90084",
+      "nombre": "Capital",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.5305481465544,
+        "lon": -64.8195981132229
+      },
+      "id": "90007",
+      "nombre": "Burruyacú",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.9759689777425,
+        "lon": -65.4789084982894
+      },
+      "id": "90028",
+      "nombre": "Famaillá",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.9180036848972,
+        "lon": -64.9738642266054
+      },
+      "id": "90014",
+      "nombre": "Cruz Alta",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.8622353459017,
+        "lon": -65.4310245938907
+      },
+      "id": "90063",
+      "nombre": "Lules",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.7839244723358,
+        "lon": -65.3411739273315
+      },
+      "id": "90119",
+      "nombre": "Yerba Buena",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.6601491447319,
+        "lon": -65.4640739296384
+      },
+      "id": "90105",
+      "nombre": "Tafí Viejo",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.3434123363847,
+        "lon": -65.4058207897255
+      },
+      "id": "90112",
+      "nombre": "Trancas",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -26.5914686020616,
+        "lon": -65.8893504834043
+      },
+      "id": "90098",
+      "nombre": "Tafí del Valle",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.7940604809292,
+        "lon": -65.5977877083311
+      },
+      "id": "90049",
+      "nombre": "La Cocha",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.7132775964524,
+        "lon": -65.2550360276541
+      },
+      "id": "90035",
+      "nombre": "Graneros",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.6060757021473,
+        "lon": -65.7831912587906
+      },
+      "id": "90042",
+      "nombre": "Juan Bautista Alberdi",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.4501203542874,
+        "lon": -65.7518266389415
+      },
+      "id": "90077",
+      "nombre": "Río Chico",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.4238370613532,
+        "lon": -65.2924847788807
+      },
+      "id": "90091",
+      "nombre": "Simoca",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.2696018679715,
+        "lon": -65.8110637206058
+      },
+      "id": "90021",
+      "nombre": "Chicligasta",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.1106201705702,
+        "lon": -65.6430768814482
+      },
+      "id": "90070",
+      "nombre": "Monteros",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -27.1918831757327,
+        "lon": -65.0848647351414
+      },
+      "id": "90056",
+      "nombre": "Leales",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    }
+  ],
+  "inicio": 0,
+  "parametros": {
+    "max": 200,
+    "provincia": "Tucumán"
+  },
+  "total": 17
+}

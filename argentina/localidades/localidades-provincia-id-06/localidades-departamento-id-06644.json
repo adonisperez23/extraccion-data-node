@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.1652201596011,
+        "lon": -56.8988186926853
+      },
+      "departamento": {
+        "id": "06644",
+        "nombre": "Pinamar"
+      },
+      "id": "0664401001",
+      "localidad_censal": {
+        "id": "06644010",
+        "nombre": "Pinamar"
+      },
+      "municipio": {
+        "id": "060644",
+        "nombre": "Pinamar"
+      },
+      "nombre": "Cariló",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.1296810995623,
+        "lon": -56.8712019478631
+      },
+      "departamento": {
+        "id": "06644",
+        "nombre": "Pinamar"
+      },
+      "id": "0664401002",
+      "localidad_censal": {
+        "id": "06644010",
+        "nombre": "Pinamar"
+      },
+      "municipio": {
+        "id": "060644",
+        "nombre": "Pinamar"
+      },
+      "nombre": "Ostende",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.1138217498107,
+        "lon": -56.8580776153146
+      },
+      "departamento": {
+        "id": "06644",
+        "nombre": "Pinamar"
+      },
+      "id": "0664401003",
+      "localidad_censal": {
+        "id": "06644010",
+        "nombre": "Pinamar"
+      },
+      "municipio": {
+        "id": "060644",
+        "nombre": "Pinamar"
+      },
+      "nombre": "Pinamar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.1456506182212,
+        "lon": -56.8819737180736
+      },
+      "departamento": {
+        "id": "06644",
+        "nombre": "Pinamar"
+      },
+      "id": "0664401004",
+      "localidad_censal": {
+        "id": "06644010",
+        "nombre": "Pinamar"
+      },
+      "municipio": {
+        "id": "060644",
+        "nombre": "Pinamar"
+      },
+      "nombre": "Valeria del Mar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.1110811163979,
+        "lon": -56.8652336891716
+      },
+      "departamento": {
+        "id": "06644",
+        "nombre": "Pinamar"
+      },
+      "id": "06644010",
+      "localidad_censal": {
+        "id": "06644010",
+        "nombre": "Pinamar"
+      },
+      "municipio": {
+        "id": "060644",
+        "nombre": "Pinamar"
+      },
+      "nombre": "Pinamar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06644"
+    ]
+  },
+  "total": 5
+}

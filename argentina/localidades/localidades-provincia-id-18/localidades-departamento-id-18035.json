@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.9823804820362,
+        "lon": -58.30424028359
+      },
+      "departamento": {
+        "id": "18035",
+        "nombre": "Curuzú Cuatiá"
+      },
+      "id": "18035010",
+      "localidad_censal": {
+        "id": "18035010",
+        "nombre": "Cazadores Correntinos"
+      },
+      "municipio": {
+        "id": "180059",
+        "nombre": "Cazadores Correntinos"
+      },
+      "nombre": "Cazadores Correntinos",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.7914512117216,
+        "lon": -58.0498588056217
+      },
+      "departamento": {
+        "id": "18035",
+        "nombre": "Curuzú Cuatiá"
+      },
+      "id": "18035020",
+      "localidad_censal": {
+        "id": "18035020",
+        "nombre": "Curuzú Cuatiá"
+      },
+      "municipio": {
+        "id": "180063",
+        "nombre": "Curuzú Cuatiá"
+      },
+      "nombre": "Curuzú Cuatiá",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.3408478764481,
+        "lon": -58.6082036530838
+      },
+      "departamento": {
+        "id": "18035",
+        "nombre": "Curuzú Cuatiá"
+      },
+      "id": "18035030",
+      "localidad_censal": {
+        "id": "18035030",
+        "nombre": "Perugorría"
+      },
+      "municipio": {
+        "id": "180070",
+        "nombre": "Perugorría"
+      },
+      "nombre": "Perugorría",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18035"
+    ]
+  },
+  "total": 3
+}

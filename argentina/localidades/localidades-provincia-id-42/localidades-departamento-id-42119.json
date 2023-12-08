@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.1571837349487,
+        "lon": -63.5125978526535
+      },
+      "departamento": {
+        "id": "42119",
+        "nombre": "Quemú Quemú"
+      },
+      "id": "42119030",
+      "localidad_censal": {
+        "id": "42119030",
+        "nombre": "Miguel Cané"
+      },
+      "municipio": {
+        "id": "420252",
+        "nombre": "Miguel Cané"
+      },
+      "nombre": "Miguel Cané",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.1536100297405,
+        "lon": -63.8552047195573
+      },
+      "departamento": {
+        "id": "42119",
+        "nombre": "Quemú Quemú"
+      },
+      "id": "42119010",
+      "localidad_censal": {
+        "id": "42119010",
+        "nombre": "Colonia Barón"
+      },
+      "municipio": {
+        "id": "420091",
+        "nombre": "Colonia Barón"
+      },
+      "nombre": "Colonia Barón",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.1170514464671,
+        "lon": -63.9040708614432
+      },
+      "departamento": {
+        "id": "42119",
+        "nombre": "Quemú Quemú"
+      },
+      "id": "42119020",
+      "localidad_censal": {
+        "id": "42119020",
+        "nombre": "Colonia San José"
+      },
+      "municipio": {
+        "id": "420091",
+        "nombre": "Colonia Barón"
+      },
+      "nombre": "Colonia San José",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.0548269805947,
+        "lon": -63.5659401087111
+      },
+      "departamento": {
+        "id": "42119",
+        "nombre": "Quemú Quemú"
+      },
+      "id": "42119040",
+      "localidad_censal": {
+        "id": "42119040",
+        "nombre": "Quemú Quemú"
+      },
+      "municipio": {
+        "id": "420301",
+        "nombre": "Quemú Quemú"
+      },
+      "nombre": "Quemú Quemú",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.2565045123829,
+        "lon": -63.4480892950842
+      },
+      "departamento": {
+        "id": "42119",
+        "nombre": "Quemú Quemú"
+      },
+      "id": "42119050",
+      "localidad_censal": {
+        "id": "42119050",
+        "nombre": "Relmo"
+      },
+      "municipio": {
+        "id": "425126",
+        "nombre": "Relmo"
+      },
+      "nombre": "Relmo",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.0763688619907,
+        "lon": -63.8863241480268
+      },
+      "departamento": {
+        "id": "42119",
+        "nombre": "Quemú Quemú"
+      },
+      "id": "42119060",
+      "localidad_censal": {
+        "id": "42119060",
+        "nombre": "Villa Mirasol"
+      },
+      "municipio": {
+        "id": "420406",
+        "nombre": "Villa Mirasol"
+      },
+      "nombre": "Villa Mirasol",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42119"
+    ]
+  },
+  "total": 6
+}

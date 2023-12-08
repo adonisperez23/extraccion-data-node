@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.303592710159,
+        "lon": -65.3560791065859
+      },
+      "departamento": {
+        "id": "38028",
+        "nombre": "Humahuaca"
+      },
+      "id": "38028060",
+      "localidad_censal": {
+        "id": "38028060",
+        "nombre": "Uquía"
+      },
+      "municipio": {
+        "id": "386067",
+        "nombre": "Uquia"
+      },
+      "nombre": "Uquía",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.1224057639894,
+        "lon": -65.1347058885582
+      },
+      "departamento": {
+        "id": "38028",
+        "nombre": "Humahuaca"
+      },
+      "id": "38028043",
+      "localidad_censal": {
+        "id": "38028043",
+        "nombre": "Palca de Aparzo"
+      },
+      "municipio": {
+        "id": "386060",
+        "nombre": "Palca de Aparzo"
+      },
+      "nombre": "Palca de Aparzo",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.0995270832539,
+        "lon": -65.1857705262709
+      },
+      "departamento": {
+        "id": "38028",
+        "nombre": "Humahuaca"
+      },
+      "id": "38028003",
+      "localidad_censal": {
+        "id": "38028003",
+        "nombre": "Aparzo"
+      },
+      "municipio": {
+        "id": "386060",
+        "nombre": "Palca de Aparzo"
+      },
+      "nombre": "Aparzo",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.1732048656382,
+        "lon": -65.1584423709364
+      },
+      "departamento": {
+        "id": "38028",
+        "nombre": "Humahuaca"
+      },
+      "id": "38028007",
+      "localidad_censal": {
+        "id": "38028007",
+        "nombre": "Cianzo"
+      },
+      "municipio": {
+        "id": "386060",
+        "nombre": "Palca de Aparzo"
+      },
+      "nombre": "Cianzo",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.1542077277984,
+        "lon": -65.2935039587033
+      },
+      "departamento": {
+        "id": "38028",
+        "nombre": "Humahuaca"
+      },
+      "id": "38028010",
+      "localidad_censal": {
+        "id": "38028010",
+        "nombre": "Coctaca"
+      },
+      "municipio": {
+        "id": "380105",
+        "nombre": "Humahuaca"
+      },
+      "nombre": "Coctaca",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.2133391780757,
+        "lon": -65.6789277733973
+      },
+      "departamento": {
+        "id": "38028",
+        "nombre": "Humahuaca"
+      },
+      "id": "38028020",
+      "localidad_censal": {
+        "id": "38028020",
+        "nombre": "El Aguilar"
+      },
+      "municipio": {
+        "id": "380091",
+        "nombre": "El Aguilar"
+      },
+      "nombre": "El Aguilar",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -22.9787325364283,
+        "lon": -65.3526601925611
+      },
+      "departamento": {
+        "id": "38028",
+        "nombre": "Humahuaca"
+      },
+      "id": "38028030",
+      "localidad_censal": {
+        "id": "38028030",
+        "nombre": "Hipólito Yrigoyen"
+      },
+      "municipio": {
+        "id": "386056",
+        "nombre": "Hipólito Yrigoyen"
+      },
+      "nombre": "Hipólito Yrigoyen",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.2059295127592,
+        "lon": -65.3474535770512
+      },
+      "departamento": {
+        "id": "38028",
+        "nombre": "Humahuaca"
+      },
+      "id": "38028040",
+      "localidad_censal": {
+        "id": "38028040",
+        "nombre": "Humahuaca"
+      },
+      "municipio": {
+        "id": "380105",
+        "nombre": "Humahuaca"
+      },
+      "nombre": "Humahuaca",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.1003251778225,
+        "lon": -65.1103078369976
+      },
+      "departamento": {
+        "id": "38028",
+        "nombre": "Humahuaca"
+      },
+      "id": "38028045",
+      "localidad_censal": {
+        "id": "38028045",
+        "nombre": "Palca de Varas"
+      },
+      "municipio": {
+        "id": "386060",
+        "nombre": "Palca de Aparzo"
+      },
+      "nombre": "Palca de Varas",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.0623666894842,
+        "lon": -65.3265514635211
+      },
+      "departamento": {
+        "id": "38028",
+        "nombre": "Humahuaca"
+      },
+      "id": "38028047",
+      "localidad_censal": {
+        "id": "38028047",
+        "nombre": "Rodero"
+      },
+      "municipio": {
+        "id": "380105",
+        "nombre": "Humahuaca"
+      },
+      "nombre": "Rodero",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "38028"
+    ]
+  },
+  "total": 11
+}

@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -49.3328246557123,
+        "lon": -72.8859114198951
+      },
+      "departamento": {
+        "id": "78028",
+        "nombre": "Lago Argentino"
+      },
+      "id": "78028020",
+      "localidad_censal": {
+        "id": "78028020",
+        "nombre": "El Chaltén"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Chaltén",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -50.3380295398274,
+        "lon": -72.2606652422011
+      },
+      "departamento": {
+        "id": "78028",
+        "nombre": "Lago Argentino"
+      },
+      "id": "78028010",
+      "localidad_censal": {
+        "id": "78028010",
+        "nombre": "El Calafate"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Calafate",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -49.5979102036138,
+        "lon": -71.4467467899851
+      },
+      "departamento": {
+        "id": "78028",
+        "nombre": "Lago Argentino"
+      },
+      "id": "78028030",
+      "localidad_censal": {
+        "id": "78028030",
+        "nombre": "Tres Lagos"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Tres Lagos",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "78028"
+    ]
+  },
+  "total": 3
+}

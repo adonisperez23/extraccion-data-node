@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0722930332082,
+        "lon": -60.5749935688429
+      },
+      "departamento": {
+        "id": "82084",
+        "nombre": "Rosario"
+      },
+      "id": "82084230",
+      "localidad_censal": {
+        "id": "82084230",
+        "nombre": "Pueblo Esther"
+      },
+      "municipio": {
+        "id": "820207",
+        "nombre": "Pueblo Esther"
+      },
+      "nombre": "Pueblo Esther",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1581385210504,
+        "lon": -60.5119382186795
+      },
+      "departamento": {
+        "id": "82084",
+        "nombre": "Rosario"
+      },
+      "id": "82084070",
+      "localidad_censal": {
+        "id": "82084070",
+        "nombre": "Arroyo Seco"
+      },
+      "municipio": {
+        "id": "820182",
+        "nombre": "Arroyo Seco"
+      },
+      "nombre": "Arroyo Seco",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0902979325778,
+        "lon": -60.7363300440491
+      },
+      "departamento": {
+        "id": "82084",
+        "nombre": "Rosario"
+      },
+      "id": "82084190",
+      "localidad_censal": {
+        "id": "82084190",
+        "nombre": "Los Muchachos - La Alborada"
+      },
+      "municipio": {
+        "id": "823421",
+        "nombre": "Piñero"
+      },
+      "nombre": "Los Muchachos - La Alborada",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1759079593172,
+        "lon": -60.664101151059
+      },
+      "departamento": {
+        "id": "82084",
+        "nombre": "Rosario"
+      },
+      "id": "82084290",
+      "localidad_censal": {
+        "id": "82084290",
+        "nombre": "Villa Amelia"
+      },
+      "municipio": {
+        "id": "823456",
+        "nombre": "Villa Amelia"
+      },
+      "nombre": "Villa Amelia",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -33.1262945685022,
+        "lon": -60.7069216732872
+      },
+      "departamento": {
+        "id": "82084",
+        "nombre": "Rosario"
+      },
+      "id": "82084300",
+      "localidad_censal": {
+        "id": "82084300",
+        "nombre": "Villa del Plata"
+      },
+      "municipio": {
+        "id": "823456",
+        "nombre": "Villa Amelia"
+      },
+      "nombre": "Villa del Plata",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0910657594171,
+        "lon": -60.6984776478447
+      },
+      "departamento": {
+        "id": "82084",
+        "nombre": "Rosario"
+      },
+      "id": "82084050",
+      "localidad_censal": {
+        "id": "82084050",
+        "nombre": "Arbilla"
+      },
+      "municipio": {
+        "id": "823372",
+        "nombre": "Alvear"
+      },
+      "nombre": "Arbilla",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1280901191077,
+        "lon": -60.8061899822764
+      },
+      "departamento": {
+        "id": "82084",
+        "nombre": "Rosario"
+      },
+      "id": "82084030",
+      "localidad_censal": {
+        "id": "82084030",
+        "nombre": "Álvarez"
+      },
+      "municipio": {
+        "id": "823365",
+        "nombre": "Álvarez"
+      },
+      "nombre": "Álvarez",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0578411745076,
+        "lon": -60.6198434734122
+      },
+      "departamento": {
+        "id": "82084",
+        "nombre": "Rosario"
+      },
+      "id": "82084040",
+      "localidad_censal": {
+        "id": "82084040",
+        "nombre": "Alvear"
+      },
+      "municipio": {
+        "id": "823372",
+        "nombre": "Alvear"
+      },
+      "nombre": "Alvear",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -33.128516221415,
+        "lon": -60.7134010873951
+      },
+      "departamento": {
+        "id": "82084",
+        "nombre": "Rosario"
+      },
+      "id": "82084120",
+      "localidad_censal": {
+        "id": "82084120",
+        "nombre": "El Caramelo"
+      },
+      "municipio": {
+        "id": "823365",
+        "nombre": "Álvarez"
+      },
+      "nombre": "El Caramelo",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.2360266733981,
+        "lon": -60.8117710579368
+      },
+      "departamento": {
+        "id": "82084",
+        "nombre": "Rosario"
+      },
+      "id": "82084080",
+      "localidad_censal": {
+        "id": "82084080",
+        "nombre": "Carmen del Sauce"
+      },
+      "municipio": {
+        "id": "823386",
+        "nombre": "Carmen del Sauce"
+      },
+      "nombre": "Carmen del Sauce",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "82084"
+    ]
+  },
+  "total": 32
+}

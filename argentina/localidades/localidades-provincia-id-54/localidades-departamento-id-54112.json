@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.6870728866734,
+        "lon": -54.20307320559
+      },
+      "departamento": {
+        "id": "54112",
+        "nombre": "San Pedro"
+      },
+      "id": "54112020",
+      "localidad_censal": {
+        "id": "54112020",
+        "nombre": "Paraíso"
+      },
+      "municipio": {
+        "id": "540504",
+        "nombre": "San Pedro"
+      },
+      "nombre": "Paraíso",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.4261022476787,
+        "lon": -53.8414300402392
+      },
+      "departamento": {
+        "id": "54112",
+        "nombre": "San Pedro"
+      },
+      "id": "54112030",
+      "localidad_censal": {
+        "id": "54112030",
+        "nombre": "Piñalito Sur"
+      },
+      "municipio": {
+        "id": "540504",
+        "nombre": "San Pedro"
+      },
+      "nombre": "Piñalito Sur",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.6255314047977,
+        "lon": -54.1163019079878
+      },
+      "departamento": {
+        "id": "54112",
+        "nombre": "San Pedro"
+      },
+      "id": "54112040",
+      "localidad_censal": {
+        "id": "54112040",
+        "nombre": "San Pedro"
+      },
+      "municipio": {
+        "id": "540504",
+        "nombre": "San Pedro"
+      },
+      "nombre": "San Pedro",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.4699728950091,
+        "lon": -53.8911261704341
+      },
+      "departamento": {
+        "id": "54112",
+        "nombre": "San Pedro"
+      },
+      "id": "54112050",
+      "localidad_censal": {
+        "id": "54112050",
+        "nombre": "Tobuna"
+      },
+      "municipio": {
+        "id": "540504",
+        "nombre": "San Pedro"
+      },
+      "nombre": "Tobuna",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.5420991404552,
+        "lon": -53.9418790885698
+      },
+      "departamento": {
+        "id": "54112",
+        "nombre": "San Pedro"
+      },
+      "id": "54112010",
+      "localidad_censal": {
+        "id": "54112010",
+        "nombre": "Cruce Caballero"
+      },
+      "municipio": {
+        "id": "540504",
+        "nombre": "San Pedro"
+      },
+      "nombre": "Cruce Caballero",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "54112"
+    ]
+  },
+  "total": 5
+}

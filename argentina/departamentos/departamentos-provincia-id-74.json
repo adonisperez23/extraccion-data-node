@@ -1,0 +1,119 @@
+{
+  "cantidad": 9,
+  "departamentos": [
+    {
+      "centroide": {
+        "lat": -35.3684506230675,
+        "lon": -65.809487372821
+      },
+      "id": "74042",
+      "nombre": "Gobernador Dupuy",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -32.1657217092103,
+        "lon": -66.5423618070089
+      },
+      "id": "74007",
+      "nombre": "Ayacucho",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -32.7356111326592,
+        "lon": -66.7150525486673
+      },
+      "id": "74014",
+      "nombre": "Belgrano",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -32.5784192378867,
+        "lon": -65.7095887718459
+      },
+      "id": "74063",
+      "nombre": "Libertador General San Martín",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -33.1068820570862,
+        "lon": -65.9007902060388
+      },
+      "id": "74021",
+      "nombre": "Coronel Pringles",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -32.7270768664399,
+        "lon": -65.198209788321
+      },
+      "id": "74028",
+      "nombre": "Chacabuco",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -33.900714617211,
+        "lon": -66.5024402257537
+      },
+      "id": "74056",
+      "nombre": "Juan Martín de Pueyrredón",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -33.8922244453095,
+        "lon": -65.5597745631101
+      },
+      "id": "74035",
+      "nombre": "General Pedernera",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "centroide": {
+        "lat": -32.2163016656263,
+        "lon": -65.3948431186635
+      },
+      "id": "74049",
+      "nombre": "Junín",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    }
+  ],
+  "inicio": 0,
+  "parametros": {
+    "max": 200,
+    "provincia": "San Luis"
+  },
+  "total": 9
+}

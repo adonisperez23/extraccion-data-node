@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.478228664034,
+        "lon": -58.5026800107625
+      },
+      "departamento": {
+        "id": "06756",
+        "nombre": "San Isidro"
+      },
+      "id": "0675601001",
+      "localidad_censal": {
+        "id": "06756010",
+        "nombre": "San Isidro"
+      },
+      "municipio": {
+        "id": "060756",
+        "nombre": "San Isidro"
+      },
+      "nombre": "Acasusso",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4601958059158,
+        "lon": -58.5313611443379
+      },
+      "departamento": {
+        "id": "06756",
+        "nombre": "San Isidro"
+      },
+      "id": "0675601002",
+      "localidad_censal": {
+        "id": "06756010",
+        "nombre": "San Isidro"
+      },
+      "municipio": {
+        "id": "060756",
+        "nombre": "San Isidro"
+      },
+      "nombre": "Béccar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5094800482416,
+        "lon": -58.5669108609788
+      },
+      "departamento": {
+        "id": "06756",
+        "nombre": "San Isidro"
+      },
+      "id": "0675601003",
+      "localidad_censal": {
+        "id": "06756010",
+        "nombre": "San Isidro"
+      },
+      "municipio": {
+        "id": "060756",
+        "nombre": "San Isidro"
+      },
+      "nombre": "Boulogne Sur Mer",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.4890104372004,
+        "lon": -58.499380135853
+      },
+      "departamento": {
+        "id": "06756",
+        "nombre": "San Isidro"
+      },
+      "id": "0675601004",
+      "localidad_censal": {
+        "id": "06756010",
+        "nombre": "San Isidro"
+      },
+      "municipio": {
+        "id": "060756",
+        "nombre": "San Isidro"
+      },
+      "nombre": "Martínez",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.469882653323,
+        "lon": -58.5112940171937
+      },
+      "departamento": {
+        "id": "06756",
+        "nombre": "San Isidro"
+      },
+      "id": "0675601005",
+      "localidad_censal": {
+        "id": "06756010",
+        "nombre": "San Isidro"
+      },
+      "municipio": {
+        "id": "060756",
+        "nombre": "San Isidro"
+      },
+      "nombre": "San Isidro",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.5188556851314,
+        "lon": -58.5473555040385
+      },
+      "departamento": {
+        "id": "06756",
+        "nombre": "San Isidro"
+      },
+      "id": "0675601006",
+      "localidad_censal": {
+        "id": "06756010",
+        "nombre": "San Isidro"
+      },
+      "municipio": {
+        "id": "060756",
+        "nombre": "San Isidro"
+      },
+      "nombre": "Villa Adelina",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.4664285221917,
+        "lon": -58.5096898131462
+      },
+      "departamento": {
+        "id": "06756",
+        "nombre": "San Isidro"
+      },
+      "id": "06756010",
+      "localidad_censal": {
+        "id": "06756010",
+        "nombre": "San Isidro"
+      },
+      "municipio": {
+        "id": "060756",
+        "nombre": "San Isidro"
+      },
+      "nombre": "San Isidro",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06756"
+    ]
+  },
+  "total": 7
+}

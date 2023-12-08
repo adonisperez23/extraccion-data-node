@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.6361633101714,
+        "lon": -62.4777700486682
+      },
+      "departamento": {
+        "id": "06277",
+        "nombre": "Florentino Ameghino"
+      },
+      "id": "06277010",
+      "localidad_censal": {
+        "id": "06277010",
+        "nombre": "Blaquier"
+      },
+      "municipio": {
+        "id": "060277",
+        "nombre": "Florentino Ameghino"
+      },
+      "nombre": "Blaquier",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.8453724214234,
+        "lon": -62.4671568420394
+      },
+      "departamento": {
+        "id": "06277",
+        "nombre": "Florentino Ameghino"
+      },
+      "id": "06277020",
+      "localidad_censal": {
+        "id": "06277020",
+        "nombre": "Florentino Ameghino"
+      },
+      "municipio": {
+        "id": "060277",
+        "nombre": "Florentino Ameghino"
+      },
+      "nombre": "Florentino Ameghino",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.9504133610755,
+        "lon": -62.2237376442526
+      },
+      "departamento": {
+        "id": "06277",
+        "nombre": "Florentino Ameghino"
+      },
+      "id": "06277030",
+      "localidad_censal": {
+        "id": "06277030",
+        "nombre": "Porvenir"
+      },
+      "municipio": {
+        "id": "060277",
+        "nombre": "Florentino Ameghino"
+      },
+      "nombre": "Porvenir",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06277"
+    ]
+  },
+  "total": 3
+}

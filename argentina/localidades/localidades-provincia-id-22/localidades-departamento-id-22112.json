@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.1773371114827,
+        "lon": -60.6326696472275
+      },
+      "departamento": {
+        "id": "22112",
+        "nombre": "O'Higgins"
+      },
+      "id": "22112010",
+      "localidad_censal": {
+        "id": "22112010",
+        "nombre": "La Clotilde"
+      },
+      "municipio": {
+        "id": "220336",
+        "nombre": "La Clotilde"
+      },
+      "nombre": "La Clotilde",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.114230445782,
+        "lon": -60.5876582048946
+      },
+      "departamento": {
+        "id": "22112",
+        "nombre": "O'Higgins"
+      },
+      "id": "22112020",
+      "localidad_censal": {
+        "id": "22112020",
+        "nombre": "La Tigra"
+      },
+      "municipio": {
+        "id": "220343",
+        "nombre": "La Tigra"
+      },
+      "nombre": "La Tigra",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.2867193175886,
+        "lon": -60.7128491725155
+      },
+      "departamento": {
+        "id": "22112",
+        "nombre": "O'Higgins"
+      },
+      "id": "22112030",
+      "localidad_censal": {
+        "id": "22112030",
+        "nombre": "San Bernardo"
+      },
+      "municipio": {
+        "id": "220350",
+        "nombre": "San Bernardo"
+      },
+      "nombre": "San Bernardo",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22112"
+    ]
+  },
+  "total": 3
+}

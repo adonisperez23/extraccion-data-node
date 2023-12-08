@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.0669680433499,
+        "lon": -71.2148139824942
+      },
+      "departamento": {
+        "id": "26014",
+        "nombre": "Cushamen"
+      },
+      "id": "26014010",
+      "localidad_censal": {
+        "id": "26014010",
+        "nombre": "Buenos Aires Chico"
+      },
+      "municipio": {
+        "id": "260028",
+        "nombre": "El Maitén"
+      },
+      "nombre": "Buenos Aires Chico",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.5113511427512,
+        "lon": -71.4311343839162
+      },
+      "departamento": {
+        "id": "26014",
+        "nombre": "Cushamen"
+      },
+      "id": "26014020",
+      "localidad_censal": {
+        "id": "26014020",
+        "nombre": "Cholila"
+      },
+      "municipio": {
+        "id": "260014",
+        "nombre": "Cholila"
+      },
+      "nombre": "Cholila",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.6039350182085,
+        "lon": -70.4570302916977
+      },
+      "departamento": {
+        "id": "26014",
+        "nombre": "Cushamen"
+      },
+      "id": "26014025",
+      "localidad_censal": {
+        "id": "26014025",
+        "nombre": "Costa del Chubut"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Costa del Chubut",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.1730176117551,
+        "lon": -70.6613977877613
+      },
+      "departamento": {
+        "id": "26014",
+        "nombre": "Cushamen"
+      },
+      "id": "26014030",
+      "localidad_censal": {
+        "id": "26014030",
+        "nombre": "Cushamen Centro"
+      },
+      "municipio": {
+        "id": "268014",
+        "nombre": "Cushamen"
+      },
+      "nombre": "Cushamen Centro",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.0640503025439,
+        "lon": -71.5191432921128
+      },
+      "departamento": {
+        "id": "26014",
+        "nombre": "Cushamen"
+      },
+      "id": "26014040",
+      "localidad_censal": {
+        "id": "26014040",
+        "nombre": "El Hoyo"
+      },
+      "municipio": {
+        "id": "260021",
+        "nombre": "El Hoyo"
+      },
+      "nombre": "El Hoyo",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.0503208895139,
+        "lon": -71.1677874573224
+      },
+      "departamento": {
+        "id": "26014",
+        "nombre": "Cushamen"
+      },
+      "id": "26014050",
+      "localidad_censal": {
+        "id": "26014050",
+        "nombre": "El Maitén"
+      },
+      "municipio": {
+        "id": "260028",
+        "nombre": "El Maitén"
+      },
+      "nombre": "El Maitén",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.2292260345562,
+        "lon": -71.3710597787051
+      },
+      "departamento": {
+        "id": "26014",
+        "nombre": "Cushamen"
+      },
+      "id": "26014060",
+      "localidad_censal": {
+        "id": "26014060",
+        "nombre": "Epuyén"
+      },
+      "municipio": {
+        "id": "260035",
+        "nombre": "Epuyén"
+      },
+      "nombre": "Epuyén",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.4082116628287,
+        "lon": -70.530714862221
+      },
+      "departamento": {
+        "id": "26014",
+        "nombre": "Cushamen"
+      },
+      "id": "26014065",
+      "localidad_censal": {
+        "id": "26014065",
+        "nombre": "Fofo Cahuel"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Fofo Cahuel",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.7238322616018,
+        "lon": -70.5377200171443
+      },
+      "departamento": {
+        "id": "26014",
+        "nombre": "Cushamen"
+      },
+      "id": "26014070",
+      "localidad_censal": {
+        "id": "26014070",
+        "nombre": "Gualjaina"
+      },
+      "municipio": {
+        "id": "265007",
+        "nombre": "Gualjaina"
+      },
+      "nombre": "Gualjaina",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.2168904344569,
+        "lon": -71.4296708918742
+      },
+      "departamento": {
+        "id": "26014",
+        "nombre": "Cushamen"
+      },
+      "id": "26014080",
+      "localidad_censal": {
+        "id": "26014080",
+        "nombre": "Lago Epuyén"
+      },
+      "municipio": {
+        "id": "260035",
+        "nombre": "Epuyén"
+      },
+      "nombre": "Lago Epuyén",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "26014"
+    ]
+  },
+  "total": 12
+}

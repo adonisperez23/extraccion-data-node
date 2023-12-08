@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.0323707294767,
+        "lon": -60.0993919276647
+      },
+      "departamento": {
+        "id": "06014",
+        "nombre": "Adolfo Gonzales Chaves"
+      },
+      "id": "06014010",
+      "localidad_censal": {
+        "id": "06014010",
+        "nombre": "Adolfo Gonzales Chaves"
+      },
+      "municipio": {
+        "id": "060014",
+        "nombre": "Adolfo Gonzales Chaves"
+      },
+      "nombre": "Adolfo Gonzales Chaves",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.9665417279858,
+        "lon": -60.4167854846589
+      },
+      "departamento": {
+        "id": "06014",
+        "nombre": "Adolfo Gonzales Chaves"
+      },
+      "id": "06014020",
+      "localidad_censal": {
+        "id": "06014020",
+        "nombre": "De La Garma"
+      },
+      "municipio": {
+        "id": "060014",
+        "nombre": "Adolfo Gonzales Chaves"
+      },
+      "nombre": "De La Garma",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.8200386069869,
+        "lon": -60.48205544899
+      },
+      "departamento": {
+        "id": "06014",
+        "nombre": "Adolfo Gonzales Chaves"
+      },
+      "id": "06014030",
+      "localidad_censal": {
+        "id": "06014030",
+        "nombre": "Juan E. Barra"
+      },
+      "municipio": {
+        "id": "060014",
+        "nombre": "Adolfo Gonzales Chaves"
+      },
+      "nombre": "Juan E. Barra",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.1758010070279,
+        "lon": -60.1697910561822
+      },
+      "departamento": {
+        "id": "06014",
+        "nombre": "Adolfo Gonzales Chaves"
+      },
+      "id": "06014040",
+      "localidad_censal": {
+        "id": "06014040",
+        "nombre": "Vásquez"
+      },
+      "municipio": {
+        "id": "060014",
+        "nombre": "Adolfo Gonzales Chaves"
+      },
+      "nombre": "Vásquez",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06014"
+    ]
+  },
+  "total": 4
+}

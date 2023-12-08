@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.2457755164885,
+        "lon": -60.1583505738708
+      },
+      "departamento": {
+        "id": "30077",
+        "nombre": "Nogoyá"
+      },
+      "id": "30077010",
+      "localidad_censal": {
+        "id": "30077010",
+        "nombre": "Villa Aranguren"
+      },
+      "municipio": {
+        "id": "300266",
+        "nombre": "Villa Aranguren"
+      },
+      "nombre": "Aranguren",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.3721797633805,
+        "lon": -59.9284078342041
+      },
+      "departamento": {
+        "id": "30077",
+        "nombre": "Nogoyá"
+      },
+      "id": "30077020",
+      "localidad_censal": {
+        "id": "30077020",
+        "nombre": "Betbeder"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Betbeder",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0713541870669,
+        "lon": -59.9947309809541
+      },
+      "departamento": {
+        "id": "30077",
+        "nombre": "Nogoyá"
+      },
+      "id": "30077030",
+      "localidad_censal": {
+        "id": "30077030",
+        "nombre": "Don Cristóbal II"
+      },
+      "municipio": {
+        "id": "302780",
+        "nombre": "Don Cristóbal II"
+      },
+      "nombre": "Don Cristóbal",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.475267674938,
+        "lon": -59.9189010779794
+      },
+      "departamento": {
+        "id": "30077",
+        "nombre": "Nogoyá"
+      },
+      "id": "30077040",
+      "localidad_censal": {
+        "id": "30077040",
+        "nombre": "Febré"
+      },
+      "municipio": {
+        "id": "302787",
+        "nombre": "Febre"
+      },
+      "nombre": "Febré",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.3382714166742,
+        "lon": -60.0321261187869
+      },
+      "departamento": {
+        "id": "30077",
+        "nombre": "Nogoyá"
+      },
+      "id": "30077050",
+      "localidad_censal": {
+        "id": "30077050",
+        "nombre": "Villa Sabá Z. Hernández"
+      },
+      "municipio": {
+        "id": "300273",
+        "nombre": "Villa Sabá Z. Hernández"
+      },
+      "nombre": "Hernández",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.3843937289654,
+        "lon": -59.5308470434542
+      },
+      "departamento": {
+        "id": "30077",
+        "nombre": "Nogoyá"
+      },
+      "id": "30077060",
+      "localidad_censal": {
+        "id": "30077060",
+        "nombre": "Lucas González"
+      },
+      "municipio": {
+        "id": "300280",
+        "nombre": "Lucas González"
+      },
+      "nombre": "Lucas González",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.3989615251678,
+        "lon": -59.787695341605
+      },
+      "departamento": {
+        "id": "30077",
+        "nombre": "Nogoyá"
+      },
+      "id": "30077070",
+      "localidad_censal": {
+        "id": "30077070",
+        "nombre": "Nogoyá"
+      },
+      "municipio": {
+        "id": "300287",
+        "nombre": "Nogoyá"
+      },
+      "nombre": "Nogoyá",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.3859188275714,
+        "lon": -59.662220630427
+      },
+      "departamento": {
+        "id": "30077",
+        "nombre": "Nogoyá"
+      },
+      "id": "30077080",
+      "localidad_censal": {
+        "id": "30077080",
+        "nombre": "XX de Setiembre"
+      },
+      "municipio": {
+        "id": "302808",
+        "nombre": "XX de Septiembre"
+      },
+      "nombre": "XX de Setiembre",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "30077"
+    ]
+  },
+  "total": 8
+}

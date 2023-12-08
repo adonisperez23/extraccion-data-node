@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.6410075694352,
+        "lon": -66.2426317211089
+      },
+      "departamento": {
+        "id": "46063",
+        "nombre": "General Belgrano"
+      },
+      "id": "46063030",
+      "localidad_censal": {
+        "id": "46063030",
+        "nombre": "Loma Blanca"
+      },
+      "municipio": {
+        "id": "460063",
+        "nombre": "General Belgrano"
+      },
+      "nombre": "Loma Blanca",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.5788937356025,
+        "lon": -65.7271102931581
+      },
+      "departamento": {
+        "id": "46063",
+        "nombre": "General Belgrano"
+      },
+      "id": "46063010",
+      "localidad_censal": {
+        "id": "46063010",
+        "nombre": "Castro Barros"
+      },
+      "municipio": {
+        "id": "460063",
+        "nombre": "General Belgrano"
+      },
+      "nombre": "Castro Barros",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.5414407589519,
+        "lon": -65.9560642078614
+      },
+      "departamento": {
+        "id": "46063",
+        "nombre": "General Belgrano"
+      },
+      "id": "46063020",
+      "localidad_censal": {
+        "id": "46063020",
+        "nombre": "Chañar"
+      },
+      "municipio": {
+        "id": "460063",
+        "nombre": "General Belgrano"
+      },
+      "nombre": "Chañar",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.6306764073915,
+        "lon": -66.2672510854986
+      },
+      "departamento": {
+        "id": "46063",
+        "nombre": "General Belgrano"
+      },
+      "id": "46063040",
+      "localidad_censal": {
+        "id": "46063040",
+        "nombre": "Olta"
+      },
+      "municipio": {
+        "id": "460063",
+        "nombre": "General Belgrano"
+      },
+      "nombre": "Olta",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "46063"
+    ]
+  },
+  "total": 4
+}

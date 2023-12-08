@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.8876231328051,
+        "lon": -68.8410316296807
+      },
+      "departamento": {
+        "id": "50007",
+        "nombre": "Capital"
+      },
+      "id": "5000701001",
+      "localidad_censal": {
+        "id": "50007010",
+        "nombre": "Mendoza"
+      },
+      "municipio": {
+        "id": "500007",
+        "nombre": "Mendoza"
+      },
+      "nombre": "1ra Sección",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.8916260670654,
+        "lon": -68.8409855152698
+      },
+      "departamento": {
+        "id": "50007",
+        "nombre": "Capital"
+      },
+      "id": "5000701002",
+      "localidad_censal": {
+        "id": "50007010",
+        "nombre": "Mendoza"
+      },
+      "municipio": {
+        "id": "500007",
+        "nombre": "Mendoza"
+      },
+      "nombre": "2da Sección",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.8883061527,
+        "lon": -68.8320926627431
+      },
+      "departamento": {
+        "id": "50007",
+        "nombre": "Capital"
+      },
+      "id": "5000701003",
+      "localidad_censal": {
+        "id": "50007010",
+        "nombre": "Mendoza"
+      },
+      "municipio": {
+        "id": "500007",
+        "nombre": "Mendoza"
+      },
+      "nombre": "3ra Sección",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.8694721188293,
+        "lon": -68.8382664690677
+      },
+      "departamento": {
+        "id": "50007",
+        "nombre": "Capital"
+      },
+      "id": "5000701004",
+      "localidad_censal": {
+        "id": "50007010",
+        "nombre": "Mendoza"
+      },
+      "municipio": {
+        "id": "500007",
+        "nombre": "Mendoza"
+      },
+      "nombre": "4ta Sección",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.8879718887663,
+        "lon": -68.8538156485345
+      },
+      "departamento": {
+        "id": "50007",
+        "nombre": "Capital"
+      },
+      "id": "5000701005",
+      "localidad_censal": {
+        "id": "50007010",
+        "nombre": "Mendoza"
+      },
+      "municipio": {
+        "id": "500007",
+        "nombre": "Mendoza"
+      },
+      "nombre": "5ta Sección",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.8788927457713,
+        "lon": -68.8532574679282
+      },
+      "departamento": {
+        "id": "50007",
+        "nombre": "Capital"
+      },
+      "id": "5000701006",
+      "localidad_censal": {
+        "id": "50007010",
+        "nombre": "Mendoza"
+      },
+      "municipio": {
+        "id": "500007",
+        "nombre": "Mendoza"
+      },
+      "nombre": "6ta Sección",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.877642821815,
+        "lon": -68.8709094556066
+      },
+      "departamento": {
+        "id": "50007",
+        "nombre": "Capital"
+      },
+      "id": "5000701007",
+      "localidad_censal": {
+        "id": "50007010",
+        "nombre": "Mendoza"
+      },
+      "municipio": {
+        "id": "500007",
+        "nombre": "Mendoza"
+      },
+      "nombre": "7ma Sección",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.8841390986768,
+        "lon": -68.8734502560761
+      },
+      "departamento": {
+        "id": "50007",
+        "nombre": "Capital"
+      },
+      "id": "5000701009",
+      "localidad_censal": {
+        "id": "50007010",
+        "nombre": "Mendoza"
+      },
+      "municipio": {
+        "id": "500007",
+        "nombre": "Mendoza"
+      },
+      "nombre": "9na Sección",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.8707883642031,
+        "lon": -68.8917517972674
+      },
+      "departamento": {
+        "id": "50007",
+        "nombre": "Capital"
+      },
+      "id": "5000701010",
+      "localidad_censal": {
+        "id": "50007010",
+        "nombre": "Mendoza"
+      },
+      "municipio": {
+        "id": "500007",
+        "nombre": "Mendoza"
+      },
+      "nombre": "10ma Sección",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -32.8904351397539,
+        "lon": -68.9112247685214
+      },
+      "departamento": {
+        "id": "50007",
+        "nombre": "Capital"
+      },
+      "id": "5000701011",
+      "localidad_censal": {
+        "id": "50007010",
+        "nombre": "Mendoza"
+      },
+      "municipio": {
+        "id": "500007",
+        "nombre": "Mendoza"
+      },
+      "nombre": "11va Sección",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "50007"
+    ]
+  },
+  "total": 12
+}

@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1895978630552,
+        "lon": -66.15259947219
+      },
+      "departamento": {
+        "id": "74021",
+        "nombre": "Coronel Pringles"
+      },
+      "id": "74021025",
+      "localidad_censal": {
+        "id": "74021025",
+        "nombre": "Estancia Grande"
+      },
+      "municipio": {
+        "id": "740038",
+        "nombre": "Estancia Grande"
+      },
+      "nombre": "Estancia Grande",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.8108022264174,
+        "lon": -66.091951945009
+      },
+      "departamento": {
+        "id": "74021",
+        "nombre": "Coronel Pringles"
+      },
+      "id": "74021010",
+      "localidad_censal": {
+        "id": "74021010",
+        "nombre": "La Carolina"
+      },
+      "municipio": {
+        "id": "746035",
+        "nombre": "La Carolina"
+      },
+      "nombre": "Carolina",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -33.1092364585919,
+        "lon": -66.0630692408553
+      },
+      "departamento": {
+        "id": "74021",
+        "nombre": "Coronel Pringles"
+      },
+      "id": "74021020",
+      "localidad_censal": {
+        "id": "74021020",
+        "nombre": "El Trapiche"
+      },
+      "municipio": {
+        "id": "740039",
+        "nombre": "El Trapiche"
+      },
+      "nombre": "El Trapiche",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0544967292574,
+        "lon": -65.6213756393883
+      },
+      "departamento": {
+        "id": "74021",
+        "nombre": "Coronel Pringles"
+      },
+      "id": "74021060",
+      "localidad_censal": {
+        "id": "74021060",
+        "nombre": "La Toma"
+      },
+      "municipio": {
+        "id": "740042",
+        "nombre": "La Toma"
+      },
+      "nombre": "La Toma",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0947038887342,
+        "lon": -65.9928176039042
+      },
+      "departamento": {
+        "id": "74021",
+        "nombre": "Coronel Pringles"
+      },
+      "id": "74021070",
+      "localidad_censal": {
+        "id": "74021070",
+        "nombre": "Riocito"
+      },
+      "municipio": {
+        "id": "740039",
+        "nombre": "El Trapiche"
+      },
+      "nombre": "Riocito",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.2024715279353,
+        "lon": -65.8553237567561
+      },
+      "departamento": {
+        "id": "74021",
+        "nombre": "Coronel Pringles"
+      },
+      "id": "74021090",
+      "localidad_censal": {
+        "id": "74021090",
+        "nombre": "Saladillo"
+      },
+      "municipio": {
+        "id": "746063",
+        "nombre": "Saladillo"
+      },
+      "nombre": "Saladillo",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.502087069887,
+        "lon": -65.7926477789763
+      },
+      "departamento": {
+        "id": "74021",
+        "nombre": "Coronel Pringles"
+      },
+      "id": "74021030",
+      "localidad_censal": {
+        "id": "74021030",
+        "nombre": "Fraga"
+      },
+      "municipio": {
+        "id": "746049",
+        "nombre": "Fraga"
+      },
+      "nombre": "Fraga",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1167316434287,
+        "lon": -66.0034528034127
+      },
+      "departamento": {
+        "id": "74021",
+        "nombre": "Coronel Pringles"
+      },
+      "id": "74021050",
+      "localidad_censal": {
+        "id": "74021050",
+        "nombre": "La Florida"
+      },
+      "municipio": {
+        "id": "740039",
+        "nombre": "El Trapiche"
+      },
+      "nombre": "La Florida",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "74021"
+    ]
+  },
+  "total": 8
+}

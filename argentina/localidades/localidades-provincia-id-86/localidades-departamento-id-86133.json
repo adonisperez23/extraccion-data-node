@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.3933184952052,
+        "lon": -64.5050512759518
+      },
+      "departamento": {
+        "id": "86133",
+        "nombre": "Pellegrini"
+      },
+      "id": "86133050",
+      "localidad_censal": {
+        "id": "86133050",
+        "nombre": "Rapelli"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Rapelli",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.2001853582876,
+        "lon": -64.2400175508114
+      },
+      "departamento": {
+        "id": "86133",
+        "nombre": "Pellegrini"
+      },
+      "id": "86133030",
+      "localidad_censal": {
+        "id": "86133030",
+        "nombre": "Nueva Esperanza"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Nueva Esperanza",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.4098092599874,
+        "lon": -64.3370611029544
+      },
+      "departamento": {
+        "id": "86133",
+        "nombre": "Pellegrini"
+      },
+      "id": "86133040",
+      "localidad_censal": {
+        "id": "86133040",
+        "nombre": "Pozo Betbeder"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Pozo Betbeder",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.6769144866499,
+        "lon": -64.0058966752275
+      },
+      "departamento": {
+        "id": "86133",
+        "nombre": "Pellegrini"
+      },
+      "id": "86133020",
+      "localidad_censal": {
+        "id": "86133020",
+        "nombre": "Las Delicias"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Las Delicias",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.2163641126823,
+        "lon": -63.7774962793826
+      },
+      "departamento": {
+        "id": "86133",
+        "nombre": "Pellegrini"
+      },
+      "id": "86133060",
+      "localidad_censal": {
+        "id": "86133060",
+        "nombre": "Santo Domingo"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Santo Domingo",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.0927392904855,
+        "lon": -64.3091543984463
+      },
+      "departamento": {
+        "id": "86133",
+        "nombre": "Pellegrini"
+      },
+      "id": "86133010",
+      "localidad_censal": {
+        "id": "86133010",
+        "nombre": "El Mojón"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Mojón",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86133"
+    ]
+  },
+  "total": 6
+}

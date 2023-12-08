@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.4964440454268,
+        "lon": -63.8173285607086
+      },
+      "departamento": {
+        "id": "86021",
+        "nombre": "Atamisqui"
+      },
+      "id": "86021030",
+      "localidad_censal": {
+        "id": "86021030",
+        "nombre": "Villa Atamisqui"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Villa Atamisqui",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.4937289050537,
+        "lon": -63.9374460740792
+      },
+      "departamento": {
+        "id": "86021",
+        "nombre": "Atamisqui"
+      },
+      "id": "86021010",
+      "localidad_censal": {
+        "id": "86021010",
+        "nombre": "Estación Atamisqui"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Estación Atamisqui",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6523413407303,
+        "lon": -63.7855074435545
+      },
+      "departamento": {
+        "id": "86021",
+        "nombre": "Atamisqui"
+      },
+      "id": "86021020",
+      "localidad_censal": {
+        "id": "86021020",
+        "nombre": "Medellí­n"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Medellín",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86021"
+    ]
+  },
+  "total": 3
+}

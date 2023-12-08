@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.0744377413596,
+        "lon": -68.57260717998
+      },
+      "departamento": {
+        "id": "58035",
+        "nombre": "Confluencia"
+      },
+      "id": "58035010",
+      "localidad_censal": {
+        "id": "58035010",
+        "nombre": "Arroyito"
+      },
+      "municipio": {
+        "id": "580077",
+        "nombre": "Senillosa"
+      },
+      "nombre": "Arroyito",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.8301565362765,
+        "lon": -68.121477474246
+      },
+      "departamento": {
+        "id": "58035",
+        "nombre": "Confluencia"
+      },
+      "id": "58035030",
+      "localidad_censal": {
+        "id": "58035030",
+        "nombre": "Centenario"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Centenario",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -38.9379112835808,
+        "lon": -69.2293658118618
+      },
+      "departamento": {
+        "id": "58035",
+        "nombre": "Confluencia"
+      },
+      "id": "58035040",
+      "localidad_censal": {
+        "id": "58035040",
+        "nombre": "Cutral Có"
+      },
+      "municipio": {
+        "id": "580049",
+        "nombre": "Cutral Co"
+      },
+      "nombre": "Cutral Có",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.5413583095589,
+        "lon": -68.5451697178405
+      },
+      "departamento": {
+        "id": "58035",
+        "nombre": "Confluencia"
+      },
+      "id": "58035060",
+      "localidad_censal": {
+        "id": "58035060",
+        "nombre": "Mari Menuco"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Mari Menuco",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -38.9518288206176,
+        "lon": -68.0591813073308
+      },
+      "departamento": {
+        "id": "58035",
+        "nombre": "Confluencia"
+      },
+      "id": "58035070",
+      "localidad_censal": {
+        "id": "58035070",
+        "nombre": "Neuquén"
+      },
+      "municipio": {
+        "id": "580056",
+        "nombre": "Neuquén"
+      },
+      "nombre": "Neuquén",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -38.9523548715081,
+        "lon": -68.2271473892684
+      },
+      "departamento": {
+        "id": "58035",
+        "nombre": "Confluencia"
+      },
+      "id": "58035100",
+      "localidad_censal": {
+        "id": "58035100",
+        "nombre": "Plottier"
+      },
+      "municipio": {
+        "id": "580070",
+        "nombre": "Plottier"
+      },
+      "nombre": "Plottier",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.0100929190721,
+        "lon": -68.4259759343097
+      },
+      "departamento": {
+        "id": "58035",
+        "nombre": "Confluencia"
+      },
+      "id": "58035110",
+      "localidad_censal": {
+        "id": "58035110",
+        "nombre": "Senillosa"
+      },
+      "municipio": {
+        "id": "580077",
+        "nombre": "Senillosa"
+      },
+      "nombre": "Senillosa",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -39.2615472701827,
+        "lon": -68.7789277377405
+      },
+      "departamento": {
+        "id": "58035",
+        "nombre": "Confluencia"
+      },
+      "id": "58035120",
+      "localidad_censal": {
+        "id": "58035120",
+        "nombre": "Villa El Chocón"
+      },
+      "municipio": {
+        "id": "580084",
+        "nombre": "Villa El Chocón"
+      },
+      "nombre": "Villa El Chocón",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.7730298028857,
+        "lon": -68.135492123563
+      },
+      "departamento": {
+        "id": "58035",
+        "nombre": "Confluencia"
+      },
+      "id": "58035140",
+      "localidad_censal": {
+        "id": "58035140",
+        "nombre": "Vista Alegre Sur"
+      },
+      "municipio": {
+        "id": "580091",
+        "nombre": "Vista Alegre"
+      },
+      "nombre": "Vista Alegre Sur",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -38.9301238913808,
+        "lon": -69.2077778906463
+      },
+      "departamento": {
+        "id": "58035",
+        "nombre": "Confluencia"
+      },
+      "id": "58035090",
+      "localidad_censal": {
+        "id": "58035090",
+        "nombre": "Plaza Huincul"
+      },
+      "municipio": {
+        "id": "580063",
+        "nombre": "Plaza Huincul"
+      },
+      "nombre": "Plaza Huincul",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "58035"
+    ]
+  },
+  "total": 11
+}

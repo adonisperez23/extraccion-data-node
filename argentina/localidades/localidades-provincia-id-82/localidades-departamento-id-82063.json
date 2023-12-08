@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.7210301786451,
+        "lon": -60.8015887552447
+      },
+      "departamento": {
+        "id": "82063",
+        "nombre": "La Capital"
+      },
+      "id": "8206319002",
+      "localidad_censal": {
+        "id": "82063190",
+        "nombre": "Sauce Viejo"
+      },
+      "municipio": {
+        "id": "820158",
+        "nombre": "Sauce Viejo"
+      },
+      "nombre": "Villa Adelina",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.7660371876277,
+        "lon": -60.8305595552308
+      },
+      "departamento": {
+        "id": "82063",
+        "nombre": "La Capital"
+      },
+      "id": "8206319001",
+      "localidad_censal": {
+        "id": "82063190",
+        "nombre": "Sauce Viejo"
+      },
+      "municipio": {
+        "id": "820158",
+        "nombre": "Sauce Viejo"
+      },
+      "nombre": "Sauce Viejo",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.5604450839944,
+        "lon": -60.5191788520517
+      },
+      "departamento": {
+        "id": "82063",
+        "nombre": "La Capital"
+      },
+      "id": "8206303001",
+      "localidad_censal": {
+        "id": "82063030",
+        "nombre": "Arroyo Leyes"
+      },
+      "municipio": {
+        "id": "822959",
+        "nombre": "Arroyo Leyes"
+      },
+      "nombre": "Arroyo Leyes",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.5718361103601,
+        "lon": -60.5310909581548
+      },
+      "departamento": {
+        "id": "82063",
+        "nombre": "La Capital"
+      },
+      "id": "8206303002",
+      "localidad_censal": {
+        "id": "82063030",
+        "nombre": "Arroyo Leyes"
+      },
+      "municipio": {
+        "id": "822959",
+        "nombre": "Arroyo Leyes"
+      },
+      "nombre": "Rincón Norte",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -31.558725563739,
+        "lon": -60.5175080046711
+      },
+      "departamento": {
+        "id": "82063",
+        "nombre": "La Capital"
+      },
+      "id": "82063030",
+      "localidad_censal": {
+        "id": "82063030",
+        "nombre": "Arroyo Leyes"
+      },
+      "municipio": {
+        "id": "822959",
+        "nombre": "Arroyo Leyes"
+      },
+      "nombre": "Arroyo Leyes",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.5665071502413,
+        "lon": -60.6615195422776
+      },
+      "departamento": {
+        "id": "82063",
+        "nombre": "La Capital"
+      },
+      "id": "82063120",
+      "localidad_censal": {
+        "id": "82063120",
+        "nombre": "Paraje Chaco Chico"
+      },
+      "municipio": {
+        "id": "823001",
+        "nombre": "Monte Vera"
+      },
+      "nombre": "Paraje Chaco Chico",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -31.6574749533861,
+        "lon": -60.7104784410123
+      },
+      "departamento": {
+        "id": "82063",
+        "nombre": "La Capital"
+      },
+      "id": "82063170",
+      "localidad_censal": {
+        "id": "82063170",
+        "nombre": "Santa Fe"
+      },
+      "municipio": {
+        "id": "820147",
+        "nombre": "Santa Fe"
+      },
+      "nombre": "Santa Fe",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.3073577549174,
+        "lon": -60.6599224679659
+      },
+      "departamento": {
+        "id": "82063",
+        "nombre": "La Capital"
+      },
+      "id": "82063080",
+      "localidad_censal": {
+        "id": "82063080",
+        "nombre": "Laguna Paiva"
+      },
+      "municipio": {
+        "id": "820140",
+        "nombre": "Laguna Paiva"
+      },
+      "nombre": "Laguna Paiva",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.2390549183719,
+        "lon": -60.5298070316869
+      },
+      "departamento": {
+        "id": "82063",
+        "nombre": "La Capital"
+      },
+      "id": "82063050",
+      "localidad_censal": {
+        "id": "82063050",
+        "nombre": "Campo Andino"
+      },
+      "municipio": {
+        "id": "822973",
+        "nombre": "Campo Andino"
+      },
+      "nombre": "Campo Andino",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.2658325064826,
+        "lon": -60.7644507999057
+      },
+      "departamento": {
+        "id": "82063",
+        "nombre": "La Capital"
+      },
+      "id": "82063110",
+      "localidad_censal": {
+        "id": "82063110",
+        "nombre": "Nelson"
+      },
+      "municipio": {
+        "id": "823008",
+        "nombre": "Nelson"
+      },
+      "nombre": "Nelson",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "82063"
+    ]
+  },
+  "total": 24
+}

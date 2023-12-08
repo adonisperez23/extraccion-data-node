@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.7763229509013,
+        "lon": -63.716840693317
+      },
+      "departamento": {
+        "id": "42105",
+        "nombre": "Maracó"
+      },
+      "id": "42105020",
+      "localidad_censal": {
+        "id": "42105020",
+        "nombre": "Dorila"
+      },
+      "municipio": {
+        "id": "420116",
+        "nombre": "Dorila"
+      },
+      "nombre": "Dorila",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.7820709830868,
+        "lon": -63.3916144304609
+      },
+      "departamento": {
+        "id": "42105",
+        "nombre": "Maracó"
+      },
+      "id": "42105010",
+      "localidad_censal": {
+        "id": "42105010",
+        "nombre": "Agustoni"
+      },
+      "municipio": {
+        "id": "425014",
+        "nombre": "Agustoni"
+      },
+      "nombre": "Agustoni",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.6593004344736,
+        "lon": -63.7578717289548
+      },
+      "departamento": {
+        "id": "42105",
+        "nombre": "Maracó"
+      },
+      "id": "42105030",
+      "localidad_censal": {
+        "id": "42105030",
+        "nombre": "General Pico"
+      },
+      "municipio": {
+        "id": "420147",
+        "nombre": "General Pico"
+      },
+      "nombre": "General Pico",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.5497080167874,
+        "lon": -63.8205097114007
+      },
+      "departamento": {
+        "id": "42105",
+        "nombre": "Maracó"
+      },
+      "id": "42105040",
+      "localidad_censal": {
+        "id": "42105040",
+        "nombre": "Speluzzi"
+      },
+      "municipio": {
+        "id": "425147",
+        "nombre": "Speluzzi"
+      },
+      "nombre": "Speluzzi",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.5844688283462,
+        "lon": -63.5890778943806
+      },
+      "departamento": {
+        "id": "42105",
+        "nombre": "Maracó"
+      },
+      "id": "42105050",
+      "localidad_censal": {
+        "id": "42105050",
+        "nombre": "Trebolares"
+      },
+      "municipio": {
+        "id": "420147",
+        "nombre": "General Pico"
+      },
+      "nombre": "Trebolares",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42105"
+    ]
+  },
+  "total": 5
+}

@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.5968120004883,
+        "lon": -59.8176936406853
+      },
+      "departamento": {
+        "id": "06770",
+        "nombre": "San Pedro"
+      },
+      "id": "06770020",
+      "localidad_censal": {
+        "id": "06770020",
+        "nombre": "Ingeniero Moneta"
+      },
+      "municipio": {
+        "id": "060770",
+        "nombre": "San Pedro"
+      },
+      "nombre": "Obligado",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.6590136302514,
+        "lon": -59.8684776819622
+      },
+      "departamento": {
+        "id": "06770",
+        "nombre": "San Pedro"
+      },
+      "id": "06770010",
+      "localidad_censal": {
+        "id": "06770010",
+        "nombre": "Gobernador Castro"
+      },
+      "municipio": {
+        "id": "060770",
+        "nombre": "San Pedro"
+      },
+      "nombre": "Gobernador Castro",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.9018137920889,
+        "lon": -59.8190040146191
+      },
+      "departamento": {
+        "id": "06770",
+        "nombre": "San Pedro"
+      },
+      "id": "06770030",
+      "localidad_censal": {
+        "id": "06770030",
+        "nombre": "Obligado"
+      },
+      "municipio": {
+        "id": "060770",
+        "nombre": "San Pedro"
+      },
+      "nombre": "Pueblo Doyle",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.7692927806971,
+        "lon": -59.6394845323378
+      },
+      "departamento": {
+        "id": "06770",
+        "nombre": "San Pedro"
+      },
+      "id": "06770040",
+      "localidad_censal": {
+        "id": "06770040",
+        "nombre": "Pueblo Doyle"
+      },
+      "municipio": {
+        "id": "060770",
+        "nombre": "San Pedro"
+      },
+      "nombre": "Río Tala",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.6759480318045,
+        "lon": -59.6630158141548
+      },
+      "departamento": {
+        "id": "06770",
+        "nombre": "San Pedro"
+      },
+      "id": "06770050",
+      "localidad_censal": {
+        "id": "06770050",
+        "nombre": "Rí­o Tala"
+      },
+      "municipio": {
+        "id": "060770",
+        "nombre": "San Pedro"
+      },
+      "nombre": "San Pedro",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.8809441102835,
+        "lon": -59.8742021436945
+      },
+      "departamento": {
+        "id": "06770",
+        "nombre": "San Pedro"
+      },
+      "id": "06770060",
+      "localidad_censal": {
+        "id": "06770060",
+        "nombre": "San Pedro"
+      },
+      "municipio": {
+        "id": "060770",
+        "nombre": "San Pedro"
+      },
+      "nombre": "Santa Lucía",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06770"
+    ]
+  },
+  "total": 6
+}

@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.7547242034728,
+        "lon": -57.9817893682594
+      },
+      "departamento": {
+        "id": "30028",
+        "nombre": "Federación"
+      },
+      "id": "30028010",
+      "localidad_censal": {
+        "id": "30028010",
+        "nombre": "Chajarí"
+      },
+      "municipio": {
+        "id": "300105",
+        "nombre": "Chajarí"
+      },
+      "nombre": "Chajarí",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.9035950691115,
+        "lon": -57.9998943396245
+      },
+      "departamento": {
+        "id": "30028",
+        "nombre": "Federación"
+      },
+      "id": "30028020",
+      "localidad_censal": {
+        "id": "30028020",
+        "nombre": "Colonia Alemana"
+      },
+      "municipio": {
+        "id": "309135",
+        "nombre": "Colonia Alemana"
+      },
+      "nombre": "Colonia Alemana",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.0740770229662,
+        "lon": -58.0260216531353
+      },
+      "departamento": {
+        "id": "30028",
+        "nombre": "Federación"
+      },
+      "id": "30028040",
+      "localidad_censal": {
+        "id": "30028040",
+        "nombre": "Colonia La Argentina"
+      },
+      "municipio": {
+        "id": "309140",
+        "nombre": "Colonia La Argentina"
+      },
+      "nombre": "Colonia La Argentina",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.9902627352677,
+        "lon": -57.9177623238373
+      },
+      "departamento": {
+        "id": "30028",
+        "nombre": "Federación"
+      },
+      "id": "30028070",
+      "localidad_censal": {
+        "id": "30028070",
+        "nombre": "Federación"
+      },
+      "municipio": {
+        "id": "300112",
+        "nombre": "Federación"
+      },
+      "nombre": "Federación",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.5913371447286,
+        "lon": -58.4662357090178
+      },
+      "departamento": {
+        "id": "30028",
+        "nombre": "Federación"
+      },
+      "id": "30028080",
+      "localidad_censal": {
+        "id": "30028080",
+        "nombre": "Los Conquistadores"
+      },
+      "municipio": {
+        "id": "300115",
+        "nombre": "Los Conquistadores"
+      },
+      "nombre": "Los Conquistadores",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.3403401359976,
+        "lon": -58.3069291581191
+      },
+      "departamento": {
+        "id": "30028",
+        "nombre": "Federación"
+      },
+      "id": "30028090",
+      "localidad_censal": {
+        "id": "30028090",
+        "nombre": "San Jaime de la Frontera"
+      },
+      "municipio": {
+        "id": "300119",
+        "nombre": "San Jaime de la Frontera"
+      },
+      "nombre": "San Jaime de la Frontera",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.7581957780129,
+        "lon": -58.0815900082746
+      },
+      "departamento": {
+        "id": "30028",
+        "nombre": "Federación"
+      },
+      "id": "30028100",
+      "localidad_censal": {
+        "id": "30028100",
+        "nombre": "San Pedro"
+      },
+      "municipio": {
+        "id": "309175",
+        "nombre": "San Pedro"
+      },
+      "nombre": "San Pedro",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.8188156466658,
+        "lon": -58.2497947667639
+      },
+      "departamento": {
+        "id": "30028",
+        "nombre": "Federación"
+      },
+      "id": "30028105",
+      "localidad_censal": {
+        "id": "30028105",
+        "nombre": "San Ramón"
+      },
+      "municipio": {
+        "id": "309180",
+        "nombre": "San Ramón"
+      },
+      "nombre": "San Ramón",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.8993700235864,
+        "lon": -57.9310782503744
+      },
+      "departamento": {
+        "id": "30028",
+        "nombre": "Federación"
+      },
+      "id": "30028110",
+      "localidad_censal": {
+        "id": "30028110",
+        "nombre": "Santa Ana"
+      },
+      "municipio": {
+        "id": "300126",
+        "nombre": "Santa Ana"
+      },
+      "nombre": "Santa Ana",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.7957385008307,
+        "lon": -57.9145527100309
+      },
+      "departamento": {
+        "id": "30028",
+        "nombre": "Federación"
+      },
+      "id": "30028120",
+      "localidad_censal": {
+        "id": "30028120",
+        "nombre": "Villa del Rosario"
+      },
+      "municipio": {
+        "id": "300133",
+        "nombre": "Villa del Rosario"
+      },
+      "nombre": "Villa del Rosario",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "30028"
+    ]
+  },
+  "total": 10
+}

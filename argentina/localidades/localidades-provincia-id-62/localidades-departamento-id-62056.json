@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.772465114111,
+        "lon": -70.1380708730154
+      },
+      "departamento": {
+        "id": "62056",
+        "nombre": "Ñorquinco"
+      },
+      "id": "62056020",
+      "localidad_censal": {
+        "id": "62056020",
+        "nombre": "Mamuel Choique"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Mamuel Choique",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.7102925061921,
+        "lon": -70.4767241368606
+      },
+      "departamento": {
+        "id": "62056",
+        "nombre": "Ñorquinco"
+      },
+      "id": "62056050",
+      "localidad_censal": {
+        "id": "62056050",
+        "nombre": "Río Chico"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Río Chico",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.8489280851284,
+        "lon": -70.8982152354122
+      },
+      "departamento": {
+        "id": "62056",
+        "nombre": "Ñorquinco"
+      },
+      "id": "62056030",
+      "localidad_censal": {
+        "id": "62056030",
+        "nombre": "Ñorquincó"
+      },
+      "municipio": {
+        "id": "620203",
+        "nombre": "Ñorquinco"
+      },
+      "nombre": "Ñorquincó",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.5563512021293,
+        "lon": -69.8693683306033
+      },
+      "departamento": {
+        "id": "62056",
+        "nombre": "Ñorquinco"
+      },
+      "id": "62056040",
+      "localidad_censal": {
+        "id": "62056040",
+        "nombre": "Ojos de Agua"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Ojos de Agua",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.4560796050807,
+        "lon": -70.6693326642513
+      },
+      "departamento": {
+        "id": "62056",
+        "nombre": "Ñorquinco"
+      },
+      "id": "62056010",
+      "localidad_censal": {
+        "id": "62056010",
+        "nombre": "Las Bayas"
+      },
+      "municipio": {
+        "id": "620224",
+        "nombre": "Pilcaniyeu"
+      },
+      "nombre": "Las Bayas",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "62056"
+    ]
+  },
+  "total": 5
+}

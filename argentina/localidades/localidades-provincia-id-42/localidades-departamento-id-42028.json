@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.5063202439509,
+        "lon": -63.8601089739274
+      },
+      "departamento": {
+        "id": "42028",
+        "nombre": "Catriló"
+      },
+      "id": "42028040",
+      "localidad_censal": {
+        "id": "42028040",
+        "nombre": "Uriburu"
+      },
+      "municipio": {
+        "id": "420378",
+        "nombre": "Uriburu"
+      },
+      "nombre": "Uriburu",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.4066777741887,
+        "lon": -63.4233370953164
+      },
+      "departamento": {
+        "id": "42028",
+        "nombre": "Catriló"
+      },
+      "id": "42028010",
+      "localidad_censal": {
+        "id": "42028010",
+        "nombre": "Catriló"
+      },
+      "municipio": {
+        "id": "420077",
+        "nombre": "Catriló"
+      },
+      "nombre": "Catriló",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.5083841391324,
+        "lon": -63.7431085297245
+      },
+      "departamento": {
+        "id": "42028",
+        "nombre": "Catriló"
+      },
+      "id": "42028020",
+      "localidad_censal": {
+        "id": "42028020",
+        "nombre": "La Gloria"
+      },
+      "municipio": {
+        "id": "420378",
+        "nombre": "Uriburu"
+      },
+      "nombre": "La Gloria",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.4664079334238,
+        "lon": -63.6236145467141
+      },
+      "departamento": {
+        "id": "42028",
+        "nombre": "Catriló"
+      },
+      "id": "42028030",
+      "localidad_censal": {
+        "id": "42028030",
+        "nombre": "Lonquimay"
+      },
+      "municipio": {
+        "id": "420217",
+        "nombre": "Lonquimay"
+      },
+      "nombre": "Lonquimay",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42028"
+    ]
+  },
+  "total": 4
+}

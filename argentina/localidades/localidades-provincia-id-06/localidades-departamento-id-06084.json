@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.6396606486406,
+        "lon": -59.3911291370342
+      },
+      "departamento": {
+        "id": "06084",
+        "nombre": "Benito Juárez"
+      },
+      "id": "06084010",
+      "localidad_censal": {
+        "id": "06084010",
+        "nombre": "Barker"
+      },
+      "municipio": {
+        "id": "060084",
+        "nombre": "Benito Juárez"
+      },
+      "nombre": "Barker",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.6742849744259,
+        "lon": -59.8048051840714
+      },
+      "departamento": {
+        "id": "06084",
+        "nombre": "Benito Juárez"
+      },
+      "id": "06084020",
+      "localidad_censal": {
+        "id": "06084020",
+        "nombre": "Benito Juárez"
+      },
+      "municipio": {
+        "id": "060084",
+        "nombre": "Benito Juárez"
+      },
+      "nombre": "Benito Juárez",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.5522803374568,
+        "lon": -59.6277666192398
+      },
+      "departamento": {
+        "id": "06084",
+        "nombre": "Benito Juárez"
+      },
+      "id": "06084030",
+      "localidad_censal": {
+        "id": "06084030",
+        "nombre": "López"
+      },
+      "municipio": {
+        "id": "060084",
+        "nombre": "Benito Juárez"
+      },
+      "nombre": "López",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.3642718551926,
+        "lon": -59.7602029255285
+      },
+      "departamento": {
+        "id": "06084",
+        "nombre": "Benito Juárez"
+      },
+      "id": "06084040",
+      "localidad_censal": {
+        "id": "06084040",
+        "nombre": "Tedín Uriburu"
+      },
+      "municipio": {
+        "id": "060084",
+        "nombre": "Benito Juárez"
+      },
+      "nombre": "Tedín Uriburu",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.6762254442231,
+        "lon": -59.396186471269
+      },
+      "departamento": {
+        "id": "06084",
+        "nombre": "Benito Juárez"
+      },
+      "id": "06084050",
+      "localidad_censal": {
+        "id": "06084050",
+        "nombre": "Villa Cacique"
+      },
+      "municipio": {
+        "id": "060084",
+        "nombre": "Benito Juárez"
+      },
+      "nombre": "Villa Cacique",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06084"
+    ]
+  },
+  "total": 5
+}

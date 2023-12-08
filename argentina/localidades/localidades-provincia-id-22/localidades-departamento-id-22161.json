@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.652364422085,
+        "lon": -59.8603507318939
+      },
+      "departamento": {
+        "id": "22161",
+        "nombre": "Tapenagá"
+      },
+      "id": "22161010",
+      "localidad_censal": {
+        "id": "22161010",
+        "nombre": "Charadai"
+      },
+      "municipio": {
+        "id": "220469",
+        "nombre": "Charadai"
+      },
+      "nombre": "Charadai",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5314293676606,
+        "lon": -59.5750500614589
+      },
+      "departamento": {
+        "id": "22161",
+        "nombre": "Tapenagá"
+      },
+      "id": "22161020",
+      "localidad_censal": {
+        "id": "22161020",
+        "nombre": "Cote Lai"
+      },
+      "municipio": {
+        "id": "220462",
+        "nombre": "Cote Lai"
+      },
+      "nombre": "Cote Lai",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5076395814698,
+        "lon": -60.1781987489044
+      },
+      "departamento": {
+        "id": "22161",
+        "nombre": "Tapenagá"
+      },
+      "id": "22161030",
+      "localidad_censal": {
+        "id": "22161030",
+        "nombre": "Haumonia"
+      },
+      "municipio": {
+        "id": "220469",
+        "nombre": "Charadai"
+      },
+      "nombre": "Haumonia",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.542386472465,
+        "lon": -59.9557830142463
+      },
+      "departamento": {
+        "id": "22161",
+        "nombre": "Tapenagá"
+      },
+      "id": "22161040",
+      "localidad_censal": {
+        "id": "22161040",
+        "nombre": "Horquilla"
+      },
+      "municipio": {
+        "id": "220469",
+        "nombre": "Charadai"
+      },
+      "nombre": "Horquilla",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.8714507883577,
+        "lon": -59.9368592217998
+      },
+      "departamento": {
+        "id": "22161",
+        "nombre": "Tapenagá"
+      },
+      "id": "22161050",
+      "localidad_censal": {
+        "id": "22161050",
+        "nombre": "La Sabana"
+      },
+      "municipio": {
+        "id": "220469",
+        "nombre": "Charadai"
+      },
+      "nombre": "La Sabana",
+      "provincia": {
+        "id": "22",
+        "nombre": "Chaco"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "22161"
+    ]
+  },
+  "total": 5
+}

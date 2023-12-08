@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.5372356876725,
+        "lon": -57.1713500894698
+      },
+      "departamento": {
+        "id": "18147",
+        "nombre": "San Martín"
+      },
+      "id": "18147010",
+      "localidad_censal": {
+        "id": "18147010",
+        "nombre": "Colonia Carlos Pellegrini"
+      },
+      "municipio": {
+        "id": "180357",
+        "nombre": "Colonia Carlos Pellegrini"
+      },
+      "nombre": "Colonia Carlos Pellegrini",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.367257277234,
+        "lon": -56.829729487149
+      },
+      "departamento": {
+        "id": "18147",
+        "nombre": "San Martín"
+      },
+      "id": "18147020",
+      "localidad_censal": {
+        "id": "18147020",
+        "nombre": "Guaviraví"
+      },
+      "municipio": {
+        "id": "180364",
+        "nombre": "Guaviraví"
+      },
+      "nombre": "Guaviraví",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.1786291267576,
+        "lon": -56.6382949898464
+      },
+      "departamento": {
+        "id": "18147",
+        "nombre": "San Martín"
+      },
+      "id": "18147030",
+      "localidad_censal": {
+        "id": "18147030",
+        "nombre": "La Cruz"
+      },
+      "municipio": {
+        "id": "180371",
+        "nombre": "La Cruz"
+      },
+      "nombre": "La Cruz",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.4708978724135,
+        "lon": -56.8150660492958
+      },
+      "departamento": {
+        "id": "18147",
+        "nombre": "San Martín"
+      },
+      "id": "18147040",
+      "localidad_censal": {
+        "id": "18147040",
+        "nombre": "Yapeyú"
+      },
+      "municipio": {
+        "id": "180378",
+        "nombre": "Yapeyú"
+      },
+      "nombre": "Yapeyú",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "18147"
+    ]
+  },
+  "total": 4
+}

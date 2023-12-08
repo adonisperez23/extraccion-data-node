@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5689511294388,
+        "lon": -54.6830406275671
+      },
+      "departamento": {
+        "id": "54119",
+        "nombre": "25 de Mayo"
+      },
+      "id": "54119010",
+      "localidad_censal": {
+        "id": "54119010",
+        "nombre": "Alba Posse"
+      },
+      "municipio": {
+        "id": "540511",
+        "nombre": "Alba Posse"
+      },
+      "nombre": "Alba Posse",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4394008738681,
+        "lon": -54.3537093089714
+      },
+      "departamento": {
+        "id": "54119",
+        "nombre": "25 de Mayo"
+      },
+      "id": "54119025",
+      "localidad_censal": {
+        "id": "54119025",
+        "nombre": "Alicia Baja"
+      },
+      "municipio": {
+        "id": "540518",
+        "nombre": "Colonia Aurora"
+      },
+      "nombre": "Alicia Baja",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4737245940895,
+        "lon": -54.5241087843641
+      },
+      "departamento": {
+        "id": "54119",
+        "nombre": "25 de Mayo"
+      },
+      "id": "54119030",
+      "localidad_censal": {
+        "id": "54119030",
+        "nombre": "Colonia Aurora"
+      },
+      "municipio": {
+        "id": "540518",
+        "nombre": "Colonia Aurora"
+      },
+      "nombre": "Colonia Aurora",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.4626545241134,
+        "lon": -54.7453180693087
+      },
+      "departamento": {
+        "id": "54119",
+        "nombre": "25 de Mayo"
+      },
+      "id": "54119040",
+      "localidad_censal": {
+        "id": "54119040",
+        "nombre": "San Francisco de Asís"
+      },
+      "municipio": {
+        "id": "540511",
+        "nombre": "Alba Posse"
+      },
+      "nombre": "San Francisco de Asís",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5203237893029,
+        "lon": -54.7279076953011
+      },
+      "departamento": {
+        "id": "54119",
+        "nombre": "25 de Mayo"
+      },
+      "id": "54119050",
+      "localidad_censal": {
+        "id": "54119050",
+        "nombre": "Santa Rita"
+      },
+      "municipio": {
+        "id": "540511",
+        "nombre": "Alba Posse"
+      },
+      "nombre": "Santa Rita",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3781787041061,
+        "lon": -54.7448775164087
+      },
+      "departamento": {
+        "id": "54119",
+        "nombre": "25 de Mayo"
+      },
+      "id": "54119060",
+      "localidad_censal": {
+        "id": "54119060",
+        "nombre": "25 de Mayo"
+      },
+      "municipio": {
+        "id": "540525",
+        "nombre": "25 de Mayo"
+      },
+      "nombre": "25 de Mayo",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.3778182174267,
+        "lon": -54.3520980104308
+      },
+      "departamento": {
+        "id": "54119",
+        "nombre": "25 de Mayo"
+      },
+      "id": "54119020",
+      "localidad_censal": {
+        "id": "54119020",
+        "nombre": "Alicia Alta"
+      },
+      "municipio": {
+        "id": "540518",
+        "nombre": "Colonia Aurora"
+      },
+      "nombre": "Alicia Alta",
+      "provincia": {
+        "id": "54",
+        "nombre": "Misiones"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "54119"
+    ]
+  },
+  "total": 7
+}

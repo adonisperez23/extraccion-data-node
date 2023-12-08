@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.1487535116917,
+        "lon": -60.6899614061315
+      },
+      "departamento": {
+        "id": "34007",
+        "nombre": "Bermejo"
+      },
+      "id": "34007003",
+      "localidad_censal": {
+        "id": "34007003",
+        "nombre": "Fortin Soledad"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Fortín Soledad",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.6729479317409,
+        "lon": -61.1636076031556
+      },
+      "departamento": {
+        "id": "34007",
+        "nombre": "Bermejo"
+      },
+      "id": "34007005",
+      "localidad_censal": {
+        "id": "34007005",
+        "nombre": "Guadalcazar"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Guadalcazar",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.4947961607208,
+        "lon": -61.5766535653916
+      },
+      "departamento": {
+        "id": "34007",
+        "nombre": "Bermejo"
+      },
+      "id": "34007007",
+      "localidad_censal": {
+        "id": "34007007",
+        "nombre": "La Rinconada"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "La Rinconada",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.2555246294578,
+        "lon": -61.2419851105011
+      },
+      "departamento": {
+        "id": "34007",
+        "nombre": "Bermejo"
+      },
+      "id": "34007010",
+      "localidad_censal": {
+        "id": "34007010",
+        "nombre": "Laguna Yema"
+      },
+      "municipio": {
+        "id": "340007",
+        "nombre": "Laguna Yema"
+      },
+      "nombre": "Laguna Yema",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.896946974131,
+        "lon": -60.7545468668737
+      },
+      "departamento": {
+        "id": "34007",
+        "nombre": "Bermejo"
+      },
+      "id": "34007015",
+      "localidad_censal": {
+        "id": "34007015",
+        "nombre": "Lamadrid"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Lamadrid",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.0988143488555,
+        "lon": -61.4619742949734
+      },
+      "departamento": {
+        "id": "34007",
+        "nombre": "Bermejo"
+      },
+      "id": "34007020",
+      "localidad_censal": {
+        "id": "34007020",
+        "nombre": "Los Chiriguanos"
+      },
+      "municipio": {
+        "id": "345007",
+        "nombre": "Los Chiriguanos"
+      },
+      "nombre": "Los Chiriguanos",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.5703219147932,
+        "lon": -61.7080600293042
+      },
+      "departamento": {
+        "id": "34007",
+        "nombre": "Bermejo"
+      },
+      "id": "34007030",
+      "localidad_censal": {
+        "id": "34007030",
+        "nombre": "Pozo De Maza"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Pozo de Maza",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.4071675710108,
+        "lon": -61.0262078233619
+      },
+      "departamento": {
+        "id": "34007",
+        "nombre": "Bermejo"
+      },
+      "id": "34007040",
+      "localidad_censal": {
+        "id": "34007040",
+        "nombre": "Pozo Del Mortero"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Pozo del Mortero",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.4995876432198,
+        "lon": -61.6484268281528
+      },
+      "departamento": {
+        "id": "34007",
+        "nombre": "Bermejo"
+      },
+      "id": "34007050",
+      "localidad_censal": {
+        "id": "34007050",
+        "nombre": "Vaca Perdida"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Vaca Perdida",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "34007"
+    ]
+  },
+  "total": 9
+}

@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.1544114783832,
+        "lon": -66.5467379434584
+      },
+      "departamento": {
+        "id": "46056",
+        "nombre": "Ángel Vicente Peñaloza"
+      },
+      "id": "46056010",
+      "localidad_censal": {
+        "id": "46056010",
+        "nombre": "Punta de los Llanos"
+      },
+      "municipio": {
+        "id": "460056",
+        "nombre": "Ángel Vicente Peñaloza"
+      },
+      "nombre": "Punta de los Llanos",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.506616608145,
+        "lon": -66.5289312749874
+      },
+      "departamento": {
+        "id": "46056",
+        "nombre": "Ángel Vicente Peñaloza"
+      },
+      "id": "46056020",
+      "localidad_censal": {
+        "id": "46056020",
+        "nombre": "Tama"
+      },
+      "municipio": {
+        "id": "460056",
+        "nombre": "Ángel Vicente Peñaloza"
+      },
+      "nombre": "Tama",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "46056"
+    ]
+  },
+  "total": 2
+}

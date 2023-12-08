@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1278250293367,
+        "lon": -68.4123885264046
+      },
+      "departamento": {
+        "id": "50035",
+        "nombre": "Junín"
+      },
+      "id": "50035010",
+      "localidad_censal": {
+        "id": "50035010",
+        "nombre": "Ingeniero Giagnoni"
+      },
+      "municipio": {
+        "id": "500035",
+        "nombre": "Junín"
+      },
+      "nombre": "Ingeniero Giagnoni",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1465311500985,
+        "lon": -68.4872690737808
+      },
+      "departamento": {
+        "id": "50035",
+        "nombre": "Junín"
+      },
+      "id": "50035020",
+      "localidad_censal": {
+        "id": "50035020",
+        "nombre": "Junín"
+      },
+      "municipio": {
+        "id": "500035",
+        "nombre": "Junín"
+      },
+      "nombre": "Junín",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -33.0989413692546,
+        "lon": -68.4804995237419
+      },
+      "departamento": {
+        "id": "50035",
+        "nombre": "Junín"
+      },
+      "id": "50035030",
+      "localidad_censal": {
+        "id": "50035030",
+        "nombre": "La Colonia"
+      },
+      "municipio": {
+        "id": "500098",
+        "nombre": "San Martín"
+      },
+      "nombre": "La Colonia",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -33.1767732947655,
+        "lon": -68.615165408116
+      },
+      "departamento": {
+        "id": "50035",
+        "nombre": "Junín"
+      },
+      "id": "50035050",
+      "localidad_censal": {
+        "id": "50035050",
+        "nombre": "Medrano"
+      },
+      "municipio": {
+        "id": "500035",
+        "nombre": "Junín"
+      },
+      "nombre": "Medrano",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.2009807649662,
+        "lon": -68.3774928550962
+      },
+      "departamento": {
+        "id": "50035",
+        "nombre": "Junín"
+      },
+      "id": "50035060",
+      "localidad_censal": {
+        "id": "50035060",
+        "nombre": "Phillips"
+      },
+      "municipio": {
+        "id": "500035",
+        "nombre": "Junín"
+      },
+      "nombre": "Phillips",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1204426186256,
+        "lon": -68.5951625639971
+      },
+      "departamento": {
+        "id": "50035",
+        "nombre": "Junín"
+      },
+      "id": "50035070",
+      "localidad_censal": {
+        "id": "50035070",
+        "nombre": "Rodríguez Peña"
+      },
+      "municipio": {
+        "id": "500035",
+        "nombre": "Junín"
+      },
+      "nombre": "Rodríguez Peña",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0996793533624,
+        "lon": -68.5688059684624
+      },
+      "departamento": {
+        "id": "50035",
+        "nombre": "Junín"
+      },
+      "id": "50035040",
+      "localidad_censal": {
+        "id": "50035040",
+        "nombre": "Los Barriales"
+      },
+      "municipio": {
+        "id": "500035",
+        "nombre": "Junín"
+      },
+      "nombre": "Los Barriales",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "50035"
+    ]
+  },
+  "total": 7
+}

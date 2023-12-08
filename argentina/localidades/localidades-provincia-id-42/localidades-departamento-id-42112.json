@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.3441736915125,
+        "lon": -67.6195574260177
+      },
+      "departamento": {
+        "id": "42112",
+        "nombre": "Puelén"
+      },
+      "id": "42112010",
+      "localidad_censal": {
+        "id": "42112010",
+        "nombre": "Puelén"
+      },
+      "municipio": {
+        "id": "420287",
+        "nombre": "Puelén"
+      },
+      "nombre": "Puelén",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.1545525945666,
+        "lon": -67.152497411086
+      },
+      "departamento": {
+        "id": "42112",
+        "nombre": "Puelén"
+      },
+      "id": "42112005",
+      "localidad_censal": {
+        "id": "42112005",
+        "nombre": "Casa de Piedra"
+      },
+      "municipio": {
+        "id": "422007",
+        "nombre": "Casa de Piedra"
+      },
+      "nombre": "Casa de Piedra",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.774908489351,
+        "lon": -67.7135403757323
+      },
+      "departamento": {
+        "id": "42112",
+        "nombre": "Puelén"
+      },
+      "id": "42112020",
+      "localidad_censal": {
+        "id": "42112020",
+        "nombre": "25 de Mayo"
+      },
+      "municipio": {
+        "id": "420385",
+        "nombre": "Colonia 25 de Mayo"
+      },
+      "nombre": "25 de Mayo",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42112"
+    ]
+  },
+  "total": 3
+}

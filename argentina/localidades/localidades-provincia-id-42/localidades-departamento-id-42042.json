@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.74294207858,
+        "lon": -66.4354280736932
+      },
+      "departamento": {
+        "id": "42042",
+        "nombre": "Curacó"
+      },
+      "id": "42042010",
+      "localidad_censal": {
+        "id": "42042010",
+        "nombre": "Gobernador Duval"
+      },
+      "municipio": {
+        "id": "420158",
+        "nombre": "Gobernador Duval"
+      },
+      "nombre": "Gobernador Duval",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.1463020880227,
+        "lon": -65.9140406261922
+      },
+      "departamento": {
+        "id": "42042",
+        "nombre": "Curacó"
+      },
+      "id": "42042020",
+      "localidad_censal": {
+        "id": "42042020",
+        "nombre": "Puelches"
+      },
+      "municipio": {
+        "id": "420280",
+        "nombre": "Puelches"
+      },
+      "nombre": "Puelches",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42042"
+    ]
+  },
+  "total": 2
+}

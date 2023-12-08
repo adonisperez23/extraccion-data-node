@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.7074221967841,
+        "lon": -58.3383398190948
+      },
+      "departamento": {
+        "id": "34021",
+        "nombre": "Laishi"
+      },
+      "id": "34021010",
+      "localidad_censal": {
+        "id": "34021010",
+        "nombre": "Banco Payaguá"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Banco Payaguá",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.6576895087904,
+        "lon": -58.6304602621182
+      },
+      "departamento": {
+        "id": "34021",
+        "nombre": "Laishi"
+      },
+      "id": "34021020",
+      "localidad_censal": {
+        "id": "34021020",
+        "nombre": "General Lucio Victorio Mansilla"
+      },
+      "municipio": {
+        "id": "340049",
+        "nombre": "General Lucio Victorio Mansilla"
+      },
+      "nombre": "General Lucio V. Mansilla",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.4898478096851,
+        "lon": -58.311618190832
+      },
+      "departamento": {
+        "id": "34021",
+        "nombre": "Laishi"
+      },
+      "id": "34021030",
+      "localidad_censal": {
+        "id": "34021030",
+        "nombre": "Herradura"
+      },
+      "municipio": {
+        "id": "340056",
+        "nombre": "Herradura"
+      },
+      "nombre": "Herradura",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.2438670352619,
+        "lon": -58.6296130522458
+      },
+      "departamento": {
+        "id": "34021",
+        "nombre": "Laishi"
+      },
+      "id": "34021040",
+      "localidad_censal": {
+        "id": "34021040",
+        "nombre": "San Francisco De Laishi"
+      },
+      "municipio": {
+        "id": "340063",
+        "nombre": "Misión San Francisco de Laishi"
+      },
+      "nombre": "San Francisco de Laishi",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.3981528253904,
+        "lon": -58.3573369544818
+      },
+      "departamento": {
+        "id": "34021",
+        "nombre": "Laishi"
+      },
+      "id": "34021050",
+      "localidad_censal": {
+        "id": "34021050",
+        "nombre": "Tatané"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Tatané",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.6219167917254,
+        "lon": -58.6697066766394
+      },
+      "departamento": {
+        "id": "34021",
+        "nombre": "Laishi"
+      },
+      "id": "34021060",
+      "localidad_censal": {
+        "id": "34021060",
+        "nombre": "Villa Escolar"
+      },
+      "municipio": {
+        "id": "340070",
+        "nombre": "Villa Escolar"
+      },
+      "nombre": "Villa Escolar",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "34021"
+    ]
+  },
+  "total": 6
+}

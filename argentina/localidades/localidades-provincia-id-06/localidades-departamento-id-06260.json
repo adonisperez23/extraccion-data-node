@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8570183979281,
+        "lon": -58.4979072193515
+      },
+      "departamento": {
+        "id": "06260",
+        "nombre": "Esteban Echeverría"
+      },
+      "id": "0626001001",
+      "localidad_censal": {
+        "id": "06260010",
+        "nombre": "Esteban Echeverría"
+      },
+      "municipio": {
+        "id": "060260",
+        "nombre": "Esteban Echeverría"
+      },
+      "nombre": "Canning",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8308533167404,
+        "lon": -58.4948836966085
+      },
+      "departamento": {
+        "id": "06260",
+        "nombre": "Esteban Echeverría"
+      },
+      "id": "0626001002",
+      "localidad_censal": {
+        "id": "06260010",
+        "nombre": "Esteban Echeverría"
+      },
+      "municipio": {
+        "id": "060260",
+        "nombre": "Esteban Echeverría"
+      },
+      "nombre": "El Jagüel",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.802641552529,
+        "lon": -58.4506754302196
+      },
+      "departamento": {
+        "id": "06260",
+        "nombre": "Esteban Echeverría"
+      },
+      "id": "0626001003",
+      "localidad_censal": {
+        "id": "06260010",
+        "nombre": "Esteban Echeverría"
+      },
+      "municipio": {
+        "id": "060260",
+        "nombre": "Esteban Echeverría"
+      },
+      "nombre": "Luis Guillón",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.8163557987773,
+        "lon": -58.4682642320418
+      },
+      "departamento": {
+        "id": "06260",
+        "nombre": "Esteban Echeverría"
+      },
+      "id": "0626001004",
+      "localidad_censal": {
+        "id": "06260010",
+        "nombre": "Esteban Echeverría"
+      },
+      "municipio": {
+        "id": "060260",
+        "nombre": "Esteban Echeverría"
+      },
+      "nombre": "Monte Grande",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.7627878709863,
+        "lon": -58.4875479930927
+      },
+      "departamento": {
+        "id": "06260",
+        "nombre": "Esteban Echeverría"
+      },
+      "id": "0626001005",
+      "localidad_censal": {
+        "id": "06260010",
+        "nombre": "Esteban Echeverría"
+      },
+      "municipio": {
+        "id": "060260",
+        "nombre": "Esteban Echeverría"
+      },
+      "nombre": "9 de Abril",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.8193895346083,
+        "lon": -58.4659118964401
+      },
+      "departamento": {
+        "id": "06260",
+        "nombre": "Esteban Echeverría"
+      },
+      "id": "06260010",
+      "localidad_censal": {
+        "id": "06260010",
+        "nombre": "Esteban Echeverría"
+      },
+      "municipio": {
+        "id": "060260",
+        "nombre": "Esteban Echeverría"
+      },
+      "nombre": "Esteban Echeverría",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06260"
+    ]
+  },
+  "total": 6
+}

@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0447614488897,
+        "lon": -63.9060666446281
+      },
+      "departamento": {
+        "id": "14056",
+        "nombre": "Juárez Celman"
+      },
+      "id": "14056120",
+      "localidad_censal": {
+        "id": "14056120",
+        "nombre": "Olaeta"
+      },
+      "municipio": {
+        "id": "140448",
+        "nombre": "Olaeta"
+      },
+      "nombre": "Olaeta",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.3535611422207,
+        "lon": -63.7177345908776
+      },
+      "departamento": {
+        "id": "14056",
+        "nombre": "Juárez Celman"
+      },
+      "id": "14056010",
+      "localidad_censal": {
+        "id": "14056010",
+        "nombre": "Alejandro Roca"
+      },
+      "municipio": {
+        "id": "140385",
+        "nombre": "Alejandro Roca"
+      },
+      "nombre": "Alejandro Roca",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.6341653860737,
+        "lon": -63.2256220940937
+      },
+      "departamento": {
+        "id": "14056",
+        "nombre": "Juárez Celman"
+      },
+      "id": "14056020",
+      "localidad_censal": {
+        "id": "14056020",
+        "nombre": "Assunta"
+      },
+      "municipio": {
+        "id": "142308",
+        "nombre": "Assunta"
+      },
+      "nombre": "Assunta",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0247715016078,
+        "lon": -63.6698958046962
+      },
+      "departamento": {
+        "id": "14056",
+        "nombre": "Juárez Celman"
+      },
+      "id": "14056030",
+      "localidad_censal": {
+        "id": "14056030",
+        "nombre": "Bengolea"
+      },
+      "municipio": {
+        "id": "140392",
+        "nombre": "Bengolea"
+      },
+      "nombre": "Bengolea",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.9131482495273,
+        "lon": -64.0225799574983
+      },
+      "departamento": {
+        "id": "14056",
+        "nombre": "Juárez Celman"
+      },
+      "id": "14056040",
+      "localidad_censal": {
+        "id": "14056040",
+        "nombre": "Carnerillo"
+      },
+      "municipio": {
+        "id": "140399",
+        "nombre": "Carnerillo"
+      },
+      "nombre": "Carnerillo",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.025379107614,
+        "lon": -64.0468745495955
+      },
+      "departamento": {
+        "id": "14056",
+        "nombre": "Juárez Celman"
+      },
+      "id": "14056050",
+      "localidad_censal": {
+        "id": "14056050",
+        "nombre": "Charras"
+      },
+      "municipio": {
+        "id": "140406",
+        "nombre": "Charras"
+      },
+      "nombre": "Charras",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.6661834475089,
+        "lon": -63.5393329155376
+      },
+      "departamento": {
+        "id": "14056",
+        "nombre": "Juárez Celman"
+      },
+      "id": "14056060",
+      "localidad_censal": {
+        "id": "14056060",
+        "nombre": "El Rastreador"
+      },
+      "municipio": {
+        "id": "142315",
+        "nombre": "El Rastreador"
+      },
+      "nombre": "El Rastreador",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.8145729537056,
+        "lon": -63.8749572232084
+      },
+      "departamento": {
+        "id": "14056",
+        "nombre": "Juárez Celman"
+      },
+      "id": "14056070",
+      "localidad_censal": {
+        "id": "14056070",
+        "nombre": "General Cabrera"
+      },
+      "municipio": {
+        "id": "140413",
+        "nombre": "General Cabrera"
+      },
+      "nombre": "General Cabrera",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.7563272558798,
+        "lon": -63.7891325487676
+      },
+      "departamento": {
+        "id": "14056",
+        "nombre": "Juárez Celman"
+      },
+      "id": "14056080",
+      "localidad_censal": {
+        "id": "14056080",
+        "nombre": "General Deheza"
+      },
+      "municipio": {
+        "id": "140420",
+        "nombre": "General Deheza"
+      },
+      "nombre": "General Deheza",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.6684902972492,
+        "lon": -63.6362592216111
+      },
+      "departamento": {
+        "id": "14056",
+        "nombre": "Juárez Celman"
+      },
+      "id": "14056090",
+      "localidad_censal": {
+        "id": "14056090",
+        "nombre": "Huanchilla"
+      },
+      "municipio": {
+        "id": "140427",
+        "nombre": "Huanchilla"
+      },
+      "nombre": "Huanchillas",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14056"
+    ]
+  },
+  "total": 17
+}

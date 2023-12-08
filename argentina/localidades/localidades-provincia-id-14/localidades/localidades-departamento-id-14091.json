@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.3143488708372,
+        "lon": -64.4615321569732
+      },
+      "departamento": {
+        "id": "14091",
+        "nombre": "Punilla"
+      },
+      "id": "1409102001",
+      "localidad_censal": {
+        "id": "14091020",
+        "nombre": "Bialet Massé"
+      },
+      "municipio": {
+        "id": "140665",
+        "nombre": "Bialet Massé"
+      },
+      "nombre": "Bialet Massé",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.3239065791151,
+        "lon": -64.4519728152522
+      },
+      "departamento": {
+        "id": "14091",
+        "nombre": "Punilla"
+      },
+      "id": "1409102002",
+      "localidad_censal": {
+        "id": "14091020",
+        "nombre": "Bialet Massé"
+      },
+      "municipio": {
+        "id": "140665",
+        "nombre": "Bialet Massé"
+      },
+      "nombre": "San Roque del Lago",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -31.3139053093993,
+        "lon": -64.4640350184571
+      },
+      "departamento": {
+        "id": "14091",
+        "nombre": "Punilla"
+      },
+      "id": "14091020",
+      "localidad_censal": {
+        "id": "14091020",
+        "nombre": "Bialet Massé"
+      },
+      "municipio": {
+        "id": "140665",
+        "nombre": "Bialet Massé"
+      },
+      "nombre": "Bialet Massé",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.3905569618048,
+        "lon": -64.5603055530165
+      },
+      "departamento": {
+        "id": "14091",
+        "nombre": "Punilla"
+      },
+      "id": "14091030",
+      "localidad_censal": {
+        "id": "14091030",
+        "nombre": "Cabalango"
+      },
+      "municipio": {
+        "id": "142469",
+        "nombre": "Cabalango"
+      },
+      "nombre": "Cabalango",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.8568691658209,
+        "lon": -64.5263505223853
+      },
+      "departamento": {
+        "id": "14091",
+        "nombre": "Punilla"
+      },
+      "id": "14091040",
+      "localidad_censal": {
+        "id": "14091040",
+        "nombre": "Capilla del Monte"
+      },
+      "municipio": {
+        "id": "140672",
+        "nombre": "Capilla del Monte"
+      },
+      "nombre": "Capilla del Monte",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -31.1528415546034,
+        "lon": -64.4734545635358
+      },
+      "departamento": {
+        "id": "14091",
+        "nombre": "Punilla"
+      },
+      "id": "14091050",
+      "localidad_censal": {
+        "id": "14091050",
+        "nombre": "Casa Grande"
+      },
+      "municipio": {
+        "id": "142476",
+        "nombre": "Casa Grande"
+      },
+      "nombre": "Casa Grande",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.7749790578338,
+        "lon": -64.5441693337156
+      },
+      "departamento": {
+        "id": "14091",
+        "nombre": "Punilla"
+      },
+      "id": "14091060",
+      "localidad_censal": {
+        "id": "14091060",
+        "nombre": "Charbonier"
+      },
+      "municipio": {
+        "id": "142483",
+        "nombre": "Charbonier"
+      },
+      "nombre": "Charbonier",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -31.2436682815352,
+        "lon": -64.465348549937
+      },
+      "departamento": {
+        "id": "14091",
+        "nombre": "Punilla"
+      },
+      "id": "14091070",
+      "localidad_censal": {
+        "id": "14091070",
+        "nombre": "Cosquín"
+      },
+      "municipio": {
+        "id": "140679",
+        "nombre": "Cosquín"
+      },
+      "nombre": "Cosquín",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -31.4803348492041,
+        "lon": -64.5786921787276
+      },
+      "departamento": {
+        "id": "14091",
+        "nombre": "Punilla"
+      },
+      "id": "14091080",
+      "localidad_censal": {
+        "id": "14091080",
+        "nombre": "Cuesta Blanca"
+      },
+      "municipio": {
+        "id": "142490",
+        "nombre": "Cuesta Blanca"
+      },
+      "nombre": "Cuesta Blanca",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -31.3820274335749,
+        "lon": -64.5314218605319
+      },
+      "departamento": {
+        "id": "14091",
+        "nombre": "Punilla"
+      },
+      "id": "14091090",
+      "localidad_censal": {
+        "id": "14091090",
+        "nombre": "Estancia Vieja"
+      },
+      "municipio": {
+        "id": "142497",
+        "nombre": "Estancia Vieja"
+      },
+      "nombre": "Estancia Vieja",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14091"
+    ]
+  },
+  "total": 31
+}

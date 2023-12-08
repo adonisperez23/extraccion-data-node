@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.1737408069739,
+        "lon": -63.9268908868775
+      },
+      "departamento": {
+        "id": "14175",
+        "nombre": "Tulumba"
+      },
+      "id": "14175020",
+      "localidad_censal": {
+        "id": "14175020",
+        "nombre": "Churqui Cañada"
+      },
+      "municipio": {
+        "id": "143204",
+        "nombre": "Churqui Cañada"
+      },
+      "nombre": "Churqui Cañada",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.1752381164085,
+        "lon": -63.8641311942201
+      },
+      "departamento": {
+        "id": "14175",
+        "nombre": "Tulumba"
+      },
+      "id": "14175030",
+      "localidad_censal": {
+        "id": "14175030",
+        "nombre": "El Rodeo"
+      },
+      "municipio": {
+        "id": "143211",
+        "nombre": "El Rodeo"
+      },
+      "nombre": "El Rodeo",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.7642651564792,
+        "lon": -64.5254290910865
+      },
+      "departamento": {
+        "id": "14175",
+        "nombre": "Tulumba"
+      },
+      "id": "14175040",
+      "localidad_censal": {
+        "id": "14175040",
+        "nombre": "El Tuscal"
+      },
+      "municipio": {
+        "id": "141554",
+        "nombre": "Lucio Victorio Mansilla"
+      },
+      "nombre": "El Tuscal",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.3817457917409,
+        "lon": -63.5969003555789
+      },
+      "departamento": {
+        "id": "14175",
+        "nombre": "Tulumba"
+      },
+      "id": "14175050",
+      "localidad_censal": {
+        "id": "14175050",
+        "nombre": "Las Arrias"
+      },
+      "municipio": {
+        "id": "141547",
+        "nombre": "Las Arrias"
+      },
+      "nombre": "Las Arrias",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.8045236047925,
+        "lon": -64.7114380532591
+      },
+      "departamento": {
+        "id": "14175",
+        "nombre": "Tulumba"
+      },
+      "id": "14175060",
+      "localidad_censal": {
+        "id": "14175060",
+        "nombre": "Lucio V Mansilla"
+      },
+      "municipio": {
+        "id": "141554",
+        "nombre": "Lucio Victorio Mansilla"
+      },
+      "nombre": "Lucio V. Mansilla",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.4314282701955,
+        "lon": -63.4739413675133
+      },
+      "departamento": {
+        "id": "14175",
+        "nombre": "Tulumba"
+      },
+      "id": "14175070",
+      "localidad_censal": {
+        "id": "14175070",
+        "nombre": "Rosario del Saladillo"
+      },
+      "municipio": {
+        "id": "143218",
+        "nombre": "Rosario del Saladillo"
+      },
+      "nombre": "Rosario del Saladillo",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.3562694053766,
+        "lon": -63.9502928149166
+      },
+      "departamento": {
+        "id": "14175",
+        "nombre": "Tulumba"
+      },
+      "id": "14175080",
+      "localidad_censal": {
+        "id": "14175080",
+        "nombre": "San Jose de la Dormida"
+      },
+      "municipio": {
+        "id": "141561",
+        "nombre": "San José de la Dormida"
+      },
+      "nombre": "San José de la Dormida",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.0069521059533,
+        "lon": -64.6239392677077
+      },
+      "departamento": {
+        "id": "14175",
+        "nombre": "Tulumba"
+      },
+      "id": "14175090",
+      "localidad_censal": {
+        "id": "14175090",
+        "nombre": "San Jose de las Salinas"
+      },
+      "municipio": {
+        "id": "141568",
+        "nombre": "San José de las Salinas"
+      },
+      "nombre": "San José de las Salinas",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.0910815199101,
+        "lon": -64.1549271383854
+      },
+      "departamento": {
+        "id": "14175",
+        "nombre": "Tulumba"
+      },
+      "id": "14175100",
+      "localidad_censal": {
+        "id": "14175100",
+        "nombre": "San Pedro Norte"
+      },
+      "municipio": {
+        "id": "141575",
+        "nombre": "San Pedro Norte"
+      },
+      "nombre": "San Pedro Norte",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.395354235017,
+        "lon": -64.1223089357636
+      },
+      "departamento": {
+        "id": "14175",
+        "nombre": "Tulumba"
+      },
+      "id": "14175110",
+      "localidad_censal": {
+        "id": "14175110",
+        "nombre": "Villa Tulumba"
+      },
+      "municipio": {
+        "id": "141582",
+        "nombre": "Villa Tulumba"
+      },
+      "nombre": "Villa Tulumba",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14175"
+    ]
+  },
+  "total": 10
+}

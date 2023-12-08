@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.628534187205,
+        "lon": -58.4636862466936
+      },
+      "departamento": {
+        "id": "02049",
+        "nombre": "Comuna 7"
+      },
+      "id": "0204901001",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022049",
+        "nombre": "Comuna 7"
+      },
+      "nombre": "Flores",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6352766974281,
+        "lon": -58.4390281148192
+      },
+      "departamento": {
+        "id": "02049",
+        "nombre": "Comuna 7"
+      },
+      "id": "0204901002",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022049",
+        "nombre": "Comuna 7"
+      },
+      "nombre": "Parque Chacabuco",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "02049"
+    ]
+  },
+  "total": 2
+}

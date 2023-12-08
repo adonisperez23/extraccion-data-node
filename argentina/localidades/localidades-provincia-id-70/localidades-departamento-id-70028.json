@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -31.5372590360945,
+        "lon": -68.5250172058885
+      },
+      "departamento": {
+        "id": "70028",
+        "nombre": "Capital"
+      },
+      "id": "70028010",
+      "localidad_censal": {
+        "id": "70028010",
+        "nombre": "San Juan"
+      },
+      "municipio": {
+        "id": "700028",
+        "nombre": "San Juan"
+      },
+      "nombre": "San Juan",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "70028"
+    ]
+  },
+  "total": 1
+}

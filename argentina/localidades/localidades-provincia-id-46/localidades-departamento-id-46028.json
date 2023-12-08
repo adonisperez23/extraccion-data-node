@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -29.5252228612318,
+        "lon": -68.5593095064451
+      },
+      "departamento": {
+        "id": "46028",
+        "nombre": "General Felipe Varela"
+      },
+      "id": "4602802001",
+      "localidad_censal": {
+        "id": "46028020",
+        "nombre": "Guandacol"
+      },
+      "municipio": {
+        "id": "460028",
+        "nombre": "General Felipe Varela"
+      },
+      "nombre": "Guandacol",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -29.561280919834,
+        "lon": -68.5330542580943
+      },
+      "departamento": {
+        "id": "46028",
+        "nombre": "General Felipe Varela"
+      },
+      "id": "4602802002",
+      "localidad_censal": {
+        "id": "46028020",
+        "nombre": "Guandacol"
+      },
+      "municipio": {
+        "id": "460028",
+        "nombre": "General Felipe Varela"
+      },
+      "nombre": "Santa Clara",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -29.3058404948469,
+        "lon": -68.2451399795853
+      },
+      "departamento": {
+        "id": "46028",
+        "nombre": "General Felipe Varela"
+      },
+      "id": "4602805001",
+      "localidad_censal": {
+        "id": "46028050",
+        "nombre": "Villa Unión"
+      },
+      "municipio": {
+        "id": "460028",
+        "nombre": "General Felipe Varela"
+      },
+      "nombre": "Banda Florida",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -29.3165749850402,
+        "lon": -68.2273993332811
+      },
+      "departamento": {
+        "id": "46028",
+        "nombre": "General Felipe Varela"
+      },
+      "id": "4602805002",
+      "localidad_censal": {
+        "id": "46028050",
+        "nombre": "Villa Unión"
+      },
+      "municipio": {
+        "id": "460028",
+        "nombre": "General Felipe Varela"
+      },
+      "nombre": "Villa Unión",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.5252401424327,
+        "lon": -68.5627461544727
+      },
+      "departamento": {
+        "id": "46028",
+        "nombre": "General Felipe Varela"
+      },
+      "id": "46028020",
+      "localidad_censal": {
+        "id": "46028020",
+        "nombre": "Guandacol"
+      },
+      "municipio": {
+        "id": "460028",
+        "nombre": "General Felipe Varela"
+      },
+      "nombre": "Guandacol",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.5415685884711,
+        "lon": -68.0999373344882
+      },
+      "departamento": {
+        "id": "46028",
+        "nombre": "General Felipe Varela"
+      },
+      "id": "46028040",
+      "localidad_censal": {
+        "id": "46028040",
+        "nombre": "Pagancillo"
+      },
+      "municipio": {
+        "id": "460028",
+        "nombre": "General Felipe Varela"
+      },
+      "nombre": "Pagancillo",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.4727869031183,
+        "lon": -67.7746060994257
+      },
+      "departamento": {
+        "id": "46028",
+        "nombre": "General Felipe Varela"
+      },
+      "id": "46028010",
+      "localidad_censal": {
+        "id": "46028010",
+        "nombre": "Aicuñá"
+      },
+      "municipio": {
+        "id": "460028",
+        "nombre": "General Felipe Varela"
+      },
+      "nombre": "Aicuñá",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.36930438632,
+        "lon": -68.235541798421
+      },
+      "departamento": {
+        "id": "46028",
+        "nombre": "General Felipe Varela"
+      },
+      "id": "46028030",
+      "localidad_censal": {
+        "id": "46028030",
+        "nombre": "Los Palacios"
+      },
+      "municipio": {
+        "id": "460028",
+        "nombre": "General Felipe Varela"
+      },
+      "nombre": "Los Palacios",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.3177553372321,
+        "lon": -68.2277483812154
+      },
+      "departamento": {
+        "id": "46028",
+        "nombre": "General Felipe Varela"
+      },
+      "id": "46028050",
+      "localidad_censal": {
+        "id": "46028050",
+        "nombre": "Villa Unión"
+      },
+      "municipio": {
+        "id": "460028",
+        "nombre": "General Felipe Varela"
+      },
+      "nombre": "Villa Unión",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "46028"
+    ]
+  },
+  "total": 9
+}

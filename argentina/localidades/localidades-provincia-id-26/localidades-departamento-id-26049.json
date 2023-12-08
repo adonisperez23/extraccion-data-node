@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.6200606678133,
+        "lon": -68.9043046186849
+      },
+      "departamento": {
+        "id": "26049",
+        "nombre": "Gastre"
+      },
+      "id": "26049010",
+      "localidad_censal": {
+        "id": "26049010",
+        "nombre": "Blancuntre"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Blancuntre",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.08976280226,
+        "lon": -68.5398676711389
+      },
+      "departamento": {
+        "id": "26049",
+        "nombre": "Gastre"
+      },
+      "id": "26049020",
+      "localidad_censal": {
+        "id": "26049020",
+        "nombre": "El Escorial"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Escorial",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.2631981301959,
+        "lon": -69.2221438043766
+      },
+      "departamento": {
+        "id": "26049",
+        "nombre": "Gastre"
+      },
+      "id": "26049030",
+      "localidad_censal": {
+        "id": "26049030",
+        "nombre": "Gastre"
+      },
+      "municipio": {
+        "id": "268035",
+        "nombre": "Gastre"
+      },
+      "nombre": "Gastre",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.742232747455,
+        "lon": -69.1490058696414
+      },
+      "departamento": {
+        "id": "26049",
+        "nombre": "Gastre"
+      },
+      "id": "26049040",
+      "localidad_censal": {
+        "id": "26049040",
+        "nombre": "Lagunita Salada"
+      },
+      "municipio": {
+        "id": "268042",
+        "nombre": "Lagunita Salada"
+      },
+      "nombre": "Lagunita Salada",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -42.7591451208137,
+        "lon": -68.8675523265047
+      },
+      "departamento": {
+        "id": "26049",
+        "nombre": "Gastre"
+      },
+      "id": "26049050",
+      "localidad_censal": {
+        "id": "26049050",
+        "nombre": "Yala Laubat"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Yala Laubat",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "26049"
+    ]
+  },
+  "total": 5
+}

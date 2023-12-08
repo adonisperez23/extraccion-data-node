@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.8634331665164,
+        "lon": -66.84952892945
+      },
+      "departamento": {
+        "id": "74014",
+        "nombre": "Belgrano"
+      },
+      "id": "74014010",
+      "localidad_censal": {
+        "id": "74014010",
+        "nombre": "La Calera"
+      },
+      "municipio": {
+        "id": "746014",
+        "nombre": "La Calera"
+      },
+      "nombre": "La Calera",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.0160211646613,
+        "lon": -66.2880566491104
+      },
+      "departamento": {
+        "id": "74014",
+        "nombre": "Belgrano"
+      },
+      "id": "74014030",
+      "localidad_censal": {
+        "id": "74014030",
+        "nombre": "Villa de la Quebrada"
+      },
+      "municipio": {
+        "id": "746028",
+        "nombre": "Villa de la Quebrada"
+      },
+      "nombre": "Villa de la Quebrada",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6659413909673,
+        "lon": -66.4507847001664
+      },
+      "departamento": {
+        "id": "74014",
+        "nombre": "Belgrano"
+      },
+      "id": "74014040",
+      "localidad_censal": {
+        "id": "74014040",
+        "nombre": "Los Manantiales"
+      },
+      "municipio": {
+        "id": "740035",
+        "nombre": "Los Manantiales"
+      },
+      "nombre": "Villa General Roca",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.9186674101875,
+        "lon": -66.3247145808181
+      },
+      "departamento": {
+        "id": "74014",
+        "nombre": "Belgrano"
+      },
+      "id": "74014020",
+      "localidad_censal": {
+        "id": "74014020",
+        "nombre": "Nogolí"
+      },
+      "municipio": {
+        "id": "746021",
+        "nombre": "Nogolí"
+      },
+      "nombre": "Nogolí",
+      "provincia": {
+        "id": "74",
+        "nombre": "San Luis"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "74014"
+    ]
+  },
+  "total": 4
+}

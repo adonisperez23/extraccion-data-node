@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -27.5057204577168,
+        "lon": -66.022880509377
+      },
+      "departamento": {
+        "id": "10021",
+        "nombre": "Andalgalá"
+      },
+      "id": "1002105001",
+      "localidad_censal": {
+        "id": "10021050",
+        "nombre": "El Alamito"
+      },
+      "municipio": {
+        "id": "100042",
+        "nombre": "Aconquija"
+      },
+      "nombre": "Buena Vista",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -27.494568045547,
+        "lon": -66.022448759223
+      },
+      "departamento": {
+        "id": "10021",
+        "nombre": "Andalgalá"
+      },
+      "id": "1002105002",
+      "localidad_censal": {
+        "id": "10021050",
+        "nombre": "El Alamito"
+      },
+      "municipio": {
+        "id": "100042",
+        "nombre": "Aconquija"
+      },
+      "nombre": "El Alamito",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -27.468098140927,
+        "lon": -66.0103165375161
+      },
+      "departamento": {
+        "id": "10021",
+        "nombre": "Andalgalá"
+      },
+      "id": "1002106001",
+      "localidad_censal": {
+        "id": "10021060",
+        "nombre": "El Lindero"
+      },
+      "municipio": {
+        "id": "100042",
+        "nombre": "Aconquija"
+      },
+      "nombre": "Aconquija",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -27.4279333673832,
+        "lon": -65.9950974433152
+      },
+      "departamento": {
+        "id": "10021",
+        "nombre": "Andalgalá"
+      },
+      "id": "1002106002",
+      "localidad_censal": {
+        "id": "10021060",
+        "nombre": "El Lindero"
+      },
+      "municipio": {
+        "id": "100042",
+        "nombre": "Aconquija"
+      },
+      "nombre": "Alto de las Juntas",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -27.4531060000311,
+        "lon": -66.0045034471386
+      },
+      "departamento": {
+        "id": "10021",
+        "nombre": "Andalgalá"
+      },
+      "id": "1002106003",
+      "localidad_censal": {
+        "id": "10021060",
+        "nombre": "El Lindero"
+      },
+      "municipio": {
+        "id": "100042",
+        "nombre": "Aconquija"
+      },
+      "nombre": "El Lindero",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -27.4441549431067,
+        "lon": -66.0022126478121
+      },
+      "departamento": {
+        "id": "10021",
+        "nombre": "Andalgalá"
+      },
+      "id": "1002106004",
+      "localidad_censal": {
+        "id": "10021060",
+        "nombre": "El Lindero"
+      },
+      "municipio": {
+        "id": "100042",
+        "nombre": "Aconquija"
+      },
+      "nombre": "La Mesada",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5349731302927,
+        "lon": -66.5053368941792
+      },
+      "departamento": {
+        "id": "10021",
+        "nombre": "Andalgalá"
+      },
+      "id": "10021010",
+      "localidad_censal": {
+        "id": "10021010",
+        "nombre": "Amanao"
+      },
+      "municipio": {
+        "id": "100049",
+        "nombre": "Andalgalá"
+      },
+      "nombre": "Amanao",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.583018934635,
+        "lon": -66.3154326848738
+      },
+      "departamento": {
+        "id": "10021",
+        "nombre": "Andalgalá"
+      },
+      "id": "10021020",
+      "localidad_censal": {
+        "id": "10021020",
+        "nombre": "Andalgalá"
+      },
+      "municipio": {
+        "id": "100049",
+        "nombre": "Andalgalá"
+      },
+      "nombre": "Andalgalá",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5478659002109,
+        "lon": -66.3268716116203
+      },
+      "departamento": {
+        "id": "10021",
+        "nombre": "Andalgalá"
+      },
+      "id": "10021030",
+      "localidad_censal": {
+        "id": "10021030",
+        "nombre": "Chaquiago"
+      },
+      "municipio": {
+        "id": "100049",
+        "nombre": "Andalgalá"
+      },
+      "nombre": "Chaquiago",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.5210492835342,
+        "lon": -66.3838425629266
+      },
+      "departamento": {
+        "id": "10021",
+        "nombre": "Andalgalá"
+      },
+      "id": "10021040",
+      "localidad_censal": {
+        "id": "10021040",
+        "nombre": "Choya"
+      },
+      "municipio": {
+        "id": "100049",
+        "nombre": "Andalgalá"
+      },
+      "nombre": "Choya",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "10021"
+    ]
+  },
+  "total": 13
+}

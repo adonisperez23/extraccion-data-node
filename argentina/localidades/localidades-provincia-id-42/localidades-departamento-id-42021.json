@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.5268380400041,
+        "lon": -64.0117028433626
+      },
+      "departamento": {
+        "id": "42021",
+        "nombre": "Capital"
+      },
+      "id": "42021010",
+      "localidad_censal": {
+        "id": "42021010",
+        "nombre": "Anguil"
+      },
+      "municipio": {
+        "id": "420028",
+        "nombre": "Anguil"
+      },
+      "nombre": "Anguil",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -36.6204011947334,
+        "lon": -64.2906300356297
+      },
+      "departamento": {
+        "id": "42021",
+        "nombre": "Capital"
+      },
+      "id": "42021020",
+      "localidad_censal": {
+        "id": "42021020",
+        "nombre": "Santa Rosa"
+      },
+      "municipio": {
+        "id": "420336",
+        "nombre": "Santa Rosa"
+      },
+      "nombre": "Santa Rosa",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42021"
+    ]
+  },
+  "total": 2
+}

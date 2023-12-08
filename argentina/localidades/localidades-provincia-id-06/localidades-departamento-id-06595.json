@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -36.8799103261886,
+        "lon": -60.1774961047109
+      },
+      "departamento": {
+        "id": "06595",
+        "nombre": "Olavarría"
+      },
+      "id": "0659506001",
+      "localidad_censal": {
+        "id": "06595060",
+        "nombre": "Espigas"
+      },
+      "municipio": {
+        "id": "060595",
+        "nombre": "Olavarría"
+      },
+      "nombre": "Colonia Hinojo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -36.8665431549573,
+        "lon": -60.161834312253
+      },
+      "departamento": {
+        "id": "06595",
+        "nombre": "Olavarría"
+      },
+      "id": "0659506002",
+      "localidad_censal": {
+        "id": "06595060",
+        "nombre": "Espigas"
+      },
+      "municipio": {
+        "id": "060595",
+        "nombre": "Olavarría"
+      },
+      "nombre": "Hinojo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -36.9327185415247,
+        "lon": -60.1613850642696
+      },
+      "departamento": {
+        "id": "06595",
+        "nombre": "Olavarría"
+      },
+      "id": "0659511001",
+      "localidad_censal": {
+        "id": "06595110",
+        "nombre": "Sierra Chica"
+      },
+      "municipio": {
+        "id": "060595",
+        "nombre": "Olavarría"
+      },
+      "nombre": "Sierras Bayas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -36.9438085052348,
+        "lon": -60.1583509841298
+      },
+      "departamento": {
+        "id": "06595",
+        "nombre": "Olavarría"
+      },
+      "id": "0659511002",
+      "localidad_censal": {
+        "id": "06595110",
+        "nombre": "Sierra Chica"
+      },
+      "municipio": {
+        "id": "060595",
+        "nombre": "Olavarría"
+      },
+      "nombre": "Villa Arrieta",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.6517884485627,
+        "lon": -61.0859063265243
+      },
+      "departamento": {
+        "id": "06595",
+        "nombre": "Olavarría"
+      },
+      "id": "06595080",
+      "localidad_censal": {
+        "id": "06595080",
+        "nombre": "Olavarrí­a"
+      },
+      "municipio": {
+        "id": "060595",
+        "nombre": "Olavarría"
+      },
+      "nombre": "Recalde",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.9487547831548,
+        "lon": -60.1114443173938
+      },
+      "departamento": {
+        "id": "06595",
+        "nombre": "Olavarría"
+      },
+      "id": "06595040",
+      "localidad_censal": {
+        "id": "06595040",
+        "nombre": "Colonia Nievas"
+      },
+      "municipio": {
+        "id": "060595",
+        "nombre": "Olavarría"
+      },
+      "nombre": "Colonia San Miguel",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.4129582824455,
+        "lon": -60.6731489571588
+      },
+      "departamento": {
+        "id": "06595",
+        "nombre": "Olavarría"
+      },
+      "id": "06595050",
+      "localidad_censal": {
+        "id": "06595050",
+        "nombre": "Colonia San Miguel"
+      },
+      "municipio": {
+        "id": "060595",
+        "nombre": "Olavarría"
+      },
+      "nombre": "Espigas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.865843179941,
+        "lon": -60.1602819975195
+      },
+      "departamento": {
+        "id": "06595",
+        "nombre": "Olavarría"
+      },
+      "id": "06595060",
+      "localidad_censal": {
+        "id": "06595060",
+        "nombre": "Espigas"
+      },
+      "municipio": {
+        "id": "060595",
+        "nombre": "Olavarría"
+      },
+      "nombre": "Hinojo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.8938423224315,
+        "lon": -60.3231937143701
+      },
+      "departamento": {
+        "id": "06595",
+        "nombre": "Olavarría"
+      },
+      "id": "06595070",
+      "localidad_censal": {
+        "id": "06595070",
+        "nombre": "Hinojo"
+      },
+      "municipio": {
+        "id": "060595",
+        "nombre": "Olavarría"
+      },
+      "nombre": "Olavarría",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.1256598041934,
+        "lon": -60.4164510128605
+      },
+      "departamento": {
+        "id": "06595",
+        "nombre": "Olavarría"
+      },
+      "id": "06595090",
+      "localidad_censal": {
+        "id": "06595090",
+        "nombre": "Recalde"
+      },
+      "municipio": {
+        "id": "060595",
+        "nombre": "Olavarría"
+      },
+      "nombre": "Santa Luisa",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06595"
+    ]
+  },
+  "total": 14
+}

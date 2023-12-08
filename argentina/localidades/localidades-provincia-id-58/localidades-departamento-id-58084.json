@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.8710797021714,
+        "lon": -71.0550582533005
+      },
+      "departamento": {
+        "id": "58084",
+        "nombre": "Ñorquín"
+      },
+      "id": "58084010",
+      "localidad_censal": {
+        "id": "58084010",
+        "nombre": "Caviahue"
+      },
+      "municipio": {
+        "id": "580168",
+        "nombre": "Caviahue - Copahue"
+      },
+      "nombre": "Caviahue",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.8188587997186,
+        "lon": -71.0987785990263
+      },
+      "departamento": {
+        "id": "58084",
+        "nombre": "Ñorquín"
+      },
+      "id": "58084020",
+      "localidad_censal": {
+        "id": "58084020",
+        "nombre": "Copahue"
+      },
+      "municipio": {
+        "id": "580168",
+        "nombre": "Caviahue - Copahue"
+      },
+      "nombre": "Copahue",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.4414810363417,
+        "lon": -70.6454455897046
+      },
+      "departamento": {
+        "id": "58084",
+        "nombre": "Ñorquín"
+      },
+      "id": "58084030",
+      "localidad_censal": {
+        "id": "58084030",
+        "nombre": "El Cholar"
+      },
+      "municipio": {
+        "id": "580175",
+        "nombre": "El Cholar"
+      },
+      "nombre": "El Cholar",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.6449076961031,
+        "lon": -70.5810247987594
+      },
+      "departamento": {
+        "id": "58084",
+        "nombre": "Ñorquín"
+      },
+      "id": "58084040",
+      "localidad_censal": {
+        "id": "58084040",
+        "nombre": "El Huecú"
+      },
+      "municipio": {
+        "id": "580182",
+        "nombre": "El Huecú"
+      },
+      "nombre": "El Huecú",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.517446617969,
+        "lon": -70.2487572746331
+      },
+      "departamento": {
+        "id": "58084",
+        "nombre": "Ñorquín"
+      },
+      "id": "58084050",
+      "localidad_censal": {
+        "id": "58084050",
+        "nombre": "Taquimilán"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Taquimilán",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "58084"
+    ]
+  },
+  "total": 5
+}

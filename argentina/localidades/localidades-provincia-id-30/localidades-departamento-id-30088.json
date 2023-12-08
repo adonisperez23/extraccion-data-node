@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.5233761986049,
+        "lon": -58.4058045394824
+      },
+      "departamento": {
+        "id": "30088",
+        "nombre": "San Salvador"
+      },
+      "id": "30088010",
+      "localidad_censal": {
+        "id": "30088010",
+        "nombre": "General Campos"
+      },
+      "municipio": {
+        "id": "300378",
+        "nombre": "General Campos"
+      },
+      "nombre": "General Campos",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.6249608786519,
+        "lon": -58.5050320059527
+      },
+      "departamento": {
+        "id": "30088",
+        "nombre": "San Salvador"
+      },
+      "id": "30088020",
+      "localidad_censal": {
+        "id": "30088020",
+        "nombre": "San Salvador"
+      },
+      "municipio": {
+        "id": "300385",
+        "nombre": "San Salvador"
+      },
+      "nombre": "San Salvador",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "30088"
+    ]
+  },
+  "total": 2
+}

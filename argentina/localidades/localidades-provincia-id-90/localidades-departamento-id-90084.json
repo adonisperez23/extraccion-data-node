@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -26.8303887617109,
+        "lon": -65.2037797033494
+      },
+      "departamento": {
+        "id": "90084",
+        "nombre": "Capital"
+      },
+      "id": "90084010",
+      "localidad_censal": {
+        "id": "90084010",
+        "nombre": "San Miguel de Tucumán"
+      },
+      "municipio": {
+        "id": "900014",
+        "nombre": "San Miguel de Tucumán"
+      },
+      "nombre": "San Miguel de Tucumán",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "90084"
+    ]
+  },
+  "total": 1
+}

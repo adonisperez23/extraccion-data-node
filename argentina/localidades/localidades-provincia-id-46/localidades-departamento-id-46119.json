@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.5835065474117,
+        "lon": -67.1832709934048
+      },
+      "departamento": {
+        "id": "46119",
+        "nombre": "San Blas de Los Sauces"
+      },
+      "id": "4611901002",
+      "localidad_censal": {
+        "id": "46119010",
+        "nombre": "Salicas - San Blas"
+      },
+      "municipio": {
+        "id": "460119",
+        "nombre": "San Blas de Los Sauces"
+      },
+      "nombre": "Amuschina",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.50047509401,
+        "lon": -67.1351452318637
+      },
+      "departamento": {
+        "id": "46119",
+        "nombre": "San Blas de Los Sauces"
+      },
+      "id": "4611901003",
+      "localidad_censal": {
+        "id": "46119010",
+        "nombre": "Salicas - San Blas"
+      },
+      "municipio": {
+        "id": "460119",
+        "nombre": "San Blas de Los Sauces"
+      },
+      "nombre": "Andolucas",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.3515336711124,
+        "lon": -67.0722307328254
+      },
+      "departamento": {
+        "id": "46119",
+        "nombre": "San Blas de Los Sauces"
+      },
+      "id": "4611901004",
+      "localidad_censal": {
+        "id": "46119010",
+        "nombre": "Salicas - San Blas"
+      },
+      "municipio": {
+        "id": "460119",
+        "nombre": "San Blas de Los Sauces"
+      },
+      "nombre": "Chaupihuasi",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.4417989310154,
+        "lon": -67.119230714955
+      },
+      "departamento": {
+        "id": "46119",
+        "nombre": "San Blas de Los Sauces"
+      },
+      "id": "4611901006",
+      "localidad_censal": {
+        "id": "46119010",
+        "nombre": "Salicas - San Blas"
+      },
+      "municipio": {
+        "id": "460119",
+        "nombre": "San Blas de Los Sauces"
+      },
+      "nombre": "Las Talas",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.4256646545494,
+        "lon": -67.1105646770999
+      },
+      "departamento": {
+        "id": "46119",
+        "nombre": "San Blas de Los Sauces"
+      },
+      "id": "4611901007",
+      "localidad_censal": {
+        "id": "46119010",
+        "nombre": "Salicas - San Blas"
+      },
+      "municipio": {
+        "id": "460119",
+        "nombre": "San Blas de Los Sauces"
+      },
+      "nombre": "Los Robles",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.3759375312544,
+        "lon": -67.0706516745597
+      },
+      "departamento": {
+        "id": "46119",
+        "nombre": "San Blas de Los Sauces"
+      },
+      "id": "4611901008",
+      "localidad_censal": {
+        "id": "46119010",
+        "nombre": "Salicas - San Blas"
+      },
+      "municipio": {
+        "id": "460119",
+        "nombre": "San Blas de Los Sauces"
+      },
+      "nombre": "Salicas",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.4806277192518,
+        "lon": -67.1284401544396
+      },
+      "departamento": {
+        "id": "46119",
+        "nombre": "San Blas de Los Sauces"
+      },
+      "id": "4611901010",
+      "localidad_censal": {
+        "id": "46119010",
+        "nombre": "Salicas - San Blas"
+      },
+      "municipio": {
+        "id": "460119",
+        "nombre": "San Blas de Los Sauces"
+      },
+      "nombre": "Shaqui",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.5399692310612,
+        "lon": -67.1569046720953
+      },
+      "departamento": {
+        "id": "46119",
+        "nombre": "San Blas de Los Sauces"
+      },
+      "id": "4611901011",
+      "localidad_censal": {
+        "id": "46119010",
+        "nombre": "Salicas - San Blas"
+      },
+      "municipio": {
+        "id": "460119",
+        "nombre": "San Blas de Los Sauces"
+      },
+      "nombre": "Suriyaco",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.578972848381,
+        "lon": -67.1973939987239
+      },
+      "departamento": {
+        "id": "46119",
+        "nombre": "San Blas de Los Sauces"
+      },
+      "id": "4611901012",
+      "localidad_censal": {
+        "id": "46119010",
+        "nombre": "Salicas - San Blas"
+      },
+      "municipio": {
+        "id": "460119",
+        "nombre": "San Blas de Los Sauces"
+      },
+      "nombre": "Tuyubil",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -28.321596561294,
+        "lon": -67.053908677707
+      },
+      "departamento": {
+        "id": "46119",
+        "nombre": "San Blas de Los Sauces"
+      },
+      "id": "4611901001",
+      "localidad_censal": {
+        "id": "46119010",
+        "nombre": "Salicas - San Blas"
+      },
+      "municipio": {
+        "id": "460119",
+        "nombre": "San Blas de Los Sauces"
+      },
+      "nombre": "Alpasinche",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "46119"
+    ]
+  },
+  "total": 13
+}

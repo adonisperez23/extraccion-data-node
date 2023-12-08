@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6375239276335,
+        "lon": -58.3743917244648
+      },
+      "departamento": {
+        "id": "02028",
+        "nombre": "Comuna 4"
+      },
+      "id": "0202801001",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022028",
+        "nombre": "Comuna 4"
+      },
+      "nombre": "Barracas",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6321267225235,
+        "lon": -58.3607704533768
+      },
+      "departamento": {
+        "id": "02028",
+        "nombre": "Comuna 4"
+      },
+      "id": "0202801002",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022028",
+        "nombre": "Comuna 4"
+      },
+      "nombre": "Boca",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6520569336241,
+        "lon": -58.4159984938343
+      },
+      "departamento": {
+        "id": "02028",
+        "nombre": "Comuna 4"
+      },
+      "id": "0202801003",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022028",
+        "nombre": "Comuna 4"
+      },
+      "nombre": "Nueva Pompeya",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6372816301755,
+        "lon": -58.4053957329985
+      },
+      "departamento": {
+        "id": "02028",
+        "nombre": "Comuna 4"
+      },
+      "id": "0202801004",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022028",
+        "nombre": "Comuna 4"
+      },
+      "nombre": "Parque Patricios",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "02028"
+    ]
+  },
+  "total": 4
+}

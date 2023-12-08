@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.3610018403182,
+        "lon": -58.1511580633093
+      },
+      "departamento": {
+        "id": "06119",
+        "nombre": "Brandsen"
+      },
+      "id": "06119010",
+      "localidad_censal": {
+        "id": "06119010",
+        "nombre": "Altamirano"
+      },
+      "municipio": {
+        "id": "060119",
+        "nombre": "Brandsen"
+      },
+      "nombre": "Altamirano",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0011083052829,
+        "lon": -58.1305479447381
+      },
+      "departamento": {
+        "id": "06119",
+        "nombre": "Brandsen"
+      },
+      "id": "06119020",
+      "localidad_censal": {
+        "id": "06119020",
+        "nombre": "Barrio Las Golondrinas"
+      },
+      "municipio": {
+        "id": "060119",
+        "nombre": "Brandsen"
+      },
+      "nombre": "Barrio Las Golondrinas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.1037753797213,
+        "lon": -58.1848686650614
+      },
+      "departamento": {
+        "id": "06119",
+        "nombre": "Brandsen"
+      },
+      "id": "06119030",
+      "localidad_censal": {
+        "id": "06119030",
+        "nombre": "Barrio Los Bosquecitos"
+      },
+      "municipio": {
+        "id": "060119",
+        "nombre": "Brandsen"
+      },
+      "nombre": "Barrio Los Bosquecitos",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0985808592273,
+        "lon": -58.2772547735395
+      },
+      "departamento": {
+        "id": "06119",
+        "nombre": "Brandsen"
+      },
+      "id": "06119040",
+      "localidad_censal": {
+        "id": "06119040",
+        "nombre": "Barrio Parque Las Acacias"
+      },
+      "municipio": {
+        "id": "060119",
+        "nombre": "Brandsen"
+      },
+      "nombre": "Barrio Parque Las Acacias",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.1679594138696,
+        "lon": -58.2373302396352
+      },
+      "departamento": {
+        "id": "06119",
+        "nombre": "Brandsen"
+      },
+      "id": "06119050",
+      "localidad_censal": {
+        "id": "06119050",
+        "nombre": "Coronel Brandsen"
+      },
+      "municipio": {
+        "id": "060119",
+        "nombre": "Brandsen"
+      },
+      "nombre": "Coronel Brandsen",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0675425417395,
+        "lon": -58.1660395052276
+      },
+      "departamento": {
+        "id": "06119",
+        "nombre": "Brandsen"
+      },
+      "id": "06119060",
+      "localidad_censal": {
+        "id": "06119060",
+        "nombre": "Gómez"
+      },
+      "municipio": {
+        "id": "060119",
+        "nombre": "Brandsen"
+      },
+      "nombre": "Gómez",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.2777031071624,
+        "lon": -58.1981445641191
+      },
+      "departamento": {
+        "id": "06119",
+        "nombre": "Brandsen"
+      },
+      "id": "06119070",
+      "localidad_censal": {
+        "id": "06119070",
+        "nombre": "Jeppener"
+      },
+      "municipio": {
+        "id": "060119",
+        "nombre": "Brandsen"
+      },
+      "nombre": "Jeppener",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.1844808273675,
+        "lon": -57.9490753520326
+      },
+      "departamento": {
+        "id": "06119",
+        "nombre": "Brandsen"
+      },
+      "id": "06119080",
+      "localidad_censal": {
+        "id": "06119080",
+        "nombre": "Oliden"
+      },
+      "municipio": {
+        "id": "060119",
+        "nombre": "Brandsen"
+      },
+      "nombre": "Oliden",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.2194021738484,
+        "lon": -58.2809920373285
+      },
+      "departamento": {
+        "id": "06119",
+        "nombre": "Brandsen"
+      },
+      "id": "06119090",
+      "localidad_censal": {
+        "id": "06119090",
+        "nombre": "Samborombón"
+      },
+      "municipio": {
+        "id": "060119",
+        "nombre": "Brandsen"
+      },
+      "nombre": "Samborombón",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06119"
+    ]
+  },
+  "total": 9
+}

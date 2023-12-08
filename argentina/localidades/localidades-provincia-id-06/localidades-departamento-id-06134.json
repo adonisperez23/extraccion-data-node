@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.9776113866355,
+        "lon": -58.674550927133
+      },
+      "departamento": {
+        "id": "06134",
+        "nombre": "Cañuelas"
+      },
+      "id": "06134010",
+      "localidad_censal": {
+        "id": "06134010",
+        "nombre": "Alejandro Petión"
+      },
+      "municipio": {
+        "id": "060134",
+        "nombre": "Cañuelas"
+      },
+      "nombre": "Alejandro Petión",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0714515385233,
+        "lon": -58.8653096492075
+      },
+      "departamento": {
+        "id": "06134",
+        "nombre": "Cañuelas"
+      },
+      "id": "06134020",
+      "localidad_censal": {
+        "id": "06134020",
+        "nombre": "Barrio El Taladro"
+      },
+      "municipio": {
+        "id": "060134",
+        "nombre": "Cañuelas"
+      },
+      "nombre": "Barrio El Taladro",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0538388296572,
+        "lon": -58.7619911867149
+      },
+      "departamento": {
+        "id": "06134",
+        "nombre": "Cañuelas"
+      },
+      "id": "06134030",
+      "localidad_censal": {
+        "id": "06134030",
+        "nombre": "Barrio San Esteban - Barrio Los Pozos"
+      },
+      "municipio": {
+        "id": "060134",
+        "nombre": "Cañuelas"
+      },
+      "nombre": "Cañuelas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.3026726729038,
+        "lon": -58.5959794169719
+      },
+      "departamento": {
+        "id": "06134",
+        "nombre": "Cañuelas"
+      },
+      "id": "06134040",
+      "localidad_censal": {
+        "id": "06134040",
+        "nombre": "Cañuelas"
+      },
+      "municipio": {
+        "id": "060134",
+        "nombre": "Cañuelas"
+      },
+      "nombre": "Gobernador Udaondo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.9608453849923,
+        "lon": -58.7287624590067
+      },
+      "departamento": {
+        "id": "06134",
+        "nombre": "Cañuelas"
+      },
+      "id": "06134060",
+      "localidad_censal": {
+        "id": "06134060",
+        "nombre": "Gobernador Udaondo"
+      },
+      "municipio": {
+        "id": "060134",
+        "nombre": "Cañuelas"
+      },
+      "nombre": "Santa Rosa",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.123830510974,
+        "lon": -58.8920364419093
+      },
+      "departamento": {
+        "id": "06134",
+        "nombre": "Cañuelas"
+      },
+      "id": "06134070",
+      "localidad_censal": {
+        "id": "06134070",
+        "nombre": "Máximo Paz"
+      },
+      "municipio": {
+        "id": "060134",
+        "nombre": "Cañuelas"
+      },
+      "nombre": "Uribelarrea",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.9655362562693,
+        "lon": -58.6518407731212
+      },
+      "departamento": {
+        "id": "06134",
+        "nombre": "Cañuelas"
+      },
+      "id": "06134080",
+      "localidad_censal": {
+        "id": "06134080",
+        "nombre": "Uribelarrea"
+      },
+      "municipio": {
+        "id": "060134",
+        "nombre": "Cañuelas"
+      },
+      "nombre": "Vicente Casares",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06134"
+    ]
+  },
+  "total": 7
+}

@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -33.4025386626013,
+        "lon": -67.1554997063826
+      },
+      "departamento": {
+        "id": "50042",
+        "nombre": "La Paz"
+      },
+      "id": "50042010",
+      "localidad_censal": {
+        "id": "50042010",
+        "nombre": "Desaguadero"
+      },
+      "municipio": {
+        "id": "500042",
+        "nombre": "La Paz"
+      },
+      "nombre": "Desaguadero",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.4651404592254,
+        "lon": -67.5938749253002
+      },
+      "departamento": {
+        "id": "50042",
+        "nombre": "La Paz"
+      },
+      "id": "50042030",
+      "localidad_censal": {
+        "id": "50042030",
+        "nombre": "Villa Antigua"
+      },
+      "municipio": {
+        "id": "500042",
+        "nombre": "La Paz"
+      },
+      "nombre": "Villa Antigua",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.4616956373988,
+        "lon": -67.5522768122258
+      },
+      "departamento": {
+        "id": "50042",
+        "nombre": "La Paz"
+      },
+      "id": "50042020",
+      "localidad_censal": {
+        "id": "50042020",
+        "nombre": "La Paz"
+      },
+      "municipio": {
+        "id": "500042",
+        "nombre": "La Paz"
+      },
+      "nombre": "La Paz",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "50042"
+    ]
+  },
+  "total": 3
+}

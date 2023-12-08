@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6506041192994,
+        "lon": -58.6717219575446
+      },
+      "departamento": {
+        "id": "06410",
+        "nombre": "Ituzaingó"
+      },
+      "id": "0641001001",
+      "localidad_censal": {
+        "id": "06410010",
+        "nombre": "Ituzaingo"
+      },
+      "municipio": {
+        "id": "060410",
+        "nombre": "Ituzaingó"
+      },
+      "nombre": "Ituzaingó Centro",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6637659933335,
+        "lon": -58.6654781913185
+      },
+      "departamento": {
+        "id": "06410",
+        "nombre": "Ituzaingó"
+      },
+      "id": "0641001002",
+      "localidad_censal": {
+        "id": "06410010",
+        "nombre": "Ituzaingo"
+      },
+      "municipio": {
+        "id": "060410",
+        "nombre": "Ituzaingó"
+      },
+      "nombre": "Ituzaingó Sur",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6183464048832,
+        "lon": -58.6967237126462
+      },
+      "departamento": {
+        "id": "06410",
+        "nombre": "Ituzaingó"
+      },
+      "id": "0641001003",
+      "localidad_censal": {
+        "id": "06410010",
+        "nombre": "Ituzaingo"
+      },
+      "municipio": {
+        "id": "060410",
+        "nombre": "Ituzaingó"
+      },
+      "nombre": "Villa Gobernador Udadondo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -34.6603884942507,
+        "lon": -58.6661675132925
+      },
+      "departamento": {
+        "id": "06410",
+        "nombre": "Ituzaingó"
+      },
+      "id": "06410010",
+      "localidad_censal": {
+        "id": "06410010",
+        "nombre": "Ituzaingo"
+      },
+      "municipio": {
+        "id": "060410",
+        "nombre": "Ituzaingó"
+      },
+      "nombre": "Ituzaingó",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06410"
+    ]
+  },
+  "total": 4
+}

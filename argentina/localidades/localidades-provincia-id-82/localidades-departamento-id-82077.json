@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6674118377273,
+        "lon": -61.5280166384228
+      },
+      "departamento": {
+        "id": "82077",
+        "nombre": "9 de Julio"
+      },
+      "id": "82077065",
+      "localidad_censal": {
+        "id": "82077065",
+        "nombre": "San Bernardo"
+      },
+      "municipio": {
+        "id": "823330",
+        "nombre": "San Bernardo"
+      },
+      "nombre": "San Bernardo",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.7724217463121,
+        "lon": -61.489981972125
+      },
+      "departamento": {
+        "id": "82077",
+        "nombre": "9 de Julio"
+      },
+      "id": "82077010",
+      "localidad_censal": {
+        "id": "82077010",
+        "nombre": "Esteban Rams"
+      },
+      "municipio": {
+        "id": "823281",
+        "nombre": "Esteban Rams"
+      },
+      "nombre": "Esteban Rams",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.0223897190306,
+        "lon": -61.1865821797417
+      },
+      "departamento": {
+        "id": "82077",
+        "nombre": "9 de Julio"
+      },
+      "id": "82077020",
+      "localidad_censal": {
+        "id": "82077020",
+        "nombre": "Gato Colorado"
+      },
+      "municipio": {
+        "id": "823288",
+        "nombre": "Gato Colorado"
+      },
+      "nombre": "Gato Colorado",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.2274527986276,
+        "lon": -61.5278160176383
+      },
+      "departamento": {
+        "id": "82077",
+        "nombre": "9 de Julio"
+      },
+      "id": "82077030",
+      "localidad_censal": {
+        "id": "82077030",
+        "nombre": "Gregoria Pérez de Denis"
+      },
+      "municipio": {
+        "id": "823295",
+        "nombre": "Gregoria Pérez de Denis"
+      },
+      "nombre": "Gregoria Pérez de Denis",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6229612219036,
+        "lon": -61.6267634944818
+      },
+      "departamento": {
+        "id": "82077",
+        "nombre": "9 de Julio"
+      },
+      "id": "82077090",
+      "localidad_censal": {
+        "id": "82077090",
+        "nombre": "Villa Minetti"
+      },
+      "municipio": {
+        "id": "823344",
+        "nombre": "Villa Minetti"
+      },
+      "nombre": "Villa Minetti",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.5037555445199,
+        "lon": -61.6961473349937
+      },
+      "departamento": {
+        "id": "82077",
+        "nombre": "9 de Julio"
+      },
+      "id": "82077040",
+      "localidad_censal": {
+        "id": "82077040",
+        "nombre": "Logroño"
+      },
+      "municipio": {
+        "id": "823309",
+        "nombre": "Logroño"
+      },
+      "nombre": "Logroño",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.3138236506456,
+        "lon": -61.5487543282334
+      },
+      "departamento": {
+        "id": "82077",
+        "nombre": "9 de Julio"
+      },
+      "id": "82077070",
+      "localidad_censal": {
+        "id": "82077070",
+        "nombre": "Santa Margarita"
+      },
+      "municipio": {
+        "id": "823337",
+        "nombre": "Santa Margarita"
+      },
+      "nombre": "Santa Margarita",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.9380837222991,
+        "lon": -61.7048729556921
+      },
+      "departamento": {
+        "id": "82077",
+        "nombre": "9 de Julio"
+      },
+      "id": "82077060",
+      "localidad_censal": {
+        "id": "82077060",
+        "nombre": "Pozo Borrado"
+      },
+      "municipio": {
+        "id": "823323",
+        "nombre": "Pozo Borrado"
+      },
+      "nombre": "Pozo Borrado",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.6686952143335,
+        "lon": -61.8668950035658
+      },
+      "departamento": {
+        "id": "82077",
+        "nombre": "9 de Julio"
+      },
+      "id": "82077050",
+      "localidad_censal": {
+        "id": "82077050",
+        "nombre": "Montefiore"
+      },
+      "municipio": {
+        "id": "823316",
+        "nombre": "Montefiore"
+      },
+      "nombre": "Montefiore",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.2327297041075,
+        "lon": -61.7712078626857
+      },
+      "departamento": {
+        "id": "82077",
+        "nombre": "9 de Julio"
+      },
+      "id": "82077080",
+      "localidad_censal": {
+        "id": "82077080",
+        "nombre": "Tostado"
+      },
+      "municipio": {
+        "id": "820175",
+        "nombre": "Tostado"
+      },
+      "nombre": "Tostado",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "82077"
+    ]
+  },
+  "total": 10
+}

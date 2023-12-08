@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.9401411938582,
+        "lon": -57.5499424869415
+      },
+      "departamento": {
+        "id": "06357",
+        "nombre": "General Pueyrredón"
+      },
+      "id": "0635711001",
+      "localidad_censal": {
+        "id": "06357110",
+        "nombre": "Mar del Plata"
+      },
+      "municipio": {
+        "id": "060357",
+        "nombre": "General Pueyrredón"
+      },
+      "nombre": "Camet",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.8884221513547,
+        "lon": -57.6069464405144
+      },
+      "departamento": {
+        "id": "06357",
+        "nombre": "General Pueyrredón"
+      },
+      "id": "0635711002",
+      "localidad_censal": {
+        "id": "06357110",
+        "nombre": "Mar del Plata"
+      },
+      "municipio": {
+        "id": "060357",
+        "nombre": "General Pueyrredón"
+      },
+      "nombre": "Estación Camet",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -38.0064494189987,
+        "lon": -57.5438377776641
+      },
+      "departamento": {
+        "id": "06357",
+        "nombre": "General Pueyrredón"
+      },
+      "id": "0635711003",
+      "localidad_censal": {
+        "id": "06357110",
+        "nombre": "Mar del Plata"
+      },
+      "municipio": {
+        "id": "060357",
+        "nombre": "General Pueyrredón"
+      },
+      "nombre": "Mar del Plata",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -38.0669527856915,
+        "lon": -57.5510392309588
+      },
+      "departamento": {
+        "id": "06357",
+        "nombre": "General Pueyrredón"
+      },
+      "id": "0635711004",
+      "localidad_censal": {
+        "id": "06357110",
+        "nombre": "Mar del Plata"
+      },
+      "municipio": {
+        "id": "060357",
+        "nombre": "General Pueyrredón"
+      },
+      "nombre": "Punta Mogotes",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.8315957271005,
+        "lon": -57.6221111182623
+      },
+      "departamento": {
+        "id": "06357",
+        "nombre": "General Pueyrredón"
+      },
+      "id": "0635711005",
+      "localidad_censal": {
+        "id": "06357110",
+        "nombre": "Mar del Plata"
+      },
+      "municipio": {
+        "id": "060357",
+        "nombre": "General Pueyrredón"
+      },
+      "nombre": "Barrio El Casal",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.8925252468278,
+        "lon": -57.824524761927
+      },
+      "departamento": {
+        "id": "06357",
+        "nombre": "General Pueyrredón"
+      },
+      "id": "0635712001",
+      "localidad_censal": {
+        "id": "06357120",
+        "nombre": "Sierra de los Padres"
+      },
+      "municipio": {
+        "id": "060357",
+        "nombre": "General Pueyrredón"
+      },
+      "nombre": "Barrio Colinas Verdes",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.9105013275376,
+        "lon": -57.7488101521018
+      },
+      "departamento": {
+        "id": "06357",
+        "nombre": "General Pueyrredón"
+      },
+      "id": "0635712002",
+      "localidad_censal": {
+        "id": "06357120",
+        "nombre": "Sierra de los Padres"
+      },
+      "municipio": {
+        "id": "060357",
+        "nombre": "General Pueyrredón"
+      },
+      "nombre": "Barrio El Coyunco",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.9332671924047,
+        "lon": -57.7755600822281
+      },
+      "departamento": {
+        "id": "06357",
+        "nombre": "General Pueyrredón"
+      },
+      "id": "0635712003",
+      "localidad_censal": {
+        "id": "06357120",
+        "nombre": "Sierra de los Padres"
+      },
+      "municipio": {
+        "id": "060357",
+        "nombre": "General Pueyrredón"
+      },
+      "nombre": "Barrio La Gloria",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -37.9476275878402,
+        "lon": -57.77786713584
+      },
+      "departamento": {
+        "id": "06357",
+        "nombre": "General Pueyrredón"
+      },
+      "id": "0635712004",
+      "localidad_censal": {
+        "id": "06357120",
+        "nombre": "Sierra de los Padres"
+      },
+      "municipio": {
+        "id": "060357",
+        "nombre": "General Pueyrredón"
+      },
+      "nombre": "Sierra de los Padres",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.9305410654567,
+        "lon": -57.6836403560068
+      },
+      "departamento": {
+        "id": "06357",
+        "nombre": "General Pueyrredón"
+      },
+      "id": "06357060",
+      "localidad_censal": {
+        "id": "06357060",
+        "nombre": "Barrio Santa Paula"
+      },
+      "municipio": {
+        "id": "060357",
+        "nombre": "General Pueyrredón"
+      },
+      "nombre": "Barrio Santa Paula",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06357"
+    ]
+  },
+  "total": 16
+}

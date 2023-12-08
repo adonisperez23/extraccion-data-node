@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.2142150140904,
+        "lon": -61.6129125462879
+      },
+      "departamento": {
+        "id": "82021",
+        "nombre": "Castellanos"
+      },
+      "id": "8202129002",
+      "localidad_censal": {
+        "id": "82021290",
+        "nombre": "Presidente Roca"
+      },
+      "municipio": {
+        "id": "822315",
+        "nombre": "Presidente Roca"
+      },
+      "nombre": "Presidente Roca",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.2321284987409,
+        "lon": -61.6102774667774
+      },
+      "departamento": {
+        "id": "82021",
+        "nombre": "Castellanos"
+      },
+      "id": "8202129001",
+      "localidad_censal": {
+        "id": "82021290",
+        "nombre": "Presidente Roca"
+      },
+      "municipio": {
+        "id": "822315",
+        "nombre": "Presidente Roca"
+      },
+      "nombre": "Estación Presidente Roca",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.8368344282322,
+        "lon": -61.488042997533
+      },
+      "departamento": {
+        "id": "82021",
+        "nombre": "Castellanos"
+      },
+      "id": "82021120",
+      "localidad_censal": {
+        "id": "82021120",
+        "nombre": "Colonia Raquel"
+      },
+      "municipio": {
+        "id": "822196",
+        "nombre": "Colonia Raquel"
+      },
+      "nombre": "Colonia Raquel",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.3366658076454,
+        "lon": -61.6215791919805
+      },
+      "departamento": {
+        "id": "82021",
+        "nombre": "Castellanos"
+      },
+      "id": "82021410",
+      "localidad_censal": {
+        "id": "82021410",
+        "nombre": "Villa San José"
+      },
+      "municipio": {
+        "id": "822392",
+        "nombre": "Villa San José"
+      },
+      "nombre": "Villa San José",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.5600953152186,
+        "lon": -61.8962362746566
+      },
+      "departamento": {
+        "id": "82021",
+        "nombre": "Castellanos"
+      },
+      "id": "82021430",
+      "localidad_censal": {
+        "id": "82021430",
+        "nombre": "Zenón Pereyra"
+      },
+      "municipio": {
+        "id": "822406",
+        "nombre": "Zenón Pereyra"
+      },
+      "nombre": "Zenón Pereyra",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.316273169572,
+        "lon": -61.6962090269134
+      },
+      "departamento": {
+        "id": "82021",
+        "nombre": "Castellanos"
+      },
+      "id": "82021170",
+      "localidad_censal": {
+        "id": "82021170",
+        "nombre": "Estación Saguier"
+      },
+      "municipio": {
+        "id": "822336",
+        "nombre": "Saguier"
+      },
+      "nombre": "Estación Saguier",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.5766226542333,
+        "lon": -61.783534186852
+      },
+      "departamento": {
+        "id": "82021",
+        "nombre": "Castellanos"
+      },
+      "id": "82021190",
+      "localidad_censal": {
+        "id": "82021190",
+        "nombre": "Eustolia"
+      },
+      "municipio": {
+        "id": "822238",
+        "nombre": "Eustolia"
+      },
+      "nombre": "Eustolia",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.649452584686,
+        "lon": -61.8058678446262
+      },
+      "departamento": {
+        "id": "82021",
+        "nombre": "Castellanos"
+      },
+      "id": "82021210",
+      "localidad_censal": {
+        "id": "82021210",
+        "nombre": "Garibaldi"
+      },
+      "municipio": {
+        "id": "822259",
+        "nombre": "Garibaldi"
+      },
+      "nombre": "Garibaldi",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.9962676110821,
+        "lon": -61.431909256734
+      },
+      "departamento": {
+        "id": "82021",
+        "nombre": "Castellanos"
+      },
+      "id": "82021030",
+      "localidad_censal": {
+        "id": "82021030",
+        "nombre": "Ataliva"
+      },
+      "municipio": {
+        "id": "822119",
+        "nombre": "Ataliva"
+      },
+      "nombre": "Ataliva",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.2832080414374,
+        "lon": -61.4092577770354
+      },
+      "departamento": {
+        "id": "82021",
+        "nombre": "Castellanos"
+      },
+      "id": "82021070",
+      "localidad_censal": {
+        "id": "82021070",
+        "nombre": "Bella Italia"
+      },
+      "municipio": {
+        "id": "822140",
+        "nombre": "Bella Italia"
+      },
+      "nombre": "Bella Italia",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "82021"
+    ]
+  },
+  "total": 45
+}

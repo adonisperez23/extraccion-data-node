@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.7398470340394,
+        "lon": -62.0375926629187
+      },
+      "departamento": {
+        "id": "82126",
+        "nombre": "San Martín"
+      },
+      "id": "82126060",
+      "localidad_censal": {
+        "id": "82126060",
+        "nombre": "Crispi"
+      },
+      "municipio": {
+        "id": "824079",
+        "nombre": "Crispi"
+      },
+      "nombre": "Crispi",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.7675752802005,
+        "lon": -61.8288762614104
+      },
+      "departamento": {
+        "id": "82126",
+        "nombre": "San Martín"
+      },
+      "id": "82126160",
+      "localidad_censal": {
+        "id": "82126160",
+        "nombre": "Sastre"
+      },
+      "municipio": {
+        "id": "820322",
+        "nombre": "Sastre y Ortiz"
+      },
+      "nombre": "Sastre",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.0127540707308,
+        "lon": -62.0622809895362
+      },
+      "departamento": {
+        "id": "82126",
+        "nombre": "San Martín"
+      },
+      "id": "82126080",
+      "localidad_censal": {
+        "id": "82126080",
+        "nombre": "Landeta"
+      },
+      "municipio": {
+        "id": "824086",
+        "nombre": "Landeta"
+      },
+      "nombre": "Landeta",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.9215223623491,
+        "lon": -61.7026271267646
+      },
+      "departamento": {
+        "id": "82126",
+        "nombre": "San Martín"
+      },
+      "id": "82126170",
+      "localidad_censal": {
+        "id": "82126170",
+        "nombre": "Traill"
+      },
+      "municipio": {
+        "id": "824135",
+        "nombre": "Traill"
+      },
+      "nombre": "Traill",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.1439257600789,
+        "lon": -61.9804415931331
+      },
+      "departamento": {
+        "id": "82126",
+        "nombre": "San Martín"
+      },
+      "id": "82126130",
+      "localidad_censal": {
+        "id": "82126130",
+        "nombre": "Piamonte"
+      },
+      "municipio": {
+        "id": "824121",
+        "nombre": "Piamonte"
+      },
+      "nombre": "Piamonte",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.8211859275252,
+        "lon": -62.1104993813252
+      },
+      "departamento": {
+        "id": "82126",
+        "nombre": "San Martín"
+      },
+      "id": "82126100",
+      "localidad_censal": {
+        "id": "82126100",
+        "nombre": "Las Petacas"
+      },
+      "municipio": {
+        "id": "824100",
+        "nombre": "Las Petacas"
+      },
+      "nombre": "Las Petacas",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.1974753473285,
+        "lon": -61.4922790177356
+      },
+      "departamento": {
+        "id": "82126",
+        "nombre": "San Martín"
+      },
+      "id": "82126090",
+      "localidad_censal": {
+        "id": "82126090",
+        "nombre": "Las Bandurrias"
+      },
+      "municipio": {
+        "id": "824093",
+        "nombre": "Las Bandurrias"
+      },
+      "nombre": "Las Bandurrias",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.8578635123551,
+        "lon": -61.569620353558
+      },
+      "departamento": {
+        "id": "82126",
+        "nombre": "San Martín"
+      },
+      "id": "82126150",
+      "localidad_censal": {
+        "id": "82126150",
+        "nombre": "San Martín de las Escobas"
+      },
+      "municipio": {
+        "id": "824128",
+        "nombre": "San Martín de las Escobas"
+      },
+      "nombre": "San Martín de las Escobas",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.9094510313995,
+        "lon": -61.4009185852123
+      },
+      "departamento": {
+        "id": "82126",
+        "nombre": "San Martín"
+      },
+      "id": "82126050",
+      "localidad_censal": {
+        "id": "82126050",
+        "nombre": "Colonia Belgrano"
+      },
+      "municipio": {
+        "id": "824072",
+        "nombre": "Colonia Belgrano"
+      },
+      "nombre": "Colonia Belgrano",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.3222613442548,
+        "lon": -61.6315863412851
+      },
+      "departamento": {
+        "id": "82126",
+        "nombre": "San Martín"
+      },
+      "id": "82126110",
+      "localidad_censal": {
+        "id": "82126110",
+        "nombre": "Los Cardos"
+      },
+      "municipio": {
+        "id": "824107",
+        "nombre": "Los Cardos"
+      },
+      "nombre": "Los Cardos",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "82126"
+    ]
+  },
+  "total": 18
+}

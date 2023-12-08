@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.6334742863703,
+        "lon": -69.1797078737756
+      },
+      "departamento": {
+        "id": "50119",
+        "nombre": "Tunuyán"
+      },
+      "id": "50119010",
+      "localidad_censal": {
+        "id": "50119010",
+        "nombre": "Barrio San Cayetano"
+      },
+      "municipio": {
+        "id": "500119",
+        "nombre": "Tunuyán"
+      },
+      "nombre": "Barrio San Cayetano",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.7003219358023,
+        "lon": -69.1764950169006
+      },
+      "departamento": {
+        "id": "50119",
+        "nombre": "Tunuyán"
+      },
+      "id": "50119020",
+      "localidad_censal": {
+        "id": "50119020",
+        "nombre": "Campo Los Andes"
+      },
+      "municipio": {
+        "id": "500119",
+        "nombre": "Tunuyán"
+      },
+      "nombre": "Campo Los Andes",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.6056386398876,
+        "lon": -69.1044262295027
+      },
+      "departamento": {
+        "id": "50119",
+        "nombre": "Tunuyán"
+      },
+      "id": "50119030",
+      "localidad_censal": {
+        "id": "50119030",
+        "nombre": "Colonia Las Rosas"
+      },
+      "municipio": {
+        "id": "500119",
+        "nombre": "Tunuyán"
+      },
+      "nombre": "Colonia Las Rosas",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.5861411847394,
+        "lon": -69.3271065826152
+      },
+      "departamento": {
+        "id": "50119",
+        "nombre": "Tunuyán"
+      },
+      "id": "50119040",
+      "localidad_censal": {
+        "id": "50119040",
+        "nombre": "El Manzano"
+      },
+      "municipio": {
+        "id": "500119",
+        "nombre": "Tunuyán"
+      },
+      "nombre": "El Manzano",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.5812531556326,
+        "lon": -69.0153685595424
+      },
+      "departamento": {
+        "id": "50119",
+        "nombre": "Tunuyán"
+      },
+      "id": "50119060",
+      "localidad_censal": {
+        "id": "50119060",
+        "nombre": "Tunuyán"
+      },
+      "municipio": {
+        "id": "500119",
+        "nombre": "Tunuyán"
+      },
+      "nombre": "Tunuyán",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.6508757520733,
+        "lon": -69.1557603957753
+      },
+      "departamento": {
+        "id": "50119",
+        "nombre": "Tunuyán"
+      },
+      "id": "50119070",
+      "localidad_censal": {
+        "id": "50119070",
+        "nombre": "Vista Flores"
+      },
+      "municipio": {
+        "id": "500119",
+        "nombre": "Tunuyán"
+      },
+      "nombre": "Vista Flores",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.5944641922174,
+        "lon": -69.1754980493632
+      },
+      "departamento": {
+        "id": "50119",
+        "nombre": "Tunuyán"
+      },
+      "id": "50119050",
+      "localidad_censal": {
+        "id": "50119050",
+        "nombre": "Los Sauces"
+      },
+      "municipio": {
+        "id": "500119",
+        "nombre": "Tunuyán"
+      },
+      "nombre": "Los Sauces",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "50119"
+    ]
+  },
+  "total": 7
+}

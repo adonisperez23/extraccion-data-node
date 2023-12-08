@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.4136229676908,
+        "lon": -62.7904039278884
+      },
+      "departamento": {
+        "id": "86112",
+        "nombre": "Mitre"
+      },
+      "id": "86112010",
+      "localidad_censal": {
+        "id": "86112010",
+        "nombre": "Villa Unión"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Villa Unión",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86112"
+    ]
+  },
+  "total": 1
+}

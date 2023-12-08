@@ -1,0 +1,237 @@
+{
+  "cantidad": 9,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.1794832647306,
+        "lon": -62.7599903896298
+      },
+      "departamento": {
+        "id": "06007",
+        "nombre": "Adolfo Alsina"
+      },
+      "id": "06007010",
+      "localidad_censal": {
+        "id": "06007010",
+        "nombre": "Carhué"
+      },
+      "municipio": {
+        "id": "060007",
+        "nombre": "Adolfo Alsina"
+      },
+      "nombre": "Carhué",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.4490178803234,
+        "lon": -63.1171563604927
+      },
+      "departamento": {
+        "id": "06007",
+        "nombre": "Adolfo Alsina"
+      },
+      "id": "06007020",
+      "localidad_censal": {
+        "id": "06007020",
+        "nombre": "Colonia San Miguel Arcángel"
+      },
+      "municipio": {
+        "id": "060007",
+        "nombre": "Adolfo Alsina"
+      },
+      "nombre": "Colonia San Miguel Arcángel",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.3211075196649,
+        "lon": -63.2343847273828
+      },
+      "departamento": {
+        "id": "06007",
+        "nombre": "Adolfo Alsina"
+      },
+      "id": "06007030",
+      "localidad_censal": {
+        "id": "06007030",
+        "nombre": "Delfín Huergo"
+      },
+      "municipio": {
+        "id": "060007",
+        "nombre": "Adolfo Alsina"
+      },
+      "nombre": "Delfín Huergo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -37.3574109987361,
+        "lon": -62.4383797934634
+      },
+      "departamento": {
+        "id": "06007",
+        "nombre": "Adolfo Alsina"
+      },
+      "id": "06007040",
+      "localidad_censal": {
+        "id": "06007040",
+        "nombre": "Espartillar"
+      },
+      "municipio": {
+        "id": "060007",
+        "nombre": "Adolfo Alsina"
+      },
+      "nombre": "Espartillar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.4558365111846,
+        "lon": -63.254311550389
+      },
+      "departamento": {
+        "id": "06007",
+        "nombre": "Adolfo Alsina"
+      },
+      "id": "06007050",
+      "localidad_censal": {
+        "id": "06007050",
+        "nombre": "Esteban Agustín Gascón"
+      },
+      "municipio": {
+        "id": "060007",
+        "nombre": "Adolfo Alsina"
+      },
+      "nombre": "Esteban Agustín Gascón",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.6639203566646,
+        "lon": -63.3664656038284
+      },
+      "departamento": {
+        "id": "06007",
+        "nombre": "Adolfo Alsina"
+      },
+      "id": "06007060",
+      "localidad_censal": {
+        "id": "06007060",
+        "nombre": "La Pala"
+      },
+      "municipio": {
+        "id": "060007",
+        "nombre": "Adolfo Alsina"
+      },
+      "nombre": "La Pala",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.8003160533886,
+        "lon": -63.3392811717819
+      },
+      "departamento": {
+        "id": "06007",
+        "nombre": "Adolfo Alsina"
+      },
+      "id": "06007070",
+      "localidad_censal": {
+        "id": "06007070",
+        "nombre": "Maza"
+      },
+      "municipio": {
+        "id": "060007",
+        "nombre": "Adolfo Alsina"
+      },
+      "nombre": "Maza",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.1605967438711,
+        "lon": -63.2417897238929
+      },
+      "departamento": {
+        "id": "06007",
+        "nombre": "Adolfo Alsina"
+      },
+      "id": "06007080",
+      "localidad_censal": {
+        "id": "06007080",
+        "nombre": "Rivera"
+      },
+      "municipio": {
+        "id": "060007",
+        "nombre": "Adolfo Alsina"
+      },
+      "nombre": "Rivera",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.4613536392238,
+        "lon": -63.2421735240119
+      },
+      "departamento": {
+        "id": "06007",
+        "nombre": "Adolfo Alsina"
+      },
+      "id": "06007100",
+      "localidad_censal": {
+        "id": "06007100",
+        "nombre": "Villa Margarita"
+      },
+      "municipio": {
+        "id": "060007",
+        "nombre": "Adolfo Alsina"
+      },
+      "nombre": "Villa Margarita",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06007"
+    ]
+  },
+  "total": 9
+}

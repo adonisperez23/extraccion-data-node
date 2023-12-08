@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.7180147893199,
+        "lon": -65.2253782558904
+      },
+      "departamento": {
+        "id": "90105",
+        "nombre": "Tafí Viejo"
+      },
+      "id": "90105030",
+      "localidad_censal": {
+        "id": "90105030",
+        "nombre": "Los Nogales"
+      },
+      "municipio": {
+        "id": "908616",
+        "nombre": "Los Nogales"
+      },
+      "nombre": "Barrio Mutual San Martín",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -26.7758280168067,
+        "lon": -65.2090924405236
+      },
+      "departamento": {
+        "id": "90105",
+        "nombre": "Tafí Viejo"
+      },
+      "id": "90105100",
+      "localidad_censal": {
+        "id": "90105100",
+        "nombre": "Las Talitas"
+      },
+      "municipio": {
+        "id": "900112",
+        "nombre": "Las Talitas"
+      },
+      "nombre": "Villa Mariano Moreno - El Colmenar",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.6318661540805,
+        "lon": -65.2071062147451
+      },
+      "departamento": {
+        "id": "90105",
+        "nombre": "Tafí Viejo"
+      },
+      "id": "90105070",
+      "localidad_censal": {
+        "id": "90105070",
+        "nombre": "El Cadillal"
+      },
+      "municipio": {
+        "id": "908602",
+        "nombre": "El Cadillal"
+      },
+      "nombre": "El Cadillal",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.7299828223064,
+        "lon": -65.2628439357236
+      },
+      "departamento": {
+        "id": "90105",
+        "nombre": "Tafí Viejo"
+      },
+      "id": "90105080",
+      "localidad_censal": {
+        "id": "90105080",
+        "nombre": "Tafí Viejo"
+      },
+      "municipio": {
+        "id": "900119",
+        "nombre": "Tafí Viejo"
+      },
+      "nombre": "Tafí Viejo",
+      "provincia": {
+        "id": "90",
+        "nombre": "Tucumán"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "90105"
+    ]
+  },
+  "total": 4
+}

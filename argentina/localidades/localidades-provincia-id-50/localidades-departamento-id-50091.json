@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.8311067353464,
+        "lon": -69.0488590844836
+      },
+      "departamento": {
+        "id": "50091",
+        "nombre": "San Carlos"
+      },
+      "id": "50091005",
+      "localidad_censal": {
+        "id": "50091005",
+        "nombre": "Barrio Carrasco"
+      },
+      "municipio": {
+        "id": "500091",
+        "nombre": "San Carlos"
+      },
+      "nombre": "Barrio Carrasco",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.8352691923547,
+        "lon": -69.1236485326506
+      },
+      "departamento": {
+        "id": "50091",
+        "nombre": "San Carlos"
+      },
+      "id": "50091010",
+      "localidad_censal": {
+        "id": "50091010",
+        "nombre": "Barrio El Cepillo"
+      },
+      "municipio": {
+        "id": "500091",
+        "nombre": "San Carlos"
+      },
+      "nombre": "Barrio El Cepillo",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.778885312025,
+        "lon": -69.0652750271063
+      },
+      "departamento": {
+        "id": "50091",
+        "nombre": "San Carlos"
+      },
+      "id": "50091030",
+      "localidad_censal": {
+        "id": "50091030",
+        "nombre": "Eugenio Bustos"
+      },
+      "municipio": {
+        "id": "500091",
+        "nombre": "San Carlos"
+      },
+      "nombre": "Eugenio Bustos",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.733847173131,
+        "lon": -69.1198852597666
+      },
+      "departamento": {
+        "id": "50091",
+        "nombre": "San Carlos"
+      },
+      "id": "50091040",
+      "localidad_censal": {
+        "id": "50091040",
+        "nombre": "La Consulta"
+      },
+      "municipio": {
+        "id": "500091",
+        "nombre": "San Carlos"
+      },
+      "nombre": "La Consulta",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.9425497239841,
+        "lon": -69.0785450510926
+      },
+      "departamento": {
+        "id": "50091",
+        "nombre": "San Carlos"
+      },
+      "id": "50091050",
+      "localidad_censal": {
+        "id": "50091050",
+        "nombre": "Pareditas"
+      },
+      "municipio": {
+        "id": "500091",
+        "nombre": "San Carlos"
+      },
+      "nombre": "Pareditas",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.8914727579035,
+        "lon": -69.0711929644874
+      },
+      "departamento": {
+        "id": "50091",
+        "nombre": "San Carlos"
+      },
+      "id": "50091020",
+      "localidad_censal": {
+        "id": "50091020",
+        "nombre": "Chilecito"
+      },
+      "municipio": {
+        "id": "500091",
+        "nombre": "San Carlos"
+      },
+      "nombre": "Chilecito",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.7720666172097,
+        "lon": -69.0403915279667
+      },
+      "departamento": {
+        "id": "50091",
+        "nombre": "San Carlos"
+      },
+      "id": "50091060",
+      "localidad_censal": {
+        "id": "50091060",
+        "nombre": "San Carlos"
+      },
+      "municipio": {
+        "id": "500091",
+        "nombre": "San Carlos"
+      },
+      "nombre": "San Carlos",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "50091"
+    ]
+  },
+  "total": 7
+}

@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.5600651584196,
+        "lon": -62.1390192027148
+      },
+      "departamento": {
+        "id": "06231",
+        "nombre": "Daireaux"
+      },
+      "id": "06231010",
+      "localidad_censal": {
+        "id": "06231010",
+        "nombre": "Andant"
+      },
+      "municipio": {
+        "id": "060231",
+        "nombre": "Daireaux"
+      },
+      "nombre": "Andant",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.8831523284642,
+        "lon": -61.4877198813931
+      },
+      "departamento": {
+        "id": "06231",
+        "nombre": "Daireaux"
+      },
+      "id": "06231020",
+      "localidad_censal": {
+        "id": "06231020",
+        "nombre": "Arboledas"
+      },
+      "municipio": {
+        "id": "060231",
+        "nombre": "Daireaux"
+      },
+      "nombre": "Arboledas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.5996329364507,
+        "lon": -61.7475424056289
+      },
+      "departamento": {
+        "id": "06231",
+        "nombre": "Daireaux"
+      },
+      "id": "06231030",
+      "localidad_censal": {
+        "id": "06231030",
+        "nombre": "Daireaux"
+      },
+      "municipio": {
+        "id": "060231",
+        "nombre": "Daireaux"
+      },
+      "nombre": "Daireaux",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.675500343025,
+        "lon": -61.9283363521451
+      },
+      "departamento": {
+        "id": "06231",
+        "nombre": "Daireaux"
+      },
+      "id": "06231040",
+      "localidad_censal": {
+        "id": "06231040",
+        "nombre": "La Larga"
+      },
+      "municipio": {
+        "id": "060231",
+        "nombre": "Daireaux"
+      },
+      "nombre": "La Larga",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.3071820120069,
+        "lon": -62.2029985679908
+      },
+      "departamento": {
+        "id": "06231",
+        "nombre": "Daireaux"
+      },
+      "id": "06231060",
+      "localidad_censal": {
+        "id": "06231060",
+        "nombre": "La Manuela"
+      },
+      "municipio": {
+        "id": "060231",
+        "nombre": "Daireaux"
+      },
+      "nombre": "Salazar",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06231"
+    ]
+  },
+  "total": 5
+}

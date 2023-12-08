@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.9037391500172,
+        "lon": -61.8424292693027
+      },
+      "departamento": {
+        "id": "34028",
+        "nombre": "Matacos"
+      },
+      "id": "34028010",
+      "localidad_censal": {
+        "id": "34028010",
+        "nombre": "Ingeniero Guillermo N Juárez"
+      },
+      "municipio": {
+        "id": "340077",
+        "nombre": "Ingeniero Guillermo Nicasio Juárez"
+      },
+      "nombre": "Ingeniero Guillermo N. Juárez",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "34028"
+    ]
+  },
+  "total": 1
+}

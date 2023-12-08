@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.3854437363788,
+        "lon": -58.7502572752322
+      },
+      "departamento": {
+        "id": "30042",
+        "nombre": "Feliciano"
+      },
+      "id": "30042010",
+      "localidad_censal": {
+        "id": "30042010",
+        "nombre": "San José de Feliciano"
+      },
+      "municipio": {
+        "id": "300161",
+        "nombre": "San José de Feliciano"
+      },
+      "nombre": "San José de Feliciano",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.4851899621348,
+        "lon": -59.0283413798032
+      },
+      "departamento": {
+        "id": "30042",
+        "nombre": "Feliciano"
+      },
+      "id": "30042020",
+      "localidad_censal": {
+        "id": "30042020",
+        "nombre": "San Víctor"
+      },
+      "municipio": {
+        "id": "302376",
+        "nombre": "San Víctor"
+      },
+      "nombre": "San Víctor",
+      "provincia": {
+        "id": "30",
+        "nombre": "Entre Ríos"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "30042"
+    ]
+  },
+  "total": 2
+}

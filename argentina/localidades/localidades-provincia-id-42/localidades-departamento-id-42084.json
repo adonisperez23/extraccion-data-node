@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -38.3336784745407,
+        "lon": -64.6422526958764
+      },
+      "departamento": {
+        "id": "42084",
+        "nombre": "Lihuel Calel"
+      },
+      "id": "42084010",
+      "localidad_censal": {
+        "id": "42084010",
+        "nombre": "Cuchillo Co"
+      },
+      "municipio": {
+        "id": "425042",
+        "nombre": "Cuchillo Co"
+      },
+      "nombre": "Cuchillo Co",
+      "provincia": {
+        "id": "42",
+        "nombre": "La Pampa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "42084"
+    ]
+  },
+  "total": 1
+}

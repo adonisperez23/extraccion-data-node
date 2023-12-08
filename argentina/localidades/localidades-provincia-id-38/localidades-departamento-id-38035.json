@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -23.8132315352072,
+        "lon": -64.7931971265748
+      },
+      "departamento": {
+        "id": "38035",
+        "nombre": "Ledesma"
+      },
+      "id": "3803508001",
+      "localidad_censal": {
+        "id": "38035080",
+        "nombre": "Libertador General San Martín"
+      },
+      "municipio": {
+        "id": "380140",
+        "nombre": "Libertador General San Martín"
+      },
+      "nombre": "Libertador General San Martín",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -23.8346075028739,
+        "lon": -64.7896499047357
+      },
+      "departamento": {
+        "id": "38035",
+        "nombre": "Ledesma"
+      },
+      "id": "3803508002",
+      "localidad_censal": {
+        "id": "38035080",
+        "nombre": "Libertador General San Martín"
+      },
+      "municipio": {
+        "id": "380140",
+        "nombre": "Libertador General San Martín"
+      },
+      "nombre": "Pueblo Ledesma",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.845065447003,
+        "lon": -64.740544449243
+      },
+      "departamento": {
+        "id": "38035",
+        "nombre": "Ledesma"
+      },
+      "id": "38035100",
+      "localidad_censal": {
+        "id": "38035100",
+        "nombre": "Paulina"
+      },
+      "municipio": {
+        "id": "380140",
+        "nombre": "Libertador General San Martín"
+      },
+      "nombre": "Paulina",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.7745688572598,
+        "lon": -64.7700370415998
+      },
+      "departamento": {
+        "id": "38035",
+        "nombre": "Ledesma"
+      },
+      "id": "38035040",
+      "localidad_censal": {
+        "id": "38035040",
+        "nombre": "Calilegua"
+      },
+      "municipio": {
+        "id": "380126",
+        "nombre": "Calilegua"
+      },
+      "nombre": "Calilegua",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.5664363390453,
+        "lon": -64.4992128716824
+      },
+      "departamento": {
+        "id": "38035",
+        "nombre": "Ledesma"
+      },
+      "id": "38035010",
+      "localidad_censal": {
+        "id": "38035010",
+        "nombre": "Bananal"
+      },
+      "municipio": {
+        "id": "380147",
+        "nombre": "Yuto"
+      },
+      "nombre": "Bananal",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.7887377119013,
+        "lon": -64.7299316600281
+      },
+      "departamento": {
+        "id": "38035",
+        "nombre": "Ledesma"
+      },
+      "id": "38035020",
+      "localidad_censal": {
+        "id": "38035020",
+        "nombre": "Bermejito"
+      },
+      "municipio": {
+        "id": "380126",
+        "nombre": "Calilegua"
+      },
+      "nombre": "Bermejito",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.7399374747541,
+        "lon": -64.5916005257069
+      },
+      "departamento": {
+        "id": "38035",
+        "nombre": "Ledesma"
+      },
+      "id": "38035030",
+      "localidad_censal": {
+        "id": "38035030",
+        "nombre": "Caimancito"
+      },
+      "municipio": {
+        "id": "380119",
+        "nombre": "Caimancito"
+      },
+      "nombre": "Caimancito",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -24.0693565239413,
+        "lon": -64.8064033469102
+      },
+      "departamento": {
+        "id": "38035",
+        "nombre": "Ledesma"
+      },
+      "id": "38035050",
+      "localidad_censal": {
+        "id": "38035050",
+        "nombre": "Chalicán"
+      },
+      "municipio": {
+        "id": "380133",
+        "nombre": "Fraile Pintado"
+      },
+      "nombre": "Chalicán",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.9441164853991,
+        "lon": -64.8030353350931
+      },
+      "departamento": {
+        "id": "38035",
+        "nombre": "Ledesma"
+      },
+      "id": "38035060",
+      "localidad_censal": {
+        "id": "38035060",
+        "nombre": "Fraile Pintado"
+      },
+      "municipio": {
+        "id": "380133",
+        "nombre": "Fraile Pintado"
+      },
+      "nombre": "Fraile Pintado",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -23.7623963246001,
+        "lon": -64.7272695088026
+      },
+      "departamento": {
+        "id": "38035",
+        "nombre": "Ledesma"
+      },
+      "id": "38035070",
+      "localidad_censal": {
+        "id": "38035070",
+        "nombre": "Libertad"
+      },
+      "municipio": {
+        "id": "380126",
+        "nombre": "Calilegua"
+      },
+      "nombre": "Libertad",
+      "provincia": {
+        "id": "38",
+        "nombre": "Jujuy"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "38035"
+    ]
+  },
+  "total": 13
+}

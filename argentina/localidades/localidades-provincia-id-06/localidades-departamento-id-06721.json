@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.5693430120432,
+        "lon": -63.0881107599791
+      },
+      "departamento": {
+        "id": "06721",
+        "nombre": "Salliqueló"
+      },
+      "id": "06721010",
+      "localidad_censal": {
+        "id": "06721010",
+        "nombre": "Quenumá"
+      },
+      "municipio": {
+        "id": "060721",
+        "nombre": "Salliqueló"
+      },
+      "nombre": "Quenumá",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -36.7515133840938,
+        "lon": -62.9591311423931
+      },
+      "departamento": {
+        "id": "06721",
+        "nombre": "Salliqueló"
+      },
+      "id": "06721020",
+      "localidad_censal": {
+        "id": "06721020",
+        "nombre": "Salliqueló"
+      },
+      "municipio": {
+        "id": "060721",
+        "nombre": "Salliqueló"
+      },
+      "nombre": "Salliqueló",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06721"
+    ]
+  },
+  "total": 2
+}

@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.051434869104,
+        "lon": -66.1029451969879
+      },
+      "departamento": {
+        "id": "66014",
+        "nombre": "Cachi"
+      },
+      "id": "66014020",
+      "localidad_censal": {
+        "id": "66014020",
+        "nombre": "Payogasta"
+      },
+      "municipio": {
+        "id": "660049",
+        "nombre": "Payogasta"
+      },
+      "nombre": "Payogasta",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.1199676490935,
+        "lon": -66.1618759239973
+      },
+      "departamento": {
+        "id": "66014",
+        "nombre": "Cachi"
+      },
+      "id": "66014010",
+      "localidad_censal": {
+        "id": "66014010",
+        "nombre": "Cachi"
+      },
+      "municipio": {
+        "id": "660042",
+        "nombre": "Cachi"
+      },
+      "nombre": "Cachi",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66014"
+    ]
+  },
+  "total": 2
+}

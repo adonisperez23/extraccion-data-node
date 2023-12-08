@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.439712753893,
+        "lon": -61.8465741560368
+      },
+      "departamento": {
+        "id": "06462",
+        "nombre": "Leandro N. Alem"
+      },
+      "id": "06462010",
+      "localidad_censal": {
+        "id": "06462010",
+        "nombre": "Alberdi Viejo"
+      },
+      "municipio": {
+        "id": "060462",
+        "nombre": "Leandro N. Alem"
+      },
+      "nombre": "Alberdi Viejo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.6528615816264,
+        "lon": -61.5829084882257
+      },
+      "departamento": {
+        "id": "06462",
+        "nombre": "Leandro N. Alem"
+      },
+      "id": "06462020",
+      "localidad_censal": {
+        "id": "06462020",
+        "nombre": "El Dorado"
+      },
+      "municipio": {
+        "id": "060462",
+        "nombre": "Leandro N. Alem"
+      },
+      "nombre": "El Dorado",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.3423483954941,
+        "lon": -61.5151801698666
+      },
+      "departamento": {
+        "id": "06462",
+        "nombre": "Leandro N. Alem"
+      },
+      "id": "06462030",
+      "localidad_censal": {
+        "id": "06462030",
+        "nombre": "Fortíi­n Acha"
+      },
+      "municipio": {
+        "id": "060462",
+        "nombre": "Leandro N. Alem"
+      },
+      "nombre": "Fortín Acha",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.4385163313831,
+        "lon": -61.8120901544653
+      },
+      "departamento": {
+        "id": "06462",
+        "nombre": "Leandro N. Alem"
+      },
+      "id": "06462040",
+      "localidad_censal": {
+        "id": "06462040",
+        "nombre": "Juan Bautista Alberdi"
+      },
+      "municipio": {
+        "id": "060462",
+        "nombre": "Leandro N. Alem"
+      },
+      "nombre": "Juan Bautista Alberdi",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.5195737450834,
+        "lon": -61.3912224232084
+      },
+      "departamento": {
+        "id": "06462",
+        "nombre": "Leandro N. Alem"
+      },
+      "id": "06462050",
+      "localidad_censal": {
+        "id": "06462050",
+        "nombre": "Leandro N. Alem"
+      },
+      "municipio": {
+        "id": "060462",
+        "nombre": "Leandro N. Alem"
+      },
+      "nombre": "Leandro N. Alem",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.4979071777374,
+        "lon": -61.5423105969941
+      },
+      "departamento": {
+        "id": "06462",
+        "nombre": "Leandro N. Alem"
+      },
+      "id": "06462060",
+      "localidad_censal": {
+        "id": "06462060",
+        "nombre": "Vedia"
+      },
+      "municipio": {
+        "id": "060462",
+        "nombre": "Leandro N. Alem"
+      },
+      "nombre": "Vedia",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06462"
+    ]
+  },
+  "total": 6
+}

@@ -1,0 +1,87 @@
+{
+  "cantidad": 3,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.5028073843862,
+        "lon": -63.6949683700925
+      },
+      "departamento": {
+        "id": "86126",
+        "nombre": "Ojo de Agua"
+      },
+      "id": "86126030",
+      "localidad_censal": {
+        "id": "86126030",
+        "nombre": "Villa Ojo de Agua"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Villa Ojo de Agua",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.0505806589671,
+        "lon": -63.9579352371143
+      },
+      "departamento": {
+        "id": "86126",
+        "nombre": "Ojo de Agua"
+      },
+      "id": "86126010",
+      "localidad_censal": {
+        "id": "86126010",
+        "nombre": "El 49"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El 49",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -29.5653281967786,
+        "lon": -63.4570787837756
+      },
+      "departamento": {
+        "id": "86126",
+        "nombre": "Ojo de Agua"
+      },
+      "id": "86126020",
+      "localidad_censal": {
+        "id": "86126020",
+        "nombre": "Sol de Julio"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Sol de Julio",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86126"
+    ]
+  },
+  "total": 3
+}

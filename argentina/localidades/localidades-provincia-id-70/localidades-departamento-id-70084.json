@@ -1,0 +1,37 @@
+{
+  "cantidad": 1,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -31.532442520036,
+        "lon": -68.597140608392
+      },
+      "departamento": {
+        "id": "70084",
+        "nombre": "Rivadavia"
+      },
+      "id": "70084010",
+      "localidad_censal": {
+        "id": "70084010",
+        "nombre": "Rivadavia"
+      },
+      "municipio": {
+        "id": "700084",
+        "nombre": "Rivadavia"
+      },
+      "nombre": "Rivadavia",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "70084"
+    ]
+  },
+  "total": 1
+}

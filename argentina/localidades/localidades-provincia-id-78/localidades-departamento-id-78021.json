@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -51.68091861252,
+        "lon": -72.0884962680537
+      },
+      "departamento": {
+        "id": "78021",
+        "nombre": "Güer Aike"
+      },
+      "id": "78021010",
+      "localidad_censal": {
+        "id": "78021010",
+        "nombre": "El Turbio"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Turbio",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -51.5364226395201,
+        "lon": -72.3378549052832
+      },
+      "departamento": {
+        "id": "78021",
+        "nombre": "Güer Aike"
+      },
+      "id": "78021070",
+      "localidad_censal": {
+        "id": "78021070",
+        "nombre": "Yacimientos Río Turbio"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Yacimientos Río Turbio",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -51.579613896166,
+        "lon": -72.2116403934705
+      },
+      "departamento": {
+        "id": "78021",
+        "nombre": "Güer Aike"
+      },
+      "id": "78021060",
+      "localidad_censal": {
+        "id": "78021060",
+        "nombre": "28 de Noviembre"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "28 de Noviembre",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -51.5472871481372,
+        "lon": -72.2390440680909
+      },
+      "departamento": {
+        "id": "78021",
+        "nombre": "Güer Aike"
+      },
+      "id": "78021020",
+      "localidad_censal": {
+        "id": "78021020",
+        "nombre": "Julia Dufour"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Julia Dufour",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -51.6653659201725,
+        "lon": -72.1454724827851
+      },
+      "departamento": {
+        "id": "78021",
+        "nombre": "Güer Aike"
+      },
+      "id": "78021050",
+      "localidad_censal": {
+        "id": "78021050",
+        "nombre": "Rospentek"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Rospentek",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -51.6234632663739,
+        "lon": -69.2158645331237
+      },
+      "departamento": {
+        "id": "78021",
+        "nombre": "Güer Aike"
+      },
+      "id": "78021040",
+      "localidad_censal": {
+        "id": "78021040",
+        "nombre": "Río Gallegos"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Río Gallegos",
+      "provincia": {
+        "id": "78",
+        "nombre": "Santa Cruz"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "78021"
+    ]
+  },
+  "total": 6
+}

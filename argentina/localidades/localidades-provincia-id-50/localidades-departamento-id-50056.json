@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.8225161954956,
+        "lon": -68.6048811641615
+      },
+      "departamento": {
+        "id": "50056",
+        "nombre": "Lavalle"
+      },
+      "id": "50056140",
+      "localidad_censal": {
+        "id": "50056140",
+        "nombre": "Las Violetas"
+      },
+      "municipio": {
+        "id": "500056",
+        "nombre": "Lavalle"
+      },
+      "nombre": "Las Violetas",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6804705368401,
+        "lon": -68.6392269372777
+      },
+      "departamento": {
+        "id": "50056",
+        "nombre": "Lavalle"
+      },
+      "id": "50056150",
+      "localidad_censal": {
+        "id": "50056150",
+        "nombre": "3 de Mayo"
+      },
+      "municipio": {
+        "id": "500056",
+        "nombre": "Lavalle"
+      },
+      "nombre": "3 de Mayo",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6696505479246,
+        "lon": -68.5800012318464
+      },
+      "departamento": {
+        "id": "50056",
+        "nombre": "Lavalle"
+      },
+      "id": "50056010",
+      "localidad_censal": {
+        "id": "50056010",
+        "nombre": "Barrio Alto del Olvido"
+      },
+      "municipio": {
+        "id": "500056",
+        "nombre": "Lavalle"
+      },
+      "nombre": "Barrio Alto del Olvido",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.6566662345999,
+        "lon": -68.6589491336395
+      },
+      "departamento": {
+        "id": "50056",
+        "nombre": "Lavalle"
+      },
+      "id": "50056020",
+      "localidad_censal": {
+        "id": "50056020",
+        "nombre": "Barrio Jocolí II"
+      },
+      "municipio": {
+        "id": "500049",
+        "nombre": "Las Heras"
+      },
+      "nombre": "Barrio Jocolí II",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.7019676976416,
+        "lon": -68.540094592933
+      },
+      "departamento": {
+        "id": "50056",
+        "nombre": "Lavalle"
+      },
+      "id": "50056030",
+      "localidad_censal": {
+        "id": "50056030",
+        "nombre": "Barrio La Palmera"
+      },
+      "municipio": {
+        "id": "500056",
+        "nombre": "Lavalle"
+      },
+      "nombre": "Barrio La Palmera",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.8080160562424,
+        "lon": -68.6695467913422
+      },
+      "departamento": {
+        "id": "50056",
+        "nombre": "Lavalle"
+      },
+      "id": "50056040",
+      "localidad_censal": {
+        "id": "50056040",
+        "nombre": "Barrio La Pega"
+      },
+      "municipio": {
+        "id": "500056",
+        "nombre": "Lavalle"
+      },
+      "nombre": "Barrio La Pega",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.7163045405058,
+        "lon": -68.652106137092
+      },
+      "departamento": {
+        "id": "50056",
+        "nombre": "Lavalle"
+      },
+      "id": "50056060",
+      "localidad_censal": {
+        "id": "50056060",
+        "nombre": "Barrio Los Jarilleros"
+      },
+      "municipio": {
+        "id": "500056",
+        "nombre": "Lavalle"
+      },
+      "nombre": "Barrio Los Jarilleros",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.679323003314,
+        "lon": -68.3318687823886
+      },
+      "departamento": {
+        "id": "50056",
+        "nombre": "Lavalle"
+      },
+      "id": "50056070",
+      "localidad_censal": {
+        "id": "50056070",
+        "nombre": "Barrio Los Olivos"
+      },
+      "municipio": {
+        "id": "500056",
+        "nombre": "Lavalle"
+      },
+      "nombre": "Barrio Los Olivos",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.7018213513086,
+        "lon": -68.3145153425924
+      },
+      "departamento": {
+        "id": "50056",
+        "nombre": "Lavalle"
+      },
+      "id": "50056075",
+      "localidad_censal": {
+        "id": "50056075",
+        "nombre": "Barrio Virgen del Rosario"
+      },
+      "municipio": {
+        "id": "500056",
+        "nombre": "Lavalle"
+      },
+      "nombre": "Barrio Virgen del Rosario",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -32.7812221257526,
+        "lon": -68.5338111736003
+      },
+      "departamento": {
+        "id": "50056",
+        "nombre": "Lavalle"
+      },
+      "id": "50056090",
+      "localidad_censal": {
+        "id": "50056090",
+        "nombre": "El Paramillo"
+      },
+      "municipio": {
+        "id": "500056",
+        "nombre": "Lavalle"
+      },
+      "nombre": "El Paramillo",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "50056"
+    ]
+  },
+  "total": 17
+}

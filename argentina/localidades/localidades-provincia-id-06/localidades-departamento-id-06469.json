@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.9850210216776,
+        "lon": -61.7743212902483
+      },
+      "departamento": {
+        "id": "06469",
+        "nombre": "Lincoln"
+      },
+      "id": "06469010",
+      "localidad_censal": {
+        "id": "06469010",
+        "nombre": "Arenaza"
+      },
+      "municipio": {
+        "id": "060469",
+        "nombre": "Lincoln"
+      },
+      "nombre": "Arenaza",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.8674710803271,
+        "lon": -61.2872903832123
+      },
+      "departamento": {
+        "id": "06469",
+        "nombre": "Lincoln"
+      },
+      "id": "06469020",
+      "localidad_censal": {
+        "id": "06469020",
+        "nombre": "Bayauca"
+      },
+      "municipio": {
+        "id": "060469",
+        "nombre": "Lincoln"
+      },
+      "nombre": "Bayauca",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.6946237218582,
+        "lon": -61.3286850690249
+      },
+      "departamento": {
+        "id": "06469",
+        "nombre": "Lincoln"
+      },
+      "id": "06469030",
+      "localidad_censal": {
+        "id": "06469030",
+        "nombre": "Carlos Salas"
+      },
+      "municipio": {
+        "id": "060469",
+        "nombre": "Lincoln"
+      },
+      "nombre": "Bermúdez",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.3923376387191,
+        "lon": -61.9926284372325
+      },
+      "departamento": {
+        "id": "06469",
+        "nombre": "Lincoln"
+      },
+      "id": "06469040",
+      "localidad_censal": {
+        "id": "06469040",
+        "nombre": "Coronel Martí­nez de Hoz"
+      },
+      "municipio": {
+        "id": "060469",
+        "nombre": "Lincoln"
+      },
+      "nombre": "Carlos Salas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.330757064308,
+        "lon": -61.6143052247512
+      },
+      "departamento": {
+        "id": "06469",
+        "nombre": "Lincoln"
+      },
+      "id": "06469050",
+      "localidad_censal": {
+        "id": "06469050",
+        "nombre": "El Triunfo"
+      },
+      "municipio": {
+        "id": "060469",
+        "nombre": "Lincoln"
+      },
+      "nombre": "Coronel Martínez de Hoz",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.0898300381703,
+        "lon": -61.5188238469414
+      },
+      "departamento": {
+        "id": "06469",
+        "nombre": "Lincoln"
+      },
+      "id": "06469060",
+      "localidad_censal": {
+        "id": "06469060",
+        "nombre": "Las Toscas"
+      },
+      "municipio": {
+        "id": "060469",
+        "nombre": "Lincoln"
+      },
+      "nombre": "El Triunfo",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.3645809214186,
+        "lon": -61.80555020293
+      },
+      "departamento": {
+        "id": "06469",
+        "nombre": "Lincoln"
+      },
+      "id": "06469070",
+      "localidad_censal": {
+        "id": "06469070",
+        "nombre": "Lincoln"
+      },
+      "municipio": {
+        "id": "060469",
+        "nombre": "Lincoln"
+      },
+      "nombre": "Las Toscas",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -34.868176906451,
+        "lon": -61.5294113017458
+      },
+      "departamento": {
+        "id": "06469",
+        "nombre": "Lincoln"
+      },
+      "id": "06469080",
+      "localidad_censal": {
+        "id": "06469080",
+        "nombre": "Pasteur"
+      },
+      "municipio": {
+        "id": "060469",
+        "nombre": "Lincoln"
+      },
+      "nombre": "Lincoln",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.1413585077426,
+        "lon": -62.2441588014858
+      },
+      "departamento": {
+        "id": "06469",
+        "nombre": "Lincoln"
+      },
+      "id": "06469090",
+      "localidad_censal": {
+        "id": "06469090",
+        "nombre": "Roberts"
+      },
+      "municipio": {
+        "id": "060469",
+        "nombre": "Lincoln"
+      },
+      "nombre": "Pasteur",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -35.1429124620256,
+        "lon": -61.9704389327608
+      },
+      "departamento": {
+        "id": "06469",
+        "nombre": "Lincoln"
+      },
+      "id": "06469100",
+      "localidad_censal": {
+        "id": "06469100",
+        "nombre": "Bermúdez"
+      },
+      "municipio": {
+        "id": "060469",
+        "nombre": "Lincoln"
+      },
+      "nombre": "Roberts",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "06469"
+    ]
+  },
+  "total": 11
+}

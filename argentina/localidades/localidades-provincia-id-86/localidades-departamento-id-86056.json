@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.1316795053874,
+        "lon": -62.0643652176977
+      },
+      "departamento": {
+        "id": "86056",
+        "nombre": "Copo"
+      },
+      "id": "86056030",
+      "localidad_censal": {
+        "id": "86056030",
+        "nombre": "Los Pirpintos"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Los Pirpintos",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.1192103885262,
+        "lon": -63.7040382511604
+      },
+      "departamento": {
+        "id": "86056",
+        "nombre": "Copo"
+      },
+      "id": "86056080",
+      "localidad_censal": {
+        "id": "86056080",
+        "nombre": "San José Del Boquerón"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "San José del Boquerón",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.2301822791892,
+        "lon": -61.8364741209742
+      },
+      "departamento": {
+        "id": "86056",
+        "nombre": "Copo"
+      },
+      "id": "86056070",
+      "localidad_censal": {
+        "id": "86056070",
+        "nombre": "Pampa de los Guanacos"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Pampa de los Guanacos",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.8035695940209,
+        "lon": -62.8301319518378
+      },
+      "departamento": {
+        "id": "86056",
+        "nombre": "Copo"
+      },
+      "id": "86056050",
+      "localidad_censal": {
+        "id": "86056050",
+        "nombre": "Monte Quemado"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Monte Quemado",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.9092116973326,
+        "lon": -62.591202458966
+      },
+      "departamento": {
+        "id": "86056",
+        "nombre": "Copo"
+      },
+      "id": "86056040",
+      "localidad_censal": {
+        "id": "86056040",
+        "nombre": "Los Tigres"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Los Tigres",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.7142772918579,
+        "lon": -63.0422484687119
+      },
+      "departamento": {
+        "id": "86056",
+        "nombre": "Copo"
+      },
+      "id": "86056090",
+      "localidad_censal": {
+        "id": "86056090",
+        "nombre": "Urutaú"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Urutaú",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.0158842088345,
+        "lon": -62.3341733979138
+      },
+      "departamento": {
+        "id": "86056",
+        "nombre": "Copo"
+      },
+      "id": "86056010",
+      "localidad_censal": {
+        "id": "86056010",
+        "nombre": "El Caburé"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "El Caburé",
+      "provincia": {
+        "id": "86",
+        "nombre": "Santiago del Estero"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "86056"
+    ]
+  },
+  "total": 7
+}

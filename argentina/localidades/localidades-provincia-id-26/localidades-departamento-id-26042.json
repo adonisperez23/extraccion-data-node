@@ -1,0 +1,112 @@
+{
+  "cantidad": 4,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.6990684077202,
+        "lon": -66.4713255559932
+      },
+      "departamento": {
+        "id": "26042",
+        "nombre": "Gaiman"
+      },
+      "id": "26042010",
+      "localidad_censal": {
+        "id": "26042010",
+        "nombre": "Dique Florentino Ameghino"
+      },
+      "municipio": {
+        "id": "268028",
+        "nombre": "Dique Florentino Ameghino"
+      },
+      "nombre": "Dique Florentino Ameghino",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.3079788422985,
+        "lon": -65.7098722771955
+      },
+      "departamento": {
+        "id": "26042",
+        "nombre": "Gaiman"
+      },
+      "id": "26042020",
+      "localidad_censal": {
+        "id": "26042020",
+        "nombre": "Dolavon"
+      },
+      "municipio": {
+        "id": "260091",
+        "nombre": "Dolavon"
+      },
+      "nombre": "Dolavon",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.2916167979349,
+        "lon": -65.4983708667024
+      },
+      "departamento": {
+        "id": "26042",
+        "nombre": "Gaiman"
+      },
+      "id": "26042030",
+      "localidad_censal": {
+        "id": "26042030",
+        "nombre": "Gaiman"
+      },
+      "municipio": {
+        "id": "260098",
+        "nombre": "Gaiman"
+      },
+      "nombre": "Gaiman",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -43.3892221634843,
+        "lon": -65.8404264784686
+      },
+      "departamento": {
+        "id": "26042",
+        "nombre": "Gaiman"
+      },
+      "id": "26042040",
+      "localidad_censal": {
+        "id": "26042040",
+        "nombre": "28 de Julio"
+      },
+      "municipio": {
+        "id": "265014",
+        "nombre": "28 de Julio"
+      },
+      "nombre": "28 de Julio",
+      "provincia": {
+        "id": "26",
+        "nombre": "Chubut"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "26042"
+    ]
+  },
+  "total": 4
+}

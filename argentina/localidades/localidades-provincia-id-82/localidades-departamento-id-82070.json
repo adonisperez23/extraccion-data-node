@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.0588068148206,
+        "lon": -61.1671974799289
+      },
+      "departamento": {
+        "id": "82070",
+        "nombre": "Las Colonias"
+      },
+      "id": "82070310",
+      "localidad_censal": {
+        "id": "82070310",
+        "nombre": "Sarmiento"
+      },
+      "municipio": {
+        "id": "823267",
+        "nombre": "Sarmiento"
+      },
+      "nombre": "Sarmiento",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.5477048152486,
+        "lon": -60.8137126653718
+      },
+      "departamento": {
+        "id": "82070",
+        "nombre": "Las Colonias"
+      },
+      "id": "82070040",
+      "localidad_censal": {
+        "id": "82070040",
+        "nombre": "Empalme San Carlos"
+      },
+      "municipio": {
+        "id": "823064",
+        "nombre": "Empalme San Carlos"
+      },
+      "nombre": "Empalme San Carlos",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.4488900966564,
+        "lon": -60.9301528760774
+      },
+      "departamento": {
+        "id": "82070",
+        "nombre": "Las Colonias"
+      },
+      "id": "82070050",
+      "localidad_censal": {
+        "id": "82070050",
+        "nombre": "Esperanza"
+      },
+      "municipio": {
+        "id": "820161",
+        "nombre": "Esperanza"
+      },
+      "nombre": "Esperanza",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.2686901160947,
+        "lon": -61.071972167969
+      },
+      "departamento": {
+        "id": "82070",
+        "nombre": "Las Colonias"
+      },
+      "id": "82070080",
+      "localidad_censal": {
+        "id": "82070080",
+        "nombre": "Grutly"
+      },
+      "municipio": {
+        "id": "823085",
+        "nombre": "Grutly"
+      },
+      "nombre": "Grutly",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.3648044588544,
+        "lon": -61.0165431998554
+      },
+      "departamento": {
+        "id": "82070",
+        "nombre": "Las Colonias"
+      },
+      "id": "82070010",
+      "localidad_censal": {
+        "id": "82070010",
+        "nombre": "Cavour"
+      },
+      "municipio": {
+        "id": "823036",
+        "nombre": "Cavour"
+      },
+      "nombre": "Cavour",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.5718902464727,
+        "lon": -60.9961316027549
+      },
+      "departamento": {
+        "id": "82070",
+        "nombre": "Las Colonias"
+      },
+      "id": "82070130",
+      "localidad_censal": {
+        "id": "82070130",
+        "nombre": "Las Tunas"
+      },
+      "municipio": {
+        "id": "823127",
+        "nombre": "Las Tunas"
+      },
+      "nombre": "Las Tunas",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.4008584245866,
+        "lon": -61.0822981722449
+      },
+      "departamento": {
+        "id": "82070",
+        "nombre": "Las Colonias"
+      },
+      "id": "82070100",
+      "localidad_censal": {
+        "id": "82070100",
+        "nombre": "Humboldt"
+      },
+      "municipio": {
+        "id": "823099",
+        "nombre": "Humboldt"
+      },
+      "nombre": "Humboldt",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.0108438391605,
+        "lon": -60.9107615775877
+      },
+      "departamento": {
+        "id": "82070",
+        "nombre": "Las Colonias"
+      },
+      "id": "82070140",
+      "localidad_censal": {
+        "id": "82070140",
+        "nombre": "María Luisa"
+      },
+      "municipio": {
+        "id": "823134",
+        "nombre": "María Luisa"
+      },
+      "nombre": "María Luisa",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.9827403142746,
+        "lon": -61.021127137163
+      },
+      "departamento": {
+        "id": "82070",
+        "nombre": "Las Colonias"
+      },
+      "id": "82070200",
+      "localidad_censal": {
+        "id": "82070200",
+        "nombre": "Providencia"
+      },
+      "municipio": {
+        "id": "823169",
+        "nombre": "Providencia"
+      },
+      "nombre": "Providencia",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.7342982152469,
+        "lon": -60.9755533250682
+      },
+      "departamento": {
+        "id": "82070",
+        "nombre": "Las Colonias"
+      },
+      "id": "82070110",
+      "localidad_censal": {
+        "id": "82070110",
+        "nombre": "Jacinto L. Aráuz"
+      },
+      "municipio": {
+        "id": "823113",
+        "nombre": "Jacinto L. Aráuz"
+      },
+      "nombre": "Jacinto L. Aráuz",
+      "provincia": {
+        "id": "82",
+        "nombre": "Santa Fe"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "82070"
+    ]
+  },
+  "total": 31
+}

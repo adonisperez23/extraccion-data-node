@@ -1,0 +1,187 @@
+{
+  "cantidad": 7,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.3380827367485,
+        "lon": -67.9050859572782
+      },
+      "departamento": {
+        "id": "62049",
+        "nombre": "9 de Julio"
+      },
+      "id": "62049040",
+      "localidad_censal": {
+        "id": "62049040",
+        "nombre": "Prahuaniyeu"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Prahuaniyeu",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.9774919517648,
+        "lon": -67.1923486036181
+      },
+      "departamento": {
+        "id": "62049",
+        "nombre": "9 de Julio"
+      },
+      "id": "62049070",
+      "localidad_censal": {
+        "id": "62049070",
+        "nombre": "Yaminué"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Yaminué",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.0706957526207,
+        "lon": -67.4780683827772
+      },
+      "departamento": {
+        "id": "62049",
+        "nombre": "9 de Julio"
+      },
+      "id": "62049010",
+      "localidad_censal": {
+        "id": "62049010",
+        "nombre": "Comicó"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Comicó",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.5873766177123,
+        "lon": -67.7556041505321
+      },
+      "departamento": {
+        "id": "62049",
+        "nombre": "9 de Julio"
+      },
+      "id": "62049050",
+      "localidad_censal": {
+        "id": "62049050",
+        "nombre": "Sierra Colorada"
+      },
+      "municipio": {
+        "id": "620196",
+        "nombre": "Sierra Colorada"
+      },
+      "nombre": "Sierra Colorada",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.1743562364152,
+        "lon": -66.994598340417
+      },
+      "departamento": {
+        "id": "62049",
+        "nombre": "9 de Julio"
+      },
+      "id": "62049060",
+      "localidad_censal": {
+        "id": "62049060",
+        "nombre": "Treneta"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Treneta",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -40.5070369086998,
+        "lon": -67.2606154349799
+      },
+      "departamento": {
+        "id": "62049",
+        "nombre": "9 de Julio"
+      },
+      "id": "62049030",
+      "localidad_censal": {
+        "id": "62049030",
+        "nombre": "Ministro Ramos Mexía"
+      },
+      "municipio": {
+        "id": "620189",
+        "nombre": "Ministro Ramos Mexía"
+      },
+      "nombre": "Ministro Ramos Mexía",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.8655897632696,
+        "lon": -66.9386596766742
+      },
+      "departamento": {
+        "id": "62049",
+        "nombre": "9 de Julio"
+      },
+      "id": "62049020",
+      "localidad_censal": {
+        "id": "62049020",
+        "nombre": "Cona Niyeu"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Cona Niyeu",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "62049"
+    ]
+  },
+  "total": 7
+}

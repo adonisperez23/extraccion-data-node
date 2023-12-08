@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.3106109640954,
+        "lon": -65.3644441119424
+      },
+      "departamento": {
+        "id": "10056",
+        "nombre": "El Alto"
+      },
+      "id": "10056010",
+      "localidad_censal": {
+        "id": "10056010",
+        "nombre": "Villa Concepcion del Alto"
+      },
+      "municipio": {
+        "id": "100147",
+        "nombre": "El Alto"
+      },
+      "nombre": "El Alto",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.3432440671694,
+        "lon": -65.3996547929967
+      },
+      "departamento": {
+        "id": "10056",
+        "nombre": "El Alto"
+      },
+      "id": "10056020",
+      "localidad_censal": {
+        "id": "10056020",
+        "nombre": "Guayamba"
+      },
+      "municipio": {
+        "id": "100147",
+        "nombre": "El Alto"
+      },
+      "nombre": "Guayamba",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.579033524573,
+        "lon": -65.4050006254354
+      },
+      "departamento": {
+        "id": "10056",
+        "nombre": "El Alto"
+      },
+      "id": "10056030",
+      "localidad_censal": {
+        "id": "10056030",
+        "nombre": "Infanzón"
+      },
+      "municipio": {
+        "id": "100147",
+        "nombre": "El Alto"
+      },
+      "nombre": "Infanzón",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.4934051284671,
+        "lon": -65.3251810160843
+      },
+      "departamento": {
+        "id": "10056",
+        "nombre": "El Alto"
+      },
+      "id": "10056040",
+      "localidad_censal": {
+        "id": "10056040",
+        "nombre": "Los Corrales"
+      },
+      "municipio": {
+        "id": "100147",
+        "nombre": "El Alto"
+      },
+      "nombre": "Los Corrales",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -28.4048578902701,
+        "lon": -65.1027307876137
+      },
+      "departamento": {
+        "id": "10056",
+        "nombre": "El Alto"
+      },
+      "id": "10056050",
+      "localidad_censal": {
+        "id": "10056050",
+        "nombre": "Tapso"
+      },
+      "municipio": {
+        "id": "100154",
+        "nombre": "Tapso"
+      },
+      "nombre": "Tapso",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.4977236708,
+        "lon": -65.4331003060281
+      },
+      "departamento": {
+        "id": "10056",
+        "nombre": "El Alto"
+      },
+      "id": "10056060",
+      "localidad_censal": {
+        "id": "10056060",
+        "nombre": "Vilismán"
+      },
+      "municipio": {
+        "id": "100147",
+        "nombre": "El Alto"
+      },
+      "nombre": "Vilismán",
+      "provincia": {
+        "id": "10",
+        "nombre": "Catamarca"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "10056"
+    ]
+  },
+  "total": 6
+}

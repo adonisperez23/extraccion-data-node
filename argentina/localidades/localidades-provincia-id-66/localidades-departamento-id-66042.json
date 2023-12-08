@@ -1,0 +1,137 @@
+{
+  "cantidad": 5,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.1026672894015,
+        "lon": -65.5350470071057
+      },
+      "departamento": {
+        "id": "66042",
+        "nombre": "Chicoana"
+      },
+      "id": "66042010",
+      "localidad_censal": {
+        "id": "66042010",
+        "nombre": "Chicoana"
+      },
+      "municipio": {
+        "id": "660091",
+        "nombre": "Chicoana"
+      },
+      "nombre": "Chicoana",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.1533211909504,
+        "lon": -65.4393530869449
+      },
+      "departamento": {
+        "id": "66042",
+        "nombre": "Chicoana"
+      },
+      "id": "66042003",
+      "localidad_censal": {
+        "id": "66042003",
+        "nombre": "Barrio Finca La Maroma"
+      },
+      "municipio": {
+        "id": "660091",
+        "nombre": "Chicoana"
+      },
+      "nombre": "Barrio Finca La Maroma",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.0766719059947,
+        "lon": -65.4892366816723
+      },
+      "departamento": {
+        "id": "66042",
+        "nombre": "Chicoana"
+      },
+      "id": "66042020",
+      "localidad_censal": {
+        "id": "66042020",
+        "nombre": "El Carril"
+      },
+      "municipio": {
+        "id": "660098",
+        "nombre": "El Carril"
+      },
+      "nombre": "El Carril",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.0826350404702,
+        "lon": -65.5376334974606
+      },
+      "departamento": {
+        "id": "66042",
+        "nombre": "Chicoana"
+      },
+      "id": "66042005",
+      "localidad_censal": {
+        "id": "66042005",
+        "nombre": "Barrio La Rotonda"
+      },
+      "municipio": {
+        "id": "660091",
+        "nombre": "Chicoana"
+      },
+      "nombre": "Barrio La Rotonda",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.0371194213985,
+        "lon": -65.5721625852223
+      },
+      "departamento": {
+        "id": "66042",
+        "nombre": "Chicoana"
+      },
+      "id": "66042007",
+      "localidad_censal": {
+        "id": "66042007",
+        "nombre": "El Mollar"
+      },
+      "municipio": {
+        "id": "660091",
+        "nombre": "Chicoana"
+      },
+      "nombre": "Barrio Santa Teresita",
+      "provincia": {
+        "id": "66",
+        "nombre": "Salta"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "66042"
+    ]
+  },
+  "total": 5
+}

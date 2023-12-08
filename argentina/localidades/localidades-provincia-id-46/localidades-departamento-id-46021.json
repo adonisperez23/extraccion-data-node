@@ -1,0 +1,212 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.8477653028629,
+        "lon": -66.9304965980319
+      },
+      "departamento": {
+        "id": "46021",
+        "nombre": "Castro Barros"
+      },
+      "id": "46021010",
+      "localidad_censal": {
+        "id": "46021010",
+        "nombre": "Aminga"
+      },
+      "municipio": {
+        "id": "460021",
+        "nombre": "Castro Barros"
+      },
+      "nombre": "Aminga",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.8065316985094,
+        "lon": -66.9413820123939
+      },
+      "departamento": {
+        "id": "46021",
+        "nombre": "Castro Barros"
+      },
+      "id": "46021020",
+      "localidad_censal": {
+        "id": "46021020",
+        "nombre": "Anillaco"
+      },
+      "municipio": {
+        "id": "460021",
+        "nombre": "Castro Barros"
+      },
+      "nombre": "Anillaco",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.7238472248338,
+        "lon": -66.9233840560209
+      },
+      "departamento": {
+        "id": "46021",
+        "nombre": "Castro Barros"
+      },
+      "id": "46021030",
+      "localidad_censal": {
+        "id": "46021030",
+        "nombre": "Anjullón"
+      },
+      "municipio": {
+        "id": "460021",
+        "nombre": "Castro Barros"
+      },
+      "nombre": "Anjullón",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.8909559894415,
+        "lon": -66.9716279577756
+      },
+      "departamento": {
+        "id": "46021",
+        "nombre": "Castro Barros"
+      },
+      "id": "46021040",
+      "localidad_censal": {
+        "id": "46021040",
+        "nombre": "Chuquis"
+      },
+      "municipio": {
+        "id": "460021",
+        "nombre": "Castro Barros"
+      },
+      "nombre": "Chuquis",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.7462260751301,
+        "lon": -66.9326433048519
+      },
+      "departamento": {
+        "id": "46021",
+        "nombre": "Castro Barros"
+      },
+      "id": "46021050",
+      "localidad_censal": {
+        "id": "46021050",
+        "nombre": "Los Molinos"
+      },
+      "municipio": {
+        "id": "460021",
+        "nombre": "Castro Barros"
+      },
+      "nombre": "Los Molinos",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.9347867145633,
+        "lon": -66.9611681064697
+      },
+      "departamento": {
+        "id": "46021",
+        "nombre": "Castro Barros"
+      },
+      "id": "46021060",
+      "localidad_censal": {
+        "id": "46021060",
+        "nombre": "Pinchas"
+      },
+      "municipio": {
+        "id": "460021",
+        "nombre": "Castro Barros"
+      },
+      "nombre": "Pinchas",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6617233260584,
+        "lon": -66.9230154722288
+      },
+      "departamento": {
+        "id": "46021",
+        "nombre": "Castro Barros"
+      },
+      "id": "46021070",
+      "localidad_censal": {
+        "id": "46021070",
+        "nombre": "San Pedro"
+      },
+      "municipio": {
+        "id": "460021",
+        "nombre": "Castro Barros"
+      },
+      "nombre": "San Pedro",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -28.6757487530252,
+        "lon": -66.9605583599112
+      },
+      "departamento": {
+        "id": "46021",
+        "nombre": "Castro Barros"
+      },
+      "id": "46021080",
+      "localidad_censal": {
+        "id": "46021080",
+        "nombre": "Santa Vera Cruz"
+      },
+      "municipio": {
+        "id": "460021",
+        "nombre": "Castro Barros"
+      },
+      "nombre": "Santa Vera Cruz",
+      "provincia": {
+        "id": "46",
+        "nombre": "La Rioja"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "46021"
+    ]
+  },
+  "total": 8
+}

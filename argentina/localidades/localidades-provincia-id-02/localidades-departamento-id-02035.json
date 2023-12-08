@@ -1,0 +1,62 @@
+{
+  "cantidad": 2,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6255790088211,
+        "lon": -58.4160861231269
+      },
+      "departamento": {
+        "id": "02035",
+        "nombre": "Comuna 5"
+      },
+      "id": "0203501002",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022035",
+        "nombre": "Comuna 5"
+      },
+      "nombre": "Boedo",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -34.6057833979591,
+        "lon": -58.4191011070521
+      },
+      "departamento": {
+        "id": "02035",
+        "nombre": "Comuna 5"
+      },
+      "id": "0203501001",
+      "localidad_censal": {
+        "id": "02000010",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      },
+      "municipio": {
+        "id": "022035",
+        "nombre": "Comuna 5"
+      },
+      "nombre": "Almagro",
+      "provincia": {
+        "id": "02",
+        "nombre": "Ciudad Autónoma de Buenos Aires"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "02035"
+    ]
+  },
+  "total": 2
+}

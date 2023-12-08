@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.2716629138512,
+        "lon": -68.4289843897535
+      },
+      "departamento": {
+        "id": "50084",
+        "nombre": "Rivadavia"
+      },
+      "id": "5008407001",
+      "localidad_censal": {
+        "id": "50084070",
+        "nombre": "La Florida"
+      },
+      "municipio": {
+        "id": "500084",
+        "nombre": "Rivadavia"
+      },
+      "nombre": "Cuadro Ortega",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -33.2676769205793,
+        "lon": -68.4546922581694
+      },
+      "departamento": {
+        "id": "50084",
+        "nombre": "Rivadavia"
+      },
+      "id": "5008407002",
+      "localidad_censal": {
+        "id": "50084070",
+        "nombre": "La Florida"
+      },
+      "municipio": {
+        "id": "500084",
+        "nombre": "Rivadavia"
+      },
+      "nombre": "La Florida",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.1726767497489,
+        "lon": -68.5023465092664
+      },
+      "departamento": {
+        "id": "50084",
+        "nombre": "Rivadavia"
+      },
+      "id": "50084010",
+      "localidad_censal": {
+        "id": "50084010",
+        "nombre": "Andrade"
+      },
+      "municipio": {
+        "id": "500084",
+        "nombre": "Rivadavia"
+      },
+      "nombre": "Andrade",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.2729925952333,
+        "lon": -68.4134600936754
+      },
+      "departamento": {
+        "id": "50084",
+        "nombre": "Rivadavia"
+      },
+      "id": "50084020",
+      "localidad_censal": {
+        "id": "50084020",
+        "nombre": "Barrio Cooperativa Los Campamentos"
+      },
+      "municipio": {
+        "id": "500084",
+        "nombre": "Rivadavia"
+      },
+      "nombre": "Barrio Cooperativa Los Campamentos",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.2316065668468,
+        "lon": -68.476835911636
+      },
+      "departamento": {
+        "id": "50084",
+        "nombre": "Rivadavia"
+      },
+      "id": "50084030",
+      "localidad_censal": {
+        "id": "50084030",
+        "nombre": "Barrio Rivadavia"
+      },
+      "municipio": {
+        "id": "500084",
+        "nombre": "Rivadavia"
+      },
+      "nombre": "Barrio Rivadavia",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.2903010233035,
+        "lon": -68.3393143822803
+      },
+      "departamento": {
+        "id": "50084",
+        "nombre": "Rivadavia"
+      },
+      "id": "50084040",
+      "localidad_censal": {
+        "id": "50084040",
+        "nombre": "El Mirador"
+      },
+      "municipio": {
+        "id": "500084",
+        "nombre": "Rivadavia"
+      },
+      "nombre": "El Mirador",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.3200346810559,
+        "lon": -68.3297953561512
+      },
+      "departamento": {
+        "id": "50084",
+        "nombre": "Rivadavia"
+      },
+      "id": "50084060",
+      "localidad_censal": {
+        "id": "50084060",
+        "nombre": "La Esperanza"
+      },
+      "municipio": {
+        "id": "500084",
+        "nombre": "Rivadavia"
+      },
+      "nombre": "La Esperanza",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.2655873367595,
+        "lon": -68.4565150984884
+      },
+      "departamento": {
+        "id": "50084",
+        "nombre": "Rivadavia"
+      },
+      "id": "50084070",
+      "localidad_censal": {
+        "id": "50084070",
+        "nombre": "La Florida"
+      },
+      "municipio": {
+        "id": "500084",
+        "nombre": "Rivadavia"
+      },
+      "nombre": "La Florida",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.2122668767542,
+        "lon": -68.5078422669978
+      },
+      "departamento": {
+        "id": "50084",
+        "nombre": "Rivadavia"
+      },
+      "id": "50084080",
+      "localidad_censal": {
+        "id": "50084080",
+        "nombre": "La Libertad"
+      },
+      "municipio": {
+        "id": "500084",
+        "nombre": "Rivadavia"
+      },
+      "nombre": "La Libertad",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -33.183249564969,
+        "lon": -68.5665366776074
+      },
+      "departamento": {
+        "id": "50084",
+        "nombre": "Rivadavia"
+      },
+      "id": "50084090",
+      "localidad_censal": {
+        "id": "50084090",
+        "nombre": "Los Árboles"
+      },
+      "municipio": {
+        "id": "500084",
+        "nombre": "Rivadavia"
+      },
+      "nombre": "Los Árboles",
+      "provincia": {
+        "id": "50",
+        "nombre": "Mendoza"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "50084"
+    ]
+  },
+  "total": 17
+}

@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.6042330867573,
+        "lon": -68.2696340382628
+      },
+      "departamento": {
+        "id": "70035",
+        "nombre": "Caucete"
+      },
+      "id": "7003504002",
+      "localidad_censal": {
+        "id": "70035040",
+        "nombre": "Las Talas - Los Médanos"
+      },
+      "municipio": {
+        "id": "700035",
+        "nombre": "Caucete"
+      },
+      "nombre": "Los Médanos",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Entidad",
+      "centroide": {
+        "lat": -31.5970077276796,
+        "lon": -68.2739247954768
+      },
+      "departamento": {
+        "id": "70035",
+        "nombre": "Caucete"
+      },
+      "id": "7003504001",
+      "localidad_censal": {
+        "id": "70035040",
+        "nombre": "Las Talas - Los Médanos"
+      },
+      "municipio": {
+        "id": "700035",
+        "nombre": "Caucete"
+      },
+      "nombre": "Las Talas",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.5885052091725,
+        "lon": -67.6569924992168
+      },
+      "departamento": {
+        "id": "70035",
+        "nombre": "Caucete"
+      },
+      "id": "70035010",
+      "localidad_censal": {
+        "id": "70035010",
+        "nombre": "Bermejo"
+      },
+      "municipio": {
+        "id": "700035",
+        "nombre": "Caucete"
+      },
+      "nombre": "Bermejo",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.6514806112797,
+        "lon": -68.2819785105591
+      },
+      "departamento": {
+        "id": "70035",
+        "nombre": "Caucete"
+      },
+      "id": "70035020",
+      "localidad_censal": {
+        "id": "70035020",
+        "nombre": "Caucete"
+      },
+      "municipio": {
+        "id": "700035",
+        "nombre": "Caucete"
+      },
+      "nombre": "Caucete",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.5967860975466,
+        "lon": -68.2751787875338
+      },
+      "departamento": {
+        "id": "70035",
+        "nombre": "Caucete"
+      },
+      "id": "70035040",
+      "localidad_censal": {
+        "id": "70035040",
+        "nombre": "Las Talas - Los Médanos"
+      },
+      "municipio": {
+        "id": "700035",
+        "nombre": "Caucete"
+      },
+      "nombre": "Las Talas - Los Médanos",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.6612651782065,
+        "lon": -68.2197001783797
+      },
+      "departamento": {
+        "id": "70035",
+        "nombre": "Caucete"
+      },
+      "id": "70035060",
+      "localidad_censal": {
+        "id": "70035060",
+        "nombre": "Pie de Palo"
+      },
+      "municipio": {
+        "id": "700035",
+        "nombre": "Caucete"
+      },
+      "nombre": "Pie de Palo",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.7346405190887,
+        "lon": -67.9828706705004
+      },
+      "departamento": {
+        "id": "70035",
+        "nombre": "Caucete"
+      },
+      "id": "70035070",
+      "localidad_censal": {
+        "id": "70035070",
+        "nombre": "Vallecito"
+      },
+      "municipio": {
+        "id": "700035",
+        "nombre": "Caucete"
+      },
+      "nombre": "Vallecito",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.6245830193381,
+        "lon": -68.3139254690866
+      },
+      "departamento": {
+        "id": "70035",
+        "nombre": "Caucete"
+      },
+      "id": "70035080",
+      "localidad_censal": {
+        "id": "70035080",
+        "nombre": "Villa Independencia"
+      },
+      "municipio": {
+        "id": "700035",
+        "nombre": "Caucete"
+      },
+      "nombre": "Villa Independencia",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.4634402549446,
+        "lon": -67.3515068309781
+      },
+      "departamento": {
+        "id": "70035",
+        "nombre": "Caucete"
+      },
+      "id": "70035050",
+      "localidad_censal": {
+        "id": "70035050",
+        "nombre": "Marayes"
+      },
+      "municipio": {
+        "id": "700035",
+        "nombre": "Caucete"
+      },
+      "nombre": "Marayes",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -31.6701306073377,
+        "lon": -68.3173058058923
+      },
+      "departamento": {
+        "id": "70035",
+        "nombre": "Caucete"
+      },
+      "id": "70035030",
+      "localidad_censal": {
+        "id": "70035030",
+        "nombre": "El Rincón"
+      },
+      "municipio": {
+        "id": "700035",
+        "nombre": "Caucete"
+      },
+      "nombre": "El Rincón",
+      "provincia": {
+        "id": "70",
+        "nombre": "San Juan"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "70035"
+    ]
+  },
+  "total": 10
+}

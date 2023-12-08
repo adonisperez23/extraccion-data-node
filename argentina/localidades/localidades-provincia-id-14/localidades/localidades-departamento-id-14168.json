@@ -1,0 +1,262 @@
+{
+  "cantidad": 10,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.8389674456885,
+        "lon": -63.801268050939
+      },
+      "departamento": {
+        "id": "14168",
+        "nombre": "Totoral"
+      },
+      "id": "14168010",
+      "localidad_censal": {
+        "id": "14168010",
+        "nombre": "Candelaria Sur"
+      },
+      "municipio": {
+        "id": "143169",
+        "nombre": "Candelaria Sud"
+      },
+      "nombre": "Candelaria Sur",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.735237542796,
+        "lon": -63.7239710294834
+      },
+      "departamento": {
+        "id": "14168",
+        "nombre": "Totoral"
+      },
+      "id": "14168020",
+      "localidad_censal": {
+        "id": "14168020",
+        "nombre": "Cañada de Luque"
+      },
+      "municipio": {
+        "id": "141512",
+        "nombre": "Cañada de Luque"
+      },
+      "nombre": "Cañada de Luque",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.5736867798877,
+        "lon": -63.6537124574227
+      },
+      "departamento": {
+        "id": "14168",
+        "nombre": "Totoral"
+      },
+      "id": "14168030",
+      "localidad_censal": {
+        "id": "14168030",
+        "nombre": "Capilla de Sitón"
+      },
+      "municipio": {
+        "id": "143176",
+        "nombre": "Capilla de Sitón"
+      },
+      "nombre": "Capilla de Sitón",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.9422303821288,
+        "lon": -64.2769351162808
+      },
+      "departamento": {
+        "id": "14168",
+        "nombre": "Totoral"
+      },
+      "id": "14168040",
+      "localidad_censal": {
+        "id": "14168040",
+        "nombre": "La Pampa"
+      },
+      "municipio": {
+        "id": "143183",
+        "nombre": "La Pampa"
+      },
+      "nombre": "La Pampa",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.5639628575725,
+        "lon": -64.0002665759206
+      },
+      "departamento": {
+        "id": "14168",
+        "nombre": "Totoral"
+      },
+      "id": "14168060",
+      "localidad_censal": {
+        "id": "14168060",
+        "nombre": "Las Peñas"
+      },
+      "municipio": {
+        "id": "141519",
+        "nombre": "Las Peñas"
+      },
+      "nombre": "Las Peñas",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.6266872015803,
+        "lon": -63.8861172868214
+      },
+      "departamento": {
+        "id": "14168",
+        "nombre": "Totoral"
+      },
+      "id": "14168070",
+      "localidad_censal": {
+        "id": "14168070",
+        "nombre": "Los Mistoles"
+      },
+      "municipio": {
+        "id": "143190",
+        "nombre": "Los Mistoles"
+      },
+      "nombre": "Los Mistoles",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.8700983278842,
+        "lon": -64.2332883401605
+      },
+      "departamento": {
+        "id": "14168",
+        "nombre": "Totoral"
+      },
+      "id": "14168080",
+      "localidad_censal": {
+        "id": "14168080",
+        "nombre": "Santa Catalina"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Santa Catalina",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.7744711965408,
+        "lon": -64.1095029058751
+      },
+      "departamento": {
+        "id": "14168",
+        "nombre": "Totoral"
+      },
+      "id": "14168090",
+      "localidad_censal": {
+        "id": "14168090",
+        "nombre": "Sarmiento"
+      },
+      "municipio": {
+        "id": "141526",
+        "nombre": "Sarmiento"
+      },
+      "nombre": "Sarmiento",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.4744127140856,
+        "lon": -63.984714007132
+      },
+      "departamento": {
+        "id": "14168",
+        "nombre": "Totoral"
+      },
+      "id": "14168100",
+      "localidad_censal": {
+        "id": "14168100",
+        "nombre": "Simbolar"
+      },
+      "municipio": {
+        "id": "143197",
+        "nombre": "Simbolar"
+      },
+      "nombre": "Simbolar",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -30.9429292725557,
+        "lon": -64.0940329405365
+      },
+      "departamento": {
+        "id": "14168",
+        "nombre": "Totoral"
+      },
+      "id": "14168110",
+      "localidad_censal": {
+        "id": "14168110",
+        "nombre": "Sinsacate"
+      },
+      "municipio": {
+        "id": "141533",
+        "nombre": "Sinsacate"
+      },
+      "nombre": "Sinsacate",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "14168"
+    ]
+  },
+  "total": 11
+}

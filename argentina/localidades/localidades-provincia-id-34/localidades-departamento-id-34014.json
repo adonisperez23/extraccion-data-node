@@ -1,0 +1,162 @@
+{
+  "cantidad": 6,
+  "inicio": 0,
+  "localidades": [
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.6726931913952,
+        "lon": -58.2614948592126
+      },
+      "departamento": {
+        "id": "34014",
+        "nombre": "Formosa"
+      },
+      "id": "34014010",
+      "localidad_censal": {
+        "id": "34014010",
+        "nombre": "Colonia Pastoril"
+      },
+      "municipio": {
+        "id": "345014",
+        "nombre": "Colonia Pastoril"
+      },
+      "nombre": "Colonia Pastoril",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.185008983147,
+        "lon": -58.1748964834654
+      },
+      "departamento": {
+        "id": "34014",
+        "nombre": "Formosa"
+      },
+      "id": "34014020",
+      "localidad_censal": {
+        "id": "34014020",
+        "nombre": "Formosa"
+      },
+      "municipio": {
+        "id": "340028",
+        "nombre": "Formosa"
+      },
+      "nombre": "Formosa",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -25.8627622718519,
+        "lon": -58.8857285955134
+      },
+      "departamento": {
+        "id": "34014",
+        "nombre": "Formosa"
+      },
+      "id": "34014030",
+      "localidad_censal": {
+        "id": "34014030",
+        "nombre": "Gran Guardia"
+      },
+      "municipio": {
+        "id": "345021",
+        "nombre": "Gran Guardia"
+      },
+      "nombre": "Gran Guardia",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.1093248137893,
+        "lon": -58.4877543754144
+      },
+      "departamento": {
+        "id": "34014",
+        "nombre": "Formosa"
+      },
+      "id": "34014040",
+      "localidad_censal": {
+        "id": "34014040",
+        "nombre": "Mariano Boedo"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Mariano Boedo",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.033189506258,
+        "lon": -58.0490510004921
+      },
+      "departamento": {
+        "id": "34014",
+        "nombre": "Formosa"
+      },
+      "id": "34014050",
+      "localidad_censal": {
+        "id": "34014050",
+        "nombre": "Mojón De Fierro"
+      },
+      "municipio": {
+        "id": null,
+        "nombre": null
+      },
+      "nombre": "Mojón de Fierro",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    },
+    {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -26.0299921118471,
+        "lon": -58.6522557077963
+      },
+      "departamento": {
+        "id": "34014",
+        "nombre": "Formosa"
+      },
+      "id": "34014060",
+      "localidad_censal": {
+        "id": "34014060",
+        "nombre": "San Hilario"
+      },
+      "municipio": {
+        "id": "345028",
+        "nombre": "San Hilario"
+      },
+      "nombre": "San Hilario",
+      "provincia": {
+        "id": "34",
+        "nombre": "Formosa"
+      }
+    }
+  ],
+  "parametros": {
+    "departamento": [
+      "34014"
+    ]
+  },
+  "total": 6
+}
