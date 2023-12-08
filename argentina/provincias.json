@@ -1,0 +1,124 @@
+{
+  "provincias": [
+    {
+      "id": "02",
+      "nombre": "Ciudad Autónoma de Buenos Aires",
+      "totalDepartamentos":"15"
+    },
+    {
+      "id": "58",
+      "nombre": "Neuquén",
+      "totalDepartamentos":"16"
+    },
+    {
+      "id": "74",
+      "nombre": "San Luis",
+      "totalDepartamentos":"9"
+    },
+    {
+      "id": "82",
+      "nombre": "Santa Fe",
+      "totalDepartamentos":"19"
+    },
+    {
+      "id": "46",
+      "nombre": "La Rioja",
+      "totalDepartamentos":"18"
+    },
+    {
+      "id": "10",
+      "nombre": "Catamarca",
+      "totalDepartamentos":"16"
+    },
+    {
+      "id": "90",
+      "nombre": "Tucumán",
+      "totalDepartamentos":"17"
+    },
+    {
+      "id": "22",
+      "nombre": "Chaco",
+      "totalDepartamentos":"25"
+    },
+    {
+      "id": "34",
+      "nombre": "Formosa",
+      "totalDepartamentos":"9"
+    },
+    {
+      "id": "78",
+      "nombre": "Santa Cruz",
+      "totalDepartamentos":"7"
+    },
+    {
+      "id": "26",
+      "nombre": "Chubut",
+      "totalDepartamentos":"15"
+    },
+    {
+      "id": "50",
+      "nombre": "Mendoza",
+      "totalDepartamentos":"18"
+    },
+    {
+      "id": "30",
+      "nombre": "Entre Ríos",
+      "totalDepartamentos":"17"
+    },
+    {
+      "id": "70",
+      "nombre": "San Juan",
+      "totalDepartamentos":"19"
+    },
+    {
+      "id": "38",
+      "nombre": "Jujuy",
+      "totalDepartamentos":"16"
+    },
+    {
+      "id": "86",
+      "nombre": "Santiago del Estero",
+      "totalDepartamentos":"27"
+    },
+    {
+      "id": "62",
+      "nombre": "Río Negro",
+      "totalDepartamentos":"13"
+    },
+    {
+      "id": "18",
+      "nombre": "Corrientes",
+      "totalDepartamentos":"25"
+    },
+    {
+      "id": "54",
+      "nombre": "Misiones",
+      "totalDepartamentos":"17"
+    },
+    {
+      "id": "66",
+      "nombre": "Salta",
+      "totalDepartamentos":"23"
+    },
+    {
+      "id": "14",
+      "nombre": "Córdoba",
+      "totalDepartamentos":"26"
+    },
+    {
+      "id": "06",
+      "nombre": "Buenos Aires",
+      "totalDepartamentos":"150"
+    },
+    {
+      "id": "42",
+      "nombre": "La Pampa",
+      "totalDepartamentos":"22"
+    },
+    {
+      "id": "94",
+      "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+      "totalDepartamentos":"5"
+    }
+  ]
+}
